@@ -40,6 +40,19 @@
       <article><span>Sources active</span><strong id="sourceCount">—</strong></article>
     </section>
 
+    <section class="progress-panel" aria-label="Tender progress workspace">
+      <div>
+        <span class="progress-kicker">PRIVATE TENDER WORKSPACE</span>
+        <strong id="progressTitle">Progress locked</strong>
+        <small id="progressMessage">Unlock once to save submitted status and notes across refreshes.</small>
+      </div>
+      <div class="progress-auth">
+        <input id="workspaceKey" type="password" placeholder="Workspace key" autocomplete="current-password" />
+        <button id="unlockBtn" class="workspace-action" type="button">Unlock</button>
+        <button id="lockBtn" class="workspace-action secondary" type="button" hidden>Lock</button>
+      </div>
+    </section>
+
     <section class="controls">
       <label class="search-box">
         <span>Search</span>
@@ -56,6 +69,14 @@
           <option value="35" selected>Good fit 35+</option>
           <option value="60">Strong fit 60+</option>
           <option value="80">Excellent fit 80+</option>
+        </select>
+      </label>
+      <label>
+        <span>Progress</span>
+        <select id="progressFilter">
+          <option value="all">All</option>
+          <option value="not-submitted">Not submitted</option>
+          <option value="submitted">Submitted</option>
         </select>
       </label>
       <label>
