@@ -2,6 +2,7 @@
 """Compatibility layer for public procurement feeds with portal-specific quirks."""
 from __future__ import annotations
 
+import json
 import time
 from datetime import timedelta
 from typing import Any
@@ -21,6 +22,14 @@ DEVOLVED_API_HOSTS = (
 CLOSED_STATUS_WORDS = (
     "closed", "complete", "completed", "cancelled", "canceled", "withdrawn",
     "awarded", "award", "unsuccessful", "terminated", "inactive", "expired",
+)
+
+POLISH_TECH_TERMS = (
+    "oprogramowanie", "system informatyczny", "systemu informatycznego",
+    "usługi informatyczne", "uslug informatycznych", "informatyczny", "informatyczne",
+    "chmura", "chmurow", "hosting", "strona internetowa", "serwis internetowy",
+    "portal internetowy", "cyberbezpiec", "sztuczna inteligencja", "aplikacja",
+    "aplikacji", "platforma cyfrowa", "system cyfrowy", "baza danych",
 )
 
 
@@ -164,6 +173,120 @@ def ireland() -> list[dict]:
     return out
 
 
+def poland() -> list[dict]:
+    """Collect active Polish TED notices and rank them for FutureCore-style technology work."""
+    endpoint = "https://api.ted.europa.eu/v3/notices/search"
+    since = (b.now() - timedelta(days=120)).strftime("%Y%m%d")
+    fields = [
+        "publication-number", "notice-title", "buyer-name",
+        "publication-date", "deadline", "classification-cpv",
+    ]
+    out: list[dict] = []
+
+    for page in range(1, 13):
+        payload = request(endpoint, body={
+            "query": f"buyer-country=POL AND PD>={since} SORT BY publication-date DESC",
+            "fields": fields,
+            "limit": 250,
+            "scope": "ACTIVE",
+            "paginationMode": "PAGE_NUMBER",
+            "page": page,
+        })
+        rows = payload.get("notices") or payload.get("results") or payload.get("items") or []
+        if not rows:
+            break
+
+        for row in rows:
+            if not isinstance(row, dict):
+                continue
+            pub = b.text(b.first(row, "publication-number", "publicationNumber"))
+            title = b.text(b.first(row, "notice-title", "noticeTitle", "title"))
+            if not title:
+                continue
+            raw_cpv = b.first(row, "classification-cpv", "classificationCpv", "cpv")
+            codes = [b.text(x) for x in (raw_cpv if isinstance(raw_cpv, list) else [raw_cpv]) if b.text(x)]
+            relevance, matched = b.score(title, "Polish public procurement opportunity", codes)
+
+            lower_title = title.lower()
+            polish_hits = [term for term in POLISH_TECH_TERMS if term in lower_title]
+            if polish_hits:
+                relevance = min(100, relevance + min(40, 14 * len(polish_hits)))
+                matched = sorted(set(matched + polish_hits))[:12]
+
+            deadline = b.dt(b.first(row, "deadline", "deadlineDate"))
+            if relevance < 12 or deadline is None or deadline <= b.now():
+                continue
+
+            out.append({
+                "key": f"Poland / TED:{pub or title}",
+                "id": pub or title,
+                "ocid": None,
+                "title": title,
+                "buyer": b.text(b.first(row, "buyer-name", "buyerName")) or "Buyer not stated",
+                "description": "Active Polish public procurement notice published through TED.",
+                "source": "Poland / TED",
+                "country": "Poland",
+                "published_at": b.iso(b.dt(b.first(row, "publication-date", "publicationDate"))),
+                "deadline": b.iso(deadline),
+                "value": None,
+                "currency": "PLN",
+                "cpv": codes,
+                "status": "active",
+                "relevance": relevance,
+                "matched": matched,
+                "url": f"https://ted.europa.eu/en/notice/-/detail/{b.quote(pub)}" if pub else "https://ezamowienia.gov.pl/",
+                "fetched_at": b.iso(b.now()),
+            })
+
+        if len(rows) < 250:
+            break
+        time.sleep(0.25)
+
+    return out
+
+
+def main() -> None:
+    b.DATA.parent.mkdir(parents=True, exist_ok=True)
+    existing = b.load()
+    initial = not existing
+    jobs = [
+        ("Find a Tender", lambda: fts(21 if initial else 3)),
+        ("Sell2Wales", lambda: b.wales(1 if initial else 0)),
+        ("Public Contracts Scotland", lambda: b.scotland(1 if initial else 0)),
+        ("eTenders Ireland / TED", ireland),
+        ("Poland / TED", poland),
+    ]
+    fresh: list[dict] = []
+    counts: dict[str, int] = {}
+    errors: list[str] = []
+
+    for name, fn in jobs:
+        try:
+            items = fn()
+            counts[name] = len(items)
+            fresh.extend(items)
+            print(f"{name}: {len(items)} relevant notices")
+        except Exception as exc:
+            counts[name] = 0
+            errors.append(f"{name}: {type(exc).__name__}: {exc}")
+            print(errors[-1])
+
+    merged = {x.get("key"): x for x in existing if x.get("key") and open_item(x)}
+    for item in fresh:
+        merged[item["key"]] = item
+    rows = [x for x in merged.values() if open_item(x) and int(x.get("relevance") or 0) >= 12]
+    rows.sort(key=lambda x: (-int(x.get("relevance") or 0), x.get("deadline") or "9999"))
+
+    b.DATA.write_text(json.dumps(rows, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+    b.STATUS.write_text(json.dumps({
+        "updated_at": b.iso(b.now()),
+        "count": len(rows),
+        "fresh_count": len(fresh),
+        "sources": counts,
+        "errors": errors,
+    }, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+
+
 b.request = request
 b.cpvs = cpvs
 b.open_item = open_item
@@ -171,4 +294,4 @@ b.fts = fts
 b.ireland = ireland
 
 if __name__ == "__main__":
-    b.main()
+    main()
