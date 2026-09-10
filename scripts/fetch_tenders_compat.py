@@ -18,6 +18,11 @@ DEVOLVED_API_HOSTS = (
     "https://api.publiccontractsscotland.gov.uk/",
 )
 
+CLOSED_STATUS_WORDS = (
+    "closed", "complete", "completed", "cancelled", "canceled", "withdrawn",
+    "awarded", "award", "unsuccessful", "terminated", "inactive", "expired",
+)
+
 
 def request(url: str, *, params=None, body=None) -> Any:
     """Verify TLS normally; only retry the two public devolved feeds unverified if their chain fails."""
@@ -65,6 +70,19 @@ def cpvs(rel: dict) -> list[str]:
                 if isinstance(extra, dict) and extra.get("id"):
                     found.add(b.text(extra["id"]))
     return sorted(x for x in found if x)
+
+
+def open_item(item: dict) -> bool:
+    """Keep only actionable opportunities that still have time left to bid."""
+    status = b.text(item.get("status")).strip().lower()
+    if any(word in status for word in CLOSED_STATUS_WORDS):
+        return False
+
+    deadline = b.dt(item.get("deadline"))
+    if deadline is None:
+        return False
+
+    return deadline > b.now()
 
 
 def fts(days_back: int) -> list[dict]:
@@ -148,6 +166,7 @@ def ireland() -> list[dict]:
 
 b.request = request
 b.cpvs = cpvs
+b.open_item = open_item
 b.fts = fts
 b.ireland = ireland
 
