@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T18:25:38.656510Z",
+  "updated_at": "2026-09-10T18:36:17.990964Z",
   "count": 73,
   "fresh_count": 104,
   "sources": {
@@ -10,5 +10,5 @@
     "Poland / TED": 8
   },
   "errors": [],
-  "false_positive_removed": 26
+  "false_positive_removed": 18
 }

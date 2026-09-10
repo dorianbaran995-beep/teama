@@ -1,5 +1,59 @@
 [
   {
+    "key": "Public Contracts Scotland:rls-35-SEP563567",
+    "id": "rls-35-SEP563567",
+    "ocid": "ocds-r6ebe6-0000841718",
+    "title": "Provision of Corporate Technology Platform (EcoSystem)",
+    "buyer": "Scottish Police Authority",
+    "description": "The Authority intends to procure a modern Corporate Technology Platform (Ecosystem) to replace fragmented and ageing legacy corporate systems and provide an integrated digital platform supporting key enabling services across Police Scotland. The requirement is for an integrated Enterprise Resource Planning (ERP) and Human Capital Management (HCM) Ecosystem, together with the associated hosting, integration, implementation, data migration, training, transition, support and professional services required to deliver and sustain the solution. The Contract is expected to be for a period of seven (7) years with options, exercisable solely at the Authority's discretion, to extend by up to three (3) further periods of twelve (12) months each, giving a maximum potential duration of ten (10) years.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-09-01T00:00:00Z",
+    "deadline": "2026-10-05T12:00:00Z",
+    "value": 51700000.0,
+    "currency": "GBP",
+    "cpv": [
+      "48000000",
+      "48100000",
+      "48422000",
+      "48440000",
+      "48441000",
+      "48442000",
+      "48450000",
+      "48451000",
+      "48490000",
+      "48517000",
+      "48900000",
+      "72210000",
+      "72212100",
+      "72222300",
+      "72227000",
+      "72254000",
+      "72260000",
+      "72261000",
+      "72263000",
+      "72265000",
+      "72266000",
+      "72267000",
+      "72267100",
+      "72267200"
+    ],
+    "status": "active",
+    "relevance": 87,
+    "matched": [
+      "CPV 48000000",
+      "CPV 48100000",
+      "CPV 48422000",
+      "CPV 48440000",
+      "digital platform",
+      "erp",
+      "hosting",
+      "integration"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563567",
+    "fetched_at": "2026-09-10T18:35:54.329167Z"
+  },
+  {
     "key": "Public Contracts Scotland:rls-33-SEP563567",
     "id": "rls-33-SEP563567",
     "ocid": "ocds-r6ebe6-0000841718",
@@ -52,60 +106,6 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563567",
     "fetched_at": "2026-09-10T15:11:04.736498Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-35-SEP563567",
-    "id": "rls-35-SEP563567",
-    "ocid": "ocds-r6ebe6-0000841718",
-    "title": "Provision of Corporate Technology Platform (EcoSystem)",
-    "buyer": "Scottish Police Authority",
-    "description": "The Authority intends to procure a modern Corporate Technology Platform (Ecosystem) to replace fragmented and ageing legacy corporate systems and provide an integrated digital platform supporting key enabling services across Police Scotland. The requirement is for an integrated Enterprise Resource Planning (ERP) and Human Capital Management (HCM) Ecosystem, together with the associated hosting, integration, implementation, data migration, training, transition, support and professional services required to deliver and sustain the solution. The Contract is expected to be for a period of seven (7) years with options, exercisable solely at the Authority's discretion, to extend by up to three (3) further periods of twelve (12) months each, giving a maximum potential duration of ten (10) years.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-01T00:00:00Z",
-    "deadline": "2026-10-05T12:00:00Z",
-    "value": 51700000.0,
-    "currency": "GBP",
-    "cpv": [
-      "48000000",
-      "48100000",
-      "48422000",
-      "48440000",
-      "48441000",
-      "48442000",
-      "48450000",
-      "48451000",
-      "48490000",
-      "48517000",
-      "48900000",
-      "72210000",
-      "72212100",
-      "72222300",
-      "72227000",
-      "72254000",
-      "72260000",
-      "72261000",
-      "72263000",
-      "72265000",
-      "72266000",
-      "72267000",
-      "72267100",
-      "72267200"
-    ],
-    "status": "active",
-    "relevance": 87,
-    "matched": [
-      "CPV 48000000",
-      "CPV 48100000",
-      "CPV 48422000",
-      "CPV 48440000",
-      "digital platform",
-      "erp",
-      "hosting",
-      "integration"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563567",
-    "fetched_at": "2026-09-10T18:25:12.549955Z"
   },
   {
     "key": "eTenders Ireland / TED:601723-2026",
@@ -212,7 +212,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/610280-2026",
-    "fetched_at": "2026-09-10T18:25:20.607822Z"
+    "fetched_at": "2026-09-10T18:36:01.916605Z"
   },
   {
     "key": "eTenders Ireland / TED:620396-2026",
@@ -264,7 +264,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/620396-2026",
-    "fetched_at": "2026-09-10T18:25:20.599606Z"
+    "fetched_at": "2026-09-10T18:36:01.908306Z"
   },
   {
     "key": "eTenders Ireland / TED:607549-2026",
@@ -329,7 +329,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/612907-2026",
-    "fetched_at": "2026-09-10T18:25:20.604610Z"
+    "fetched_at": "2026-09-10T18:36:01.913363Z"
   },
   {
     "key": "eTenders Ireland / TED:613859-2026",
@@ -366,7 +366,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/613859-2026",
-    "fetched_at": "2026-09-10T18:25:20.604122Z"
+    "fetched_at": "2026-09-10T18:36:01.912837Z"
   },
   {
     "key": "eTenders Ireland / TED:595233-2026",
@@ -442,7 +442,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/609941-2026",
-    "fetched_at": "2026-09-10T18:25:20.609896Z"
+    "fetched_at": "2026-09-10T18:36:01.918726Z"
   },
   {
     "key": "eTenders Ireland / TED:612515-2026",
@@ -541,7 +541,7 @@
       "CPV 72212480"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/612515-2026",
-    "fetched_at": "2026-09-10T18:25:20.611609Z"
+    "fetched_at": "2026-09-10T18:36:01.920479Z"
   },
   {
     "key": "eTenders Ireland / TED:599631-2026",
@@ -585,54 +585,6 @@
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/599631-2026",
     "fetched_at": "2026-09-10T13:22:24.102152Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:600210-2026",
-    "id": "600210-2026",
-    "ocid": null,
-    "title": "Ireland – Radio, television, communication, telecommunication and related equipment – T.045.2026 Request for Tenders to establish Frameworks for the provision of Specialist Victim Interview Suites and Suspect Interview Video Recording Equipment for An Garda Síochána",
-    "buyer": "An Garda Síochána_1192",
-    "description": "Active Irish procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-01T02:00:00Z",
-    "deadline": "2026-09-18T14:00:00Z",
-    "value": 1500000.0,
-    "currency": "EUR",
-    "cpv": [
-      "32000000",
-      "32330000",
-      "32500000",
-      "51300000",
-      "72000000",
-      "50300000",
-      "32000000",
-      "32000000",
-      "32000000",
-      "32330000",
-      "32500000",
-      "51300000",
-      "72000000",
-      "50300000",
-      "32330000",
-      "32500000",
-      "51300000",
-      "72000000",
-      "50300000",
-      "32330000",
-      "32500000",
-      "51300000",
-      "72000000",
-      "50300000"
-    ],
-    "status": "active",
-    "relevance": 45,
-    "matched": [
-      "CPV 32500000",
-      "CPV 72000000"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/600210-2026",
-    "fetched_at": "2026-09-10T13:22:24.101590Z"
   },
   {
     "key": "eTenders Ireland / TED:611608-2026",
@@ -731,7 +683,7 @@
       "CPV 72212480"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/611608-2026",
-    "fetched_at": "2026-09-10T18:25:20.611178Z"
+    "fetched_at": "2026-09-10T18:36:01.920039Z"
   },
   {
     "key": "eTenders Ireland / TED:620568-2026",
@@ -768,7 +720,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/620568-2026",
-    "fetched_at": "2026-09-10T18:25:20.598562Z"
+    "fetched_at": "2026-09-10T18:36:01.907249Z"
   },
   {
     "key": "eTenders Ireland / TED:621127-2026",
@@ -809,7 +761,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/621127-2026",
-    "fetched_at": "2026-09-10T18:25:20.596910Z"
+    "fetched_at": "2026-09-10T18:36:01.905561Z"
   },
   {
     "key": "eTenders Ireland / TED:613072-2026",
@@ -850,7 +802,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/613072-2026",
-    "fetched_at": "2026-09-10T18:25:20.605850Z"
+    "fetched_at": "2026-09-10T18:36:01.914616Z"
   },
   {
     "key": "eTenders Ireland / TED:609801-2026",
@@ -901,7 +853,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/609801-2026",
-    "fetched_at": "2026-09-10T18:25:20.607720Z"
+    "fetched_at": "2026-09-10T18:36:01.916494Z"
   },
   {
     "key": "eTenders Ireland / TED:624561-2026",
@@ -946,7 +898,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/624561-2026",
-    "fetched_at": "2026-09-10T18:25:20.595171Z"
+    "fetched_at": "2026-09-10T18:36:01.903715Z"
   },
   {
     "key": "eTenders Ireland / TED:610745-2026",
@@ -1003,7 +955,7 @@
       "cloud"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/610745-2026",
-    "fetched_at": "2026-09-10T18:25:20.610551Z"
+    "fetched_at": "2026-09-10T18:36:01.919404Z"
   },
   {
     "key": "eTenders Ireland / TED:612350-2026",
@@ -1031,7 +983,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/612350-2026",
-    "fetched_at": "2026-09-10T18:25:20.610813Z"
+    "fetched_at": "2026-09-10T18:36:01.919657Z"
   },
   {
     "key": "Find a Tender:084995-2026",
@@ -1062,7 +1014,7 @@
       "digital service"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/084995-2026",
-    "fetched_at": "2026-09-10T18:24:30.148063Z"
+    "fetched_at": "2026-09-10T18:35:13.504837Z"
   },
   {
     "key": "Find a Tender:084913-2026",
@@ -1093,7 +1045,7 @@
       "digital service"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/084913-2026",
-    "fetched_at": "2026-09-10T18:24:30.149015Z"
+    "fetched_at": "2026-09-10T18:35:13.506421Z"
   },
   {
     "key": "Public Contracts Scotland:rls-10-SEP564072",
@@ -1186,7 +1138,7 @@
       "digital service"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564072",
-    "fetched_at": "2026-09-10T18:25:12.546742Z"
+    "fetched_at": "2026-09-10T18:35:54.325936Z"
   },
   {
     "key": "Public Contracts Scotland:rls-18-SEP564046",
@@ -1217,7 +1169,7 @@
       "digital service"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564046",
-    "fetched_at": "2026-09-10T18:25:12.547806Z"
+    "fetched_at": "2026-09-10T18:35:54.327096Z"
   },
   {
     "key": "eTenders Ireland / TED:618906-2026",
@@ -1270,7 +1222,7 @@
       "network"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/618906-2026",
-    "fetched_at": "2026-09-10T18:25:20.601816Z"
+    "fetched_at": "2026-09-10T18:36:01.910537Z"
   },
   {
     "key": "Find a Tender:084933-2026",
@@ -1303,7 +1255,7 @@
       "technology solution"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/084933-2026",
-    "fetched_at": "2026-09-10T18:24:30.148578Z"
+    "fetched_at": "2026-09-10T18:35:13.505675Z"
   },
   {
     "key": "Public Contracts Scotland:rls-15-SEP564053",
@@ -1369,7 +1321,7 @@
       "technology solution"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564053",
-    "fetched_at": "2026-09-10T18:25:12.547638Z"
+    "fetched_at": "2026-09-10T18:35:54.326904Z"
   },
   {
     "key": "eTenders Ireland / TED:597678-2026",
@@ -1408,6 +1360,54 @@
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/597678-2026",
     "fetched_at": "2026-09-10T13:22:24.102319Z"
+  },
+  {
+    "key": "eTenders Ireland / TED:600210-2026",
+    "id": "600210-2026",
+    "ocid": null,
+    "title": "Ireland – Radio, television, communication, telecommunication and related equipment – T.045.2026 Request for Tenders to establish Frameworks for the provision of Specialist Victim Interview Suites and Suspect Interview Video Recording Equipment for An Garda Síochána",
+    "buyer": "An Garda Síochána_1192",
+    "description": "Active Irish procurement notice published through TED/eTenders.",
+    "source": "eTenders Ireland / TED",
+    "country": "Ireland",
+    "published_at": "2026-09-01T02:00:00Z",
+    "deadline": "2026-09-18T14:00:00Z",
+    "value": 1500000.0,
+    "currency": "EUR",
+    "cpv": [
+      "32000000",
+      "32330000",
+      "32500000",
+      "51300000",
+      "72000000",
+      "50300000",
+      "32000000",
+      "32000000",
+      "32000000",
+      "32330000",
+      "32500000",
+      "51300000",
+      "72000000",
+      "50300000",
+      "32330000",
+      "32500000",
+      "51300000",
+      "72000000",
+      "50300000",
+      "32330000",
+      "32500000",
+      "51300000",
+      "72000000",
+      "50300000"
+    ],
+    "status": "active",
+    "relevance": 45,
+    "matched": [
+      "CPV 32500000",
+      "CPV 72000000"
+    ],
+    "url": "https://ted.europa.eu/en/notice/-/detail/600210-2026",
+    "fetched_at": "2026-09-10T13:22:24.101590Z"
   },
   {
     "key": "eTenders Ireland / TED:620079-2026",
@@ -1451,7 +1451,7 @@
       "CPV 72316000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/620079-2026",
-    "fetched_at": "2026-09-10T18:25:20.599097Z"
+    "fetched_at": "2026-09-10T18:36:01.907772Z"
   },
   {
     "key": "eTenders Ireland / TED:595832-2026",
@@ -1613,7 +1613,7 @@
       "CPV 32441000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/625269-2026",
-    "fetched_at": "2026-09-10T18:25:20.596583Z"
+    "fetched_at": "2026-09-10T18:36:01.905236Z"
   },
   {
     "key": "eTenders Ireland / TED:601103-2026",
@@ -1682,7 +1682,7 @@
       "CPV 48510000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/612396-2026",
-    "fetched_at": "2026-09-10T18:25:20.609189Z"
+    "fetched_at": "2026-09-10T18:36:01.918032Z"
   },
   {
     "key": "eTenders Ireland / TED:605566-2026",
@@ -1747,7 +1747,7 @@
       "CPV 30230000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/620322-2026",
-    "fetched_at": "2026-09-10T18:25:20.597640Z"
+    "fetched_at": "2026-09-10T18:36:01.906318Z"
   },
   {
     "key": "eTenders Ireland / TED:625254-2026",
@@ -1916,7 +1916,7 @@
       "CPV 72263000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/625254-2026",
-    "fetched_at": "2026-09-10T18:25:20.593539Z"
+    "fetched_at": "2026-09-10T18:36:01.902122Z"
   },
   {
     "key": "eTenders Ireland / TED:609619-2026",
@@ -1942,7 +1942,7 @@
       "hosting"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/609619-2026",
-    "fetched_at": "2026-09-10T18:25:20.610007Z"
+    "fetched_at": "2026-09-10T18:36:01.918838Z"
   },
   {
     "key": "eTenders Ireland / TED:598452-2026",
@@ -2000,7 +2000,7 @@
       "CPV 72320000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/616933-2026",
-    "fetched_at": "2026-09-10T18:25:20.601380Z"
+    "fetched_at": "2026-09-10T18:36:01.910098Z"
   },
   {
     "key": "Find a Tender:085492-2026",
@@ -2027,7 +2027,7 @@
       "website"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/085492-2026",
-    "fetched_at": "2026-09-10T18:24:30.146745Z"
+    "fetched_at": "2026-09-10T18:35:13.502804Z"
   },
   {
     "key": "Poland / TED:607720-2026",
@@ -2052,7 +2052,7 @@
       "CPV 48820000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/607720-2026",
-    "fetched_at": "2026-09-10T18:25:38.389420Z"
+    "fetched_at": "2026-09-10T18:36:17.723964Z"
   },
   {
     "key": "Find a Tender:084917-2026",
@@ -2080,7 +2080,7 @@
       "it system"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/084917-2026",
-    "fetched_at": "2026-09-10T18:24:30.148817Z"
+    "fetched_at": "2026-09-10T18:35:13.506116Z"
   },
   {
     "key": "Public Contracts Scotland:rls-14-SEP564054",
@@ -2136,7 +2136,7 @@
       "it system"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564054",
-    "fetched_at": "2026-09-10T18:25:12.547466Z"
+    "fetched_at": "2026-09-10T18:35:54.326734Z"
   },
   {
     "key": "Find a Tender:084996-2026",
@@ -2165,7 +2165,7 @@
       "CPV 72316000"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/084996-2026",
-    "fetched_at": "2026-09-10T18:24:30.147855Z"
+    "fetched_at": "2026-09-10T18:35:13.504544Z"
   },
   {
     "key": "Public Contracts Scotland:rls-11-SEP564071",
@@ -2223,7 +2223,7 @@
       "CPV 72316000"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564071",
-    "fetched_at": "2026-09-10T18:25:12.546929Z"
+    "fetched_at": "2026-09-10T18:35:54.326144Z"
   },
   {
     "key": "Public Contracts Scotland:rls-21-SEP563932",
@@ -2287,7 +2287,7 @@
       "accessibility"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563932",
-    "fetched_at": "2026-09-10T18:25:12.548798Z"
+    "fetched_at": "2026-09-10T18:35:54.328055Z"
   },
   {
     "key": "eTenders Ireland / TED:619079-2026",
@@ -2322,7 +2322,7 @@
       "CPV 72224000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/619079-2026",
-    "fetched_at": "2026-09-10T18:25:20.603225Z"
+    "fetched_at": "2026-09-10T18:36:01.911955Z"
   },
   {
     "key": "eTenders Ireland / TED:609078-2026",
@@ -2353,7 +2353,7 @@
       "CPV 72224000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/609078-2026",
-    "fetched_at": "2026-09-10T18:25:20.611799Z"
+    "fetched_at": "2026-09-10T18:36:01.920660Z"
   },
   {
     "key": "eTenders Ireland / TED:625738-2026",
@@ -2384,7 +2384,7 @@
       "CPV 72221000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/625738-2026",
-    "fetched_at": "2026-09-10T18:25:20.595657Z"
+    "fetched_at": "2026-09-10T18:36:01.904263Z"
   },
   {
     "key": "Poland / TED:620310-2026",
@@ -2410,7 +2410,7 @@
       "CPV 30192000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/620310-2026",
-    "fetched_at": "2026-09-10T18:25:25.460067Z"
+    "fetched_at": "2026-09-10T18:36:07.890930Z"
   },
   {
     "key": "eTenders Ireland / TED:625880-2026",
@@ -2437,7 +2437,7 @@
       "CPV 72224000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/625880-2026",
-    "fetched_at": "2026-09-10T18:25:20.594558Z"
+    "fetched_at": "2026-09-10T18:36:01.903124Z"
   },
   {
     "key": "eTenders Ireland / TED:622647-2026",
@@ -2466,7 +2466,7 @@
       "CPV 72224000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/622647-2026",
-    "fetched_at": "2026-09-10T18:25:20.599180Z"
+    "fetched_at": "2026-09-10T18:36:01.907860Z"
   },
   {
     "key": "eTenders Ireland / TED:621494-2026",
@@ -2495,7 +2495,7 @@
       "CPV 72224000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/621494-2026",
-    "fetched_at": "2026-09-10T18:25:20.599852Z"
+    "fetched_at": "2026-09-10T18:36:01.908555Z"
   },
   {
     "key": "eTenders Ireland / TED:621111-2026",
@@ -2524,7 +2524,7 @@
       "CPV 72224000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/621111-2026",
-    "fetched_at": "2026-09-10T18:25:20.600438Z"
+    "fetched_at": "2026-09-10T18:36:01.909140Z"
   },
   {
     "key": "eTenders Ireland / TED:614458-2026",
@@ -2563,7 +2563,7 @@
       "CPV 30231300"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/614458-2026",
-    "fetched_at": "2026-09-10T18:25:20.605276Z"
+    "fetched_at": "2026-09-10T18:36:01.914042Z"
   },
   {
     "key": "Public Contracts Scotland:rls-29-SEP563674",
@@ -2621,7 +2621,7 @@
       "CPV 72212190"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563674",
-    "fetched_at": "2026-09-10T18:25:12.549526Z"
+    "fetched_at": "2026-09-10T18:35:54.328726Z"
   },
   {
     "key": "Find a Tender:084457-2026",
@@ -2678,7 +2678,7 @@
       "CPV 72000000"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/084956-2026",
-    "fetched_at": "2026-09-10T18:24:30.148400Z"
+    "fetched_at": "2026-09-10T18:35:13.505396Z"
   },
   {
     "key": "Find a Tender:084863-2026",
@@ -2704,7 +2704,7 @@
       "CPV 72222300"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/084863-2026",
-    "fetched_at": "2026-09-10T18:24:30.149318Z"
+    "fetched_at": "2026-09-10T18:35:13.506889Z"
   },
   {
     "key": "Public Contracts Scotland:rls-12-SEP564061",
@@ -2782,7 +2782,7 @@
       "CPV 72000000"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564061",
-    "fetched_at": "2026-09-10T18:25:12.547159Z"
+    "fetched_at": "2026-09-10T18:35:54.326367Z"
   },
   {
     "key": "Public Contracts Scotland:rls-19-SEP564038",
@@ -2808,7 +2808,7 @@
       "CPV 72222300"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564038",
-    "fetched_at": "2026-09-10T18:25:12.548097Z"
+    "fetched_at": "2026-09-10T18:35:54.327362Z"
   },
   {
     "key": "Poland / TED:616708-2026",
@@ -2837,6 +2837,6 @@
       "oprogramowanie"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/616708-2026",
-    "fetched_at": "2026-09-10T18:25:26.153216Z"
+    "fetched_at": "2026-09-10T18:36:09.866348Z"
   }
 ]
