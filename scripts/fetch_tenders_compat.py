@@ -76,7 +76,7 @@ def fts(days_back: int) -> list[dict]:
         base_params = {
             "updatedFrom": start.strftime("%Y-%m-%dT%H:%M:%S"),
             "updatedTo": stop.strftime("%Y-%m-%dT%H:%M:%S"),
-            "stages": "planning,tender",
+            "stages": "tender",
             "limit": 100,
         }
         next_cursor = None
