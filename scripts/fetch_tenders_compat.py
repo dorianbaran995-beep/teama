@@ -24,12 +24,58 @@ CLOSED_STATUS_WORDS = (
     "awarded", "award", "unsuccessful", "terminated", "inactive", "expired",
 )
 
+WEBSITE_TECH_TERMS = (
+    "website design", "website redesign", "website redevelopment", "website development",
+    "website build", "website rebuild", "website refresh", "website migration",
+    "website maintenance", "website management", "website support", "website services",
+    "website hosting", "web hosting", "managed website", "managed web service",
+    "web design", "web redesign", "web redevelopment", "web development",
+    "web maintenance", "web management", "web support", "digital website",
+    "corporate website", "public website", "new website", "website platform",
+    "web platform", "content management system", "content management services",
+    "cms implementation", "cms migration", "cms support", "cms development",
+    "wordpress", "drupal", "umbraco", "sitecore", "contentful", "webflow",
+    "digital experience platform", "digital experience", "dxp",
+    "user experience", "user interface", "ux design", "ui design", "ux/ui",
+    "accessibility", "web accessibility", "digital accessibility", "wcag",
+    "wcag 2.1", "wcag 2.2", "accessible website", "accessibility audit",
+    "content migration", "content audit", "content strategy", "information architecture",
+    "search engine optimisation", "search engine optimization", "seo",
+    "intranet", "extranet", "microsite", "microsites", "online portal",
+    "customer portal", "self-service portal", "digital portal", "web portal",
+    "frontend development", "front-end development", "backend development",
+    "back-end development", "full stack development", "full-stack development",
+    "responsive design", "mobile responsive", "website analytics", "web analytics",
+    "cookie management", "consent management", "website security", "web application",
+    "web application development", "digital agency", "web agency",
+)
+
+WEBSITE_STRONG_TERMS = {
+    "website design", "website redesign", "website redevelopment", "website development",
+    "website maintenance", "website management", "website support", "website hosting",
+    "web design", "web redevelopment", "web development", "web hosting",
+    "content management system", "wordpress", "drupal", "umbraco", "sitecore",
+    "digital experience platform", "web accessibility", "digital accessibility", "wcag",
+    "content migration", "web portal", "web application development",
+}
+
+# Extend the base scorer used by every market without changing portal parsers.
+b.KEYWORDS = tuple(dict.fromkeys((*b.KEYWORDS, *WEBSITE_TECH_TERMS)))
+b.STRONG = set(b.STRONG) | WEBSITE_STRONG_TERMS
+
 POLISH_TECH_TERMS = (
     "oprogramowanie", "system informatyczny", "systemu informatycznego",
     "usługi informatyczne", "uslug informatycznych", "informatyczny", "informatyczne",
-    "chmura", "chmurow", "hosting", "strona internetowa", "serwis internetowy",
-    "portal internetowy", "cyberbezpiec", "sztuczna inteligencja", "aplikacja",
-    "aplikacji", "platforma cyfrowa", "system cyfrowy", "baza danych",
+    "chmura", "chmurow", "hosting", "strona internetowa", "strony internetowej",
+    "stron internetowych", "serwis internetowy", "serwisu internetowego",
+    "portal internetowy", "portal www", "witryna internetowa", "witryny internetowej",
+    "projektowanie strony", "projektowanie stron", "budowa strony", "budowa stron",
+    "przebudowa strony", "modernizacja strony", "utrzymanie strony", "utrzymanie stron",
+    "obsługa strony", "obsluga strony", "zarządzanie stroną", "zarzadzanie strona",
+    "rozwój strony", "rozwoj strony", "wordpress", "drupal", "umbraco",
+    "cms", "dostępność cyfrowa", "dostepnosc cyfrowa", "wcag", "ux", "ui",
+    "migracja treści", "migracja tresci", "cyberbezpiec", "sztuczna inteligencja",
+    "aplikacja", "aplikacji", "platforma cyfrowa", "system cyfrowy", "baza danych",
 )
 
 
