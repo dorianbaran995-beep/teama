@@ -1,6 +1,13 @@
 name: Deploy Tender Radar to GitHub Pages
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - 'index.html'
+      - 'app.js'
+      - 'styles.css'
+      - '.github/workflows/pages.yml'
   workflow_run:
     workflows: ["Refresh tender data"]
     types: [completed]
@@ -17,7 +24,7 @@ concurrency:
 
 jobs:
   deploy:
-    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
+    if: ${{ github.event_name == 'push' || github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
