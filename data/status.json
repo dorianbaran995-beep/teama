@@ -1,12 +1,15 @@
 {
-  "updated_at": "2026-09-10T13:22:24.105635Z",
-  "count": 73,
-  "fresh_count": 79,
+  "updated_at": "2026-09-10T13:24:48.087680Z",
+  "count": 93,
+  "fresh_count": 64,
   "sources": {
     "Find a Tender": 0,
     "Sell2Wales": 0,
     "Public Contracts Scotland": 0,
-    "eTenders Ireland / TED": 79
+    "eTenders Ireland / TED": 64
   },
-  "errors": []
+  "errors": [
+    "Find a Tender: RecursionError: maximum recursion depth exceeded",
+    "Public Contracts Scotland: RecursionError: maximum recursion depth exceeded"
+  ]
 }
