@@ -1,6 +1,12 @@
 name: Refresh tender data
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/**'
+      - 'requirements.txt'
+      - '.github/workflows/refresh.yml'
   schedule:
     - cron: '*/15 * * * *'
   workflow_dispatch:
