@@ -11,6 +11,7 @@ import urllib3
 
 import fetch_tenders as b
 
+_ORIGINAL_CPVS = b.cpvs
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 DEVOLVED_API_HOSTS = (
     "https://api.sell2wales.gov.wales/",
@@ -50,7 +51,7 @@ def request(url: str, *, params=None, body=None) -> Any:
 
 
 def cpvs(rel: dict) -> list[str]:
-    found = set(b.cpvs(rel))
+    found = set(_ORIGINAL_CPVS(rel))
     tender = rel.get("tender") or {}
     groups = [tender] + [x for x in tender.get("lots") or [] if isinstance(x, dict)]
     for group in groups:
@@ -75,6 +76,7 @@ def fts(days_back: int) -> list[dict]:
         base_params = {
             "updatedFrom": start.strftime("%Y-%m-%dT%H:%M:%S"),
             "updatedTo": stop.strftime("%Y-%m-%dT%H:%M:%S"),
+            "stages": "planning,tender",
             "limit": 100,
         }
         next_cursor = None
