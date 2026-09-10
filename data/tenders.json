@@ -52,7 +52,7 @@
       "integration"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563567",
-    "fetched_at": "2026-09-10T14:17:51.625453Z"
+    "fetched_at": "2026-09-10T14:20:17.540923Z"
   },
   {
     "key": "eTenders Ireland / TED:601723-2026",
@@ -159,7 +159,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/610280-2026",
-    "fetched_at": "2026-09-10T14:18:03.865251Z"
+    "fetched_at": "2026-09-10T14:20:24.028957Z"
   },
   {
     "key": "eTenders Ireland / TED:620396-2026",
@@ -211,250 +211,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/620396-2026",
-    "fetched_at": "2026-09-10T14:18:03.857587Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:616969-2026",
-    "id": "616969-2026",
-    "ocid": null,
-    "title": "Ireland – Business analysis consultancy services – RFAPD for the provision of Enterprise AI Adoption and Capability Development Services divided into 4 Lots to Technology Ireland ICT Skillne",
-    "buyer": "Technology Ireland ICT Skillnet",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-08T02:00:00Z",
-    "deadline": null,
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "72221000",
-      "72221000",
-      "72221000",
-      "72221000",
-      "72221000"
-    ],
-    "status": "active",
-    "relevance": 71,
-    "matched": [
-      "CPV 72221000",
-      "erp",
-      "ict"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/616969-2026",
-    "fetched_at": "2026-09-10T14:18:03.858803Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-5-SEP563749",
-    "id": "rls-5-SEP563749",
-    "ocid": "ocds-r6ebe6-0000842033",
-    "title": "Web Content Management System (website, intranet and web/mobile portal)",
-    "buyer": "Abertay University",
-    "description": "Abertay University is a specialist university based in Dundee with approximately 5,000 students. The University is seeking to modernise and enhance its digital experience platforms to better support student recruitment, engagement, communication and service delivery. As part of this market engagement exercise, suppliers are asked to consider the University's scale, resources and strategic ambitions when outlining potential solutions, delivery approaches and indicative costs. This will help ensure responses are proportionate to Abertay's requirements while providing a sustainable foundation for future digital transformation initiatives. Abertay University is seeking to engage with the market to understand the availability of solutions capable of delivering a modern, integrated digital experience platform, or integrated set of platforms and services, to support the University's website, intranet and web/mobile portal requirements.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-03T00:00:00Z",
-    "deadline": null,
-    "value": 100000.0,
-    "currency": "GBP",
-    "cpv": [
-      "48211000",
-      "48219300",
-      "72000000",
-      "72212222",
-      "72212224",
-      "72212517",
-      "72222300",
-      "72413000"
-    ],
-    "status": "planned",
-    "relevance": 70,
-    "matched": [
-      "CPV 48211000",
-      "CPV 48219300",
-      "CPV 72000000",
-      "CPV 72212222",
-      "content management",
-      "portal",
-      "website"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/NoticeDownload/DownloadDocument.aspx?id=SEP563749&idx=1",
-    "fetched_at": "2026-09-10T14:18:01.440575Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:618420-2026",
-    "id": "618420-2026",
-    "ocid": null,
-    "title": "Ireland – Helpdesk and support services – IT3507C- CFT for the Provision of a Customer Support Software and Ticketing System for the Education Shared Business Services (ESBS)",
-    "buyer": "Education Procurement Service (EPS)",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-08T02:00:00Z",
-    "deadline": null,
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "72253000",
-      "48445000",
-      "72260000",
-      "72268000",
-      "72253000",
-      "48445000",
-      "72260000",
-      "72268000"
-    ],
-    "status": "active",
-    "relevance": 64,
-    "matched": [
-      "CPV 48445000",
-      "CPV 72253000",
-      "CPV 72260000",
-      "CPV 72268000",
-      "helpdesk",
-      "software"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/618420-2026",
-    "fetched_at": "2026-09-10T14:18:03.858738Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:610495-2026",
-    "id": "610495-2026",
-    "ocid": null,
-    "title": "Ireland – Software package and information systems – SI-2617 Meeting portal software for Sport Ireland Board and Subcommittee Meetings to the Irish Public Sector",
-    "buyer": "Sport Ireland",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-04T02:00:00Z",
-    "deadline": null,
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "48000000",
-      "48100000",
-      "48200000",
-      "48500000",
-      "48900000",
-      "48510000",
-      "48000000",
-      "48100000",
-      "48200000",
-      "48500000",
-      "48900000",
-      "48510000"
-    ],
-    "status": "active",
-    "relevance": 64,
-    "matched": [
-      "CPV 48000000",
-      "CPV 48100000",
-      "CPV 48200000",
-      "CPV 48500000",
-      "portal",
-      "software"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/610495-2026",
-    "fetched_at": "2026-09-10T14:18:03.862774Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:604031-2026",
-    "id": "604031-2026",
-    "ocid": null,
-    "title": "Ireland – Computer equipment and supplies – DPS for the Provision of Compute and Storage Infrastructure and Associated Ancillary Software, Products and Services",
-    "buyer": "The Office of Government Procurement",
-    "description": "Active Irish procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-02T02:00:00Z",
-    "deadline": null,
-    "value": 90208.29,
-    "currency": "EUR",
-    "cpv": [
-      "30200000",
-      "30210000",
-      "30230000",
-      "30233100",
-      "32410000",
-      "32424000",
-      "32580000",
-      "48000000",
-      "48800000",
-      "48820000",
-      "48821000",
-      "48822000",
-      "48823000",
-      "48824000",
-      "48825000",
-      "50312300",
-      "50312310",
-      "50312600",
-      "50312610",
-      "72500000",
-      "72700000",
-      "72910000",
-      "30200000",
-      "30210000",
-      "30230000",
-      "30233100",
-      "32410000",
-      "32424000",
-      "32580000",
-      "48000000",
-      "48800000",
-      "48820000",
-      "48821000",
-      "48822000",
-      "48823000",
-      "48824000",
-      "48825000",
-      "50312300",
-      "50312310",
-      "50312600",
-      "50312610",
-      "72500000",
-      "72700000",
-      "72910000"
-    ],
-    "status": "active",
-    "relevance": 64,
-    "matched": [
-      "CPV 30200000",
-      "CPV 30210000",
-      "CPV 30230000",
-      "CPV 30233100",
-      "infrastructure",
-      "software"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/604031-2026",
-    "fetched_at": "2026-09-10T13:22:24.100450Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:607633-2026",
-    "id": "607633-2026",
-    "ocid": null,
-    "title": "Ireland – IT services: consulting, software development, Internet and support – Web and Mobile Application Development Expertise to Extend the Functionality of an Integrated Workplace Management System (Tririga)",
-    "buyer": "Office of Public Works (OPW)",
-    "description": "Active Irish procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-03T02:00:00Z",
-    "deadline": null,
-    "value": 240000.0,
-    "currency": "EUR",
-    "cpv": [
-      "72000000",
-      "72000000"
-    ],
-    "status": "active",
-    "relevance": 62,
-    "matched": [
-      "CPV 72000000",
-      "application development",
-      "mobile app",
-      "software"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/607633-2026",
-    "fetched_at": "2026-09-10T13:22:24.100171Z"
+    "fetched_at": "2026-09-10T14:20:24.020443Z"
   },
   {
     "key": "eTenders Ireland / TED:607549-2026",
@@ -485,66 +242,6 @@
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/607549-2026",
     "fetched_at": "2026-09-10T13:22:24.100113Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:625699-2026",
-    "id": "625699-2026",
-    "ocid": null,
-    "title": "Ireland – Document management services – iManage Essentials Edition - On Premise Version 1 Year Software Maintenance and Solution Support",
-    "buyer": "Office of the Attorney General_435",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-10T02:00:00Z",
-    "deadline": null,
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "72512000",
-      "48311000",
-      "72512000",
-      "48311000"
-    ],
-    "status": "active",
-    "relevance": 59,
-    "matched": [
-      "CPV 48311000",
-      "CPV 72512000",
-      "document management",
-      "software"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/625699-2026",
-    "fetched_at": "2026-09-10T14:18:03.853101Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:606862-2026",
-    "id": "606862-2026",
-    "ocid": null,
-    "title": "Ireland – Software package and information systems – IT3156C - Request for Tenders for a Class Timetabling, Exam Scheduling and Room Booking system for the University Limerick, (UL)",
-    "buyer": "Education Procurement Service (EPS)",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-03T02:00:00Z",
-    "deadline": null,
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "48000000",
-      "48800000",
-      "48000000",
-      "48800000"
-    ],
-    "status": "active",
-    "relevance": 59,
-    "matched": [
-      "CPV 48000000",
-      "CPV 48800000",
-      "booking system",
-      "software"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/606862-2026",
-    "fetched_at": "2026-09-10T14:18:03.869165Z"
   },
   {
     "key": "eTenders Ireland / TED:612907-2026",
@@ -579,7 +276,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/612907-2026",
-    "fetched_at": "2026-09-10T14:18:03.861651Z"
+    "fetched_at": "2026-09-10T14:20:24.024998Z"
   },
   {
     "key": "eTenders Ireland / TED:613859-2026",
@@ -616,7 +313,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/613859-2026",
-    "fetched_at": "2026-09-10T14:18:03.861358Z"
+    "fetched_at": "2026-09-10T14:20:24.024710Z"
   },
   {
     "key": "eTenders Ireland / TED:595233-2026",
@@ -692,7 +389,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/609941-2026",
-    "fetched_at": "2026-09-10T14:18:03.866033Z"
+    "fetched_at": "2026-09-10T14:20:24.029825Z"
   },
   {
     "key": "eTenders Ireland / TED:612515-2026",
@@ -792,7 +489,7 @@
       "erp"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/612515-2026",
-    "fetched_at": "2026-09-10T14:18:03.867495Z"
+    "fetched_at": "2026-09-10T14:20:24.031459Z"
   },
   {
     "key": "eTenders Ireland / TED:599631-2026",
@@ -984,7 +681,7 @@
       "erp"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/611608-2026",
-    "fetched_at": "2026-09-10T14:18:03.867110Z"
+    "fetched_at": "2026-09-10T14:20:24.031028Z"
   },
   {
     "key": "eTenders Ireland / TED:620568-2026",
@@ -1021,7 +718,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/620568-2026",
-    "fetched_at": "2026-09-10T14:18:03.856815Z"
+    "fetched_at": "2026-09-10T14:20:24.019603Z"
   },
   {
     "key": "eTenders Ireland / TED:621127-2026",
@@ -1062,7 +759,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/621127-2026",
-    "fetched_at": "2026-09-10T14:18:03.855381Z"
+    "fetched_at": "2026-09-10T14:20:24.018048Z"
   },
   {
     "key": "eTenders Ireland / TED:613072-2026",
@@ -1103,7 +800,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/613072-2026",
-    "fetched_at": "2026-09-10T14:18:03.862530Z"
+    "fetched_at": "2026-09-10T14:20:24.025994Z"
   },
   {
     "key": "eTenders Ireland / TED:609801-2026",
@@ -1154,7 +851,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/609801-2026",
-    "fetched_at": "2026-09-10T14:18:03.863470Z"
+    "fetched_at": "2026-09-10T14:20:24.027051Z"
   },
   {
     "key": "eTenders Ireland / TED:624561-2026",
@@ -1199,7 +896,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/624561-2026",
-    "fetched_at": "2026-09-10T14:18:03.853492Z"
+    "fetched_at": "2026-09-10T14:20:24.015913Z"
   },
   {
     "key": "eTenders Ireland / TED:610745-2026",
@@ -1256,489 +953,7 @@
       "cloud"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/610745-2026",
-    "fetched_at": "2026-09-10T14:18:03.866567Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:624126-2026",
-    "id": "624126-2026",
-    "ocid": null,
-    "title": "Ireland – Web page editing software development services – Request for Tenders for the Provision of Press Release Management System",
-    "buyer": "Houses of the Oireachtas Service",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-10T02:00:00Z",
-    "deadline": null,
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "72212224",
-      "72413000",
-      "32412120",
-      "32412110",
-      "92400000",
-      "72212224",
-      "72413000",
-      "32412120",
-      "32412110",
-      "92400000"
-    ],
-    "status": "active",
-    "relevance": 58,
-    "matched": [
-      "CPV 32412110",
-      "CPV 32412120",
-      "CPV 72212224",
-      "CPV 72413000",
-      "software"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/624126-2026",
-    "fetched_at": "2026-09-10T14:18:03.854770Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:622625-2026",
-    "id": "622625-2026",
-    "ocid": null,
-    "title": "Ireland – Security software package – RFT for the supply of a Threat and Vulnerability Management Platform",
-    "buyer": "Department of Social Protection_349",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-09T02:00:00Z",
-    "deadline": null,
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "48730000",
-      "48760000",
-      "48790000",
-      "72416000",
-      "48730000",
-      "48760000",
-      "48790000",
-      "72416000"
-    ],
-    "status": "active",
-    "relevance": 58,
-    "matched": [
-      "CPV 48730000",
-      "CPV 48760000",
-      "CPV 48790000",
-      "CPV 72416000",
-      "software"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/622625-2026",
-    "fetched_at": "2026-09-10T14:18:03.855534Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:617520-2026",
-    "id": "617520-2026",
-    "ocid": null,
-    "title": "Ireland – Software support services – Renewal of Secure Email Gateway Environment",
-    "buyer": "Office of Public Works (OPW)",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-08T02:00:00Z",
-    "deadline": null,
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "72261000",
-      "72250000",
-      "48731000",
-      "48732000",
-      "48219100",
-      "72261000",
-      "72250000",
-      "48731000",
-      "48732000",
-      "48219100"
-    ],
-    "status": "active",
-    "relevance": 58,
-    "matched": [
-      "CPV 48731000",
-      "CPV 48732000",
-      "CPV 72250000",
-      "CPV 72261000",
-      "software"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/617520-2026",
-    "fetched_at": "2026-09-10T14:18:03.860246Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:610871-2026",
-    "id": "610871-2026",
-    "ocid": null,
-    "title": "Ireland – IT services: consulting, software development, Internet and support – T.077/2025 Request for Tenders for the establishment of Contract for the provision of Application Support and Project Delivery services, for An Garda Síochána",
-    "buyer": "An Garda Síochána_1192",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-04T02:00:00Z",
-    "deadline": null,
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "72000000",
-      "72200000",
-      "72600000",
-      "48800000",
-      "72000000",
-      "72200000",
-      "72600000",
-      "48800000"
-    ],
-    "status": "active",
-    "relevance": 58,
-    "matched": [
-      "CPV 48800000",
-      "CPV 72000000",
-      "CPV 72200000",
-      "CPV 72600000",
-      "software"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/610871-2026",
-    "fetched_at": "2026-09-10T14:18:03.864869Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:610294-2026",
-    "id": "610294-2026",
-    "ocid": null,
-    "title": "Ireland – Software implementation services – RFT for Sonatype Nexus Repository Manager, Lifecycle and Firewall for Security Vulnerability Checking, License Compliance and Architectural Governance",
-    "buyer": "Department of Social Protection_349",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-04T02:00:00Z",
-    "deadline": null,
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "72263000",
-      "48170000",
-      "48218000",
-      "48790000",
-      "72261000",
-      "48731000",
-      "72263000",
-      "48170000",
-      "48218000",
-      "48790000",
-      "72261000",
-      "48731000"
-    ],
-    "status": "active",
-    "relevance": 58,
-    "matched": [
-      "CPV 48170000",
-      "CPV 48218000",
-      "CPV 48790000",
-      "CPV 72263000",
-      "software"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/610294-2026",
-    "fetched_at": "2026-09-10T14:18:03.867231Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:609043-2026",
-    "id": "609043-2026",
-    "ocid": null,
-    "title": "Ireland – Point of sale (POS) software development services – 2356 - The Provision of PIN Pads, Payment Gateway and Payment Acquiring Services",
-    "buyer": "An Post_391",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-03T02:00:00Z",
-    "deadline": null,
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "72212110",
-      "48110000",
-      "48219100",
-      "48610000",
-      "48613000",
-      "66000000",
-      "72300000",
-      "72310000",
-      "72320000",
-      "72322000",
-      "30210000",
-      "48217000",
-      "66170000",
-      "32440000",
-      "30216200",
-      "32581000",
-      "30161000",
-      "30163000",
-      "30233300",
-      "66115000",
-      "72212110",
-      "48110000",
-      "48219100",
-      "48610000",
-      "48613000",
-      "66000000",
-      "72300000",
-      "72310000",
-      "72320000",
-      "72322000",
-      "30210000",
-      "48217000",
-      "66170000",
-      "32440000",
-      "30216200",
-      "32581000",
-      "30161000",
-      "30163000",
-      "30233300",
-      "66115000"
-    ],
-    "status": "active",
-    "relevance": 58,
-    "matched": [
-      "CPV 48110000",
-      "CPV 48219100",
-      "CPV 48610000",
-      "CPV 72212110",
-      "software"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/609043-2026",
-    "fetched_at": "2026-09-10T14:18:03.869582Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:606493-2026",
-    "id": "606493-2026",
-    "ocid": null,
-    "title": "Ireland – Software consultancy services – P19417 - Supply of IT Security Services for daa group",
-    "buyer": "daa plc",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-03T02:00:00Z",
-    "deadline": null,
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "72266000",
-      "48730000",
-      "72000000",
-      "72700000",
-      "72266000",
-      "48730000",
-      "72000000",
-      "72700000"
-    ],
-    "status": "active",
-    "relevance": 58,
-    "matched": [
-      "CPV 48730000",
-      "CPV 72000000",
-      "CPV 72266000",
-      "CPV 72700000",
-      "software"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/606493-2026",
-    "fetched_at": "2026-09-10T14:18:03.869707Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:603725-2026",
-    "id": "603725-2026",
-    "ocid": null,
-    "title": "Ireland – IT services: consulting, software development, Internet and support – P21121 Digital Learning Platform Solution (content library)",
-    "buyer": "daa plc",
-    "description": "Active Irish procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-02T02:00:00Z",
-    "deadline": null,
-    "value": 0.0,
-    "currency": "EUR",
-    "cpv": [
-      "72000000",
-      "80420000",
-      "48780000",
-      "48931000",
-      "48900000",
-      "72000000",
-      "80420000",
-      "48780000",
-      "48931000",
-      "48900000"
-    ],
-    "status": "active",
-    "relevance": 58,
-    "matched": [
-      "CPV 48780000",
-      "CPV 48900000",
-      "CPV 48931000",
-      "CPV 72000000",
-      "software"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/603725-2026",
-    "fetched_at": "2026-09-10T13:22:24.100518Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:597432-2026",
-    "id": "597432-2026",
-    "ocid": null,
-    "title": "Ireland – IT services: consulting, software development, Internet and support – RFT for Standard Notebook, Standard CAD Notebook and High Spec CAD Notebook",
-    "buyer": "Office of Public Works (OPW)",
-    "description": "Active Irish procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-08-31T02:00:00Z",
-    "deadline": null,
-    "value": 400000.0,
-    "currency": "EUR",
-    "cpv": [
-      "72000000",
-      "72500000",
-      "72540000",
-      "30237300",
-      "30237000",
-      "30213300",
-      "72000000",
-      "72500000",
-      "72540000",
-      "30237300",
-      "30237000",
-      "30213300"
-    ],
-    "status": "active",
-    "relevance": 58,
-    "matched": [
-      "CPV 30237300",
-      "CPV 72000000",
-      "CPV 72500000",
-      "CPV 72540000",
-      "software"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/597432-2026",
-    "fetched_at": "2026-09-10T13:22:24.102392Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:595760-2026",
-    "id": "595760-2026",
-    "ocid": null,
-    "title": "Ireland – Software package and information systems – HSE 25564 National Project Portfolio Management System for the HSE",
-    "buyer": "Health Service Executive (HSE)",
-    "description": "Active Irish procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-08-28T02:00:00Z",
-    "deadline": null,
-    "value": 500000.0,
-    "currency": "EUR",
-    "cpv": [
-      "48000000",
-      "48100000",
-      "48611000",
-      "48219300",
-      "48612000",
-      "48613000",
-      "48600000",
-      "48700000",
-      "48800000",
-      "48814000",
-      "48814200",
-      "48814400",
-      "72000000",
-      "72500000",
-      "72200000",
-      "72261000",
-      "72267100",
-      "72268000",
-      "48218000",
-      "48900000",
-      "48000000",
-      "48100000",
-      "48611000",
-      "48219300",
-      "48612000",
-      "48613000",
-      "48600000",
-      "48700000",
-      "48800000",
-      "48814000",
-      "48814200",
-      "48814400",
-      "72000000",
-      "72500000",
-      "72200000",
-      "72261000",
-      "72267100",
-      "72268000",
-      "48218000",
-      "48900000"
-    ],
-    "status": "active",
-    "relevance": 58,
-    "matched": [
-      "CPV 48000000",
-      "CPV 48100000",
-      "CPV 48219300",
-      "CPV 48611000",
-      "software"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/595760-2026",
-    "fetched_at": "2026-09-10T13:22:24.103013Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:599020-2026",
-    "id": "599020-2026",
-    "ocid": null,
-    "title": "Ireland – IT services: consulting, software development, Internet and support – Asana Enterprise Licence Renewal",
-    "buyer": "Office of Public Works (OPW)",
-    "description": "Active Irish procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-08-31T02:00:00Z",
-    "deadline": null,
-    "value": 75600.0,
-    "currency": "EUR",
-    "cpv": [
-      "72000000",
-      "72000000"
-    ],
-    "status": "active",
-    "relevance": 56,
-    "matched": [
-      "CPV 72000000",
-      "erp",
-      "software"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/599020-2026",
-    "fetched_at": "2026-09-10T13:22:24.102241Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:590849-2026",
-    "id": "590849-2026",
-    "ocid": null,
-    "title": "Ireland – Software package and information systems – HSE 28515 Extension of National Contract for Radiology QA ICT System to Support NIMIS",
-    "buyer": "Health Service Executive (HSE)",
-    "description": "Active Irish procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-08-27T02:00:00Z",
-    "deadline": null,
-    "value": 281640.0,
-    "currency": "EUR",
-    "cpv": [
-      "48000000",
-      "48000000"
-    ],
-    "status": "active",
-    "relevance": 56,
-    "matched": [
-      "CPV 48000000",
-      "ict",
-      "software"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/590849-2026",
-    "fetched_at": "2026-09-10T13:22:24.103061Z"
+    "fetched_at": "2026-09-10T14:20:24.030409Z"
   },
   {
     "key": "eTenders Ireland / TED:612350-2026",
@@ -1766,7 +981,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/612350-2026",
-    "fetched_at": "2026-09-10T14:18:03.866787Z"
+    "fetched_at": "2026-09-10T14:20:24.030663Z"
   },
   {
     "key": "Find a Tender:084995-2026",
@@ -1797,7 +1012,7 @@
       "digital service"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/084995-2026",
-    "fetched_at": "2026-09-10T14:17:13.868918Z"
+    "fetched_at": "2026-09-10T14:19:28.894416Z"
   },
   {
     "key": "Find a Tender:084913-2026",
@@ -1828,7 +1043,7 @@
       "digital service"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/084913-2026",
-    "fetched_at": "2026-09-10T14:17:13.869526Z"
+    "fetched_at": "2026-09-10T14:19:28.895145Z"
   },
   {
     "key": "Public Contracts Scotland:rls-10-SEP564072",
@@ -1859,7 +1074,7 @@
       "digital service"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564072",
-    "fetched_at": "2026-09-10T14:17:51.623370Z"
+    "fetched_at": "2026-09-10T14:20:17.538411Z"
   },
   {
     "key": "Public Contracts Scotland:rls-16-SEP564046",
@@ -1890,94 +1105,7 @@
       "digital service"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564046",
-    "fetched_at": "2026-09-10T14:17:51.624091Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:620245-2026",
-    "id": "620245-2026",
-    "ocid": null,
-    "title": "Ireland – Software package and information systems – T.052.2026 Request for Tenders for the Provision of DigiCert Subscription Services and Support, to An Garda Síochána",
-    "buyer": "An Garda Síochána_1192",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-09T02:00:00Z",
-    "deadline": null,
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "48000000",
-      "72000000",
-      "48000000",
-      "72000000"
-    ],
-    "status": "active",
-    "relevance": 53,
-    "matched": [
-      "CPV 48000000",
-      "CPV 72000000",
-      "software"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/620245-2026",
-    "fetched_at": "2026-09-10T14:18:03.856918Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:616003-2026",
-    "id": "616003-2026",
-    "ocid": null,
-    "title": "Ireland – Software support services – Renewal of existing 510 Mail Manager licenses with Maintenance.",
-    "buyer": "Office of Public Works (OPW)",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-07T02:00:00Z",
-    "deadline": null,
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "72261000",
-      "72253200",
-      "72261000",
-      "72253200"
-    ],
-    "status": "active",
-    "relevance": 53,
-    "matched": [
-      "CPV 72253200",
-      "CPV 72261000",
-      "software"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/616003-2026",
-    "fetched_at": "2026-09-10T14:18:03.860785Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:604240-2026",
-    "id": "604240-2026",
-    "ocid": null,
-    "title": "Ireland – Programming services of application software – Software Architecture, Design and Test services for the design and implementation of a novel, research-grade yet production-capable digital health platform",
-    "buyer": "Trinity College Dublin the University of Dublin_336",
-    "description": "Active Irish procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-02T02:00:00Z",
-    "deadline": null,
-    "value": 90000.0,
-    "currency": "EUR",
-    "cpv": [
-      "72212000",
-      "72212190",
-      "72212000",
-      "72212190"
-    ],
-    "status": "active",
-    "relevance": 53,
-    "matched": [
-      "CPV 72212000",
-      "CPV 72212190",
-      "software"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/604240-2026",
-    "fetched_at": "2026-09-10T13:22:24.100232Z"
+    "fetched_at": "2026-09-10T14:20:17.539267Z"
   },
   {
     "key": "eTenders Ireland / TED:618906-2026",
@@ -2030,7 +1158,7 @@
       "network"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/618906-2026",
-    "fetched_at": "2026-09-10T14:18:03.859785Z"
+    "fetched_at": "2026-09-10T14:20:24.022935Z"
   },
   {
     "key": "Find a Tender:084933-2026",
@@ -2063,7 +1191,7 @@
       "technology solution"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/084933-2026",
-    "fetched_at": "2026-09-10T14:17:13.869257Z"
+    "fetched_at": "2026-09-10T14:19:28.894827Z"
   },
   {
     "key": "Public Contracts Scotland:rls-15-SEP564053",
@@ -2096,135 +1224,7 @@
       "technology solution"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564053",
-    "fetched_at": "2026-09-10T14:17:51.623982Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:607137-2026",
-    "id": "607137-2026",
-    "ocid": null,
-    "title": "Ireland – Computer equipment and supplies – Provision of WAN Connectivity and Associated Services for the ITS and BMO Communication Networks",
-    "buyer": "National Transport Authority_1149",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-03T02:00:00Z",
-    "deadline": null,
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "30200000",
-      "30210000",
-      "30230000",
-      "32400000",
-      "51610000",
-      "51300000",
-      "72700000",
-      "72000000",
-      "32424000",
-      "32425000",
-      "32412100",
-      "32420000",
-      "32421000",
-      "32422000",
-      "32412110",
-      "32413000",
-      "32413100",
-      "32417000",
-      "30237110",
-      "48200000",
-      "72315000",
-      "72511000",
-      "72315100",
-      "30200000",
-      "30210000",
-      "30230000",
-      "32400000",
-      "51610000",
-      "51300000",
-      "72700000",
-      "72000000",
-      "32424000",
-      "32425000",
-      "32412100",
-      "32420000",
-      "32421000",
-      "32422000",
-      "32412110",
-      "32413000",
-      "32413100",
-      "32417000",
-      "30237110",
-      "48200000",
-      "72315000",
-      "72511000",
-      "72315100"
-    ],
-    "status": "active",
-    "relevance": 51,
-    "matched": [
-      "CPV 30200000",
-      "CPV 30210000",
-      "CPV 30230000",
-      "CPV 32400000",
-      "network"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/607137-2026",
-    "fetched_at": "2026-09-10T14:18:03.867984Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:605155-2026",
-    "id": "605155-2026",
-    "ocid": null,
-    "title": "Ireland – Medical software package – Digitisation and optimisation of the referral system within the National Cancer Care Pathways, with defined workflows and pathways at St Vincent’s University Hospital (SVUH)",
-    "buyer": "St. Vincent's University Hospital",
-    "description": "Active Irish procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-02T02:00:00Z",
-    "deadline": null,
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "48180000",
-      "48180000",
-      "48814400"
-    ],
-    "status": "active",
-    "relevance": 48,
-    "matched": [
-      "CPV 48180000",
-      "CPV 48814400",
-      "software"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/605155-2026",
-    "fetched_at": "2026-09-10T13:22:24.100704Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:600755-2026",
-    "id": "600755-2026",
-    "ocid": null,
-    "title": "Ireland – Software package and information systems – HRIS2026",
-    "buyer": "Irish Blood Transfusion Service",
-    "description": "Active Irish procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-01T02:00:00Z",
-    "deadline": null,
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "48000000",
-      "48000000",
-      "48000000"
-    ],
-    "status": "active",
-    "relevance": 48,
-    "matched": [
-      "CPV 48000000",
-      "software"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/600755-2026",
-    "fetched_at": "2026-09-10T13:22:24.100902Z"
+    "fetched_at": "2026-09-10T14:20:17.539134Z"
   },
   {
     "key": "eTenders Ireland / TED:597678-2026",
@@ -2306,7 +1306,7 @@
       "CPV 72316000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/620079-2026",
-    "fetched_at": "2026-09-10T14:18:03.857160Z"
+    "fetched_at": "2026-09-10T14:20:24.020004Z"
   },
   {
     "key": "eTenders Ireland / TED:595832-2026",
@@ -2468,7 +1468,7 @@
       "CPV 32441000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/625269-2026",
-    "fetched_at": "2026-09-10T14:18:03.855115Z"
+    "fetched_at": "2026-09-10T14:20:24.017751Z"
   },
   {
     "key": "eTenders Ireland / TED:601103-2026",
@@ -2537,7 +1537,7 @@
       "CPV 48510000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/612396-2026",
-    "fetched_at": "2026-09-10T14:18:03.865055Z"
+    "fetched_at": "2026-09-10T14:20:24.028733Z"
   },
   {
     "key": "eTenders Ireland / TED:605566-2026",
@@ -2602,7 +1602,7 @@
       "CPV 30230000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/620322-2026",
-    "fetched_at": "2026-09-10T14:18:03.855972Z"
+    "fetched_at": "2026-09-10T14:20:24.018691Z"
   },
   {
     "key": "eTenders Ireland / TED:625254-2026",
@@ -2771,943 +1771,7 @@
       "CPV 72263000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/625254-2026",
-    "fetched_at": "2026-09-10T14:18:03.852682Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:610103-2026",
-    "id": "610103-2026",
-    "ocid": null,
-    "title": "Ireland – Library, archives, museums and other cultural services – LI3844R MU PQQ for the Provision of Subscription Agreements for Access to 17 Lots of Electronic Journals",
-    "buyer": "Education Procurement Service (EPS)",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-04T02:00:00Z",
-    "deadline": null,
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "92500000",
-      "92510000",
-      "92511000",
-      "30238000",
-      "79995000",
-      "48160000",
-      "48161000",
-      "72212160",
-      "48612000",
-      "48611000",
-      "48610000",
-      "48600000",
-      "72212610",
-      "72212600",
-      "72321000",
-      "72320000",
-      "22211000",
-      "22211100",
-      "22200000",
-      "92500000",
-      "92500000",
-      "92500000",
-      "92500000",
-      "92500000",
-      "92500000",
-      "92500000",
-      "92500000",
-      "92500000",
-      "92500000",
-      "92500000",
-      "92500000",
-      "92500000",
-      "92500000",
-      "92500000",
-      "92500000",
-      "92500000",
-      "92510000",
-      "92511000",
-      "30238000",
-      "79995000",
-      "48160000",
-      "48161000",
-      "72212160",
-      "48612000",
-      "48611000",
-      "48610000",
-      "48600000",
-      "72212610",
-      "72212600",
-      "72321000",
-      "72320000",
-      "22211000",
-      "22211100",
-      "22200000",
-      "92510000",
-      "92511000",
-      "30238000",
-      "79995000",
-      "48160000",
-      "48161000",
-      "72212160",
-      "48612000",
-      "48611000",
-      "48610000",
-      "48600000",
-      "72212610",
-      "72212600",
-      "72321000",
-      "72320000",
-      "22211000",
-      "22211100",
-      "22200000",
-      "92510000",
-      "92511000",
-      "30238000",
-      "79995000",
-      "48160000",
-      "48161000",
-      "72212160",
-      "48612000",
-      "48611000",
-      "48610000",
-      "48600000",
-      "72212610",
-      "72212600",
-      "72321000",
-      "72320000",
-      "22211000",
-      "22211100",
-      "22200000",
-      "92510000",
-      "92511000",
-      "30238000",
-      "79995000",
-      "48160000",
-      "48161000",
-      "72212160",
-      "48612000",
-      "48611000",
-      "48610000",
-      "48600000",
-      "72212610",
-      "72212600",
-      "72321000",
-      "72320000",
-      "22211000",
-      "22211100",
-      "22200000",
-      "92510000",
-      "92511000",
-      "30238000",
-      "79995000",
-      "48160000",
-      "48161000",
-      "72212160",
-      "48612000",
-      "48611000",
-      "48610000",
-      "48600000",
-      "72212610",
-      "72212600",
-      "72321000",
-      "72320000",
-      "22211000",
-      "22211100",
-      "22200000",
-      "92510000",
-      "92511000",
-      "30238000",
-      "79995000",
-      "48160000",
-      "48161000",
-      "72212160",
-      "48612000",
-      "48611000",
-      "48610000",
-      "48600000",
-      "72212610",
-      "72212600",
-      "72321000",
-      "72320000",
-      "22211000",
-      "22211100",
-      "22200000",
-      "92510000",
-      "92511000",
-      "30238000",
-      "79995000",
-      "48160000",
-      "48161000",
-      "72212160",
-      "48612000",
-      "48611000",
-      "48610000",
-      "48600000",
-      "72212610",
-      "72212600",
-      "72321000",
-      "72320000",
-      "22211000",
-      "22211100",
-      "22200000",
-      "92510000",
-      "92511000",
-      "30238000",
-      "79995000",
-      "48160000",
-      "48161000",
-      "72212160",
-      "48612000",
-      "48611000",
-      "48610000",
-      "48600000",
-      "72212610",
-      "72212600",
-      "72321000",
-      "72320000",
-      "22211000",
-      "22211100",
-      "22200000",
-      "92510000",
-      "92511000",
-      "30238000",
-      "79995000",
-      "48160000",
-      "48161000",
-      "72212160",
-      "48612000",
-      "48611000",
-      "48610000",
-      "48600000",
-      "72212610",
-      "72212600",
-      "72321000",
-      "72320000",
-      "22211000",
-      "22211100",
-      "22200000",
-      "92510000",
-      "92511000",
-      "30238000",
-      "79995000",
-      "48160000",
-      "48161000",
-      "72212160",
-      "48612000",
-      "48611000",
-      "48610000",
-      "48600000",
-      "72212610",
-      "72212600",
-      "72321000",
-      "72320000",
-      "22211000",
-      "22211100",
-      "22200000",
-      "92510000",
-      "92511000",
-      "30238000",
-      "79995000",
-      "48160000",
-      "48161000",
-      "72212160",
-      "48612000",
-      "48611000",
-      "48610000",
-      "48600000",
-      "72212610",
-      "72212600",
-      "72321000",
-      "72320000",
-      "22211000",
-      "22211100",
-      "22200000",
-      "92510000",
-      "92511000",
-      "30238000",
-      "79995000",
-      "48160000",
-      "48161000",
-      "72212160",
-      "48612000",
-      "48611000",
-      "48610000",
-      "48600000",
-      "72212610",
-      "72212600",
-      "72321000",
-      "72320000",
-      "22211000",
-      "22211100",
-      "22200000",
-      "92510000",
-      "92511000",
-      "30238000",
-      "79995000",
-      "48160000",
-      "48161000",
-      "72212160",
-      "48612000",
-      "48611000",
-      "48610000",
-      "48600000",
-      "72212610",
-      "72212600",
-      "72321000",
-      "72320000",
-      "22211000",
-      "22211100",
-      "22200000",
-      "92510000",
-      "92511000",
-      "30238000",
-      "79995000",
-      "48160000",
-      "48161000",
-      "72212160",
-      "48612000",
-      "48611000",
-      "48610000",
-      "48600000",
-      "72212610",
-      "72212600",
-      "72321000",
-      "72320000",
-      "22211000",
-      "22211100",
-      "22200000",
-      "92510000",
-      "92511000",
-      "30238000",
-      "79995000",
-      "48160000",
-      "48161000",
-      "72212160",
-      "48612000",
-      "48611000",
-      "48610000",
-      "48600000",
-      "72212610",
-      "72212600",
-      "72321000",
-      "72320000",
-      "22211000",
-      "22211100",
-      "22200000",
-      "92510000",
-      "92511000",
-      "30238000",
-      "79995000",
-      "48160000",
-      "48161000",
-      "72212160",
-      "48612000",
-      "48611000",
-      "48610000",
-      "48600000",
-      "72212610",
-      "72212600",
-      "72321000",
-      "72320000",
-      "22211000",
-      "22211100",
-      "22200000",
-      "92510000",
-      "92511000",
-      "30238000",
-      "79995000",
-      "48160000",
-      "48161000",
-      "72212160",
-      "48612000",
-      "48611000",
-      "48610000",
-      "48600000",
-      "72212610",
-      "72212600",
-      "72321000",
-      "72320000",
-      "22211000",
-      "22211100",
-      "22200000"
-    ],
-    "status": "active",
-    "relevance": 45,
-    "matched": [
-      "CPV 30238000",
-      "CPV 48160000",
-      "CPV 48161000",
-      "CPV 72212160"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/610103-2026",
-    "fetched_at": "2026-09-10T14:18:03.864575Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:606405-2026",
-    "id": "606405-2026",
-    "ocid": null,
-    "title": "Ireland – Library, archives, museums and other cultural services – LI3761R MU PQQ for the Provision of Subscription Agreements for Access to 11 Lots of Electronic Journals",
-    "buyer": "Education Procurement Service (EPS)",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-03T02:00:00Z",
-    "deadline": null,
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "92500000",
-      "92510000",
-      "92511000",
-      "30238000",
-      "79995000",
-      "48160000",
-      "48161000",
-      "72212160",
-      "48612000",
-      "48611000",
-      "48610000",
-      "48600000",
-      "72212610",
-      "72212600",
-      "72321000",
-      "72320000",
-      "22211000",
-      "22211100",
-      "22200000",
-      "92500000",
-      "92500000",
-      "92500000",
-      "92500000",
-      "92500000",
-      "92500000",
-      "92500000",
-      "92500000",
-      "92500000",
-      "92500000",
-      "92500000",
-      "92510000",
-      "92511000",
-      "30238000",
-      "79995000",
-      "48160000",
-      "48161000",
-      "72212160",
-      "48612000",
-      "48611000",
-      "48610000",
-      "48600000",
-      "72212610",
-      "72212600",
-      "72321000",
-      "72320000",
-      "22211000",
-      "22211100",
-      "22200000",
-      "92510000",
-      "92511000",
-      "30238000",
-      "79995000",
-      "48160000",
-      "48161000",
-      "72212160",
-      "48612000",
-      "48611000",
-      "48610000",
-      "48600000",
-      "72212610",
-      "72212600",
-      "72321000",
-      "72320000",
-      "22211000",
-      "22211100",
-      "22200000",
-      "92510000",
-      "92511000",
-      "30238000",
-      "79995000",
-      "48160000",
-      "48161000",
-      "72212160",
-      "48612000",
-      "48611000",
-      "48610000",
-      "48600000",
-      "72212610",
-      "72212600",
-      "72321000",
-      "72320000",
-      "22211000",
-      "22211100",
-      "22200000",
-      "92510000",
-      "92511000",
-      "30238000",
-      "79995000",
-      "48160000",
-      "48161000",
-      "72212160",
-      "48612000",
-      "48611000",
-      "48610000",
-      "48600000",
-      "72212610",
-      "72212600",
-      "72321000",
-      "72320000",
-      "22211000",
-      "22211100",
-      "22200000",
-      "92510000",
-      "92511000",
-      "30238000",
-      "79995000",
-      "48160000",
-      "48161000",
-      "72212160",
-      "48612000",
-      "48611000",
-      "48610000",
-      "48600000",
-      "72212610",
-      "72212600",
-      "72321000",
-      "72320000",
-      "22211000",
-      "22211100",
-      "22200000",
-      "92510000",
-      "92511000",
-      "30238000",
-      "79995000",
-      "48160000",
-      "48161000",
-      "72212160",
-      "48612000",
-      "48611000",
-      "48610000",
-      "48600000",
-      "72212610",
-      "72212600",
-      "72321000",
-      "72320000",
-      "22211000",
-      "22211100",
-      "22200000",
-      "92510000",
-      "92511000",
-      "30238000",
-      "79995000",
-      "48160000",
-      "48161000",
-      "72212160",
-      "48612000",
-      "48611000",
-      "48610000",
-      "48600000",
-      "72212610",
-      "72212600",
-      "72321000",
-      "72320000",
-      "22211000",
-      "22211100",
-      "22200000",
-      "92510000",
-      "92511000",
-      "30238000",
-      "79995000",
-      "48160000",
-      "48161000",
-      "72212160",
-      "48612000",
-      "48611000",
-      "48610000",
-      "48600000",
-      "72212610",
-      "72212600",
-      "72321000",
-      "72320000",
-      "22211000",
-      "22211100",
-      "22200000",
-      "92510000",
-      "92511000",
-      "30238000",
-      "79995000",
-      "48160000",
-      "48161000",
-      "72212160",
-      "48612000",
-      "48611000",
-      "48610000",
-      "48600000",
-      "72212610",
-      "72212600",
-      "72321000",
-      "72320000",
-      "22211000",
-      "22211100",
-      "22200000",
-      "92510000",
-      "92511000",
-      "30238000",
-      "79995000",
-      "48160000",
-      "48161000",
-      "72212160",
-      "48612000",
-      "48611000",
-      "48610000",
-      "48600000",
-      "72212610",
-      "72212600",
-      "72321000",
-      "72320000",
-      "22211000",
-      "22211100",
-      "22200000",
-      "92510000",
-      "92511000",
-      "30238000",
-      "79995000",
-      "48160000",
-      "48161000",
-      "72212160",
-      "48612000",
-      "48611000",
-      "48610000",
-      "48600000",
-      "72212610",
-      "72212600",
-      "72321000",
-      "72320000",
-      "22211000",
-      "22211100",
-      "22200000"
-    ],
-    "status": "active",
-    "relevance": 45,
-    "matched": [
-      "CPV 30238000",
-      "CPV 48160000",
-      "CPV 48161000",
-      "CPV 72212160"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/606405-2026",
-    "fetched_at": "2026-09-10T14:18:03.869054Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:607425-2026",
-    "id": "607425-2026",
-    "ocid": null,
-    "title": "Ireland – Installation of road signals – Cork City Council Transportation Division ITS Contractors Panel",
-    "buyer": "Cork City Council",
-    "description": "Active Irish procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-03T02:00:00Z",
-    "deadline": null,
-    "value": 10000000.0,
-    "currency": "EUR",
-    "cpv": [
-      "45233294",
-      "32522000",
-      "32234000",
-      "48813200",
-      "48821000",
-      "31710000",
-      "45000000",
-      "45233120",
-      "45233150",
-      "45233293",
-      "45233294",
-      "32522000",
-      "32234000",
-      "48813200",
-      "48821000",
-      "31710000",
-      "45000000",
-      "45233120",
-      "45233150",
-      "45233293"
-    ],
-    "status": "active",
-    "relevance": 45,
-    "matched": [
-      "CPV 32522000",
-      "CPV 48813200",
-      "CPV 48821000"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/607425-2026",
-    "fetched_at": "2026-09-10T13:22:24.100054Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:605262-2026",
-    "id": "605262-2026",
-    "ocid": null,
-    "title": "Ireland – Administrative educational services – Provision of Proofpoint security education platform and Phishing Simulation",
-    "buyer": "National Transport Authority_1149",
-    "description": "Active Irish procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-02T02:00:00Z",
-    "deadline": null,
-    "value": 120000.0,
-    "currency": "EUR",
-    "cpv": [
-      "75121000",
-      "48730000",
-      "48700000",
-      "48000000",
-      "48931000",
-      "75121000",
-      "48730000",
-      "48700000",
-      "48000000",
-      "48931000"
-    ],
-    "status": "active",
-    "relevance": 45,
-    "matched": [
-      "CPV 48000000",
-      "CPV 48700000",
-      "CPV 48730000",
-      "CPV 48931000"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/605262-2026",
-    "fetched_at": "2026-09-10T13:22:24.100649Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:602273-2026",
-    "id": "602273-2026",
-    "ocid": null,
-    "title": "Ireland – System and support services – Voluntary Ex Ante Transparency Notice for Provision of Licenses and Support for DCC Optimum Clocking System",
-    "buyer": "Dublin City Council",
-    "description": "Active Irish procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-01T02:00:00Z",
-    "deadline": null,
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "72250000",
-      "72212218",
-      "72212900",
-      "72253200",
-      "72250000"
-    ],
-    "status": "active",
-    "relevance": 45,
-    "matched": [
-      "CPV 72212218",
-      "CPV 72212900",
-      "CPV 72250000",
-      "CPV 72253200"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/602273-2026",
-    "fetched_at": "2026-09-10T13:22:24.101685Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:623125-2026",
-    "id": "623125-2026",
-    "ocid": null,
-    "title": "Ireland – Installation services of electricity control equipment – Request for Tenders for the Provision of a Capacity Auction Monitor. Joint request of the Commission for Regulation of Utilities (“CRU”) and The Utility Regulator (“UR”)",
-    "buyer": "Commission for Regulation of Utilities",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-10T02:00:00Z",
-    "deadline": null,
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "51112200",
-      "79417000",
-      "71318000",
-      "71621000",
-      "72246000",
-      "71310000",
-      "71314300",
-      "71311000",
-      "71312000",
-      "71313000",
-      "72220000",
-      "73220000",
-      "73200000",
-      "90711500",
-      "72221000",
-      "79411100",
-      "79410000",
-      "79400000",
-      "51112200",
-      "79417000",
-      "71318000",
-      "71621000",
-      "72246000",
-      "71310000",
-      "71314300",
-      "71311000",
-      "71312000",
-      "71313000",
-      "72220000",
-      "73220000",
-      "73200000",
-      "90711500",
-      "72221000",
-      "79411100",
-      "79410000",
-      "79400000"
-    ],
-    "status": "active",
-    "relevance": 45,
-    "matched": [
-      "CPV 72220000",
-      "CPV 72221000",
-      "CPV 72246000"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/623125-2026",
-    "fetched_at": "2026-09-10T14:18:03.854450Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:625985-2026",
-    "id": "625985-2026",
-    "ocid": null,
-    "title": "Ireland – Office supplies – 0012 - The Provision of Epson Toners",
-    "buyer": "An Post_391",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-10T02:00:00Z",
-    "deadline": null,
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "30192000",
-      "30192110",
-      "30192112",
-      "30192113",
-      "30190000",
-      "30192000",
-      "30192110",
-      "30192112",
-      "30192113",
-      "30190000"
-    ],
-    "status": "active",
-    "relevance": 45,
-    "matched": [
-      "CPV 30192000",
-      "CPV 30192110",
-      "CPV 30192112",
-      "CPV 30192113"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/625985-2026",
-    "fetched_at": "2026-09-10T14:18:03.854519Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:620736-2026",
-    "id": "620736-2026",
-    "ocid": null,
-    "title": "Ireland – Satellite communications equipment – MI-CFT26-002 - Request for Tenders for the provision of Satellite tags",
-    "buyer": "Marine Institute_1141",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-09T02:00:00Z",
-    "deadline": null,
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "32531000",
-      "35121600",
-      "32441000",
-      "32440000",
-      "32531000",
-      "35121600",
-      "32441000",
-      "32440000"
-    ],
-    "status": "active",
-    "relevance": 45,
-    "matched": [
-      "CPV 32440000",
-      "CPV 32441000",
-      "CPV 32531000"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/620736-2026",
-    "fetched_at": "2026-09-10T14:18:03.856205Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:611516-2026",
-    "id": "611516-2026",
-    "ocid": null,
-    "title": "Ireland – Retail trade services – P20614 - Digital Prepaid Cards",
-    "buyer": "daa plc",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-04T02:00:00Z",
-    "deadline": null,
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "55900000",
-      "30161000",
-      "30162000",
-      "30163000",
-      "30237131",
-      "55900000",
-      "30161000",
-      "30162000",
-      "30163000",
-      "30237131"
-    ],
-    "status": "active",
-    "relevance": 45,
-    "matched": [
-      "CPV 30161000",
-      "CPV 30162000",
-      "CPV 30163000",
-      "CPV 30237131"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/611516-2026",
-    "fetched_at": "2026-09-10T14:18:03.864935Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:611586-2026",
-    "id": "611586-2026",
-    "ocid": null,
-    "title": "Ireland – Credit cards – P20940 - Digital Prepaid Cards",
-    "buyer": "daa plc",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-04T02:00:00Z",
-    "deadline": null,
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "30161000",
-      "30162000",
-      "30163000",
-      "30237131",
-      "55900000",
-      "30161000",
-      "30162000",
-      "30163000",
-      "30237131",
-      "55900000"
-    ],
-    "status": "active",
-    "relevance": 45,
-    "matched": [
-      "CPV 30161000",
-      "CPV 30162000",
-      "CPV 30163000",
-      "CPV 30237131"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/611586-2026",
-    "fetched_at": "2026-09-10T14:18:03.865737Z"
+    "fetched_at": "2026-09-10T14:20:24.014963Z"
   },
   {
     "key": "eTenders Ireland / TED:609619-2026",
@@ -3733,137 +1797,7 @@
       "hosting"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/609619-2026",
-    "fetched_at": "2026-09-10T14:18:03.866114Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:611465-2026",
-    "id": "611465-2026",
-    "ocid": null,
-    "title": "Ireland – IT services: consulting, software development, Internet and support – P21178 IT Resource Qualification Framework",
-    "buyer": "daa plc",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-04T02:00:00Z",
-    "deadline": null,
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "72000000",
-      "72000000"
-    ],
-    "status": "active",
-    "relevance": 43,
-    "matched": [
-      "CPV 72000000",
-      "software"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/611465-2026",
-    "fetched_at": "2026-09-10T14:18:03.865355Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:607241-2026",
-    "id": "607241-2026",
-    "ocid": null,
-    "title": "Ireland – IT services: consulting, software development, Internet and support – Support, Maintenance and Further Development of an Integrated Workplace Management System - Tririga",
-    "buyer": "Office of Public Works (OPW)",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-03T02:00:00Z",
-    "deadline": null,
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "72000000",
-      "72000000"
-    ],
-    "status": "active",
-    "relevance": 43,
-    "matched": [
-      "CPV 72000000",
-      "software"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/607241-2026",
-    "fetched_at": "2026-09-10T14:18:03.868038Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:600596-2026",
-    "id": "600596-2026",
-    "ocid": null,
-    "title": "Ireland – IT services: consulting, software development, Internet and support – RFT for Standard Notebook, Standard CAD Notebook and High Spec CAD Notebook",
-    "buyer": "Office of Public Works (OPW)",
-    "description": "Active Irish procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-01T02:00:00Z",
-    "deadline": null,
-    "value": 400000.0,
-    "currency": "EUR",
-    "cpv": [
-      "72000000",
-      "72000000"
-    ],
-    "status": "active",
-    "relevance": 43,
-    "matched": [
-      "CPV 72000000",
-      "software"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/600596-2026",
-    "fetched_at": "2026-09-10T13:22:24.101286Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:599180-2026",
-    "id": "599180-2026",
-    "ocid": null,
-    "title": "Ireland – IT services: consulting, software development, Internet and support – 2026/022 Single Party Framework Agreement For The Provision Of The Supply Of Adobe Software Licencing Services",
-    "buyer": "Enterprise Ireland",
-    "description": "Active Irish procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-08-31T02:00:00Z",
-    "deadline": null,
-    "value": 150000.0,
-    "currency": "EUR",
-    "cpv": [
-      "72000000",
-      "72000000"
-    ],
-    "status": "active",
-    "relevance": 43,
-    "matched": [
-      "CPV 72000000",
-      "software"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/599180-2026",
-    "fetched_at": "2026-09-10T13:22:24.101788Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:591450-2026",
-    "id": "591450-2026",
-    "ocid": null,
-    "title": "Ireland – Software package and information systems – HSE 28374 Extension of Provision of a National Estates Information System (NEIS) to the HSE",
-    "buyer": "Health Service Executive (HSE)",
-    "description": "Active Irish procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-08-27T02:00:00Z",
-    "deadline": null,
-    "value": 838700.0,
-    "currency": "EUR",
-    "cpv": [
-      "48000000",
-      "48000000"
-    ],
-    "status": "active",
-    "relevance": 43,
-    "matched": [
-      "CPV 48000000",
-      "software"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/591450-2026",
-    "fetched_at": "2026-09-10T13:22:24.103108Z"
+    "fetched_at": "2026-09-10T14:20:24.029913Z"
   },
   {
     "key": "eTenders Ireland / TED:598452-2026",
@@ -3921,39 +1855,7 @@
       "CPV 72320000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/616933-2026",
-    "fetched_at": "2026-09-10T14:18:03.858884Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:603469-2026",
-    "id": "603469-2026",
-    "ocid": null,
-    "title": "Ireland – Instrumentation and control equipment – Supply of 3 Building Management Systems to TUS Midwest",
-    "buyer": "Technological University of the Shannon: Midlands Midwest (TUSMM)",
-    "description": "Active Irish procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-02T02:00:00Z",
-    "deadline": null,
-    "value": 248513.0,
-    "currency": "EUR",
-    "cpv": [
-      "31682210",
-      "42961200",
-      "48000000",
-      "48421000",
-      "31682210",
-      "42961200",
-      "48000000",
-      "48421000"
-    ],
-    "status": "active",
-    "relevance": 40,
-    "matched": [
-      "CPV 48000000",
-      "CPV 48421000"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/603469-2026",
-    "fetched_at": "2026-09-10T13:22:24.100295Z"
+    "fetched_at": "2026-09-10T14:20:24.021932Z"
   },
   {
     "key": "Find a Tender:085492-2026",
@@ -3980,7 +1882,7 @@
       "website"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/085492-2026",
-    "fetched_at": "2026-09-10T14:17:13.868098Z"
+    "fetched_at": "2026-09-10T14:19:28.893430Z"
   },
   {
     "key": "Find a Tender:084917-2026",
@@ -4008,7 +1910,7 @@
       "it system"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/084917-2026",
-    "fetched_at": "2026-09-10T14:17:13.869407Z"
+    "fetched_at": "2026-09-10T14:19:28.895007Z"
   },
   {
     "key": "Public Contracts Scotland:rls-14-SEP564054",
@@ -4036,7 +1938,7 @@
       "it system"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564054",
-    "fetched_at": "2026-09-10T14:17:51.623870Z"
+    "fetched_at": "2026-09-10T14:20:17.538996Z"
   },
   {
     "key": "Find a Tender:084996-2026",
@@ -4065,7 +1967,7 @@
       "CPV 72316000"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/084996-2026",
-    "fetched_at": "2026-09-10T14:17:13.868793Z"
+    "fetched_at": "2026-09-10T14:19:28.894266Z"
   },
   {
     "key": "Public Contracts Scotland:rls-11-SEP564071",
@@ -4094,7 +1996,7 @@
       "CPV 72316000"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564071",
-    "fetched_at": "2026-09-10T14:17:51.623494Z"
+    "fetched_at": "2026-09-10T14:20:17.538564Z"
   },
   {
     "key": "Public Contracts Scotland:rls-23-SEP564104",
@@ -4146,7 +2048,7 @@
       "portal"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564104",
-    "fetched_at": "2026-09-10T14:18:03.152843Z"
+    "fetched_at": "2026-09-10T14:20:23.332987Z"
   },
   {
     "key": "eTenders Ireland / TED:619079-2026",
@@ -4181,7 +2083,7 @@
       "CPV 72224000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/619079-2026",
-    "fetched_at": "2026-09-10T14:18:03.860440Z"
+    "fetched_at": "2026-09-10T14:20:24.023677Z"
   },
   {
     "key": "eTenders Ireland / TED:609078-2026",
@@ -4212,7 +2114,7 @@
       "CPV 72224000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/609078-2026",
-    "fetched_at": "2026-09-10T14:18:03.867649Z"
+    "fetched_at": "2026-09-10T14:20:24.031607Z"
   },
   {
     "key": "eTenders Ireland / TED:625738-2026",
@@ -4243,7 +2145,7 @@
       "CPV 72221000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/625738-2026",
-    "fetched_at": "2026-09-10T14:18:03.854295Z"
+    "fetched_at": "2026-09-10T14:20:24.016830Z"
   },
   {
     "key": "eTenders Ireland / TED:625880-2026",
@@ -4270,7 +2172,7 @@
       "CPV 72224000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/625880-2026",
-    "fetched_at": "2026-09-10T14:18:03.854011Z"
+    "fetched_at": "2026-09-10T14:20:24.016481Z"
   },
   {
     "key": "eTenders Ireland / TED:622647-2026",
@@ -4299,7 +2201,7 @@
       "CPV 72224000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/622647-2026",
-    "fetched_at": "2026-09-10T14:18:03.857234Z"
+    "fetched_at": "2026-09-10T14:20:24.020077Z"
   },
   {
     "key": "eTenders Ireland / TED:621494-2026",
@@ -4328,7 +2230,7 @@
       "CPV 72224000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/621494-2026",
-    "fetched_at": "2026-09-10T14:18:03.857773Z"
+    "fetched_at": "2026-09-10T14:20:24.020671Z"
   },
   {
     "key": "eTenders Ireland / TED:621111-2026",
@@ -4357,7 +2259,7 @@
       "CPV 72224000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/621111-2026",
-    "fetched_at": "2026-09-10T14:18:03.858165Z"
+    "fetched_at": "2026-09-10T14:20:24.021129Z"
   },
   {
     "key": "eTenders Ireland / TED:614458-2026",
@@ -4396,212 +2298,7 @@
       "CPV 30231300"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/614458-2026",
-    "fetched_at": "2026-09-10T14:18:03.862051Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:622835-2026",
-    "id": "622835-2026",
-    "ocid": null,
-    "title": "Ireland – Marketing management consultancy services – MA3720C TCD RFT for the Provision of Media Strategy, Planning and Buying Services",
-    "buyer": "Education Procurement Service (EPS)",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-10T02:00:00Z",
-    "deadline": null,
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "79413000",
-      "72212480",
-      "79342000",
-      "79342100",
-      "79340000",
-      "79413000",
-      "72212480",
-      "79342000",
-      "79342100",
-      "79340000"
-    ],
-    "status": "active",
-    "relevance": 30,
-    "matched": [
-      "CPV 72212480"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/622835-2026",
-    "fetched_at": "2026-09-10T14:18:03.851748Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:621478-2026",
-    "id": "621478-2026",
-    "ocid": null,
-    "title": "Ireland – School books – CL3432DPS - Dynamic Purchasing System for the Supply of Schoolbooks to the Education and Training Boards (ETBs)",
-    "buyer": "Education Procurement Service (EPS)",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-09T02:00:00Z",
-    "deadline": null,
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "22111000",
-      "22112000",
-      "48190000",
-      "22114000",
-      "22000000",
-      "22111000",
-      "22112000",
-      "48190000",
-      "22114000",
-      "22000000"
-    ],
-    "status": "active",
-    "relevance": 30,
-    "matched": [
-      "CPV 48190000"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/621478-2026",
-    "fetched_at": "2026-09-10T14:18:03.856608Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:620352-2026",
-    "id": "620352-2026",
-    "ocid": null,
-    "title": "Ireland – School books – Invitation to Tender for the Supply of School Books to Kerry Education and Training Board",
-    "buyer": "Kerry Education and Training Board",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-09T02:00:00Z",
-    "deadline": null,
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "22111000",
-      "22112000",
-      "48190000",
-      "22114000",
-      "22000000",
-      "22111000",
-      "22112000",
-      "48190000",
-      "22114000",
-      "22000000"
-    ],
-    "status": "active",
-    "relevance": 30,
-    "matched": [
-      "CPV 48190000"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/620352-2026",
-    "fetched_at": "2026-09-10T14:18:03.856277Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:611594-2026",
-    "id": "611594-2026",
-    "ocid": null,
-    "title": "Ireland – Computer equipment and supplies – Supply and Delivery of IT Hardware “Tech2Settings”",
-    "buyer": "Early Years- the Organisation for Young Children_207",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-04T02:00:00Z",
-    "deadline": null,
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "30200000",
-      "30200000"
-    ],
-    "status": "active",
-    "relevance": 30,
-    "matched": [
-      "CPV 30200000"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/611594-2026",
-    "fetched_at": "2026-09-10T14:18:03.864981Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:621878-2026",
-    "id": "621878-2026",
-    "ocid": null,
-    "title": "Ireland – Acoustic devices – MI-CFT26-001 - Request for Tenders for the provision of Acoustic telemetry Equipment",
-    "buyer": "Marine Institute_1141",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-09T02:00:00Z",
-    "deadline": null,
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "32342400",
-      "35121600",
-      "32441000",
-      "38517000",
-      "32342400",
-      "35121600",
-      "32441000",
-      "38517000"
-    ],
-    "status": "active",
-    "relevance": 30,
-    "matched": [
-      "CPV 32441000"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/621878-2026",
-    "fetched_at": "2026-09-10T14:18:03.855443Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:619335-2026",
-    "id": "619335-2026",
-    "ocid": null,
-    "title": "Ireland – Data services – 24-028 Data Centre Co-Location Services",
-    "buyer": "Uisce Éireann",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-09T02:00:00Z",
-    "deadline": null,
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "72300000",
-      "72300000"
-    ],
-    "status": "active",
-    "relevance": 30,
-    "matched": [
-      "CPV 72300000"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/619335-2026",
-    "fetched_at": "2026-09-10T14:18:03.857307Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:608454-2026",
-    "id": "608454-2026",
-    "ocid": null,
-    "title": "Ireland – Consoles – Purchase of 2x Tovertafel units + packages",
-    "buyer": "Leitrim County Council_2136",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-03T02:00:00Z",
-    "deadline": null,
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "30231200",
-      "30231200"
-    ],
-    "status": "active",
-    "relevance": 30,
-    "matched": [
-      "CPV 30231200"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/608454-2026",
-    "fetched_at": "2026-09-10T14:18:03.869314Z"
+    "fetched_at": "2026-09-10T14:20:24.025441Z"
   },
   {
     "key": "Public Contracts Scotland:rls-29-SEP563674",
@@ -4630,7 +2327,7 @@
       "CPV 72212190"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563674",
-    "fetched_at": "2026-09-10T14:17:51.625158Z"
+    "fetched_at": "2026-09-10T14:20:17.540561Z"
   },
   {
     "key": "Find a Tender:084457-2026",
@@ -4692,7 +2389,7 @@
       "CPV 30237136"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563932",
-    "fetched_at": "2026-09-10T14:17:51.624697Z"
+    "fetched_at": "2026-09-10T14:20:17.540002Z"
   },
   {
     "key": "Find a Tender:084956-2026",
@@ -4718,7 +2415,7 @@
       "CPV 72000000"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/084956-2026",
-    "fetched_at": "2026-09-10T14:17:13.869141Z"
+    "fetched_at": "2026-09-10T14:19:28.894691Z"
   },
   {
     "key": "Find a Tender:084863-2026",
@@ -4744,7 +2441,7 @@
       "CPV 72222300"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/084863-2026",
-    "fetched_at": "2026-09-10T14:17:13.869729Z"
+    "fetched_at": "2026-09-10T14:19:28.895363Z"
   },
   {
     "key": "Public Contracts Scotland:rls-12-SEP564061",
@@ -4770,7 +2467,7 @@
       "CPV 72000000"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564061",
-    "fetched_at": "2026-09-10T14:17:51.623658Z"
+    "fetched_at": "2026-09-10T14:20:17.538754Z"
   },
   {
     "key": "Public Contracts Scotland:rls-17-SEP564038",
@@ -4796,7 +2493,7 @@
       "CPV 72222300"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564038",
-    "fetched_at": "2026-09-10T14:17:51.624258Z"
+    "fetched_at": "2026-09-10T14:20:17.539482Z"
   },
   {
     "key": "Find a Tender:085284-2026",
@@ -4839,7 +2536,7 @@
       "portal"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/085284-2026",
-    "fetched_at": "2026-09-10T14:17:13.868351Z"
+    "fetched_at": "2026-09-10T14:19:28.893756Z"
   },
   {
     "key": "Find a Tender:084958-2026",
@@ -4866,7 +2563,7 @@
       "infrastructure"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/084958-2026",
-    "fetched_at": "2026-09-10T14:17:13.868989Z"
+    "fetched_at": "2026-09-10T14:19:28.894495Z"
   },
   {
     "key": "Public Contracts Scotland:rls-13-SEP564059",
@@ -4893,7 +2590,7 @@
       "infrastructure"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564059",
-    "fetched_at": "2026-09-10T14:17:51.623725Z"
+    "fetched_at": "2026-09-10T14:20:17.538829Z"
   },
   {
     "key": "Public Contracts Scotland:rls-31-SEP563829",
@@ -4943,7 +2640,7 @@
       "cms"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563829",
-    "fetched_at": "2026-09-10T14:18:03.153160Z"
+    "fetched_at": "2026-09-10T14:20:23.333380Z"
   },
   {
     "key": "eTenders Ireland / TED:612834-2026",
@@ -4988,7 +2685,7 @@
       "api"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/612834-2026",
-    "fetched_at": "2026-09-10T14:18:03.861255Z"
+    "fetched_at": "2026-09-10T14:20:24.024572Z"
   },
   {
     "key": "Find a Tender:084712-2026",
@@ -5012,7 +2709,7 @@
       "ict"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/084712-2026",
-    "fetched_at": "2026-09-10T14:17:13.870521Z"
+    "fetched_at": "2026-09-10T14:19:28.896323Z"
   },
   {
     "key": "Find a Tender:085498-2026",
@@ -5036,7 +2733,7 @@
       "ict"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/085498-2026",
-    "fetched_at": "2026-09-10T14:17:13.867968Z"
+    "fetched_at": "2026-09-10T14:19:28.893270Z"
   },
   {
     "key": "Public Contracts Scotland:rls-5-SEP564191",
@@ -5060,7 +2757,7 @@
       "ict"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564191",
-    "fetched_at": "2026-09-10T14:17:51.623053Z"
+    "fetched_at": "2026-09-10T14:20:17.538029Z"
   },
   {
     "key": "Find a Tender:085639-2026",
@@ -5084,7 +2781,7 @@
       "ict"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/085639-2026",
-    "fetched_at": "2026-09-10T14:17:13.867702Z"
+    "fetched_at": "2026-09-10T14:19:28.892949Z"
   },
   {
     "key": "Public Contracts Scotland:rls-2-SEP564224",
@@ -5108,7 +2805,7 @@
       "ict"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564224",
-    "fetched_at": "2026-09-10T14:17:51.622848Z"
+    "fetched_at": "2026-09-10T14:20:17.537776Z"
   },
   {
     "key": "Public Contracts Scotland:rls-32-SEP563568",
@@ -5137,7 +2834,7 @@
       "erp"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563568",
-    "fetched_at": "2026-09-10T14:17:51.625295Z"
+    "fetched_at": "2026-09-10T14:20:17.540735Z"
   },
   {
     "key": "Public Contracts Scotland:rls-3-SEP563830",
@@ -5161,93 +2858,6 @@
       "erp"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563830",
-    "fetched_at": "2026-09-10T14:17:57.079482Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:598610-2026",
-    "id": "598610-2026",
-    "ocid": null,
-    "title": "Ireland – Installation services (except software) – Supply and Installation of One 1500KVA Generator, including remote alarms and BMS monitoring to local BMS",
-    "buyer": "Children's Health Ireland (CHI)",
-    "description": "Active Irish procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-08-31T02:00:00Z",
-    "deadline": null,
-    "value": 1.0,
-    "currency": "EUR",
-    "cpv": [
-      "51000000",
-      "51100000",
-      "51500000",
-      "50000000",
-      "51000000",
-      "51100000",
-      "51500000",
-      "50000000"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "software"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/598610-2026",
-    "fetched_at": "2026-09-10T13:22:24.101862Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:617823-2026",
-    "id": "617823-2026",
-    "ocid": null,
-    "title": "Ireland – Translation services – 2025/56 - Irish Sign Language Interpreters for LMETB",
-    "buyer": "Louth and Meath Education and Training Board 1384",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-08T02:00:00Z",
-    "deadline": null,
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "79530000",
-      "79540000",
-      "79530000",
-      "79540000"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "erp"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/617823-2026",
-    "fetched_at": "2026-09-10T14:18:03.858320Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:617101-2026",
-    "id": "617101-2026",
-    "ocid": null,
-    "title": "Ireland – Other community, social and personal services – ITT 58/2026 - MultiQuote Ref CA18422 - PEACEPLUS Progressive Conflict Resolution Programme",
-    "buyer": "Newry Mourne and Down District Council",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-08T02:00:00Z",
-    "deadline": null,
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "98000000",
-      "92000000",
-      "80000000",
-      "98000000",
-      "92000000",
-      "80000000"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "ict"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/617101-2026",
-    "fetched_at": "2026-09-10T14:18:03.858946Z"
+    "fetched_at": "2026-09-10T14:20:19.333229Z"
   }
 ]
