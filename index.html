@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Live UK and Ireland technology tender monitor." />
+  <title>Tender Radar — UK & Ireland Tech Opportunities</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="brand-mark">TR</span>
+      <div>
+        <strong>Tender Radar</strong>
+        <span>UK & Ireland Technology Opportunities</span>
+      </div>
+    </div>
+    <div class="live"><span class="dot"></span> LIVE MONITOR</div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div>
+        <p class="eyebrow">PUBLIC PROCUREMENT INTELLIGENCE</p>
+        <h1>Cloud, software, web & IT tenders in one live feed.</h1>
+        <p class="subtitle">Monitoring Find a Tender, Sell2Wales, Public Contracts Scotland and eTenders Ireland/TED. Data refreshes automatically in the background.</p>
+      </div>
+      <div class="refresh-card">
+        <span>Last data refresh</span>
+        <strong id="lastUpdated">Loading…</strong>
+        <small id="sourceHealth">Checking sources…</small>
+      </div>
+    </section>
+
+    <section class="stats" aria-label="Tender statistics">
+      <article><span>Open matches</span><strong id="totalCount">—</strong></article>
+      <article><span>High relevance</span><strong id="highCount">—</strong></article>
+      <article><span>Closing in 7 days</span><strong id="closingCount">—</strong></article>
+      <article><span>Sources active</span><strong id="sourceCount">—</strong></article>
+    </section>
+
+    <section class="controls">
+      <label class="search-box">
+        <span>Search</span>
+        <input id="search" type="search" placeholder="cloud, CRM, website, AI, buyer…" />
+      </label>
+      <label>
+        <span>Source</span>
+        <select id="source"><option value="all">All sources</option></select>
+      </label>
+      <label>
+        <span>Relevance</span>
+        <select id="relevance">
+          <option value="12">All tech matches</option>
+          <option value="35" selected>Good fit 35+</option>
+          <option value="60">Strong fit 60+</option>
+          <option value="80">Excellent fit 80+</option>
+        </select>
+      </label>
+      <label>
+        <span>Sort</span>
+        <select id="sort">
+          <option value="relevance">Best match</option>
+          <option value="deadline">Deadline soonest</option>
+          <option value="newest">Newest first</option>
+          <option value="value">Highest value</option>
+        </select>
+      </label>
+    </section>
+
+    <div class="results-head">
+      <div><strong id="visibleCount">0</strong> opportunities shown</div>
+      <button id="refreshBtn" type="button">Refresh view</button>
+    </div>
+
+    <section id="tenderList" class="tender-list" aria-live="polite"></section>
+    <div id="emptyState" class="empty" hidden>No opportunities match the current filters.</div>
+  </main>
+
+  <footer>
+    <p>Always verify deadlines, eligibility and procurement documents on the original buyer portal before bidding.</p>
+  </footer>
+  <script src="app.js"></script>
+</body>
+</html>
