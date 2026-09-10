@@ -26,7 +26,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
+          ref: main
           fetch-depth: 0
+      - name: Sync latest main
+        run: git pull --ff-only origin main
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
@@ -40,9 +43,23 @@ jobs:
             echo "No tender data changes"
             exit 0
           fi
+
+          cp data/tenders.json /tmp/tenders.json
+          cp data/status.json /tmp/status.json
+
+          git fetch origin main
+          git reset --hard origin/main
+
+          cp /tmp/tenders.json data/tenders.json
+          cp /tmp/status.json data/status.json
+
+          if git diff --quiet -- data/tenders.json data/status.json; then
+            echo "No tender data changes after sync"
+            exit 0
+          fi
+
           git config user.name "tender-radar-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/tenders.json data/status.json
           git commit -m "chore: refresh tender data"
-          git pull --rebase origin main
-          git push origin main
+          git push origin HEAD:main
