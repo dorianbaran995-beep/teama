@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-10T18:24:16.841566Z",
-  "count": 99,
+  "updated_at": "2026-09-10T18:25:38.656510Z",
+  "count": 73,
   "fresh_count": 104,
   "sources": {
     "Find a Tender": 13,
@@ -9,5 +9,6 @@
     "eTenders Ireland / TED": 64,
     "Poland / TED": 8
   },
-  "errors": []
+  "errors": [],
+  "false_positive_removed": 26
 }
