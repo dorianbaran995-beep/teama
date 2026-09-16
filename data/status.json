@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-15T21:08:38.610210Z",
-  "count": 152,
-  "fresh_count": 102,
+  "updated_at": "2026-09-16T09:48:58.692994Z",
+  "count": 172,
+  "fresh_count": 98,
   "sources": {
     "Find a Tender": 2,
     "Sell2Wales": 0,
-    "Public Contracts Scotland": 28,
-    "eTenders Ireland / TED": 65,
-    "Poland / TED": 7
+    "Public Contracts Scotland": 29,
+    "eTenders Ireland / TED": 59,
+    "Poland / TED": 8
   },
   "errors": [],
-  "false_positive_removed": 13
+  "false_positive_removed": 15
 }
