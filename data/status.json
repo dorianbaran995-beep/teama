@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-22T21:09:37.158547Z",
-  "count": 330,
+  "updated_at": "2026-09-23T09:52:14.075191Z",
+  "count": 349,
   "fresh_count": 121,
   "sources": {
     "Find a Tender": 3,
@@ -10,5 +10,5 @@
     "Poland / TED": 6
   },
   "errors": [],
-  "false_positive_removed": 18
+  "false_positive_removed": 20
 }
