@@ -1,5 +1,110 @@
 [
   {
+    "key": "Public Contracts Scotland:rls-82-SEP563567",
+    "id": "rls-82-SEP563567",
+    "ocid": "ocds-r6ebe6-0000841718",
+    "title": "Provision of Corporate Technology Platform (EcoSystem)",
+    "buyer": "Scottish Police Authority",
+    "description": "The Authority intends to procure a modern Corporate Technology Platform (Ecosystem) to replace fragmented and ageing legacy corporate systems and provide an integrated digital platform supporting key enabling services across Police Scotland. The requirement is for an integrated Enterprise Resource Planning (ERP) and Human Capital Management (HCM) Ecosystem, together with the associated hosting, integration, implementation, data migration, training, transition, support and professional services required to deliver and sustain the solution. The Contract is expected to be for a period of seven (7) years with options, exercisable solely at the Authority's discretion, to extend by up to three (3) further periods of twelve (12) months each, giving a maximum potential duration of ten (10) years.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-09-01T00:00:00Z",
+    "deadline": "2026-10-05T12:00:00Z",
+    "value": 51700000.0,
+    "currency": "GBP",
+    "cpv": [
+      "48000000",
+      "48100000",
+      "48422000",
+      "48440000",
+      "48441000",
+      "48442000",
+      "48450000",
+      "48451000",
+      "48490000",
+      "48517000",
+      "48900000",
+      "72210000",
+      "72212100",
+      "72222300",
+      "72227000",
+      "72254000",
+      "72260000",
+      "72261000",
+      "72263000",
+      "72265000",
+      "72266000",
+      "72267000",
+      "72267100",
+      "72267200"
+    ],
+    "status": "active",
+    "relevance": 87,
+    "matched": [
+      "CPV 48000000",
+      "CPV 48100000",
+      "CPV 48422000",
+      "CPV 48440000",
+      "digital platform",
+      "erp",
+      "hosting",
+      "integration"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563567",
+    "fetched_at": "2026-09-25T10:06:20.639495Z"
+  },
+  {
+    "key": "eTenders Ireland / TED:647642-2026",
+    "id": "647642-2026",
+    "ocid": null,
+    "title": "Ireland – IT services: consulting, software development, Internet and support – Single-party Framework for the Provision of Website Design, Hosting and Support for New Website and Related Services",
+    "buyer": "Charities Regulator",
+    "description": "Active Irish public procurement notice published through TED/eTenders.",
+    "source": "eTenders Ireland / TED",
+    "country": "Ireland",
+    "published_at": "2026-09-21T02:00:00Z",
+    "deadline": "2026-10-07T11:00:00Z",
+    "value": null,
+    "currency": "EUR",
+    "cpv": [
+      "72000000",
+      "72212224",
+      "72420000",
+      "72212220",
+      "72500000",
+      "72413000",
+      "72400000",
+      "72410000",
+      "72590000",
+      "72222300",
+      "72000000",
+      "72212224",
+      "72420000",
+      "72212220",
+      "72500000",
+      "72413000",
+      "72400000",
+      "72410000",
+      "72590000",
+      "72222300"
+    ],
+    "status": "active",
+    "relevance": 100,
+    "matched": [
+      "CPV 72000000",
+      "CPV 72212220",
+      "CPV 72212224",
+      "CPV 72420000",
+      "hosting",
+      "new website",
+      "software",
+      "website",
+      "website design"
+    ],
+    "url": "https://ted.europa.eu/en/notice/-/detail/647642-2026",
+    "fetched_at": "2026-09-25T10:06:39.741086Z"
+  },
+  {
     "key": "Public Contracts Scotland:rls-80-SEP563567",
     "id": "rls-80-SEP563567",
     "ocid": "ocds-r6ebe6-0000841718",
@@ -52,57 +157,6 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563567",
     "fetched_at": "2026-09-24T21:24:14.847363Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:647642-2026",
-    "id": "647642-2026",
-    "ocid": null,
-    "title": "Ireland – IT services: consulting, software development, Internet and support – Single-party Framework for the Provision of Website Design, Hosting and Support for New Website and Related Services",
-    "buyer": "Charities Regulator",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-21T02:00:00Z",
-    "deadline": "2026-10-07T11:00:00Z",
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "72000000",
-      "72212224",
-      "72420000",
-      "72212220",
-      "72500000",
-      "72413000",
-      "72400000",
-      "72410000",
-      "72590000",
-      "72222300",
-      "72000000",
-      "72212224",
-      "72420000",
-      "72212220",
-      "72500000",
-      "72413000",
-      "72400000",
-      "72410000",
-      "72590000",
-      "72222300"
-    ],
-    "status": "active",
-    "relevance": 100,
-    "matched": [
-      "CPV 72000000",
-      "CPV 72212220",
-      "CPV 72212224",
-      "CPV 72420000",
-      "hosting",
-      "new website",
-      "software",
-      "website",
-      "website design"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/647642-2026",
-    "fetched_at": "2026-09-24T21:24:24.192653Z"
   },
   {
     "key": "Public Contracts Scotland:rls-44-SEP563567",
@@ -1057,8 +1111,8 @@
     "fetched_at": "2026-09-23T21:23:13.509313Z"
   },
   {
-    "key": "Public Contracts Scotland:rls-6-SEP564950",
-    "id": "rls-6-SEP564950",
+    "key": "Public Contracts Scotland:rls-8-SEP564950",
+    "id": "rls-8-SEP564950",
     "ocid": "ocds-r6ebe6-0000843499",
     "title": "Backup & Recovery Solution",
     "buyer": "University of Dundee",
@@ -1085,11 +1139,11 @@
       "software"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564950",
-    "fetched_at": "2026-09-24T21:24:14.837489Z"
+    "fetched_at": "2026-09-25T10:06:20.629851Z"
   },
   {
-    "key": "Public Contracts Scotland:rls-20-SEP564806",
-    "id": "rls-20-SEP564806",
+    "key": "Public Contracts Scotland:rls-22-SEP564806",
+    "id": "rls-22-SEP564806",
     "ocid": "ocds-r6ebe6-0000843414",
     "title": "PROVISION OF PAYMENT PLATFORM - UNIVERSITY OF ABERDEEN",
     "buyer": "University of Aberdeen",
@@ -1117,11 +1171,11 @@
       "software"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564806",
-    "fetched_at": "2026-09-24T21:24:14.839184Z"
+    "fetched_at": "2026-09-25T10:06:20.631514Z"
   },
   {
-    "key": "Public Contracts Scotland:rls-31-SEP564551",
-    "id": "rls-31-SEP564551",
+    "key": "Public Contracts Scotland:rls-33-SEP564551",
+    "id": "rls-33-SEP564551",
     "ocid": "ocds-r6ebe6-0000843026",
     "title": "Provision of a Complete Network Infrastructure Solution for the Mountain Bike Innovation Centre (MBIC), Innerleithen",
     "buyer": "South of Scotland Enterprise Agency",
@@ -1149,7 +1203,7 @@
       "network"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564551",
-    "fetched_at": "2026-09-24T21:24:14.840450Z"
+    "fetched_at": "2026-09-25T10:06:20.632760Z"
   },
   {
     "key": "eTenders Ireland / TED:610280-2026",
@@ -1337,7 +1391,38 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/644527-2026",
-    "fetched_at": "2026-09-24T21:24:24.196304Z"
+    "fetched_at": "2026-09-25T10:06:39.744707Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-6-SEP564950",
+    "id": "rls-6-SEP564950",
+    "ocid": "ocds-r6ebe6-0000843499",
+    "title": "Backup & Recovery Solution",
+    "buyer": "University of Dundee",
+    "description": "The University is seeking the provision, implementation, transition and ongoing support of a SaaS Enterprise Backup and Recovery solution. The scope of this procurement includes: - Provision of the backup and recovery platform. - Associated cloud storage services. - Software licensing for protected workloads. - Professional services required to support implementation, configuration and service transition. - Testing, validation and knowledge transfer activities. - Training and supporting documentation. - Ongoing software maintenance, platform updates and vendor support. The SaaS solution shall integrate with the University's existing infrastructure and support the protection of workloads hosted across VMware, Microsoft Hyper-V, Proxmox and physical server environments.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-09-21T00:00:00Z",
+    "deadline": "2026-10-26T12:00:00Z",
+    "value": 317000.0,
+    "currency": "GBP",
+    "cpv": [
+      "72322000",
+      "73300000",
+      "79930000",
+      "79933000"
+    ],
+    "status": "active",
+    "relevance": 70,
+    "matched": [
+      "CPV 72322000",
+      "cloud",
+      "infrastructure",
+      "saas",
+      "software"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564950",
+    "fetched_at": "2026-09-24T21:24:14.837489Z"
   },
   {
     "key": "Find a Tender:089342-2026",
@@ -1699,6 +1784,40 @@
     "fetched_at": "2026-09-24T21:24:14.837934Z"
   },
   {
+    "key": "Public Contracts Scotland:rls-11-SEP564928",
+    "id": "rls-11-SEP564928",
+    "ocid": "ocds-r6ebe6-0000843517",
+    "title": "SPS-02319 Prisoner Records 2 (PR2) â Technical Change",
+    "buyer": "Scottish Prison Service",
+    "description": "SPS is undertaking a strategic technology modernisation project to migrate the PR2 system from a legacy Oracle Forms and Reports platform, operating on an Oracle database, to a modern, modular, opensource technology stack deployed within a secure Cloud environment. This project shall include the migration and on-going support and maintenance for the duration of the Contract Term. The Contract Term shall be 7 years (not including implementation which shall be limited to a maximum of 18 months) with the option to extend by up to an additional 6 years.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-09-21T00:00:00Z",
+    "deadline": "2026-11-02T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "48000000",
+      "48900000",
+      "72000000",
+      "72200000",
+      "72222300"
+    ],
+    "status": "active",
+    "relevance": 70,
+    "matched": [
+      "CPV 48000000",
+      "CPV 48900000",
+      "CPV 72000000",
+      "CPV 72200000",
+      "cloud",
+      "database",
+      "support and maintenance"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564928",
+    "fetched_at": "2026-09-25T10:06:20.630284Z"
+  },
+  {
     "key": "Find a Tender:088594-2026",
     "id": "088594-2026",
     "ocid": "ocds-h6vhtk-07753e",
@@ -1729,6 +1848,38 @@
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/088594-2026",
     "fetched_at": "2026-09-21T10:34:21.996198Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-20-SEP564806",
+    "id": "rls-20-SEP564806",
+    "ocid": "ocds-r6ebe6-0000843414",
+    "title": "PROVISION OF PAYMENT PLATFORM - UNIVERSITY OF ABERDEEN",
+    "buyer": "University of Aberdeen",
+    "description": "Provision of an enterprise online payment platform and associated payment processing services, including software-as-a-service (SaaS), merchant services, payment gateway functionality, online store capability, implementation, integration, support, maintenance and associated professional services",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-09-18T00:00:00Z",
+    "deadline": "2026-10-19T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "48000000",
+      "48100000",
+      "48442000",
+      "66170000"
+    ],
+    "status": "active",
+    "relevance": 67,
+    "matched": [
+      "CPV 48000000",
+      "CPV 48100000",
+      "CPV 48442000",
+      "integration",
+      "saas",
+      "software"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564806",
+    "fetched_at": "2026-09-24T21:24:14.839184Z"
   },
   {
     "key": "Public Contracts Scotland:rls-19-SEP564806",
@@ -1953,6 +2104,38 @@
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/087346-2026",
     "fetched_at": "2026-09-18T09:32:43.204054Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-31-SEP564551",
+    "id": "rls-31-SEP564551",
+    "ocid": "ocds-r6ebe6-0000843026",
+    "title": "Provision of a Complete Network Infrastructure Solution for the Mountain Bike Innovation Centre (MBIC), Innerleithen",
+    "buyer": "South of Scotland Enterprise Agency",
+    "description": "South of Scotland Enterprise (SOSE) seeks a suitably qualified and experienced supplier to review, validate, design, supply, install, configure, test, commission and support a complete ICT and network infrastructure solution for the Mountain Bike Innovation Centre (MBIC), Innerleithen. The contract includes any associated licensing, connectivity, maintenance, managed services and support arrangements required to deliver a fully operational solution. The successful supplier will be responsible for validating requirements and recommending the most appropriate solution to meet MBIC's operational needs.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-09-15T00:00:00Z",
+    "deadline": "2026-10-13T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "32412100",
+      "32412110",
+      "32571000"
+    ],
+    "status": "active",
+    "relevance": 66,
+    "matched": [
+      "CPV 32412100",
+      "CPV 32412110",
+      "CPV 32571000",
+      "ict",
+      "infrastructure",
+      "managed service",
+      "network"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564551",
+    "fetched_at": "2026-09-24T21:24:14.840450Z"
   },
   {
     "key": "Public Contracts Scotland:rls-30-SEP564551",
@@ -2425,7 +2608,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/651154-2026",
-    "fetched_at": "2026-09-24T21:24:24.190488Z"
+    "fetched_at": "2026-09-25T10:06:39.739936Z"
   },
   {
     "key": "eTenders Ireland / TED:638121-2026",
@@ -2606,7 +2789,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/646960-2026",
-    "fetched_at": "2026-09-24T21:24:24.192437Z"
+    "fetched_at": "2026-09-25T10:06:39.740867Z"
   },
   {
     "key": "eTenders Ireland / TED:610745-2026",
@@ -2694,7 +2877,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/659361-2026",
-    "fetched_at": "2026-09-24T21:24:24.183193Z"
+    "fetched_at": "2026-09-25T10:06:39.731718Z"
   },
   {
     "key": "eTenders Ireland / TED:648059-2026",
@@ -2731,7 +2914,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/648059-2026",
-    "fetched_at": "2026-09-24T21:24:24.193878Z"
+    "fetched_at": "2026-09-25T10:06:39.742506Z"
   },
   {
     "key": "eTenders Ireland / TED:659552-2026",
@@ -2804,7 +2987,72 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/659552-2026",
-    "fetched_at": "2026-09-24T21:24:24.185897Z"
+    "fetched_at": "2026-09-25T10:06:39.734377Z"
+  },
+  {
+    "key": "eTenders Ireland / TED:662277-2026",
+    "id": "662277-2026",
+    "ocid": null,
+    "title": "Ireland – Research consultancy services – ICT Research and Advisory Services",
+    "buyer": "the Irish Aviation Authority",
+    "description": "Active Irish public procurement notice published through TED/eTenders.",
+    "source": "eTenders Ireland / TED",
+    "country": "Ireland",
+    "published_at": "2026-09-25T02:00:00Z",
+    "deadline": "2026-10-21T16:00:00Z",
+    "value": null,
+    "currency": "EUR",
+    "cpv": [
+      "73210000",
+      "72222200",
+      "72222000",
+      "72222100",
+      "72223000",
+      "79980000",
+      "73210000",
+      "72222200",
+      "72222000",
+      "72222100",
+      "72223000",
+      "79980000"
+    ],
+    "status": "active",
+    "relevance": 58,
+    "matched": [
+      "CPV 72222000",
+      "CPV 72222100",
+      "CPV 72222200",
+      "CPV 72223000",
+      "ict"
+    ],
+    "url": "https://ted.europa.eu/en/notice/-/detail/662277-2026",
+    "fetched_at": "2026-09-25T10:06:39.730619Z"
+  },
+  {
+    "key": "Poland / TED:661264-2026",
+    "id": "661264-2026",
+    "ocid": null,
+    "title": "Poland – Software implementation services – Stworzenie Systemu Ewidencji Przeszkód Infrastruktury (EPI) oraz przeniesienie danych dotyczących parametrów i opisów elementów infrastruktury z wersji papierowej na wersję elektroniczną wektorową",
+    "buyer": "PKP Polskie Linie Kolejowe S.A.",
+    "description": "Active Polish public procurement notice published through TED.",
+    "source": "Poland / TED",
+    "country": "Poland",
+    "published_at": "2026-09-25T02:00:00Z",
+    "deadline": "2026-10-12T21:59:59Z",
+    "value": null,
+    "currency": "PLN",
+    "cpv": [
+      "72263000",
+      "72263000"
+    ],
+    "status": "active",
+    "relevance": 43,
+    "matched": [
+      "CPV 72263000",
+      "software"
+    ],
+    "url": "https://ted.europa.eu/en/notice/-/detail/661264-2026",
+    "fetched_at": "2026-09-25T10:06:42.542990Z"
   },
   {
     "key": "Find a Tender:087628-2026",
@@ -3115,6 +3363,34 @@
     "fetched_at": "2026-09-24T21:24:14.840101Z"
   },
   {
+    "key": "Public Contracts Scotland:rls-29-SEP564603",
+    "id": "rls-29-SEP564603",
+    "ocid": "ocds-r6ebe6-0000834454",
+    "title": "Integrated Hospitality Technology platform (EPOS, Digital Ordering, Kiosk & CRM Solutions)",
+    "buyer": "University Of Edinburgh",
+    "description": "The University requires a flexible and scalable software and hardware solution to support the efficient operation of a complex, multi-site catering environment. This solution must seamlessly operate across the full catering estate, which spans a range of commercial operations including: retail, full-service restaurants, bars and hotels.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-09-16T00:00:00Z",
+    "deadline": "2026-10-16T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "48110000",
+      "72212110"
+    ],
+    "status": "active",
+    "relevance": 56,
+    "matched": [
+      "CPV 48110000",
+      "CPV 72212110",
+      "crm",
+      "software"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564603",
+    "fetched_at": "2026-09-25T10:06:20.632420Z"
+  },
+  {
     "key": "eTenders Ireland / TED:657631-2026",
     "id": "657631-2026",
     "ocid": null,
@@ -3139,7 +3415,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/657631-2026",
-    "fetched_at": "2026-09-24T21:24:24.183416Z"
+    "fetched_at": "2026-09-25T10:06:39.731925Z"
   },
   {
     "key": "eTenders Ireland / TED:612350-2026",
@@ -4348,6 +4624,68 @@
     "fetched_at": "2026-09-24T21:24:14.845226Z"
   },
   {
+    "key": "Public Contracts Scotland:rls-59-SEP564072",
+    "id": "rls-59-SEP564072",
+    "ocid": "ocds-r6ebe6-0000842461",
+    "title": "Civtech 12 - Challenge 12.2 - How can technology enable fast-growing digital public service providers to dynamically scale their service management capabilities as demand, complexity and customer expectations increase?",
+    "buyer": "Scottish Government",
+    "description": "The Scottish Governmentâs Directorate for Digital is seeking an innovative service management solution to support a growing portfolio of digital services, including ScotAccount, ScotPayments, mygov.scot, Cloud Platform Services, and more. As demand, complexity and user expectations increase, we require scalable, technology-enabled approaches that can grow as our services grow, while delivering value for money. A successful solution will help ensure resilient, secure and efficient service operations, reducing risks to service quality, productivity, revenue and public trust, while supporting the future development of Scotlandâs digital public services.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-09-08T00:00:00Z",
+    "deadline": "2026-10-20T12:00:00Z",
+    "value": 650000.0,
+    "currency": "GBP",
+    "cpv": [
+      "72000000",
+      "72250000",
+      "72253000",
+      "73000000"
+    ],
+    "status": "active",
+    "relevance": 54,
+    "matched": [
+      "CPV 72000000",
+      "CPV 72250000",
+      "CPV 72253000",
+      "cloud",
+      "digital service"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564072",
+    "fetched_at": "2026-09-25T10:06:20.636481Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-65-SEP564046",
+    "id": "rls-65-SEP564046",
+    "ocid": "ocds-r6ebe6-0000841863",
+    "title": "How can technology enable fast-growing digital public service providers to dynamically scale their service management capabilities as demand, complexity and customer expectations increase?",
+    "buyer": "Scottish Government",
+    "description": "The Scottish Governmentâs Directorate for Digital is seeking an innovative service management solution to support a growing portfolio of digital services, including ScotAccount, ScotPayments, mygov.scot, Cloud Platform Services, and more. As demand, complexity and user expectations increase, we require scalable, technology-enabled approaches that can grow as our services grow, while delivering value for money. A successful solution will help ensure resilient, secure and efficient service operations, reducing risks to service quality, productivity, revenue and public trust, while supporting the future development of Scotlandâs digital public services.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-09-08T00:00:00Z",
+    "deadline": "2026-10-20T12:00:00Z",
+    "value": 650000.0,
+    "currency": "GBP",
+    "cpv": [
+      "72000000",
+      "72250000",
+      "72253000",
+      "73000000"
+    ],
+    "status": "active",
+    "relevance": 54,
+    "matched": [
+      "CPV 72000000",
+      "CPV 72250000",
+      "CPV 72253000",
+      "cloud",
+      "digital service"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564046",
+    "fetched_at": "2026-09-25T10:06:20.637499Z"
+  },
+  {
     "key": "eTenders Ireland / TED:659176-2026",
     "id": "659176-2026",
     "ocid": null,
@@ -4373,7 +4711,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/659176-2026",
-    "fetched_at": "2026-09-24T21:24:24.186431Z"
+    "fetched_at": "2026-09-25T10:06:39.734901Z"
   },
   {
     "key": "eTenders Ireland / TED:633785-2026",
@@ -4775,6 +5113,37 @@
     "fetched_at": "2026-09-24T21:24:22.980805Z"
   },
   {
+    "key": "Public Contracts Scotland:rls-28-SEP564669",
+    "id": "rls-28-SEP564669",
+    "ocid": "ocds-r6ebe6-0000843210",
+    "title": "Appointment of Consultant: Housing Services ICT Systems Review",
+    "buyer": "East Ayrshire Council",
+    "description": "Appointment of Consultant: Housing Services ICT Systems Review",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-09-16T00:00:00Z",
+    "deadline": "2026-10-20T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "72000000",
+      "72220000",
+      "72246000",
+      "72266000"
+    ],
+    "status": "active",
+    "relevance": 53,
+    "matched": [
+      "CPV 72000000",
+      "CPV 72220000",
+      "CPV 72246000",
+      "CPV 72266000",
+      "ict"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564669",
+    "fetched_at": "2026-09-25T10:06:38.832012Z"
+  },
+  {
     "key": "eTenders Ireland / TED:658139-2026",
     "id": "658139-2026",
     "ocid": null,
@@ -4802,7 +5171,7 @@
       "support and maintenance"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/658139-2026",
-    "fetched_at": "2026-09-24T21:24:24.183489Z"
+    "fetched_at": "2026-09-25T10:06:39.731995Z"
   },
   {
     "key": "eTenders Ireland / TED:618906-2026",
@@ -5092,6 +5461,32 @@
     "fetched_at": "2026-09-24T21:24:22.980698Z"
   },
   {
+    "key": "Public Contracts Scotland:rls-26-SEP564706",
+    "id": "rls-26-SEP564706",
+    "ocid": "ocds-r6ebe6-0000840811",
+    "title": "Data Governance and Data Intelligence SaaS Platform",
+    "buyer": "Clackmannanshire Council",
+    "description": "A standalone, cloud-based Data Governance and Data Intelligence platform that enables the Council to discover, index, catalogue and classify data held across its systems and data sources. The solution will provide improved visibility and understanding of organisational data, including metadata, data ownership, sensitivity and classification, supporting effective data governance, security, compliance and the responsible use of data.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-09-17T00:00:00Z",
+    "deadline": "2026-10-09T12:00:00Z",
+    "value": 140000.0,
+    "currency": "GBP",
+    "cpv": [
+      "48613000"
+    ],
+    "status": "active",
+    "relevance": 51,
+    "matched": [
+      "CPV 48613000",
+      "cloud",
+      "saas"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564706",
+    "fetched_at": "2026-09-25T10:06:38.831907Z"
+  },
+  {
     "key": "eTenders Ireland / TED:647203-2026",
     "id": "647203-2026",
     "ocid": null,
@@ -5148,7 +5543,7 @@
       "mobile app"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/647203-2026",
-    "fetched_at": "2026-09-24T21:24:24.195889Z"
+    "fetched_at": "2026-09-25T10:06:39.744300Z"
   },
   {
     "key": "Find a Tender:084933-2026",
@@ -5778,6 +6173,39 @@
     "fetched_at": "2026-09-24T21:24:14.845059Z"
   },
   {
+    "key": "Public Contracts Scotland:rls-64-SEP564053",
+    "id": "rls-64-SEP564053",
+    "ocid": "ocds-r6ebe6-0000841907",
+    "title": "CivTech 12 - Challenge 12.3 - How can we use technology to demonstrate the commercial value of circular economy business practices?",
+    "buyer": "Zero Waste Scotland Ltd",
+    "description": "Zero Waste Scotland is seeking an innovative technology solution that helps businesses demonstrate the commercial value of circular economy practices and attract investment. Existing assessment tools often overlook benefits including (but not limited to) supply chain resilience, resource security, customer retention and reduced exposure to market shocks. We are looking for an intuitive, evidence-based tool that integrates the wider benefits into business and investment decisions, while generating insights to inform future support and policy development. The solution should build business and investor confidence, help accelerate adoption of circular practices and support Scotland's transition to a sustainable, circular economy.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-09-08T00:00:00Z",
+    "deadline": "2026-10-20T12:00:00Z",
+    "value": 650000.0,
+    "currency": "GBP",
+    "cpv": [
+      "72000000",
+      "72222300",
+      "72223000",
+      "72262000",
+      "72300000",
+      "73000000"
+    ],
+    "status": "active",
+    "relevance": 51,
+    "matched": [
+      "CPV 72000000",
+      "CPV 72222300",
+      "CPV 72223000",
+      "CPV 72262000",
+      "technology solution"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564053",
+    "fetched_at": "2026-09-25T10:06:20.637340Z"
+  },
+  {
     "key": "Public Contracts Scotland:rls-1-SEP564781",
     "id": "rls-1-SEP564781",
     "ocid": "ocds-r6ebe6-0000843381",
@@ -5994,6 +6422,33 @@
     "fetched_at": "2026-09-24T21:24:22.980480Z"
   },
   {
+    "key": "Public Contracts Scotland:rls-23-SEP564781",
+    "id": "rls-23-SEP564781",
+    "ocid": "ocds-r6ebe6-0000843381",
+    "title": "Penetration Testing and Cybersecurity Assessment",
+    "buyer": "Cairn Housing Association",
+    "description": "Services of a cybersecurity partner to conduct comprehensive penetration testing and security assessment engagement across Cairn Housing Association's digital infrastructure, applications and operational processes, in support of our information security programme and its obligations under regulatory frameworks including GDPR, ISO27001, PCI DSS, NIS and Cyber Essentials Plus",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-09-18T00:00:00Z",
+    "deadline": "2026-10-16T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "72267100"
+    ],
+    "status": "active",
+    "relevance": 50,
+    "matched": [
+      "CPV 72267100",
+      "cybersecurity",
+      "information security",
+      "infrastructure"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564781",
+    "fetched_at": "2026-09-25T10:06:38.831712Z"
+  },
+  {
     "key": "eTenders Ireland / TED:648718-2026",
     "id": "648718-2026",
     "ocid": null,
@@ -6018,7 +6473,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/648718-2026",
-    "fetched_at": "2026-09-24T21:24:24.192156Z"
+    "fetched_at": "2026-09-25T10:06:39.740590Z"
   },
   {
     "key": "Find a Tender:087147-2026",
@@ -6453,6 +6908,42 @@
     "fetched_at": "2026-09-24T21:24:14.840576Z"
   },
   {
+    "key": "Public Contracts Scotland:rls-34-SEP564512",
+    "id": "rls-34-SEP564512",
+    "ocid": "ocds-r6ebe6-0000842994",
+    "title": "EV Infrastructure Back Office",
+    "buyer": "Stirling Council",
+    "description": "Stirling Council seeks a Charge Point Network Operator (CPNO) to provide EV Charge Point Management System (CPMS) services for its public and fleet charging network. The contract includes migration from the existing ChargePlace Scotland platform, ongoing operation, customer support, payment processing, monitoring, reporting and account management services for approximately 200 charge points across the Stirling area.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-09-15T00:00:00Z",
+    "deadline": "2026-10-15T12:00:00Z",
+    "value": 315000.0,
+    "currency": "GBP",
+    "cpv": [
+      "31158000",
+      "34144900",
+      "48444100",
+      "50324100",
+      "64226000",
+      "65300000",
+      "72260000",
+      "72267100",
+      "75100000"
+    ],
+    "status": "active",
+    "relevance": 47,
+    "matched": [
+      "CPV 48444100",
+      "CPV 72260000",
+      "CPV 72267100",
+      "infrastructure",
+      "network"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564512",
+    "fetched_at": "2026-09-25T10:06:20.632879Z"
+  },
+  {
     "key": "eTenders Ireland / TED:612396-2026",
     "id": "612396-2026",
     "ocid": null,
@@ -6695,7 +7186,7 @@
       "CPV 30197000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/645394-2026",
-    "fetched_at": "2026-09-24T21:24:24.197455Z"
+    "fetched_at": "2026-09-25T10:06:39.745813Z"
   },
   {
     "key": "eTenders Ireland / TED:644936-2026",
@@ -6743,7 +7234,7 @@
       "CPV 72600000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/644936-2026",
-    "fetched_at": "2026-09-24T21:24:24.200549Z"
+    "fetched_at": "2026-09-25T10:06:39.748813Z"
   },
   {
     "key": "eTenders Ireland / TED:625254-2026",
@@ -6994,7 +7485,7 @@
       "CPV 72246000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/658169-2026",
-    "fetched_at": "2026-09-24T21:24:24.183045Z"
+    "fetched_at": "2026-09-25T10:06:39.731596Z"
   },
   {
     "key": "eTenders Ireland / TED:652620-2026",
@@ -7059,7 +7550,7 @@
       "CPV 72260000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/652620-2026",
-    "fetched_at": "2026-09-24T21:24:24.191126Z"
+    "fetched_at": "2026-09-25T10:06:39.739136Z"
   },
   {
     "key": "Poland / TED:628613-2026",
@@ -7171,7 +7662,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/656715-2026",
-    "fetched_at": "2026-09-24T21:24:24.188019Z"
+    "fetched_at": "2026-09-25T10:06:39.736475Z"
   },
   {
     "key": "eTenders Ireland / TED:652095-2026",
@@ -7197,7 +7688,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/652095-2026",
-    "fetched_at": "2026-09-24T21:24:24.190930Z"
+    "fetched_at": "2026-09-25T10:06:39.739668Z"
   },
   {
     "key": "Poland / TED:649637-2026",
@@ -7223,7 +7714,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/649637-2026",
-    "fetched_at": "2026-09-24T21:24:37.279697Z"
+    "fetched_at": "2026-09-25T10:07:01.626941Z"
   },
   {
     "key": "eTenders Ireland / TED:616933-2026",
@@ -7283,7 +7774,7 @@
       "CPV 72310000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/643285-2026",
-    "fetched_at": "2026-09-24T21:24:24.200916Z"
+    "fetched_at": "2026-09-25T10:06:39.749227Z"
   },
   {
     "key": "eTenders Ireland / TED:632960-2026",
@@ -7787,6 +8278,34 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564348",
     "fetched_at": "2026-09-24T21:24:14.842682Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-45-SEP564348",
+    "id": "rls-45-SEP564348",
+    "ocid": "ocds-r6ebe6-0000842663",
+    "title": "High-Throughput Experimentation (HTE) Software for Drug Discovery",
+    "buyer": "University of Dundee",
+    "description": "HTE is a field of chemistry that expanded exponentially in the past five years, and most pharmaceutical companies are currently using it in their workflows. This methodology allows multi-parameter optimisation of chemical reactions but also synthesis of multiple compounds (96 to 384) on a small-scale using plate chemistry. Combined with the implementation of Direct-to-Biology (D2B) approaches, which involves the direct testing of non-purified mixtures, biological data is obtained faster. The combination of these methods greatly improves the Design, Make, Test, and Analyse (DMTA) cycle.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-09-11T00:00:00Z",
+    "deadline": "2026-10-16T12:00:00Z",
+    "value": 210000.0,
+    "currency": "GBP",
+    "cpv": [
+      "72322000",
+      "73300000",
+      "79930000",
+      "79933000"
+    ],
+    "status": "active",
+    "relevance": 38,
+    "matched": [
+      "CPV 72322000",
+      "software"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564348",
+    "fetched_at": "2026-09-25T10:06:20.634910Z"
   },
   {
     "key": "Find a Tender:084917-2026",
@@ -8319,6 +8838,34 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564054",
     "fetched_at": "2026-09-24T21:24:14.844889Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-63-SEP564054",
+    "id": "rls-63-SEP564054",
+    "ocid": "ocds-r6ebe6-0000842314",
+    "title": "CivTech 12.5 - How can technology support multi agency processes for the protection of children in Scotland?",
+    "buyer": "Scottish Government",
+    "description": "This Challenge presents an exciting opportunity to make a positive difference in protecting children in Scotland from harm, an area of the highest priority for the Scottish Cabinet and partners. Scotlandâs child protection system relies on Inter-Agency Referral Discussions (IRDs) to make timely safeguarding decisions for children (over 17,000 IRDs took place during 2024-25). IRDs are effective and work well as a process, however they are currently supported by fragmented IT systems, manual processes and localised records. This results in duplication, delays, and barriers to information sharing across agencies and local authorities. These inefficiencies increase administrative burden, reducing time available for direct support to children and families. The Scottish Government, Police Scotland and the National Social Work Agency (TBC) are seeking innovative solutions that will enable secure streamlined multi-agency information sharing for the existing IRD process, as well as providing real-time local and national data to improve child protection outcomes across Scotland.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-09-08T00:00:00Z",
+    "deadline": "2026-10-20T12:00:00Z",
+    "value": 650000.0,
+    "currency": "GBP",
+    "cpv": [
+      "48810000",
+      "72000000",
+      "73000000"
+    ],
+    "status": "active",
+    "relevance": 36,
+    "matched": [
+      "CPV 48810000",
+      "CPV 72000000",
+      "it system"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564054",
+    "fetched_at": "2026-09-25T10:06:20.637174Z"
   },
   {
     "key": "Find a Tender:084996-2026",
@@ -8872,6 +9419,35 @@
     "fetched_at": "2026-09-24T21:24:14.844351Z"
   },
   {
+    "key": "Public Contracts Scotland:rls-60-SEP564071",
+    "id": "rls-60-SEP564071",
+    "ocid": "ocds-r6ebe6-0000842372",
+    "title": "CivTech 12 - Challenge 12.4 - How can technology improve both the efficiency and the patient experience in NHS transport, starting with renal services?â",
+    "buyer": "NHS Greater Glasgow and Clyde",
+    "description": "With over 273,000 people in Scotland living with Stage 3-5 Chronic Kidney Disease (CKD), including 2,000 receiving dialysis treatment, and demand expected to increase fivefold over the next decade, improvements to dialysis transport across NHS Scotland are urgently needed. Dialysis journeys account for more than 40% of all non-emergency patient transport activity, costing 9.1 million GBP annually. Yet current arrangements can be inconsistent, creating avoidable pressures for patients, providers and NHS services. NHS Scotland is seeking innovative, patient-centred and sustainable solutions that improve reliability, efficiency and patient outcomes, while reducing administrative burden and delivering better value for money.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-09-08T00:00:00Z",
+    "deadline": "2026-10-20T12:00:00Z",
+    "value": 650000.0,
+    "currency": "GBP",
+    "cpv": [
+      "72000000",
+      "72262000",
+      "72316000",
+      "73000000"
+    ],
+    "status": "active",
+    "relevance": 35,
+    "matched": [
+      "CPV 72000000",
+      "CPV 72262000",
+      "CPV 72316000"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564071",
+    "fetched_at": "2026-09-25T10:06:20.636648Z"
+  },
+  {
     "key": "Find a Tender:087673-2026",
     "id": "087673-2026",
     "ocid": "ocds-h6vhtk-06faf0",
@@ -9142,6 +9718,33 @@
     "fetched_at": "2026-09-24T21:24:14.839997Z"
   },
   {
+    "key": "Public Contracts Scotland:rls-28-SEP564618",
+    "id": "rls-28-SEP564618",
+    "ocid": "ocds-r6ebe6-0000843130",
+    "title": "PURCH3013 Provision of Contract Agreement for Manufacture of Investigational Medicinal Products for a Clinical Trial",
+    "buyer": "University of Glasgow",
+    "description": "PURCH3013 Provision of Contract Agreement for Manufacture of Investigational Medicinal Products for a Clinical Trial, (Including Final Qualified Person Release, Storage and Distribution to Study Sites) and Option to Provide an Integrated IRT System with Forecasting Capabilities. This procurement process is being conducted using the Competitive Procedure with Negotiation (CPN) in accordance with the requirements of Regulation 30 of the PC(S)R 2015. Although this procurement is being conducted under the Competitive Procedure with Negotiation (CPN), it is structured differently from a typical CPN process. This approach has been adopted to enhance the efficiency of evaluating supplier responses across both stages (SPD and ITT). Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the âContact Usâ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-09-16T00:00:00Z",
+    "deadline": "2026-10-19T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "33000000",
+      "33600000"
+    ],
+    "status": "active",
+    "relevance": 32,
+    "matched": [
+      "portal",
+      "website",
+      "website support"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564618",
+    "fetched_at": "2026-09-25T10:06:20.632315Z"
+  },
+  {
     "key": "Public Contracts Scotland:rls-3-SEP565045",
     "id": "rls-3-SEP565045",
     "ocid": "ocds-r6ebe6-0000843701",
@@ -9244,6 +9847,32 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP565045",
     "fetched_at": "2026-09-24T21:24:22.979399Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-9-SEP565045",
+    "id": "rls-9-SEP565045",
+    "ocid": "ocds-r6ebe6-0000843701",
+    "title": "PURCH3031 Provision of a Framework Agreement for Room Utilisation Surveys",
+    "buyer": "University of Glasgow",
+    "description": "PURCH3031 Provision of a Framework Agreement for Room Utilisation Surveys Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the âContact Usâ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-09-22T00:00:00Z",
+    "deadline": "2026-10-22T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "79311000"
+    ],
+    "status": "active",
+    "relevance": 32,
+    "matched": [
+      "portal",
+      "website",
+      "website support"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP565045",
+    "fetched_at": "2026-09-25T10:06:38.830683Z"
   },
   {
     "key": "Public Contracts Scotland:rls-21-SEP563932",
@@ -9822,6 +10451,38 @@
     "fetched_at": "2026-09-24T21:24:14.846247Z"
   },
   {
+    "key": "Public Contracts Scotland:rls-70-SEP563932",
+    "id": "rls-70-SEP563932",
+    "ocid": "ocds-r6ebe6-0000842227",
+    "title": "Committee Livestreaming",
+    "buyer": "Dumfries and Galloway Council",
+    "description": "Dumfries and Galloway Council is seeking to procure a single supplier to deliver livestreaming/audio visual services, primarily to Council/Committee meetings. These meetings are open to the public and livestreaming further enables accessibility, thus enhancing our openness with stakeholders. Council/Committee meetings are held on a hybrid basis, enabling attendees to attend in person or online via Microsoft Teams and these are livestreamed on our YouTube Channel. The successful supplier will be expected to attend meetings in person.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-09-07T00:00:00Z",
+    "deadline": "2026-10-07T12:00:00Z",
+    "value": 376000.0,
+    "currency": "GBP",
+    "cpv": [
+      "30237136",
+      "31711310",
+      "32320000",
+      "32321200",
+      "32321300",
+      "32333000",
+      "32353000",
+      "50340000"
+    ],
+    "status": "active",
+    "relevance": 31,
+    "matched": [
+      "CPV 30237136",
+      "accessibility"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563932",
+    "fetched_at": "2026-09-25T10:06:20.638424Z"
+  },
+  {
     "key": "eTenders Ireland / TED:636946-2026",
     "id": "636946-2026",
     "ocid": null,
@@ -10089,7 +10750,7 @@
       "CPV 48822000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/649562-2026",
-    "fetched_at": "2026-09-24T21:24:37.275773Z"
+    "fetched_at": "2026-09-25T10:07:01.622910Z"
   },
   {
     "key": "eTenders Ireland / TED:622647-2026",
@@ -10382,7 +11043,7 @@
       "CPV 72224000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/647419-2026",
-    "fetched_at": "2026-09-24T21:24:24.193780Z"
+    "fetched_at": "2026-09-25T10:06:39.742407Z"
   },
   {
     "key": "eTenders Ireland / TED:644816-2026",
@@ -10449,7 +11110,7 @@
       "CPV 72224000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/644816-2026",
-    "fetched_at": "2026-09-24T21:24:24.197829Z"
+    "fetched_at": "2026-09-25T10:06:39.746418Z"
   },
   {
     "key": "Public Contracts Scotland:rls-1-SEP564471",
@@ -10762,6 +11423,30 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564471",
     "fetched_at": "2026-09-24T21:24:22.981586Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-39-SEP564471",
+    "id": "rls-39-SEP564471",
+    "ocid": "ocds-r6ebe6-0000842950",
+    "title": "Digital Marketing Get on the GO",
+    "buyer": "Tayside and Central Scotland Transport Partnership (TACTRAN)",
+    "description": "The purpose of the marketing is to promote sustainable transport messages for the Get On the Go brand and Tactran.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-09-14T00:00:00Z",
+    "deadline": "2026-09-25T17:00:00Z",
+    "value": 30000.0,
+    "currency": "GBP",
+    "cpv": [
+      "72000000"
+    ],
+    "status": "active",
+    "relevance": 25,
+    "matched": [
+      "CPV 72000000"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564471",
+    "fetched_at": "2026-09-25T10:06:38.832802Z"
   },
   {
     "key": "Public Contracts Scotland:rls-29-SEP563674",
@@ -11646,6 +12331,59 @@
     "fetched_at": "2026-09-24T21:24:22.981979Z"
   },
   {
+    "key": "Public Contracts Scotland:rls-78-SEP563674",
+    "id": "rls-78-SEP563674",
+    "ocid": "ocds-r6ebe6-0000841833",
+    "title": "Occupational Health, Employee Assistance Programme and Associated Services",
+    "buyer": "Skills Development Scotland Ltd",
+    "description": "Provision of Occupational Health, Employee Assistance Programme and Associated Services",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-09-02T00:00:00Z",
+    "deadline": "2026-10-02T12:00:00Z",
+    "value": 460000.0,
+    "currency": "GBP",
+    "cpv": [
+      "33196200",
+      "72212190",
+      "85140000",
+      "85147000",
+      "85312300",
+      "85312320"
+    ],
+    "status": "active",
+    "relevance": 25,
+    "matched": [
+      "CPV 72212190"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563674",
+    "fetched_at": "2026-09-25T10:06:20.639099Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-44-SEP564349",
+    "id": "rls-44-SEP564349",
+    "ocid": "ocds-r6ebe6-0000842803",
+    "title": "Compulsory Purchase Compensation Research",
+    "buyer": "Scottish Government",
+    "description": "The Scottish Government is pursuing a comprehensive programme to reform and modernise Scotlandâs compulsory purchase system.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-09-11T00:00:00Z",
+    "deadline": "2026-10-02T12:00:00Z",
+    "value": 41600.0,
+    "currency": "GBP",
+    "cpv": [
+      "72221000"
+    ],
+    "status": "active",
+    "relevance": 25,
+    "matched": [
+      "CPV 72221000"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564349",
+    "fetched_at": "2026-09-25T10:06:38.833191Z"
+  },
+  {
     "key": "Find a Tender:084457-2026",
     "id": "084457-2026",
     "ocid": "ocds-h6vhtk-06f396",
@@ -11893,6 +12631,30 @@
     "fetched_at": "2026-09-24T21:24:22.980575Z"
   },
   {
+    "key": "Public Contracts Scotland:rls-25-SEP564728",
+    "id": "rls-25-SEP564728",
+    "ocid": "ocds-r6ebe6-0000843286",
+    "title": "SAS Support",
+    "buyer": "Qualifications Scotland",
+    "description": "Qualifications Scotland Application Solutions are seeking a support arrangement for our SAS system.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-09-17T00:00:00Z",
+    "deadline": "2026-10-12T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "72261000"
+    ],
+    "status": "active",
+    "relevance": 25,
+    "matched": [
+      "CPV 72261000"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564728",
+    "fetched_at": "2026-09-25T10:06:38.831806Z"
+  },
+  {
     "key": "Public Contracts Scotland:rls-1-SEP564850",
     "id": "rls-1-SEP564850",
     "ocid": "ocds-r6ebe6-0000843372",
@@ -12110,6 +12872,37 @@
     "fetched_at": "2026-09-24T21:24:22.979924Z"
   },
   {
+    "key": "Public Contracts Scotland:rls-16-SEP564850",
+    "id": "rls-16-SEP564850",
+    "ocid": "ocds-r6ebe6-0000843372",
+    "title": "Immersive Theater Installation and Exhibition Alterations",
+    "buyer": "Scottish Seabird Centre",
+    "description": "The Scottish Seabird Centre (SSC) seeks to appoint suitably qualified contractor(s) to deliver exhibition alterations, visitor experience improvements and a new immersive theater installation. The procurement is divided into two lots comprising base build works and audio visual design and installation.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-09-18T00:00:00Z",
+    "deadline": "2026-10-16T09:00:00Z",
+    "value": 265000.0,
+    "currency": "GBP",
+    "cpv": [
+      "32321200",
+      "39154000",
+      "45310000",
+      "45331000",
+      "45453100",
+      "51310000",
+      "72212520",
+      "92521100"
+    ],
+    "status": "active",
+    "relevance": 25,
+    "matched": [
+      "CPV 72212520"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564850",
+    "fetched_at": "2026-09-25T10:06:38.831178Z"
+  },
+  {
     "key": "Public Contracts Scotland:rls-4-SEP564992",
     "id": "rls-4-SEP564992",
     "ocid": "ocds-r6ebe6-0000828697",
@@ -12224,6 +13017,35 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564992",
     "fetched_at": "2026-09-24T21:24:22.979502Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-10-SEP564992",
+    "id": "rls-10-SEP564992",
+    "ocid": "ocds-r6ebe6-0000828697",
+    "title": "Provision of Off-Site Storage for NatureScot Records",
+    "buyer": "Scottish Natural Heritage",
+    "description": "NatureScot require a competent provider of secure off-site records storage. The successful Contractor will provide a high-quality service, whilst offering good value in the expenditure of public funds.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-09-22T00:00:00Z",
+    "deadline": "2026-10-19T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "63120000",
+      "63121000",
+      "63121100",
+      "72317000",
+      "79131000",
+      "79996100"
+    ],
+    "status": "active",
+    "relevance": 25,
+    "matched": [
+      "CPV 72317000"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564992",
+    "fetched_at": "2026-09-25T10:06:38.830774Z"
   },
   {
     "key": "Find a Tender:084956-2026",
@@ -13214,6 +14036,58 @@
     "fetched_at": "2026-09-24T21:24:14.845540Z"
   },
   {
+    "key": "Public Contracts Scotland:rls-61-SEP564061",
+    "id": "rls-61-SEP564061",
+    "ocid": "ocds-r6ebe6-0000842315",
+    "title": "CivTech 12.6 - How can technology improve living conditions and quality of life for social housing residents in Scotland?",
+    "buyer": "Cloch Housing Association Ltd",
+    "description": "Cold homes, damp, mould and fuel poverty are driving poor health outcomes, increasing pressure on healthcare services and deepening inequalities. While Registered Social Landlords are investing in warmer, more energy-efficient housing and responding to new regulatory requirements, fuel poverty means many vulnerable residents remain at risk, even in high-quality homes. Current approaches are often reactive and lack mechanisms to target support for those that might be the very most vulnerable, addressing issues only after harm has occurred. This Challenge seeks innovative solutions that can help registered social landlords identify where housing conditions, fuel poverty and individual vulnerability combine to create the greatest risk of harm, then translate that insight into practical, targeted action that combats these impacts, improves tenantsâ health and wellbeing outcomes, protects homes and makes better use of limited housing and support resources. Solutions must be affordable at RSL scale, protect tenant privacy, and connect insight to action so that Cloch can complete investigation and repair work within statutory timescales.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-09-08T00:00:00Z",
+    "deadline": "2026-10-20T12:00:00Z",
+    "value": 650000.0,
+    "currency": "GBP",
+    "cpv": [
+      "70333000",
+      "72000000",
+      "73000000"
+    ],
+    "status": "active",
+    "relevance": 25,
+    "matched": [
+      "CPV 72000000"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564061",
+    "fetched_at": "2026-09-25T10:06:20.636869Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-66-SEP564038",
+    "id": "rls-66-SEP564038",
+    "ocid": "ocds-r6ebe6-0000842316",
+    "title": "CivTech 12.1 - How can digital technologies assist people living with substance use issues (and their families/friends) to easily connect with trusted help and substance use support when services are unavailable?",
+    "buyer": "University of Strathclyde",
+    "description": "Scotland has the highest drug and alcohol related death rates in the UK and Europe. People with substance use issues (PWSUI) often need help outside normal 'office' hours or from a distance from offices, and support is not uniformly available throughout Scotland. The support landscape in Scotland is fragmented, hard to navigate, and varies by locality. When support isnât readily available (or isnât trusted), people and their families and friends often default to emergency services or remain unsupported. As a result, those who use substances often experience avoidable crisis escalation, or remain in extremely difficult situations, and support services miss opportunities for early, harm-reducing interventions. The Preventing Harm, Promoting Recovery: Scotlandâs Alcohol & Drugs Strategic Plan 2026 â 2035 specifically addresses the crucial need to tackle early intervention and widen an individualâs âcircle of supportâ. This âcircle of supportâ is at the heart of this Challenge, and a successful solution would enable people to access the right support sooner, regardless of locality. It should harness the power of existing trusted services, family and community to reduce avoidable demand on emergency and NHS services â and if possible, create a âfeedback loopâ of learning, intelligence and insight so that the overall issue can be tackled in a continually improving manner.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-09-08T00:00:00Z",
+    "deadline": "2026-10-20T12:00:00Z",
+    "value": 650000.0,
+    "currency": "GBP",
+    "cpv": [
+      "33693300",
+      "72222300",
+      "73000000"
+    ],
+    "status": "active",
+    "relevance": 25,
+    "matched": [
+      "CPV 72222300"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564038",
+    "fetched_at": "2026-09-25T10:06:20.637755Z"
+  },
+  {
     "key": "Poland / TED:633325-2026",
     "id": "633325-2026",
     "ocid": null,
@@ -13550,5 +14424,29 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564523",
     "fetched_at": "2026-09-24T21:24:22.981468Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-37-SEP564523",
+    "id": "rls-37-SEP564523",
+    "ocid": "ocds-r6ebe6-0000841052",
+    "title": "Have Your Say Social Services Research and Report",
+    "buyer": "Scottish Social Services Council",
+    "description": "To commission a research organisation to work in partnership with SSSC to deliver the annual âHave Your Sayâ social service research (specifically a workforce survey and focus groups) and produce a report which will be published on our website.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-09-15T00:00:00Z",
+    "deadline": "2026-10-15T17:00:00Z",
+    "value": 87500.0,
+    "currency": "GBP",
+    "cpv": [
+      "79300000"
+    ],
+    "status": "active",
+    "relevance": 13,
+    "matched": [
+      "website"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564523",
+    "fetched_at": "2026-09-25T10:06:38.832687Z"
   }
 ]
