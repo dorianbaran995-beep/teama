@@ -3357,7 +3357,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/677656-2026",
-    "fetched_at": "2026-10-01T11:29:28.493569Z"
+    "fetched_at": "2026-10-01T22:33:29.756749Z"
   },
   {
     "key": "eTenders Ireland / TED:673624-2026",
@@ -3392,7 +3392,7 @@
       "support and maintenance"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/673624-2026",
-    "fetched_at": "2026-10-01T11:29:28.494354Z"
+    "fetched_at": "2026-10-01T22:33:29.757311Z"
   },
   {
     "key": "eTenders Ireland / TED:651154-2026",
@@ -3503,7 +3503,7 @@
       "CPV 30237410"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/670357-2026",
-    "fetched_at": "2026-10-01T11:29:39.745859Z"
+    "fetched_at": "2026-10-01T22:33:45.237159Z"
   },
   {
     "key": "Poland / TED:666193-2026",
@@ -3556,7 +3556,7 @@
       "cyberbezpiec"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/666193-2026",
-    "fetched_at": "2026-10-01T11:29:44.204213Z"
+    "fetched_at": "2026-10-01T22:33:50.364070Z"
   },
   {
     "key": "Poland / TED:673225-2026",
@@ -3638,7 +3638,7 @@
       "CPV 30238000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/673225-2026",
-    "fetched_at": "2026-10-01T11:29:37.178324Z"
+    "fetched_at": "2026-10-01T22:33:41.073789Z"
   },
   {
     "key": "eTenders Ireland / TED:610745-2026",
@@ -3871,7 +3871,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/675053-2026",
-    "fetched_at": "2026-10-01T11:29:28.492209Z"
+    "fetched_at": "2026-10-01T22:33:29.755538Z"
   },
   {
     "key": "eTenders Ireland / TED:676890-2026",
@@ -3922,7 +3922,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/676890-2026",
-    "fetched_at": "2026-10-01T11:29:28.490965Z"
+    "fetched_at": "2026-10-01T22:33:29.752981Z"
   },
   {
     "key": "eTenders Ireland / TED:662277-2026",
@@ -3987,7 +3987,7 @@
       "ict"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/091992-2026",
-    "fetched_at": "2026-10-01T11:28:51.495231Z"
+    "fetched_at": "2026-10-01T22:33:02.827747Z"
   },
   {
     "key": "Poland / TED:661264-2026",
@@ -4013,7 +4013,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/661264-2026",
-    "fetched_at": "2026-10-01T11:29:45.257817Z"
+    "fetched_at": "2026-10-01T22:33:50.379784Z"
   },
   {
     "key": "Find a Tender:087628-2026",
@@ -6707,7 +6707,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/677828-2026",
-    "fetched_at": "2026-10-01T11:29:28.493862Z"
+    "fetched_at": "2026-10-01T22:33:29.757214Z"
   },
   {
     "key": "eTenders Ireland / TED:658139-2026",
@@ -8051,7 +8051,7 @@
       "infrastructure"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/671405-2026",
-    "fetched_at": "2026-10-01T11:29:28.495889Z"
+    "fetched_at": "2026-10-01T22:33:29.760242Z"
   },
   {
     "key": "Public Contracts Scotland:rls-1-SEP564781",
@@ -8432,33 +8432,6 @@
     "fetched_at": "2026-09-30T22:06:50.795942Z"
   },
   {
-    "key": "eTenders Ireland / TED:648718-2026",
-    "id": "648718-2026",
-    "ocid": null,
-    "title": "Ireland – IT services: consulting, software development, Internet and support – Provision of IT Managed Services",
-    "buyer": "Abbey Theatre Amharclann na Mainistreach",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-21T02:00:00Z",
-    "deadline": "2026-10-01T16:00:00Z",
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "72000000",
-      "72000000"
-    ],
-    "status": "active",
-    "relevance": 49,
-    "matched": [
-      "CPV 72000000",
-      "managed service",
-      "software"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/648718-2026",
-    "fetched_at": "2026-09-29T22:07:22.075120Z"
-  },
-  {
     "key": "eTenders Ireland / TED:677392-2026",
     "id": "677392-2026",
     "ocid": null,
@@ -8483,7 +8456,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/677392-2026",
-    "fetched_at": "2026-10-01T11:29:28.492497Z"
+    "fetched_at": "2026-10-01T22:33:29.754509Z"
   },
   {
     "key": "Find a Tender:087147-2026",
@@ -9594,7 +9567,7 @@
       "CPV 72320000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/676358-2026",
-    "fetched_at": "2026-10-01T11:29:28.493227Z"
+    "fetched_at": "2026-10-01T22:33:29.756167Z"
   },
   {
     "key": "Poland / TED:675742-2026",
@@ -9629,7 +9602,7 @@
       "CPV 30231300"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/675742-2026",
-    "fetched_at": "2026-10-01T11:29:30.675195Z"
+    "fetched_at": "2026-10-01T22:33:38.202400Z"
   },
   {
     "key": "Public Contracts Scotland:rls-7-SEP565521",
@@ -9847,7 +9820,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/666701-2026",
-    "fetched_at": "2026-09-30T22:07:01.004127Z"
+    "fetched_at": "2026-10-01T22:33:48.631693Z"
   },
   {
     "key": "eTenders Ireland / TED:643285-2026",
@@ -13856,7 +13829,7 @@
       "CPV 30231300"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/672441-2026",
-    "fetched_at": "2026-10-01T11:29:28.494441Z"
+    "fetched_at": "2026-10-01T22:33:29.757703Z"
   },
   {
     "key": "eTenders Ireland / TED:647419-2026",
@@ -13940,7 +13913,7 @@
       "CPV 72224000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/669247-2026",
-    "fetched_at": "2026-10-01T11:29:28.499981Z"
+    "fetched_at": "2026-10-01T22:33:29.766054Z"
   },
   {
     "key": "eTenders Ireland / TED:644816-2026",
@@ -14038,7 +14011,7 @@
       "CPV 72221000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/674429-2026",
-    "fetched_at": "2026-10-01T11:29:28.492277Z"
+    "fetched_at": "2026-10-01T22:33:29.754961Z"
   },
   {
     "key": "Public Contracts Scotland:rls-1-OCT565666",
@@ -14172,29 +14145,135 @@
     "fetched_at": "2026-10-01T11:29:26.607999Z"
   },
   {
-    "key": "Poland / TED:666436-2026",
-    "id": "666436-2026",
-    "ocid": null,
-    "title": "Poland – Transport equipment and auxiliary products to transportation – ZAKUP WRAZ Z DOSTAWĄ I MONTAŻEM WIELOZADANIOWEGO KALORYMETRU DETONACYJNEGO",
-    "buyer": "Wojskowy Instytut Techniki Inżynieryjnej im. profesora Józefa Kosackiego",
-    "description": "Active Polish public procurement notice published through TED.",
-    "source": "Poland / TED",
-    "country": "Poland",
-    "published_at": "2026-09-28T02:00:00Z",
-    "deadline": "2026-10-02T22:00:00Z",
-    "value": null,
-    "currency": "PLN",
+    "key": "Public Contracts Scotland:rls-5-OCT565666",
+    "id": "rls-5-OCT565666",
+    "ocid": "ocds-r6ebe6-0000843221",
+    "title": "General Building and Repair Works Framework",
+    "buyer": "North Ayrshire Council",
+    "description": "North Ayrshire Council (NAC) invites tenders for the provision of a General Building and Repair Works Framework. The framework will be split into 10 Lots: Lot 1 â Joinery Lot 2 - Door Entry Lot 3 â Electrical Lot 4 â Plumbing Lot 5 â Drainage Lot 6 â Plastering Lot 7 â Building Lot 8 â Roofing Lot 9 - Timber and Dampness Lot 10 â Fencing Bidders may submit tenders for a single Lot or multiple Lots. The framework will be ranked, and it is anticipated that up to 5 contractors will be appointed to each Lot. Notwithstanding this, NAC reserves the right to appoint a greater number of contractors to any Lot at its sole discretion, where it deems this appropriate and beneficial to the operation of the framework. There are no guaranteed volumes of business.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-01T00:00:00Z",
+    "deadline": "2026-10-29T12:00:00Z",
+    "value": 3960000.0,
+    "currency": "GBP",
     "cpv": [
-      "34000000",
-      "38296000",
-      "38418000",
-      "38296000"
+      "03419000",
+      "03419100",
+      "31500000",
+      "31625100",
+      "32550000",
+      "32570000",
+      "33141640",
+      "34928200",
+      "34928210",
+      "34928220",
+      "35120000",
+      "35121700",
+      "35123000",
+      "35125300",
+      "41110000",
+      "44112400",
+      "44163110",
+      "44163111",
+      "44163112",
+      "44220000",
+      "44221300",
+      "44411000",
+      "45111240",
+      "45112000",
+      "45200000",
+      "45210000",
+      "45211310",
+      "45232450",
+      "45232451",
+      "45232452",
+      "45232453",
+      "45247112",
+      "45260000",
+      "45261100",
+      "45261200",
+      "45261210",
+      "45261211",
+      "45261212",
+      "45261300",
+      "45261410",
+      "45261900",
+      "45261910",
+      "45261920",
+      "45262300",
+      "45262330",
+      "45262500",
+      "45262511",
+      "45262520",
+      "45262522",
+      "45262690",
+      "45310000",
+      "45311000",
+      "45311100",
+      "45311200",
+      "45312000",
+      "45312100",
+      "45312200",
+      "45312300",
+      "45316000",
+      "45316100",
+      "45317000",
+      "45330000",
+      "45332000",
+      "45332200",
+      "45332300",
+      "45332400",
+      "45340000",
+      "45342000",
+      "45400000",
+      "45410000",
+      "45420000",
+      "45421000",
+      "45421111",
+      "45421112",
+      "45421130",
+      "45421131",
+      "45421132",
+      "45421141",
+      "45421148",
+      "45421151",
+      "45421152",
+      "45421153",
+      "45421160",
+      "45422000",
+      "45422100",
+      "45432110",
+      "45432113",
+      "45432114",
+      "45440000",
+      "45450000",
+      "45453000",
+      "45453100",
+      "50610000",
+      "50700000",
+      "50710000",
+      "50711000",
+      "50720000",
+      "50721000",
+      "64200000",
+      "65130000",
+      "71314100",
+      "71630000",
+      "90400000",
+      "90470000",
+      "90480000",
+      "90640000",
+      "90641000"
     ],
     "status": "active",
-    "relevance": 16,
-    "matched": [],
-    "url": "https://ted.europa.eu/en/notice/-/detail/666436-2026",
-    "fetched_at": "2026-10-01T11:29:44.200637Z"
+    "relevance": 30,
+    "matched": [
+      "CPV 32550000",
+      "CPV 32570000"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565666",
+    "fetched_at": "2026-10-01T22:33:28.863906Z"
   },
   {
     "key": "Public Contracts Scotland:rls-29-SEP563674",
@@ -17805,6 +17884,30 @@
     "fetched_at": "2026-09-30T22:06:45.533808Z"
   },
   {
+    "key": "Public Contracts Scotland:rls-4-OCT565724",
+    "id": "rls-4-OCT565724",
+    "ocid": "ocds-r6ebe6-0000844457",
+    "title": "Provision of an Emergency Communication Platform and Associated Hardware.",
+    "buyer": "UHI Moray",
+    "description": "UHI Moray and UHI North, West and Hebrides are undertaking a joint procurement exercise for the Provision of an Emergency Communication Platform and Associated Hardware.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-01T00:00:00Z",
+    "deadline": "2026-10-22T09:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "32412000"
+    ],
+    "status": "active",
+    "relevance": 25,
+    "matched": [
+      "CPV 32412000"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565724",
+    "fetched_at": "2026-10-01T22:33:28.863462Z"
+  },
+  {
     "key": "Find a Tender:092274-2026",
     "id": "092274-2026",
     "ocid": "ocds-h6vhtk-077d5b",
@@ -17831,7 +17934,32 @@
       "website"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/092274-2026",
-    "fetched_at": "2026-10-01T11:28:51.494909Z"
+    "fetched_at": "2026-10-01T22:33:02.827285Z"
+  },
+  {
+    "key": "Poland / TED:666436-2026",
+    "id": "666436-2026",
+    "ocid": null,
+    "title": "Poland – Transport equipment and auxiliary products to transportation – ZAKUP WRAZ Z DOSTAWĄ I MONTAŻEM WIELOZADANIOWEGO KALORYMETRU DETONACYJNEGO",
+    "buyer": "Wojskowy Instytut Techniki Inżynieryjnej im. profesora Józefa Kosackiego",
+    "description": "Active Polish public procurement notice published through TED.",
+    "source": "Poland / TED",
+    "country": "Poland",
+    "published_at": "2026-09-28T02:00:00Z",
+    "deadline": "2026-10-02T22:00:00Z",
+    "value": null,
+    "currency": "PLN",
+    "cpv": [
+      "34000000",
+      "38296000",
+      "38418000",
+      "38296000"
+    ],
+    "status": "active",
+    "relevance": 16,
+    "matched": [],
+    "url": "https://ted.europa.eu/en/notice/-/detail/666436-2026",
+    "fetched_at": "2026-10-01T11:29:44.200637Z"
   },
   {
     "key": "Poland / TED:633325-2026",
@@ -17885,7 +18013,7 @@
       "oprogramowanie"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/673094-2026",
-    "fetched_at": "2026-10-01T11:29:37.177947Z"
+    "fetched_at": "2026-10-01T22:33:41.063690Z"
   },
   {
     "key": "eTenders Ireland / TED:641482-2026",
