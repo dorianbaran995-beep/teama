@@ -1,5 +1,56 @@
 [
   {
+    "key": "eTenders Ireland / TED:647642-2026",
+    "id": "647642-2026",
+    "ocid": null,
+    "title": "Ireland – IT services: consulting, software development, Internet and support – Single-party Framework for the Provision of Website Design, Hosting and Support for New Website and Related Services",
+    "buyer": "Charities Regulator",
+    "description": "Active Irish public procurement notice published through TED/eTenders.",
+    "source": "eTenders Ireland / TED",
+    "country": "Ireland",
+    "published_at": "2026-09-21T02:00:00Z",
+    "deadline": "2026-10-07T11:00:00Z",
+    "value": null,
+    "currency": "EUR",
+    "cpv": [
+      "72000000",
+      "72212224",
+      "72420000",
+      "72212220",
+      "72500000",
+      "72413000",
+      "72400000",
+      "72410000",
+      "72590000",
+      "72222300",
+      "72000000",
+      "72212224",
+      "72420000",
+      "72212220",
+      "72500000",
+      "72413000",
+      "72400000",
+      "72410000",
+      "72590000",
+      "72222300"
+    ],
+    "status": "active",
+    "relevance": 100,
+    "matched": [
+      "CPV 72000000",
+      "CPV 72212220",
+      "CPV 72212224",
+      "CPV 72420000",
+      "hosting",
+      "new website",
+      "software",
+      "website",
+      "website design"
+    ],
+    "url": "https://ted.europa.eu/en/notice/-/detail/647642-2026",
+    "fetched_at": "2026-09-29T22:07:22.075485Z"
+  },
+  {
     "key": "Public Contracts Scotland:rls-97-SEP563567",
     "id": "rls-97-SEP563567",
     "ocid": "ocds-r6ebe6-0000841718",
@@ -52,57 +103,6 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563567",
     "fetched_at": "2026-09-30T22:06:45.535567Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:647642-2026",
-    "id": "647642-2026",
-    "ocid": null,
-    "title": "Ireland – IT services: consulting, software development, Internet and support – Single-party Framework for the Provision of Website Design, Hosting and Support for New Website and Related Services",
-    "buyer": "Charities Regulator",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-21T02:00:00Z",
-    "deadline": "2026-10-07T11:00:00Z",
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "72000000",
-      "72212224",
-      "72420000",
-      "72212220",
-      "72500000",
-      "72413000",
-      "72400000",
-      "72410000",
-      "72590000",
-      "72222300",
-      "72000000",
-      "72212224",
-      "72420000",
-      "72212220",
-      "72500000",
-      "72413000",
-      "72400000",
-      "72410000",
-      "72590000",
-      "72222300"
-    ],
-    "status": "active",
-    "relevance": 100,
-    "matched": [
-      "CPV 72000000",
-      "CPV 72212220",
-      "CPV 72212224",
-      "CPV 72420000",
-      "hosting",
-      "new website",
-      "software",
-      "website",
-      "website design"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/647642-2026",
-    "fetched_at": "2026-09-29T22:07:22.075485Z"
   },
   {
     "key": "Public Contracts Scotland:rls-92-SEP563567",
@@ -1381,101 +1381,6 @@
     "fetched_at": "2026-09-23T21:23:13.509313Z"
   },
   {
-    "key": "Public Contracts Scotland:rls-23-SEP564950",
-    "id": "rls-23-SEP564950",
-    "ocid": "ocds-r6ebe6-0000843499",
-    "title": "Backup & Recovery Solution",
-    "buyer": "University of Dundee",
-    "description": "The University is seeking the provision, implementation, transition and ongoing support of a SaaS Enterprise Backup and Recovery solution. The scope of this procurement includes: - Provision of the backup and recovery platform. - Associated cloud storage services. - Software licensing for protected workloads. - Professional services required to support implementation, configuration and service transition. - Testing, validation and knowledge transfer activities. - Training and supporting documentation. - Ongoing software maintenance, platform updates and vendor support. The SaaS solution shall integrate with the University's existing infrastructure and support the protection of workloads hosted across VMware, Microsoft Hyper-V, Proxmox and physical server environments.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-21T00:00:00Z",
-    "deadline": "2026-10-26T12:00:00Z",
-    "value": 317000.0,
-    "currency": "GBP",
-    "cpv": [
-      "72322000",
-      "73300000",
-      "79930000",
-      "79933000"
-    ],
-    "status": "active",
-    "relevance": 70,
-    "matched": [
-      "CPV 72322000",
-      "cloud",
-      "infrastructure",
-      "saas",
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564950",
-    "fetched_at": "2026-09-30T22:06:45.526038Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-37-SEP564806",
-    "id": "rls-37-SEP564806",
-    "ocid": "ocds-r6ebe6-0000843414",
-    "title": "PROVISION OF PAYMENT PLATFORM - UNIVERSITY OF ABERDEEN",
-    "buyer": "University of Aberdeen",
-    "description": "Provision of an enterprise online payment platform and associated payment processing services, including software-as-a-service (SaaS), merchant services, payment gateway functionality, online store capability, implementation, integration, support, maintenance and associated professional services",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-18T00:00:00Z",
-    "deadline": "2026-10-19T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "48000000",
-      "48100000",
-      "48442000",
-      "66170000"
-    ],
-    "status": "active",
-    "relevance": 67,
-    "matched": [
-      "CPV 48000000",
-      "CPV 48100000",
-      "CPV 48442000",
-      "integration",
-      "saas",
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564806",
-    "fetched_at": "2026-09-30T22:06:45.527656Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-48-SEP564551",
-    "id": "rls-48-SEP564551",
-    "ocid": "ocds-r6ebe6-0000843026",
-    "title": "Provision of a Complete Network Infrastructure Solution for the Mountain Bike Innovation Centre (MBIC), Innerleithen",
-    "buyer": "South of Scotland Enterprise Agency",
-    "description": "South of Scotland Enterprise (SOSE) seeks a suitably qualified and experienced supplier to review, validate, design, supply, install, configure, test, commission and support a complete ICT and network infrastructure solution for the Mountain Bike Innovation Centre (MBIC), Innerleithen. The contract includes any associated licensing, connectivity, maintenance, managed services and support arrangements required to deliver a fully operational solution. The successful supplier will be responsible for validating requirements and recommending the most appropriate solution to meet MBIC's operational needs.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-15T00:00:00Z",
-    "deadline": "2026-10-13T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "32412100",
-      "32412110",
-      "32571000"
-    ],
-    "status": "active",
-    "relevance": 66,
-    "matched": [
-      "CPV 32412100",
-      "CPV 32412110",
-      "CPV 32571000",
-      "ict",
-      "infrastructure",
-      "managed service",
-      "network"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564551",
-    "fetched_at": "2026-09-30T22:06:45.528909Z"
-  },
-  {
     "key": "eTenders Ireland / TED:635092-2026",
     "id": "635092-2026",
     "ocid": null,
@@ -1568,6 +1473,37 @@
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/644527-2026",
     "fetched_at": "2026-09-28T11:36:33.852191Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-23-SEP564950",
+    "id": "rls-23-SEP564950",
+    "ocid": "ocds-r6ebe6-0000843499",
+    "title": "Backup & Recovery Solution",
+    "buyer": "University of Dundee",
+    "description": "The University is seeking the provision, implementation, transition and ongoing support of a SaaS Enterprise Backup and Recovery solution. The scope of this procurement includes: - Provision of the backup and recovery platform. - Associated cloud storage services. - Software licensing for protected workloads. - Professional services required to support implementation, configuration and service transition. - Testing, validation and knowledge transfer activities. - Training and supporting documentation. - Ongoing software maintenance, platform updates and vendor support. The SaaS solution shall integrate with the University's existing infrastructure and support the protection of workloads hosted across VMware, Microsoft Hyper-V, Proxmox and physical server environments.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-09-21T00:00:00Z",
+    "deadline": "2026-10-26T12:00:00Z",
+    "value": 317000.0,
+    "currency": "GBP",
+    "cpv": [
+      "72322000",
+      "73300000",
+      "79930000",
+      "79933000"
+    ],
+    "status": "active",
+    "relevance": 70,
+    "matched": [
+      "CPV 72322000",
+      "cloud",
+      "infrastructure",
+      "saas",
+      "software"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564950",
+    "fetched_at": "2026-09-30T22:06:45.526038Z"
   },
   {
     "key": "Public Contracts Scotland:rls-18-SEP564950",
@@ -2351,6 +2287,38 @@
     "fetched_at": "2026-09-21T10:34:21.996198Z"
   },
   {
+    "key": "Public Contracts Scotland:rls-37-SEP564806",
+    "id": "rls-37-SEP564806",
+    "ocid": "ocds-r6ebe6-0000843414",
+    "title": "PROVISION OF PAYMENT PLATFORM - UNIVERSITY OF ABERDEEN",
+    "buyer": "University of Aberdeen",
+    "description": "Provision of an enterprise online payment platform and associated payment processing services, including software-as-a-service (SaaS), merchant services, payment gateway functionality, online store capability, implementation, integration, support, maintenance and associated professional services",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-09-18T00:00:00Z",
+    "deadline": "2026-10-19T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "48000000",
+      "48100000",
+      "48442000",
+      "66170000"
+    ],
+    "status": "active",
+    "relevance": 67,
+    "matched": [
+      "CPV 48000000",
+      "CPV 48100000",
+      "CPV 48442000",
+      "integration",
+      "saas",
+      "software"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564806",
+    "fetched_at": "2026-09-30T22:06:45.527656Z"
+  },
+  {
     "key": "Public Contracts Scotland:rls-32-SEP564806",
     "id": "rls-32-SEP564806",
     "ocid": "ocds-r6ebe6-0000843414",
@@ -2765,6 +2733,38 @@
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/087346-2026",
     "fetched_at": "2026-09-18T09:32:43.204054Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-48-SEP564551",
+    "id": "rls-48-SEP564551",
+    "ocid": "ocds-r6ebe6-0000843026",
+    "title": "Provision of a Complete Network Infrastructure Solution for the Mountain Bike Innovation Centre (MBIC), Innerleithen",
+    "buyer": "South of Scotland Enterprise Agency",
+    "description": "South of Scotland Enterprise (SOSE) seeks a suitably qualified and experienced supplier to review, validate, design, supply, install, configure, test, commission and support a complete ICT and network infrastructure solution for the Mountain Bike Innovation Centre (MBIC), Innerleithen. The contract includes any associated licensing, connectivity, maintenance, managed services and support arrangements required to deliver a fully operational solution. The successful supplier will be responsible for validating requirements and recommending the most appropriate solution to meet MBIC's operational needs.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-09-15T00:00:00Z",
+    "deadline": "2026-10-13T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "32412100",
+      "32412110",
+      "32571000"
+    ],
+    "status": "active",
+    "relevance": 66,
+    "matched": [
+      "CPV 32412100",
+      "CPV 32412110",
+      "CPV 32571000",
+      "ict",
+      "infrastructure",
+      "managed service",
+      "network"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564551",
+    "fetched_at": "2026-09-30T22:06:45.528909Z"
   },
   {
     "key": "Public Contracts Scotland:rls-43-SEP564551",
@@ -3312,6 +3312,54 @@
     "fetched_at": "2026-09-20T20:38:09.227429Z"
   },
   {
+    "key": "eTenders Ireland / TED:677656-2026",
+    "id": "677656-2026",
+    "ocid": null,
+    "title": "Ireland – Document management software package – Provision of Electronic Signing and PDF Editing Software",
+    "buyer": "Housing and Sustainable Communities Agency",
+    "description": "Active Irish public procurement notice published through TED/eTenders.",
+    "source": "eTenders Ireland / TED",
+    "country": "Ireland",
+    "published_at": "2026-10-01T02:00:00Z",
+    "deadline": "2026-10-14T14:00:00Z",
+    "value": null,
+    "currency": "EUR",
+    "cpv": [
+      "48311000",
+      "48312000",
+      "48310000",
+      "48170000",
+      "48328000",
+      "48316000",
+      "48783000",
+      "48300000",
+      "48900000",
+      "48422000",
+      "48311000",
+      "48312000",
+      "48310000",
+      "48170000",
+      "48328000",
+      "48316000",
+      "48783000",
+      "48300000",
+      "48900000",
+      "48422000"
+    ],
+    "status": "active",
+    "relevance": 64,
+    "matched": [
+      "CPV 48170000",
+      "CPV 48310000",
+      "CPV 48311000",
+      "CPV 48312000",
+      "document management",
+      "software"
+    ],
+    "url": "https://ted.europa.eu/en/notice/-/detail/677656-2026",
+    "fetched_at": "2026-10-01T11:29:28.493569Z"
+  },
+  {
     "key": "eTenders Ireland / TED:673624-2026",
     "id": "673624-2026",
     "ocid": null,
@@ -3344,7 +3392,7 @@
       "support and maintenance"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/673624-2026",
-    "fetched_at": "2026-09-30T22:06:51.905791Z"
+    "fetched_at": "2026-10-01T11:29:28.494354Z"
   },
   {
     "key": "eTenders Ireland / TED:651154-2026",
@@ -3455,7 +3503,7 @@
       "CPV 30237410"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/670357-2026",
-    "fetched_at": "2026-09-30T22:06:58.542393Z"
+    "fetched_at": "2026-10-01T11:29:39.745859Z"
   },
   {
     "key": "Poland / TED:666193-2026",
@@ -3508,7 +3556,7 @@
       "cyberbezpiec"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/666193-2026",
-    "fetched_at": "2026-09-30T22:07:03.011232Z"
+    "fetched_at": "2026-10-01T11:29:44.204213Z"
   },
   {
     "key": "Poland / TED:673225-2026",
@@ -3590,7 +3638,7 @@
       "CPV 30238000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/673225-2026",
-    "fetched_at": "2026-09-30T22:06:55.789537Z"
+    "fetched_at": "2026-10-01T11:29:37.178324Z"
   },
   {
     "key": "eTenders Ireland / TED:610745-2026",
@@ -3678,7 +3726,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/659361-2026",
-    "fetched_at": "2026-09-30T22:06:51.920100Z"
+    "fetched_at": "2026-10-01T11:29:28.503968Z"
   },
   {
     "key": "eTenders Ireland / TED:648059-2026",
@@ -3791,6 +3839,92 @@
     "fetched_at": "2026-09-30T22:06:51.923087Z"
   },
   {
+    "key": "eTenders Ireland / TED:675053-2026",
+    "id": "675053-2026",
+    "ocid": null,
+    "title": "Ireland – IT services: consulting, software development, Internet and support – Microsoft Dynamics 365 Business Central Support Services",
+    "buyer": "Fáilte Ireland-National Tourism Development Authority",
+    "description": "Active Irish public procurement notice published through TED/eTenders.",
+    "source": "eTenders Ireland / TED",
+    "country": "Ireland",
+    "published_at": "2026-10-01T02:00:00Z",
+    "deadline": "2026-10-12T11:00:00Z",
+    "value": null,
+    "currency": "EUR",
+    "cpv": [
+      "72000000",
+      "72600000",
+      "72610000",
+      "72253200",
+      "72000000",
+      "72600000",
+      "72610000",
+      "72253200"
+    ],
+    "status": "active",
+    "relevance": 58,
+    "matched": [
+      "CPV 72000000",
+      "CPV 72253200",
+      "CPV 72600000",
+      "CPV 72610000",
+      "software"
+    ],
+    "url": "https://ted.europa.eu/en/notice/-/detail/675053-2026",
+    "fetched_at": "2026-10-01T11:29:28.492209Z"
+  },
+  {
+    "key": "eTenders Ireland / TED:676890-2026",
+    "id": "676890-2026",
+    "ocid": null,
+    "title": "Ireland – Scanners – Scanning and software equipment for the National Archives, Ireland",
+    "buyer": "Department of Culture Communications Sport",
+    "description": "Active Irish public procurement notice published through TED/eTenders.",
+    "source": "eTenders Ireland / TED",
+    "country": "Ireland",
+    "published_at": "2026-10-01T02:00:00Z",
+    "deadline": "2026-10-16T11:00:00Z",
+    "value": null,
+    "currency": "EUR",
+    "cpv": [
+      "38520000",
+      "48318000",
+      "30216110",
+      "30124520",
+      "30232130",
+      "30199330",
+      "32552200",
+      "30232150",
+      "30100000",
+      "30232110",
+      "30000000",
+      "30200000",
+      "38520000",
+      "48318000",
+      "30216110",
+      "30124520",
+      "30232130",
+      "30199330",
+      "32552200",
+      "30232150",
+      "30100000",
+      "30232110",
+      "30000000",
+      "30200000"
+    ],
+    "status": "active",
+    "relevance": 58,
+    "matched": [
+      "CPV 30124520",
+      "CPV 30216110",
+      "CPV 30232130",
+      "CPV 48318000",
+      "software"
+    ],
+    "url": "https://ted.europa.eu/en/notice/-/detail/676890-2026",
+    "fetched_at": "2026-10-01T11:29:28.490965Z"
+  },
+  {
     "key": "eTenders Ireland / TED:662277-2026",
     "id": "662277-2026",
     "ocid": null,
@@ -3827,7 +3961,7 @@
       "ict"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/662277-2026",
-    "fetched_at": "2026-09-30T22:06:51.918726Z"
+    "fetched_at": "2026-10-01T11:29:28.503094Z"
   },
   {
     "key": "Find a Tender:091992-2026",
@@ -3853,33 +3987,7 @@
       "ict"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/091992-2026",
-    "fetched_at": "2026-09-30T22:06:03.272233Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-7-SEP565521",
-    "id": "rls-7-SEP565521",
-    "ocid": "ocds-r6ebe6-0000844297",
-    "title": "ICT Data Platform Consultancy Services",
-    "buyer": "Ayrshire College",
-    "description": "Ayrshire College is seeking to appoint a suitably qualified and experienced technical specialist partner to support the development of a modern, secure and scalable enterprise data platform capability for Ayrshire College.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-29T00:00:00Z",
-    "deadline": "2026-11-11T12:00:00Z",
-    "value": 200000.0,
-    "currency": "GBP",
-    "cpv": [
-      "72220000"
-    ],
-    "status": "active",
-    "relevance": 44,
-    "matched": [
-      "CPV 72220000",
-      "data platform",
-      "ict"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP565521",
-    "fetched_at": "2026-09-30T22:06:45.523991Z"
+    "fetched_at": "2026-10-01T11:28:51.495231Z"
   },
   {
     "key": "Poland / TED:661264-2026",
@@ -3905,7 +4013,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/661264-2026",
-    "fetched_at": "2026-09-30T22:07:03.729233Z"
+    "fetched_at": "2026-10-01T11:29:45.257817Z"
   },
   {
     "key": "Find a Tender:087628-2026",
@@ -4408,7 +4516,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/657631-2026",
-    "fetched_at": "2026-09-30T22:06:51.920308Z"
+    "fetched_at": "2026-10-01T11:29:28.504056Z"
   },
   {
     "key": "eTenders Ireland / TED:612350-2026",
@@ -6573,6 +6681,35 @@
     "fetched_at": "2026-09-30T22:06:50.796244Z"
   },
   {
+    "key": "eTenders Ireland / TED:677828-2026",
+    "id": "677828-2026",
+    "ocid": null,
+    "title": "Ireland – Software-related services – The provision of Sonatype Nexus LifeCycle licenses",
+    "buyer": "Department of Agriculture Food and the Marine",
+    "description": "Active Irish public procurement notice published through TED/eTenders.",
+    "source": "eTenders Ireland / TED",
+    "country": "Ireland",
+    "published_at": "2026-10-01T02:00:00Z",
+    "deadline": "2026-10-24T16:00:00Z",
+    "value": null,
+    "currency": "EUR",
+    "cpv": [
+      "72260000",
+      "72268000",
+      "72260000",
+      "72268000"
+    ],
+    "status": "active",
+    "relevance": 53,
+    "matched": [
+      "CPV 72260000",
+      "CPV 72268000",
+      "software"
+    ],
+    "url": "https://ted.europa.eu/en/notice/-/detail/677828-2026",
+    "fetched_at": "2026-10-01T11:29:28.493862Z"
+  },
+  {
     "key": "eTenders Ireland / TED:658139-2026",
     "id": "658139-2026",
     "ocid": null,
@@ -6600,7 +6737,7 @@
       "support and maintenance"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/658139-2026",
-    "fetched_at": "2026-09-30T22:06:51.920383Z"
+    "fetched_at": "2026-10-01T11:29:28.504100Z"
   },
   {
     "key": "Public Contracts Scotland:rls-3-SEP564706",
@@ -7914,7 +8051,7 @@
       "infrastructure"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/671405-2026",
-    "fetched_at": "2026-09-30T22:06:51.908208Z"
+    "fetched_at": "2026-10-01T11:29:28.495889Z"
   },
   {
     "key": "Public Contracts Scotland:rls-1-SEP564781",
@@ -8320,6 +8457,33 @@
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/648718-2026",
     "fetched_at": "2026-09-29T22:07:22.075120Z"
+  },
+  {
+    "key": "eTenders Ireland / TED:677392-2026",
+    "id": "677392-2026",
+    "ocid": null,
+    "title": "Ireland – IT services: consulting, software development, Internet and support – Provision of IT Managed Services",
+    "buyer": "Abbey Theatre Amharclann na Mainistreach",
+    "description": "Active Irish public procurement notice published through TED/eTenders.",
+    "source": "eTenders Ireland / TED",
+    "country": "Ireland",
+    "published_at": "2026-10-01T02:00:00Z",
+    "deadline": "2026-10-07T16:00:00Z",
+    "value": null,
+    "currency": "EUR",
+    "cpv": [
+      "72000000",
+      "72000000"
+    ],
+    "status": "active",
+    "relevance": 49,
+    "matched": [
+      "CPV 72000000",
+      "managed service",
+      "software"
+    ],
+    "url": "https://ted.europa.eu/en/notice/-/detail/677392-2026",
+    "fetched_at": "2026-10-01T11:29:28.492497Z"
   },
   {
     "key": "Find a Tender:087147-2026",
@@ -8970,40 +9134,6 @@
     "fetched_at": "2026-09-30T22:06:45.529028Z"
   },
   {
-    "key": "eTenders Ireland / TED:605566-2026",
-    "id": "605566-2026",
-    "ocid": null,
-    "title": "Ireland – Passenger information system – 9947 Station Services Mediation System (SSMS)",
-    "buyer": "Iarnród Eireann-Irish Rail",
-    "description": "Active Irish procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-02T02:00:00Z",
-    "deadline": "2026-10-01T11:00:00Z",
-    "value": 4000000.0,
-    "currency": "EUR",
-    "cpv": [
-      "48813000",
-      "72263000",
-      "72265000",
-      "72267100",
-      "48813000",
-      "72263000",
-      "72265000",
-      "72267100"
-    ],
-    "status": "active",
-    "relevance": 45,
-    "matched": [
-      "CPV 48813000",
-      "CPV 72263000",
-      "CPV 72265000",
-      "CPV 72267100"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/605566-2026",
-    "fetched_at": "2026-09-10T13:22:24.100582Z"
-  },
-  {
     "key": "eTenders Ireland / TED:620322-2026",
     "id": "620322-2026",
     "ocid": null,
@@ -9362,7 +9492,7 @@
       "CPV 72246000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/658169-2026",
-    "fetched_at": "2026-09-30T22:06:51.919976Z"
+    "fetched_at": "2026-10-01T11:29:28.503889Z"
   },
   {
     "key": "eTenders Ireland / TED:652620-2026",
@@ -9428,6 +9558,104 @@
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/652620-2026",
     "fetched_at": "2026-09-29T22:07:22.074502Z"
+  },
+  {
+    "key": "eTenders Ireland / TED:676358-2026",
+    "id": "676358-2026",
+    "ocid": null,
+    "title": "Ireland – Library and archive services – LI3938R MU PQQ for the Provision of a Document Support Platform for Higher Education Institution libraries",
+    "buyer": "Education Procurement Service (EPS)",
+    "description": "Active Irish public procurement notice published through TED/eTenders.",
+    "source": "eTenders Ireland / TED",
+    "country": "Ireland",
+    "published_at": "2026-10-01T02:00:00Z",
+    "deadline": "2026-10-20T13:00:00Z",
+    "value": null,
+    "currency": "EUR",
+    "cpv": [
+      "92510000",
+      "92511000",
+      "48160000",
+      "79995000",
+      "72212160",
+      "72320000",
+      "92510000",
+      "92511000",
+      "48160000",
+      "79995000",
+      "72212160",
+      "72320000"
+    ],
+    "status": "active",
+    "relevance": 45,
+    "matched": [
+      "CPV 48160000",
+      "CPV 72212160",
+      "CPV 72320000"
+    ],
+    "url": "https://ted.europa.eu/en/notice/-/detail/676358-2026",
+    "fetched_at": "2026-10-01T11:29:28.493227Z"
+  },
+  {
+    "key": "Poland / TED:675742-2026",
+    "id": "675742-2026",
+    "ocid": null,
+    "title": "Poland – Display screens – Dostawa monitorów, jednostek centralnych i notebooków (3 zadania częściowe)",
+    "buyer": "KOMENDA WOJEWÓDZKA POLICJI W OLSZTYNIE",
+    "description": "Active Polish public procurement notice published through TED.",
+    "source": "Poland / TED",
+    "country": "Poland",
+    "published_at": "2026-10-01T02:00:00Z",
+    "deadline": "2026-10-21T21:59:00Z",
+    "value": null,
+    "currency": "PLN",
+    "cpv": [
+      "30231300",
+      "30213300",
+      "30213100",
+      "30214000",
+      "30231300",
+      "30213100",
+      "30213300",
+      "30214000",
+      "30231300"
+    ],
+    "status": "active",
+    "relevance": 45,
+    "matched": [
+      "CPV 30213100",
+      "CPV 30213300",
+      "CPV 30214000",
+      "CPV 30231300"
+    ],
+    "url": "https://ted.europa.eu/en/notice/-/detail/675742-2026",
+    "fetched_at": "2026-10-01T11:29:30.675195Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-7-SEP565521",
+    "id": "rls-7-SEP565521",
+    "ocid": "ocds-r6ebe6-0000844297",
+    "title": "ICT Data Platform Consultancy Services",
+    "buyer": "Ayrshire College",
+    "description": "Ayrshire College is seeking to appoint a suitably qualified and experienced technical specialist partner to support the development of a modern, secure and scalable enterprise data platform capability for Ayrshire College.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-09-29T00:00:00Z",
+    "deadline": "2026-11-11T12:00:00Z",
+    "value": 200000.0,
+    "currency": "GBP",
+    "cpv": [
+      "72220000"
+    ],
+    "status": "active",
+    "relevance": 44,
+    "matched": [
+      "CPV 72220000",
+      "data platform",
+      "ict"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP565521",
+    "fetched_at": "2026-09-30T22:06:45.523991Z"
   },
   {
     "key": "Public Contracts Scotland:rls-2-SEP565521",
@@ -13628,7 +13856,7 @@
       "CPV 30231300"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/672441-2026",
-    "fetched_at": "2026-09-30T22:06:51.905960Z"
+    "fetched_at": "2026-10-01T11:29:28.494441Z"
   },
   {
     "key": "eTenders Ireland / TED:647419-2026",
@@ -13712,7 +13940,7 @@
       "CPV 72224000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/669247-2026",
-    "fetched_at": "2026-09-30T22:06:51.914021Z"
+    "fetched_at": "2026-10-01T11:29:28.499981Z"
   },
   {
     "key": "eTenders Ireland / TED:644816-2026",
@@ -13782,6 +14010,168 @@
     "fetched_at": "2026-09-27T21:12:43.181278Z"
   },
   {
+    "key": "eTenders Ireland / TED:674429-2026",
+    "id": "674429-2026",
+    "ocid": null,
+    "title": "Ireland – Economic research services – Consultancy Services to prepare a Strategic Assessment and Preliminary Business Case in relation to the provision of Irish-language based early-years (Naíonra) facilities in Dún Gar",
+    "buyer": "Croí na nÓg",
+    "description": "Active Irish public procurement notice published through TED/eTenders.",
+    "source": "eTenders Ireland / TED",
+    "country": "Ireland",
+    "published_at": "2026-10-01T02:00:00Z",
+    "deadline": "2026-10-22T12:00:00Z",
+    "value": null,
+    "currency": "EUR",
+    "cpv": [
+      "79311400",
+      "72221000",
+      "79300000",
+      "71241000",
+      "79311400",
+      "72221000",
+      "79300000",
+      "71241000"
+    ],
+    "status": "active",
+    "relevance": 30,
+    "matched": [
+      "CPV 72221000"
+    ],
+    "url": "https://ted.europa.eu/en/notice/-/detail/674429-2026",
+    "fetched_at": "2026-10-01T11:29:28.492277Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-1-OCT565666",
+    "id": "rls-1-OCT565666",
+    "ocid": "ocds-r6ebe6-0000843221",
+    "title": "General Building and Repair Works Framework",
+    "buyer": "North Ayrshire Council",
+    "description": "North Ayrshire Council (NAC) invites tenders for the provision of a General Building and Repair Works Framework. The framework will be split into 10 Lots: Lot 1 â Joinery Lot 2 - Door Entry Lot 3 â Electrical Lot 4 â Plumbing Lot 5 â Drainage Lot 6 â Plastering Lot 7 â Building Lot 8 â Roofing Lot 9 - Timber and Dampness Lot 10 â Fencing Bidders may submit tenders for a single Lot or multiple Lots. The framework will be ranked, and it is anticipated that up to 5 contractors will be appointed to each Lot. Notwithstanding this, NAC reserves the right to appoint a greater number of contractors to any Lot at its sole discretion, where it deems this appropriate and beneficial to the operation of the framework. There are no guaranteed volumes of business.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-01T00:00:00Z",
+    "deadline": "2026-10-29T12:00:00Z",
+    "value": 3960000.0,
+    "currency": "GBP",
+    "cpv": [
+      "03419000",
+      "03419100",
+      "31500000",
+      "31625100",
+      "32550000",
+      "32570000",
+      "33141640",
+      "34928200",
+      "34928210",
+      "34928220",
+      "35120000",
+      "35121700",
+      "35123000",
+      "35125300",
+      "41110000",
+      "44112400",
+      "44163110",
+      "44163111",
+      "44163112",
+      "44220000",
+      "44221300",
+      "44411000",
+      "45111240",
+      "45112000",
+      "45200000",
+      "45210000",
+      "45211310",
+      "45232450",
+      "45232451",
+      "45232452",
+      "45232453",
+      "45247112",
+      "45260000",
+      "45261100",
+      "45261200",
+      "45261210",
+      "45261211",
+      "45261212",
+      "45261300",
+      "45261410",
+      "45261900",
+      "45261910",
+      "45261920",
+      "45262300",
+      "45262330",
+      "45262500",
+      "45262511",
+      "45262520",
+      "45262522",
+      "45262690",
+      "45310000",
+      "45311000",
+      "45311100",
+      "45311200",
+      "45312000",
+      "45312100",
+      "45312200",
+      "45312300",
+      "45316000",
+      "45316100",
+      "45317000",
+      "45330000",
+      "45332000",
+      "45332200",
+      "45332300",
+      "45332400",
+      "45340000",
+      "45342000",
+      "45400000",
+      "45410000",
+      "45420000",
+      "45421000",
+      "45421111",
+      "45421112",
+      "45421130",
+      "45421131",
+      "45421132",
+      "45421141",
+      "45421148",
+      "45421151",
+      "45421152",
+      "45421153",
+      "45421160",
+      "45422000",
+      "45422100",
+      "45432110",
+      "45432113",
+      "45432114",
+      "45440000",
+      "45450000",
+      "45453000",
+      "45453100",
+      "50610000",
+      "50700000",
+      "50710000",
+      "50711000",
+      "50720000",
+      "50721000",
+      "64200000",
+      "65130000",
+      "71314100",
+      "71630000",
+      "90400000",
+      "90470000",
+      "90480000",
+      "90640000",
+      "90641000"
+    ],
+    "status": "active",
+    "relevance": 30,
+    "matched": [
+      "CPV 32550000",
+      "CPV 32570000"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565666",
+    "fetched_at": "2026-10-01T11:29:26.607999Z"
+  },
+  {
     "key": "Poland / TED:666436-2026",
     "id": "666436-2026",
     "ocid": null,
@@ -13804,7 +14194,7 @@
     "relevance": 16,
     "matched": [],
     "url": "https://ted.europa.eu/en/notice/-/detail/666436-2026",
-    "fetched_at": "2026-09-30T22:07:03.005751Z"
+    "fetched_at": "2026-10-01T11:29:44.200637Z"
   },
   {
     "key": "Public Contracts Scotland:rls-29-SEP563674",
@@ -17441,7 +17831,7 @@
       "website"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/092274-2026",
-    "fetched_at": "2026-09-30T22:06:03.271793Z"
+    "fetched_at": "2026-10-01T11:28:51.494909Z"
   },
   {
     "key": "Poland / TED:633325-2026",
@@ -17495,7 +17885,7 @@
       "oprogramowanie"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/673094-2026",
-    "fetched_at": "2026-09-30T22:06:55.788930Z"
+    "fetched_at": "2026-10-01T11:29:37.177947Z"
   },
   {
     "key": "eTenders Ireland / TED:641482-2026",
