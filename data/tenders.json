@@ -1381,62 +1381,6 @@
     "fetched_at": "2026-09-23T21:23:13.509313Z"
   },
   {
-    "key": "eTenders Ireland / TED:635092-2026",
-    "id": "635092-2026",
-    "ocid": null,
-    "title": "Ireland – IT services: consulting, software development, Internet and support – Request for Tenders for provision of ICT Technical Support Services",
-    "buyer": "Department of Foreign Affairs and Trade/An Roinn Gnóthaí Eachtracha agus Trádála",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-15T02:00:00Z",
-    "deadline": "2026-10-02T12:00:00Z",
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "72000000",
-      "72250000",
-      "72700000",
-      "72500000",
-      "72514000",
-      "72600000",
-      "72253000",
-      "72000000",
-      "72000000",
-      "72000000",
-      "72250000",
-      "72700000",
-      "72500000",
-      "72514000",
-      "72600000",
-      "72253000",
-      "72250000",
-      "72700000",
-      "72500000",
-      "72514000",
-      "72600000",
-      "72253000",
-      "72250000",
-      "72700000",
-      "72500000",
-      "72514000",
-      "72600000",
-      "72253000"
-    ],
-    "status": "active",
-    "relevance": 71,
-    "matched": [
-      "CPV 72000000",
-      "CPV 72250000",
-      "CPV 72500000",
-      "CPV 72700000",
-      "ict",
-      "software"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/635092-2026",
-    "fetched_at": "2026-09-21T21:54:13.050365Z"
-  },
-  {
     "key": "eTenders Ireland / TED:644527-2026",
     "id": "644527-2026",
     "ocid": null,
@@ -3279,39 +3223,6 @@
     "fetched_at": "2026-09-15T21:08:12.723281Z"
   },
   {
-    "key": "eTenders Ireland / TED:631743-2026",
-    "id": "631743-2026",
-    "ocid": null,
-    "title": "Ireland – Mapping software development services – Request for Tenders for the provision of Mapping, Geospatial, Application Support and Maintenance Services",
-    "buyer": "An Coimisiún Toghcháin The Electoral Commission",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-14T02:00:00Z",
-    "deadline": "2026-10-02T11:00:00Z",
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "72212326",
-      "72200000",
-      "48326000",
-      "72212326",
-      "72200000",
-      "48326000"
-    ],
-    "status": "active",
-    "relevance": 64,
-    "matched": [
-      "CPV 48326000",
-      "CPV 72200000",
-      "CPV 72212326",
-      "software",
-      "support and maintenance"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/631743-2026",
-    "fetched_at": "2026-09-20T20:38:09.227429Z"
-  },
-  {
     "key": "eTenders Ireland / TED:677656-2026",
     "id": "677656-2026",
     "ocid": null,
@@ -3357,7 +3268,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/677656-2026",
-    "fetched_at": "2026-10-02T10:59:11.893210Z"
+    "fetched_at": "2026-10-02T22:03:00.605199Z"
   },
   {
     "key": "eTenders Ireland / TED:673624-2026",
@@ -3392,7 +3303,7 @@
       "support and maintenance"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/673624-2026",
-    "fetched_at": "2026-10-02T10:59:11.894337Z"
+    "fetched_at": "2026-10-02T22:03:00.606320Z"
   },
   {
     "key": "eTenders Ireland / TED:651154-2026",
@@ -3459,6 +3370,53 @@
     "fetched_at": "2026-09-22T21:09:15.119257Z"
   },
   {
+    "key": "Poland / TED:670357-2026",
+    "id": "670357-2026",
+    "ocid": null,
+    "title": "Poland – Computer equipment and supplies – Dostawa sprzętu elektronicznego, w ramach projektu „Zielona transformacja w toruńskich przedszkolach”",
+    "buyer": "Gmina Miasta Toruń działająca poprzez Toruńskie Centrum Usług Wspólnych",
+    "description": "Active Polish public procurement notice published through TED.",
+    "source": "Poland / TED",
+    "country": "Poland",
+    "published_at": "2026-09-29T02:00:00Z",
+    "deadline": "2026-10-15T21:59:59Z",
+    "value": null,
+    "currency": "PLN",
+    "cpv": [
+      "30200000",
+      "30237270",
+      "30213100",
+      "30237410",
+      "48300000",
+      "48761000",
+      "30231320",
+      "51611100",
+      "38652000",
+      "38653400",
+      "30191400",
+      "30213100",
+      "30231320",
+      "38652000",
+      "30237410",
+      "30237270",
+      "48300000",
+      "48761000",
+      "51611100",
+      "38653400",
+      "30191400"
+    ],
+    "status": "active",
+    "relevance": 53,
+    "matched": [
+      "CPV 30200000",
+      "CPV 30213100",
+      "CPV 30237270",
+      "CPV 30237410"
+    ],
+    "url": "https://ted.europa.eu/en/notice/-/detail/670357-2026",
+    "fetched_at": "2026-10-02T22:03:12.182513Z"
+  },
+  {
     "key": "Poland / TED:666193-2026",
     "id": "666193-2026",
     "ocid": null,
@@ -3509,7 +3467,7 @@
       "cyberbezpiec"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/666193-2026",
-    "fetched_at": "2026-10-02T10:59:36.111290Z"
+    "fetched_at": "2026-10-02T22:03:16.443409Z"
   },
   {
     "key": "Poland / TED:673225-2026",
@@ -3591,95 +3549,7 @@
       "CPV 30238000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/673225-2026",
-    "fetched_at": "2026-10-02T10:59:25.120810Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:610745-2026",
-    "id": "610745-2026",
-    "ocid": null,
-    "title": "Ireland – Systems support services – Request for Tenders for the Provision of Cloud-Hosted Services and Capacity",
-    "buyer": "Office of the Revenue Commissioners_366",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-04T02:00:00Z",
-    "deadline": "2026-10-02T15:00:00Z",
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "72253200",
-      "72268000",
-      "72261000",
-      "72317000",
-      "72320000",
-      "72416000",
-      "72500000",
-      "72700000",
-      "72400000",
-      "72300000",
-      "72900000",
-      "72511000",
-      "72590000",
-      "72510000",
-      "72000000",
-      "72253200",
-      "72268000",
-      "72261000",
-      "72317000",
-      "72320000",
-      "72416000",
-      "72500000",
-      "72700000",
-      "72400000",
-      "72300000",
-      "72900000",
-      "72511000",
-      "72590000",
-      "72510000",
-      "72000000"
-    ],
-    "status": "active",
-    "relevance": 58,
-    "matched": [
-      "CPV 72253200",
-      "CPV 72261000",
-      "CPV 72268000",
-      "CPV 72317000",
-      "cloud"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/610745-2026",
-    "fetched_at": "2026-09-10T20:44:06.588825Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:659361-2026",
-    "id": "659361-2026",
-    "ocid": null,
-    "title": "Ireland – IT services: consulting, software development, Internet and support – RFT for the supply of Technical Development Advice",
-    "buyer": "Department of Social Protection_349",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-24T02:00:00Z",
-    "deadline": "2026-10-02T15:00:00Z",
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "72000000",
-      "72600000",
-      "72000000",
-      "72000000",
-      "72600000",
-      "72600000"
-    ],
-    "status": "active",
-    "relevance": 58,
-    "matched": [
-      "CPV 72000000",
-      "CPV 72600000",
-      "software"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/659361-2026",
-    "fetched_at": "2026-10-01T11:29:28.503968Z"
+    "fetched_at": "2026-10-02T22:03:08.967631Z"
   },
   {
     "key": "eTenders Ireland / TED:648059-2026",
@@ -3824,7 +3694,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/675053-2026",
-    "fetched_at": "2026-10-02T10:59:11.890815Z"
+    "fetched_at": "2026-10-02T22:03:00.602856Z"
   },
   {
     "key": "eTenders Ireland / TED:676890-2026",
@@ -3875,7 +3745,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/676890-2026",
-    "fetched_at": "2026-10-02T10:59:11.888924Z"
+    "fetched_at": "2026-10-02T22:03:00.601072Z"
   },
   {
     "key": "eTenders Ireland / TED:662277-2026",
@@ -3917,32 +3787,6 @@
     "fetched_at": "2026-10-01T11:29:28.503094Z"
   },
   {
-    "key": "Find a Tender:091992-2026",
-    "id": "091992-2026",
-    "ocid": "ocds-h6vhtk-077cc1",
-    "title": "ICT Data Platform Consultancy Services",
-    "buyer": "Ayrshire College",
-    "description": "Ayrshire College is seeking to appoint a suitably qualified and experienced technical specialist partner to support the development of a modern, secure and scalable enterprise data platform capability for Ayrshire College.",
-    "source": "Find a Tender",
-    "country": "United Kingdom",
-    "published_at": "2026-09-29T14:31:49Z",
-    "deadline": "2026-11-11T12:00:00Z",
-    "value": 200000.0,
-    "currency": "GBP",
-    "cpv": [
-      "72220000"
-    ],
-    "status": "active",
-    "relevance": 44,
-    "matched": [
-      "CPV 72220000",
-      "data platform",
-      "ict"
-    ],
-    "url": "https://www.find-tender.service.gov.uk/Notice/091992-2026",
-    "fetched_at": "2026-10-02T10:58:36.338050Z"
-  },
-  {
     "key": "Poland / TED:661264-2026",
     "id": "661264-2026",
     "ocid": null,
@@ -3966,7 +3810,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/661264-2026",
-    "fetched_at": "2026-10-02T10:59:37.146908Z"
+    "fetched_at": "2026-10-02T22:03:16.459354Z"
   },
   {
     "key": "Find a Tender:087628-2026",
@@ -6078,35 +5922,6 @@
     "fetched_at": "2026-09-30T22:06:51.922814Z"
   },
   {
-    "key": "eTenders Ireland / TED:635164-2026",
-    "id": "635164-2026",
-    "ocid": null,
-    "title": "Ireland – IT services: consulting, software development, Internet and support – Mary Immaculate College - Class Timetabling",
-    "buyer": "Mary Immaculate College",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-15T02:00:00Z",
-    "deadline": "2026-10-02T11:00:00Z",
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "72000000",
-      "48000000",
-      "72000000",
-      "48000000"
-    ],
-    "status": "active",
-    "relevance": 53,
-    "matched": [
-      "CPV 48000000",
-      "CPV 72000000",
-      "software"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/635164-2026",
-    "fetched_at": "2026-09-22T21:09:15.119497Z"
-  },
-  {
     "key": "Poland / TED:629811-2026",
     "id": "629811-2026",
     "ocid": null,
@@ -6136,53 +5951,6 @@
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/629811-2026",
     "fetched_at": "2026-09-21T21:54:29.602180Z"
-  },
-  {
-    "key": "Poland / TED:670357-2026",
-    "id": "670357-2026",
-    "ocid": null,
-    "title": "Poland – Computer equipment and supplies – Dostawa sprzętu elektronicznego, w ramach projektu „Zielona transformacja w toruńskich przedszkolach”",
-    "buyer": "Gmina Miasta Toruń działająca poprzez Toruńskie Centrum Usług Wspólnych",
-    "description": "Active Polish public procurement notice published through TED.",
-    "source": "Poland / TED",
-    "country": "Poland",
-    "published_at": "2026-09-29T02:00:00Z",
-    "deadline": "2026-10-15T21:59:59Z",
-    "value": null,
-    "currency": "PLN",
-    "cpv": [
-      "30200000",
-      "30237270",
-      "30213100",
-      "30237410",
-      "48300000",
-      "48761000",
-      "30231320",
-      "51611100",
-      "38652000",
-      "38653400",
-      "30191400",
-      "30213100",
-      "30231320",
-      "38652000",
-      "30237410",
-      "30237270",
-      "48300000",
-      "48761000",
-      "51611100",
-      "38653400",
-      "30191400"
-    ],
-    "status": "active",
-    "relevance": 53,
-    "matched": [
-      "CPV 30200000",
-      "CPV 30213100",
-      "CPV 30237270",
-      "CPV 30237410"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/670357-2026",
-    "fetched_at": "2026-10-01T22:33:45.237159Z"
   },
   {
     "key": "Public Contracts Scotland:rls-2-SEP564669",
@@ -6707,7 +6475,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/677828-2026",
-    "fetched_at": "2026-10-02T10:59:11.893687Z"
+    "fetched_at": "2026-10-02T22:03:00.605655Z"
   },
   {
     "key": "eTenders Ireland / TED:658139-2026",
@@ -8051,7 +7819,7 @@
       "infrastructure"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/671405-2026",
-    "fetched_at": "2026-10-02T10:59:11.896704Z"
+    "fetched_at": "2026-10-02T22:03:00.608695Z"
   },
   {
     "key": "Public Contracts Scotland:rls-1-SEP564781",
@@ -8456,7 +8224,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/677392-2026",
-    "fetched_at": "2026-10-02T10:59:11.890501Z"
+    "fetched_at": "2026-10-02T22:03:00.602549Z"
   },
   {
     "key": "Find a Tender:087147-2026",
@@ -9107,116 +8875,6 @@
     "fetched_at": "2026-09-30T22:06:45.529028Z"
   },
   {
-    "key": "eTenders Ireland / TED:620322-2026",
-    "id": "620322-2026",
-    "ocid": null,
-    "title": "Ireland – Computer-related equipment – T.033.2026 Request for Tenders for the supply of Property and Exhibits Management System (PEMS) Peripheral Equipment for An Garda Síochána",
-    "buyer": "An Garda Síochána_1192",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-09T02:00:00Z",
-    "deadline": "2026-10-02T14:00:00Z",
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "30230000",
-      "30200000",
-      "30000000",
-      "30230000",
-      "30200000",
-      "30000000"
-    ],
-    "status": "active",
-    "relevance": 45,
-    "matched": [
-      "CPV 30000000",
-      "CPV 30200000",
-      "CPV 30230000"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/620322-2026",
-    "fetched_at": "2026-09-16T21:10:06.496837Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:645394-2026",
-    "id": "645394-2026",
-    "ocid": null,
-    "title": "Ireland – Small office equipment – Single-Party Framework Agreement for The Supply of Promotional Branded Merchandise for Beaumont Hospital",
-    "buyer": "Beaumont Hospital_403",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-18T02:00:00Z",
-    "deadline": "2026-10-02T16:00:00Z",
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "30197000",
-      "30190000",
-      "30192000",
-      "30197000",
-      "30190000",
-      "30192000"
-    ],
-    "status": "active",
-    "relevance": 45,
-    "matched": [
-      "CPV 30190000",
-      "CPV 30192000",
-      "CPV 30197000"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/645394-2026",
-    "fetched_at": "2026-09-28T11:36:33.853055Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:644936-2026",
-    "id": "644936-2026",
-    "ocid": null,
-    "title": "Ireland – Administration services – Supply of Online Application and Assessment Services for the Starter Home Scheme",
-    "buyer": "Mayo County Council_1127",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-18T02:00:00Z",
-    "deadline": "2026-10-02T16:00:00Z",
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "75100000",
-      "72220000",
-      "72600000",
-      "79500000",
-      "72300000",
-      "72316000",
-      "72314000",
-      "72311000",
-      "72000000",
-      "72415000",
-      "72416000",
-      "75100000",
-      "72220000",
-      "72600000",
-      "79500000",
-      "72300000",
-      "72316000",
-      "72314000",
-      "72311000",
-      "72000000",
-      "72415000",
-      "72416000"
-    ],
-    "status": "active",
-    "relevance": 45,
-    "matched": [
-      "CPV 72220000",
-      "CPV 72300000",
-      "CPV 72316000",
-      "CPV 72600000"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/644936-2026",
-    "fetched_at": "2026-09-27T21:12:43.182703Z"
-  },
-  {
     "key": "eTenders Ireland / TED:625254-2026",
     "id": "625254-2026",
     "ocid": null,
@@ -9567,7 +9225,7 @@
       "CPV 72320000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/676358-2026",
-    "fetched_at": "2026-10-02T10:59:11.892661Z"
+    "fetched_at": "2026-10-02T22:03:00.604661Z"
   },
   {
     "key": "Poland / TED:675742-2026",
@@ -9602,7 +9260,33 @@
       "CPV 30231300"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/675742-2026",
-    "fetched_at": "2026-10-02T10:59:20.073284Z"
+    "fetched_at": "2026-10-02T22:03:06.166676Z"
+  },
+  {
+    "key": "Find a Tender:091992-2026",
+    "id": "091992-2026",
+    "ocid": "ocds-h6vhtk-077cc1",
+    "title": "ICT Data Platform Consultancy Services",
+    "buyer": "Ayrshire College",
+    "description": "Ayrshire College is seeking to appoint a suitably qualified and experienced technical specialist partner to support the development of a modern, secure and scalable enterprise data platform capability for Ayrshire College.",
+    "source": "Find a Tender",
+    "country": "United Kingdom",
+    "published_at": "2026-09-29T14:31:49Z",
+    "deadline": "2026-11-11T12:00:00Z",
+    "value": 200000.0,
+    "currency": "GBP",
+    "cpv": [
+      "72220000"
+    ],
+    "status": "active",
+    "relevance": 44,
+    "matched": [
+      "CPV 72220000",
+      "data platform",
+      "ict"
+    ],
+    "url": "https://www.find-tender.service.gov.uk/Notice/091992-2026",
+    "fetched_at": "2026-10-02T10:58:36.338050Z"
   },
   {
     "key": "Public Contracts Scotland:rls-7-SEP565521",
@@ -9655,32 +9339,6 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP565521",
     "fetched_at": "2026-09-30T11:03:05.365177Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:609619-2026",
-    "id": "609619-2026",
-    "ocid": null,
-    "title": "Ireland – World wide web (www) site operation host services – Request for Tenders for the provision of Hosting Services for Supplygov.ie",
-    "buyer": "Local Government Operational Procurement Centre (LGOPC)",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-04T02:00:00Z",
-    "deadline": "2026-10-02T14:00:00Z",
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "72415000",
-      "72415000"
-    ],
-    "status": "active",
-    "relevance": 43,
-    "matched": [
-      "CPV 72415000",
-      "hosting"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/609619-2026",
-    "fetched_at": "2026-09-10T20:44:06.588249Z"
   },
   {
     "key": "eTenders Ireland / TED:628381-2026",
@@ -9820,7 +9478,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/666701-2026",
-    "fetched_at": "2026-10-02T10:59:35.028133Z"
+    "fetched_at": "2026-10-02T22:03:14.882676Z"
   },
   {
     "key": "eTenders Ireland / TED:643285-2026",
@@ -13411,94 +13069,6 @@
     "fetched_at": "2026-09-30T22:06:45.534472Z"
   },
   {
-    "key": "eTenders Ireland / TED:609078-2026",
-    "id": "609078-2026",
-    "ocid": null,
-    "title": "Ireland – Project management consultancy services – CFT for a Multi-Party Framework Agreement for the Provision of Energy Retrofit Project Management and Integrated Design Team Services for Energy Efficiency, Sustainability and Decarbonisation at MTU",
-    "buyer": "Munster Technological University.",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-03T02:00:00Z",
-    "deadline": "2026-10-02T11:00:00Z",
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "72224000",
-      "71314300",
-      "90713000",
-      "71313000",
-      "72224000",
-      "71314300",
-      "90713000",
-      "71313000"
-    ],
-    "status": "active",
-    "relevance": 30,
-    "matched": [
-      "CPV 72224000"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/609078-2026",
-    "fetched_at": "2026-09-10T20:44:06.590106Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:625738-2026",
-    "id": "625738-2026",
-    "ocid": null,
-    "title": "Ireland – Economic research services – Consultancy Services to prepare a Strategic Assessment and Preliminary Business Case for an Irish language based sports and community centre for CLG Na Gaeil Óga, Leamhcán (Lucan), Baile Átha Cliath",
-    "buyer": "Na Gaeil Óga CLG",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-10T02:00:00Z",
-    "deadline": "2026-10-02T12:00:00Z",
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "79311400",
-      "72221000",
-      "79300000",
-      "71241000",
-      "79311400",
-      "72221000",
-      "79300000",
-      "71241000"
-    ],
-    "status": "active",
-    "relevance": 30,
-    "matched": [
-      "CPV 72221000"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/625738-2026",
-    "fetched_at": "2026-09-16T21:10:06.496711Z"
-  },
-  {
-    "key": "Poland / TED:620310-2026",
-    "id": "620310-2026",
-    "ocid": null,
-    "title": "Poland – Office supplies – Supply of Frontex branded items",
-    "buyer": "European Border and Coast Guard Agency (FRONTEX)",
-    "description": "Active Polish public procurement notice published through TED.",
-    "source": "Poland / TED",
-    "country": "Poland",
-    "published_at": "2026-09-09T02:00:00Z",
-    "deadline": "2026-10-02T21:59:59Z",
-    "value": null,
-    "currency": "PLN",
-    "cpv": [
-      "30192000",
-      "30192000",
-      "39294100"
-    ],
-    "status": "active",
-    "relevance": 30,
-    "matched": [
-      "CPV 30192000"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/620310-2026",
-    "fetched_at": "2026-09-16T21:10:25.722934Z"
-  },
-  {
     "key": "eTenders Ireland / TED:625880-2026",
     "id": "625880-2026",
     "ocid": null,
@@ -13829,7 +13399,7 @@
       "CPV 30231300"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/672441-2026",
-    "fetched_at": "2026-10-02T10:59:11.894472Z"
+    "fetched_at": "2026-10-02T22:03:00.606456Z"
   },
   {
     "key": "eTenders Ireland / TED:647419-2026",
@@ -13913,7 +13483,7 @@
       "CPV 72224000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/669247-2026",
-    "fetched_at": "2026-10-02T10:59:11.902495Z"
+    "fetched_at": "2026-10-02T22:03:00.614405Z"
   },
   {
     "key": "eTenders Ireland / TED:644816-2026",
@@ -14011,7 +13581,7 @@
       "CPV 72221000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/674429-2026",
-    "fetched_at": "2026-10-02T10:59:11.890920Z"
+    "fetched_at": "2026-10-02T22:03:00.602958Z"
   },
   {
     "key": "Public Contracts Scotland:rls-1-OCT565666",
@@ -14407,1253 +13977,135 @@
     "fetched_at": "2026-10-02T10:59:10.406873Z"
   },
   {
-    "key": "Poland / TED:666436-2026",
-    "id": "666436-2026",
-    "ocid": null,
-    "title": "Poland – Transport equipment and auxiliary products to transportation – ZAKUP WRAZ Z DOSTAWĄ I MONTAŻEM WIELOZADANIOWEGO KALORYMETRU DETONACYJNEGO",
-    "buyer": "Wojskowy Instytut Techniki Inżynieryjnej im. profesora Józefa Kosackiego",
-    "description": "Active Polish public procurement notice published through TED.",
-    "source": "Poland / TED",
-    "country": "Poland",
-    "published_at": "2026-09-28T02:00:00Z",
-    "deadline": "2026-10-02T22:00:00Z",
-    "value": null,
-    "currency": "PLN",
-    "cpv": [
-      "34000000",
-      "38296000",
-      "38418000",
-      "38296000"
-    ],
-    "status": "active",
-    "relevance": 16,
-    "matched": [],
-    "url": "https://ted.europa.eu/en/notice/-/detail/666436-2026",
-    "fetched_at": "2026-10-02T10:59:36.104932Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-29-SEP563674",
-    "id": "rls-29-SEP563674",
-    "ocid": "ocds-r6ebe6-0000841833",
-    "title": "Occupational Health, Employee Assistance Programme and Associated Services",
-    "buyer": "Skills Development Scotland Ltd",
-    "description": "Provision of Occupational Health, Employee Assistance Programme and Associated Services",
+    "key": "Public Contracts Scotland:rls-10-OCT565666",
+    "id": "rls-10-OCT565666",
+    "ocid": "ocds-r6ebe6-0000843221",
+    "title": "General Building and Repair Works Framework",
+    "buyer": "North Ayrshire Council",
+    "description": "North Ayrshire Council (NAC) invites tenders for the provision of a General Building and Repair Works Framework. The framework will be split into 10 Lots: Lot 1 â Joinery Lot 2 - Door Entry Lot 3 â Electrical Lot 4 â Plumbing Lot 5 â Drainage Lot 6 â Plastering Lot 7 â Building Lot 8 â Roofing Lot 9 - Timber and Dampness Lot 10 â Fencing Bidders may submit tenders for a single Lot or multiple Lots. The framework will be ranked, and it is anticipated that up to 5 contractors will be appointed to each Lot. Notwithstanding this, NAC reserves the right to appoint a greater number of contractors to any Lot at its sole discretion, where it deems this appropriate and beneficial to the operation of the framework. There are no guaranteed volumes of business.",
     "source": "Public Contracts Scotland",
     "country": "Scotland",
-    "published_at": "2026-09-02T00:00:00Z",
-    "deadline": "2026-10-02T12:00:00Z",
-    "value": 460000.0,
+    "published_at": "2026-10-01T00:00:00Z",
+    "deadline": "2026-10-29T12:00:00Z",
+    "value": 3960000.0,
     "currency": "GBP",
     "cpv": [
-      "33196200",
-      "72212190",
-      "85140000",
-      "85147000",
-      "85312300",
-      "85312320"
+      "03419000",
+      "03419100",
+      "31500000",
+      "31625100",
+      "32550000",
+      "32570000",
+      "33141640",
+      "34928200",
+      "34928210",
+      "34928220",
+      "35120000",
+      "35121700",
+      "35123000",
+      "35125300",
+      "41110000",
+      "44112400",
+      "44163110",
+      "44163111",
+      "44163112",
+      "44220000",
+      "44221300",
+      "44411000",
+      "45111240",
+      "45112000",
+      "45200000",
+      "45210000",
+      "45211310",
+      "45232450",
+      "45232451",
+      "45232452",
+      "45232453",
+      "45247112",
+      "45260000",
+      "45261100",
+      "45261200",
+      "45261210",
+      "45261211",
+      "45261212",
+      "45261300",
+      "45261410",
+      "45261900",
+      "45261910",
+      "45261920",
+      "45262300",
+      "45262330",
+      "45262500",
+      "45262511",
+      "45262520",
+      "45262522",
+      "45262690",
+      "45310000",
+      "45311000",
+      "45311100",
+      "45311200",
+      "45312000",
+      "45312100",
+      "45312200",
+      "45312300",
+      "45316000",
+      "45316100",
+      "45317000",
+      "45330000",
+      "45332000",
+      "45332200",
+      "45332300",
+      "45332400",
+      "45340000",
+      "45342000",
+      "45400000",
+      "45410000",
+      "45420000",
+      "45421000",
+      "45421111",
+      "45421112",
+      "45421130",
+      "45421131",
+      "45421132",
+      "45421141",
+      "45421148",
+      "45421151",
+      "45421152",
+      "45421153",
+      "45421160",
+      "45422000",
+      "45422100",
+      "45432110",
+      "45432113",
+      "45432114",
+      "45440000",
+      "45450000",
+      "45453000",
+      "45453100",
+      "50610000",
+      "50700000",
+      "50710000",
+      "50711000",
+      "50720000",
+      "50721000",
+      "64200000",
+      "65130000",
+      "71314100",
+      "71630000",
+      "90400000",
+      "90470000",
+      "90480000",
+      "90640000",
+      "90641000"
     ],
     "status": "active",
-    "relevance": 25,
+    "relevance": 30,
     "matched": [
-      "CPV 72212190"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563674",
-    "fetched_at": "2026-09-10T15:11:04.736074Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-31-SEP563674",
-    "id": "rls-31-SEP563674",
-    "ocid": "ocds-r6ebe6-0000841833",
-    "title": "Occupational Health, Employee Assistance Programme and Associated Services",
-    "buyer": "Skills Development Scotland Ltd",
-    "description": "Provision of Occupational Health, Employee Assistance Programme and Associated Services",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-02T00:00:00Z",
-    "deadline": "2026-10-02T12:00:00Z",
-    "value": 460000.0,
-    "currency": "GBP",
-    "cpv": [
-      "33196200",
-      "72212190",
-      "85140000",
-      "85147000",
-      "85312300",
-      "85312320"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72212190"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563674",
-    "fetched_at": "2026-09-10T20:43:55.421515Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-33-SEP563674",
-    "id": "rls-33-SEP563674",
-    "ocid": "ocds-r6ebe6-0000841833",
-    "title": "Occupational Health, Employee Assistance Programme and Associated Services",
-    "buyer": "Skills Development Scotland Ltd",
-    "description": "Provision of Occupational Health, Employee Assistance Programme and Associated Services",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-02T00:00:00Z",
-    "deadline": "2026-10-02T12:00:00Z",
-    "value": 460000.0,
-    "currency": "GBP",
-    "cpv": [
-      "33196200",
-      "72212190",
-      "85140000",
-      "85147000",
-      "85312300",
-      "85312320"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72212190"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563674",
-    "fetched_at": "2026-09-11T09:28:44.706944Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-41-SEP563674",
-    "id": "rls-41-SEP563674",
-    "ocid": "ocds-r6ebe6-0000841833",
-    "title": "Occupational Health, Employee Assistance Programme and Associated Services",
-    "buyer": "Skills Development Scotland Ltd",
-    "description": "Provision of Occupational Health, Employee Assistance Programme and Associated Services",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-02T00:00:00Z",
-    "deadline": "2026-10-02T12:00:00Z",
-    "value": 460000.0,
-    "currency": "GBP",
-    "cpv": [
-      "33196200",
-      "72212190",
-      "85140000",
-      "85147000",
-      "85312300",
-      "85312320"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72212190"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563674",
-    "fetched_at": "2026-09-13T20:36:55.632838Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-3-SEP564349",
-    "id": "rls-3-SEP564349",
-    "ocid": "ocds-r6ebe6-0000842803",
-    "title": "Compulsory Purchase Compensation Research",
-    "buyer": "Scottish Government",
-    "description": "The Scottish Government is pursuing a comprehensive programme to reform and modernise Scotlandâs compulsory purchase system.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-11T00:00:00Z",
-    "deadline": "2026-10-02T12:00:00Z",
-    "value": 41600.0,
-    "currency": "GBP",
-    "cpv": [
-      "72221000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72221000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564349",
-    "fetched_at": "2026-09-13T20:37:01.716045Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-42-SEP563674",
-    "id": "rls-42-SEP563674",
-    "ocid": "ocds-r6ebe6-0000841833",
-    "title": "Occupational Health, Employee Assistance Programme and Associated Services",
-    "buyer": "Skills Development Scotland Ltd",
-    "description": "Provision of Occupational Health, Employee Assistance Programme and Associated Services",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-02T00:00:00Z",
-    "deadline": "2026-10-02T12:00:00Z",
-    "value": 460000.0,
-    "currency": "GBP",
-    "cpv": [
-      "33196200",
-      "72212190",
-      "85140000",
-      "85147000",
-      "85312300",
-      "85312320"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72212190"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563674",
-    "fetched_at": "2026-09-14T10:30:08.423927Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-4-SEP564349",
-    "id": "rls-4-SEP564349",
-    "ocid": "ocds-r6ebe6-0000842803",
-    "title": "Compulsory Purchase Compensation Research",
-    "buyer": "Scottish Government",
-    "description": "The Scottish Government is pursuing a comprehensive programme to reform and modernise Scotlandâs compulsory purchase system.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-11T00:00:00Z",
-    "deadline": "2026-10-02T12:00:00Z",
-    "value": 41600.0,
-    "currency": "GBP",
-    "cpv": [
-      "72221000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72221000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564349",
-    "fetched_at": "2026-09-14T10:30:24.843277Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-43-SEP563674",
-    "id": "rls-43-SEP563674",
-    "ocid": "ocds-r6ebe6-0000841833",
-    "title": "Occupational Health, Employee Assistance Programme and Associated Services",
-    "buyer": "Skills Development Scotland Ltd",
-    "description": "Provision of Occupational Health, Employee Assistance Programme and Associated Services",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-02T00:00:00Z",
-    "deadline": "2026-10-02T12:00:00Z",
-    "value": 460000.0,
-    "currency": "GBP",
-    "cpv": [
-      "33196200",
-      "72212190",
-      "85140000",
-      "85147000",
-      "85312300",
-      "85312320"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72212190"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563674",
-    "fetched_at": "2026-09-14T21:43:19.186098Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-6-SEP564349",
-    "id": "rls-6-SEP564349",
-    "ocid": "ocds-r6ebe6-0000842803",
-    "title": "Compulsory Purchase Compensation Research",
-    "buyer": "Scottish Government",
-    "description": "The Scottish Government is pursuing a comprehensive programme to reform and modernise Scotlandâs compulsory purchase system.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-11T00:00:00Z",
-    "deadline": "2026-10-02T12:00:00Z",
-    "value": 41600.0,
-    "currency": "GBP",
-    "cpv": [
-      "72221000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72221000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564349",
-    "fetched_at": "2026-09-14T21:43:26.036208Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-48-SEP563674",
-    "id": "rls-48-SEP563674",
-    "ocid": "ocds-r6ebe6-0000841833",
-    "title": "Occupational Health, Employee Assistance Programme and Associated Services",
-    "buyer": "Skills Development Scotland Ltd",
-    "description": "Provision of Occupational Health, Employee Assistance Programme and Associated Services",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-02T00:00:00Z",
-    "deadline": "2026-10-02T12:00:00Z",
-    "value": 460000.0,
-    "currency": "GBP",
-    "cpv": [
-      "33196200",
-      "72212190",
-      "85140000",
-      "85147000",
-      "85312300",
-      "85312320"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72212190"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563674",
-    "fetched_at": "2026-09-15T21:08:12.729606Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-10-SEP564349",
-    "id": "rls-10-SEP564349",
-    "ocid": "ocds-r6ebe6-0000842803",
-    "title": "Compulsory Purchase Compensation Research",
-    "buyer": "Scottish Government",
-    "description": "The Scottish Government is pursuing a comprehensive programme to reform and modernise Scotlandâs compulsory purchase system.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-11T00:00:00Z",
-    "deadline": "2026-10-02T12:00:00Z",
-    "value": 41600.0,
-    "currency": "GBP",
-    "cpv": [
-      "72221000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72221000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564349",
-    "fetched_at": "2026-09-15T21:08:19.273103Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-50-SEP563674",
-    "id": "rls-50-SEP563674",
-    "ocid": "ocds-r6ebe6-0000841833",
-    "title": "Occupational Health, Employee Assistance Programme and Associated Services",
-    "buyer": "Skills Development Scotland Ltd",
-    "description": "Provision of Occupational Health, Employee Assistance Programme and Associated Services",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-02T00:00:00Z",
-    "deadline": "2026-10-02T12:00:00Z",
-    "value": 460000.0,
-    "currency": "GBP",
-    "cpv": [
-      "33196200",
-      "72212190",
-      "85140000",
-      "85147000",
-      "85312300",
-      "85312320"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72212190"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563674",
-    "fetched_at": "2026-09-16T09:48:37.241512Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-12-SEP564349",
-    "id": "rls-12-SEP564349",
-    "ocid": "ocds-r6ebe6-0000842803",
-    "title": "Compulsory Purchase Compensation Research",
-    "buyer": "Scottish Government",
-    "description": "The Scottish Government is pursuing a comprehensive programme to reform and modernise Scotlandâs compulsory purchase system.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-11T00:00:00Z",
-    "deadline": "2026-10-02T12:00:00Z",
-    "value": 41600.0,
-    "currency": "GBP",
-    "cpv": [
-      "72221000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72221000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564349",
-    "fetched_at": "2026-09-16T09:48:43.704320Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-51-SEP563674",
-    "id": "rls-51-SEP563674",
-    "ocid": "ocds-r6ebe6-0000841833",
-    "title": "Occupational Health, Employee Assistance Programme and Associated Services",
-    "buyer": "Skills Development Scotland Ltd",
-    "description": "Provision of Occupational Health, Employee Assistance Programme and Associated Services",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-02T00:00:00Z",
-    "deadline": "2026-10-02T12:00:00Z",
-    "value": 460000.0,
-    "currency": "GBP",
-    "cpv": [
-      "33196200",
-      "72212190",
-      "85140000",
-      "85147000",
-      "85312300",
-      "85312320"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72212190"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563674",
-    "fetched_at": "2026-09-17T09:55:28.332817Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-18-SEP564349",
-    "id": "rls-18-SEP564349",
-    "ocid": "ocds-r6ebe6-0000842803",
-    "title": "Compulsory Purchase Compensation Research",
-    "buyer": "Scottish Government",
-    "description": "The Scottish Government is pursuing a comprehensive programme to reform and modernise Scotlandâs compulsory purchase system.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-11T00:00:00Z",
-    "deadline": "2026-10-02T12:00:00Z",
-    "value": 41600.0,
-    "currency": "GBP",
-    "cpv": [
-      "72221000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72221000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564349",
-    "fetched_at": "2026-09-17T09:55:56.543175Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-55-SEP563674",
-    "id": "rls-55-SEP563674",
-    "ocid": "ocds-r6ebe6-0000841833",
-    "title": "Occupational Health, Employee Assistance Programme and Associated Services",
-    "buyer": "Skills Development Scotland Ltd",
-    "description": "Provision of Occupational Health, Employee Assistance Programme and Associated Services",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-02T00:00:00Z",
-    "deadline": "2026-10-02T12:00:00Z",
-    "value": 460000.0,
-    "currency": "GBP",
-    "cpv": [
-      "33196200",
-      "72212190",
-      "85140000",
-      "85147000",
-      "85312300",
-      "85312320"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72212190"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563674",
-    "fetched_at": "2026-09-18T09:33:33.233197Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-21-SEP564349",
-    "id": "rls-21-SEP564349",
-    "ocid": "ocds-r6ebe6-0000842803",
-    "title": "Compulsory Purchase Compensation Research",
-    "buyer": "Scottish Government",
-    "description": "The Scottish Government is pursuing a comprehensive programme to reform and modernise Scotlandâs compulsory purchase system.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-11T00:00:00Z",
-    "deadline": "2026-10-02T12:00:00Z",
-    "value": 41600.0,
-    "currency": "GBP",
-    "cpv": [
-      "72221000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72221000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564349",
-    "fetched_at": "2026-09-17T21:12:32.468591Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-22-SEP564349",
-    "id": "rls-22-SEP564349",
-    "ocid": "ocds-r6ebe6-0000842803",
-    "title": "Compulsory Purchase Compensation Research",
-    "buyer": "Scottish Government",
-    "description": "The Scottish Government is pursuing a comprehensive programme to reform and modernise Scotlandâs compulsory purchase system.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-11T00:00:00Z",
-    "deadline": "2026-10-02T12:00:00Z",
-    "value": 41600.0,
-    "currency": "GBP",
-    "cpv": [
-      "72221000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72221000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564349",
-    "fetched_at": "2026-09-18T09:33:50.749657Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-62-SEP563674",
-    "id": "rls-62-SEP563674",
-    "ocid": "ocds-r6ebe6-0000841833",
-    "title": "Occupational Health, Employee Assistance Programme and Associated Services",
-    "buyer": "Skills Development Scotland Ltd",
-    "description": "Provision of Occupational Health, Employee Assistance Programme and Associated Services",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-02T00:00:00Z",
-    "deadline": "2026-10-02T12:00:00Z",
-    "value": 460000.0,
-    "currency": "GBP",
-    "cpv": [
-      "33196200",
-      "72212190",
-      "85140000",
-      "85147000",
-      "85312300",
-      "85312320"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72212190"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563674",
-    "fetched_at": "2026-09-20T20:37:55.355376Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-29-SEP564349",
-    "id": "rls-29-SEP564349",
-    "ocid": "ocds-r6ebe6-0000842803",
-    "title": "Compulsory Purchase Compensation Research",
-    "buyer": "Scottish Government",
-    "description": "The Scottish Government is pursuing a comprehensive programme to reform and modernise Scotlandâs compulsory purchase system.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-11T00:00:00Z",
-    "deadline": "2026-10-02T12:00:00Z",
-    "value": 41600.0,
-    "currency": "GBP",
-    "cpv": [
-      "72221000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72221000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564349",
-    "fetched_at": "2026-09-20T20:38:08.099008Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-65-SEP563674",
-    "id": "rls-65-SEP563674",
-    "ocid": "ocds-r6ebe6-0000841833",
-    "title": "Occupational Health, Employee Assistance Programme and Associated Services",
-    "buyer": "Skills Development Scotland Ltd",
-    "description": "Provision of Occupational Health, Employee Assistance Programme and Associated Services",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-02T00:00:00Z",
-    "deadline": "2026-10-02T12:00:00Z",
-    "value": 460000.0,
-    "currency": "GBP",
-    "cpv": [
-      "33196200",
-      "72212190",
-      "85140000",
-      "85147000",
-      "85312300",
-      "85312320"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72212190"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563674",
-    "fetched_at": "2026-09-21T10:35:22.643528Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-30-SEP564349",
-    "id": "rls-30-SEP564349",
-    "ocid": "ocds-r6ebe6-0000842803",
-    "title": "Compulsory Purchase Compensation Research",
-    "buyer": "Scottish Government",
-    "description": "The Scottish Government is pursuing a comprehensive programme to reform and modernise Scotlandâs compulsory purchase system.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-11T00:00:00Z",
-    "deadline": "2026-10-02T12:00:00Z",
-    "value": 41600.0,
-    "currency": "GBP",
-    "cpv": [
-      "72221000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72221000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564349",
-    "fetched_at": "2026-09-21T10:35:43.331411Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-71-SEP563674",
-    "id": "rls-71-SEP563674",
-    "ocid": "ocds-r6ebe6-0000841833",
-    "title": "Occupational Health, Employee Assistance Programme and Associated Services",
-    "buyer": "Skills Development Scotland Ltd",
-    "description": "Provision of Occupational Health, Employee Assistance Programme and Associated Services",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-02T00:00:00Z",
-    "deadline": "2026-10-02T12:00:00Z",
-    "value": 460000.0,
-    "currency": "GBP",
-    "cpv": [
-      "33196200",
-      "72212190",
-      "85140000",
-      "85147000",
-      "85312300",
-      "85312320"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72212190"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563674",
-    "fetched_at": "2026-09-22T09:47:59.868551Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-34-SEP564349",
-    "id": "rls-34-SEP564349",
-    "ocid": "ocds-r6ebe6-0000842803",
-    "title": "Compulsory Purchase Compensation Research",
-    "buyer": "Scottish Government",
-    "description": "The Scottish Government is pursuing a comprehensive programme to reform and modernise Scotlandâs compulsory purchase system.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-11T00:00:00Z",
-    "deadline": "2026-10-02T12:00:00Z",
-    "value": 41600.0,
-    "currency": "GBP",
-    "cpv": [
-      "72221000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72221000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564349",
-    "fetched_at": "2026-09-22T09:49:31.535906Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-73-SEP563674",
-    "id": "rls-73-SEP563674",
-    "ocid": "ocds-r6ebe6-0000841833",
-    "title": "Occupational Health, Employee Assistance Programme and Associated Services",
-    "buyer": "Skills Development Scotland Ltd",
-    "description": "Provision of Occupational Health, Employee Assistance Programme and Associated Services",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-02T00:00:00Z",
-    "deadline": "2026-10-02T12:00:00Z",
-    "value": 460000.0,
-    "currency": "GBP",
-    "cpv": [
-      "33196200",
-      "72212190",
-      "85140000",
-      "85147000",
-      "85312300",
-      "85312320"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72212190"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563674",
-    "fetched_at": "2026-09-22T21:09:05.549085Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-38-SEP564349",
-    "id": "rls-38-SEP564349",
-    "ocid": "ocds-r6ebe6-0000842803",
-    "title": "Compulsory Purchase Compensation Research",
-    "buyer": "Scottish Government",
-    "description": "The Scottish Government is pursuing a comprehensive programme to reform and modernise Scotlandâs compulsory purchase system.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-11T00:00:00Z",
-    "deadline": "2026-10-02T12:00:00Z",
-    "value": 41600.0,
-    "currency": "GBP",
-    "cpv": [
-      "72221000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72221000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564349",
-    "fetched_at": "2026-09-23T09:51:48.936489Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-74-SEP563674",
-    "id": "rls-74-SEP563674",
-    "ocid": "ocds-r6ebe6-0000841833",
-    "title": "Occupational Health, Employee Assistance Programme and Associated Services",
-    "buyer": "Skills Development Scotland Ltd",
-    "description": "Provision of Occupational Health, Employee Assistance Programme and Associated Services",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-02T00:00:00Z",
-    "deadline": "2026-10-02T12:00:00Z",
-    "value": 460000.0,
-    "currency": "GBP",
-    "cpv": [
-      "33196200",
-      "72212190",
-      "85140000",
-      "85147000",
-      "85312300",
-      "85312320"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72212190"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563674",
-    "fetched_at": "2026-09-23T09:51:37.021917Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-75-SEP563674",
-    "id": "rls-75-SEP563674",
-    "ocid": "ocds-r6ebe6-0000841833",
-    "title": "Occupational Health, Employee Assistance Programme and Associated Services",
-    "buyer": "Skills Development Scotland Ltd",
-    "description": "Provision of Occupational Health, Employee Assistance Programme and Associated Services",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-02T00:00:00Z",
-    "deadline": "2026-10-02T12:00:00Z",
-    "value": 460000.0,
-    "currency": "GBP",
-    "cpv": [
-      "33196200",
-      "72212190",
-      "85140000",
-      "85147000",
-      "85312300",
-      "85312320"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72212190"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563674",
-    "fetched_at": "2026-09-23T21:23:01.529420Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-39-SEP564349",
-    "id": "rls-39-SEP564349",
-    "ocid": "ocds-r6ebe6-0000842803",
-    "title": "Compulsory Purchase Compensation Research",
-    "buyer": "Scottish Government",
-    "description": "The Scottish Government is pursuing a comprehensive programme to reform and modernise Scotlandâs compulsory purchase system.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-11T00:00:00Z",
-    "deadline": "2026-10-02T12:00:00Z",
-    "value": 41600.0,
-    "currency": "GBP",
-    "cpv": [
-      "72221000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72221000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564349",
-    "fetched_at": "2026-09-23T21:23:11.564900Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-40-SEP563674",
-    "id": "rls-40-SEP563674",
-    "ocid": "ocds-r6ebe6-0000841833",
-    "title": "Occupational Health, Employee Assistance Programme and Associated Services",
-    "buyer": "Skills Development Scotland Ltd",
-    "description": "Provision of Occupational Health, Employee Assistance Programme and Associated Services",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-02T00:00:00Z",
-    "deadline": "2026-10-02T12:00:00Z",
-    "value": 460000.0,
-    "currency": "GBP",
-    "cpv": [
-      "33196200",
-      "72212190",
-      "85140000",
-      "85147000",
-      "85312300",
-      "85312320"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72212190"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563674",
-    "fetched_at": "2026-09-24T09:50:43.129418Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-40-SEP564349",
-    "id": "rls-40-SEP564349",
-    "ocid": "ocds-r6ebe6-0000842803",
-    "title": "Compulsory Purchase Compensation Research",
-    "buyer": "Scottish Government",
-    "description": "The Scottish Government is pursuing a comprehensive programme to reform and modernise Scotlandâs compulsory purchase system.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-11T00:00:00Z",
-    "deadline": "2026-10-02T12:00:00Z",
-    "value": 41600.0,
-    "currency": "GBP",
-    "cpv": [
-      "72221000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72221000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564349",
-    "fetched_at": "2026-09-24T09:51:15.555622Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-76-SEP563674",
-    "id": "rls-76-SEP563674",
-    "ocid": "ocds-r6ebe6-0000841833",
-    "title": "Occupational Health, Employee Assistance Programme and Associated Services",
-    "buyer": "Skills Development Scotland Ltd",
-    "description": "Provision of Occupational Health, Employee Assistance Programme and Associated Services",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-02T00:00:00Z",
-    "deadline": "2026-10-02T12:00:00Z",
-    "value": 460000.0,
-    "currency": "GBP",
-    "cpv": [
-      "33196200",
-      "72212190",
-      "85140000",
-      "85147000",
-      "85312300",
-      "85312320"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72212190"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563674",
-    "fetched_at": "2026-09-24T21:24:14.846946Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-43-SEP564349",
-    "id": "rls-43-SEP564349",
-    "ocid": "ocds-r6ebe6-0000842803",
-    "title": "Compulsory Purchase Compensation Research",
-    "buyer": "Scottish Government",
-    "description": "The Scottish Government is pursuing a comprehensive programme to reform and modernise Scotlandâs compulsory purchase system.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-11T00:00:00Z",
-    "deadline": "2026-10-02T12:00:00Z",
-    "value": 41600.0,
-    "currency": "GBP",
-    "cpv": [
-      "72221000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72221000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564349",
-    "fetched_at": "2026-09-24T21:24:22.981979Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-78-SEP563674",
-    "id": "rls-78-SEP563674",
-    "ocid": "ocds-r6ebe6-0000841833",
-    "title": "Occupational Health, Employee Assistance Programme and Associated Services",
-    "buyer": "Skills Development Scotland Ltd",
-    "description": "Provision of Occupational Health, Employee Assistance Programme and Associated Services",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-02T00:00:00Z",
-    "deadline": "2026-10-02T12:00:00Z",
-    "value": 460000.0,
-    "currency": "GBP",
-    "cpv": [
-      "33196200",
-      "72212190",
-      "85140000",
-      "85147000",
-      "85312300",
-      "85312320"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72212190"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563674",
-    "fetched_at": "2026-09-25T10:06:20.639099Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-44-SEP564349",
-    "id": "rls-44-SEP564349",
-    "ocid": "ocds-r6ebe6-0000842803",
-    "title": "Compulsory Purchase Compensation Research",
-    "buyer": "Scottish Government",
-    "description": "The Scottish Government is pursuing a comprehensive programme to reform and modernise Scotlandâs compulsory purchase system.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-11T00:00:00Z",
-    "deadline": "2026-10-02T12:00:00Z",
-    "value": 41600.0,
-    "currency": "GBP",
-    "cpv": [
-      "72221000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72221000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564349",
-    "fetched_at": "2026-09-28T11:36:32.551899Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-82-SEP563674",
-    "id": "rls-82-SEP563674",
-    "ocid": "ocds-r6ebe6-0000841833",
-    "title": "Occupational Health, Employee Assistance Programme and Associated Services",
-    "buyer": "Skills Development Scotland Ltd",
-    "description": "Provision of Occupational Health, Employee Assistance Programme and Associated Services",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-02T00:00:00Z",
-    "deadline": "2026-10-02T12:00:00Z",
-    "value": 460000.0,
-    "currency": "GBP",
-    "cpv": [
-      "33196200",
-      "72212190",
-      "85140000",
-      "85147000",
-      "85312300",
-      "85312320"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72212190"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563674",
-    "fetched_at": "2026-09-27T21:12:35.837820Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-7-SEP564349",
-    "id": "rls-7-SEP564349",
-    "ocid": "ocds-r6ebe6-0000842803",
-    "title": "Compulsory Purchase Compensation Research",
-    "buyer": "Scottish Government",
-    "description": "The Scottish Government is pursuing a comprehensive programme to reform and modernise Scotlandâs compulsory purchase system.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-11T00:00:00Z",
-    "deadline": "2026-10-02T12:00:00Z",
-    "value": 41600.0,
-    "currency": "GBP",
-    "cpv": [
-      "72221000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72221000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564349",
-    "fetched_at": "2026-09-26T20:56:12.808689Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-83-SEP563674",
-    "id": "rls-83-SEP563674",
-    "ocid": "ocds-r6ebe6-0000841833",
-    "title": "Occupational Health, Employee Assistance Programme and Associated Services",
-    "buyer": "Skills Development Scotland Ltd",
-    "description": "Provision of Occupational Health, Employee Assistance Programme and Associated Services",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-02T00:00:00Z",
-    "deadline": "2026-10-02T12:00:00Z",
-    "value": 460000.0,
-    "currency": "GBP",
-    "cpv": [
-      "33196200",
-      "72212190",
-      "85140000",
-      "85147000",
-      "85312300",
-      "85312320"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72212190"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563674",
-    "fetched_at": "2026-09-28T11:36:24.902918Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-84-SEP563674",
-    "id": "rls-84-SEP563674",
-    "ocid": "ocds-r6ebe6-0000841833",
-    "title": "Occupational Health, Employee Assistance Programme and Associated Services",
-    "buyer": "Skills Development Scotland Ltd",
-    "description": "Provision of Occupational Health, Employee Assistance Programme and Associated Services",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-02T00:00:00Z",
-    "deadline": "2026-10-02T12:00:00Z",
-    "value": 460000.0,
-    "currency": "GBP",
-    "cpv": [
-      "33196200",
-      "72212190",
-      "85140000",
-      "85147000",
-      "85312300",
-      "85312320"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72212190"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563674",
-    "fetched_at": "2026-09-29T11:14:53.682357Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-47-SEP564349",
-    "id": "rls-47-SEP564349",
-    "ocid": "ocds-r6ebe6-0000842803",
-    "title": "Compulsory Purchase Compensation Research",
-    "buyer": "Scottish Government",
-    "description": "The Scottish Government is pursuing a comprehensive programme to reform and modernise Scotlandâs compulsory purchase system.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-11T00:00:00Z",
-    "deadline": "2026-10-02T12:00:00Z",
-    "value": 41600.0,
-    "currency": "GBP",
-    "cpv": [
-      "72221000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72221000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564349",
-    "fetched_at": "2026-09-28T23:07:59.044728Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-50-SEP564349",
-    "id": "rls-50-SEP564349",
-    "ocid": "ocds-r6ebe6-0000842803",
-    "title": "Compulsory Purchase Compensation Research",
-    "buyer": "Scottish Government",
-    "description": "The Scottish Government is pursuing a comprehensive programme to reform and modernise Scotlandâs compulsory purchase system.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-11T00:00:00Z",
-    "deadline": "2026-10-02T12:00:00Z",
-    "value": 41600.0,
-    "currency": "GBP",
-    "cpv": [
-      "72221000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72221000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564349",
-    "fetched_at": "2026-09-29T11:15:04.729624Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-88-SEP563674",
-    "id": "rls-88-SEP563674",
-    "ocid": "ocds-r6ebe6-0000841833",
-    "title": "Occupational Health, Employee Assistance Programme and Associated Services",
-    "buyer": "Skills Development Scotland Ltd",
-    "description": "Provision of Occupational Health, Employee Assistance Programme and Associated Services",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-02T00:00:00Z",
-    "deadline": "2026-10-02T12:00:00Z",
-    "value": 460000.0,
-    "currency": "GBP",
-    "cpv": [
-      "33196200",
-      "72212190",
-      "85140000",
-      "85147000",
-      "85312300",
-      "85312320"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72212190"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563674",
-    "fetched_at": "2026-09-30T11:03:05.375074Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-52-SEP564349",
-    "id": "rls-52-SEP564349",
-    "ocid": "ocds-r6ebe6-0000842803",
-    "title": "Compulsory Purchase Compensation Research",
-    "buyer": "Scottish Government",
-    "description": "The Scottish Government is pursuing a comprehensive programme to reform and modernise Scotlandâs compulsory purchase system.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-11T00:00:00Z",
-    "deadline": "2026-10-02T12:00:00Z",
-    "value": 41600.0,
-    "currency": "GBP",
-    "cpv": [
-      "72221000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72221000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564349",
-    "fetched_at": "2026-09-29T22:07:20.354982Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-53-SEP564349",
-    "id": "rls-53-SEP564349",
-    "ocid": "ocds-r6ebe6-0000842803",
-    "title": "Compulsory Purchase Compensation Research",
-    "buyer": "Scottish Government",
-    "description": "The Scottish Government is pursuing a comprehensive programme to reform and modernise Scotlandâs compulsory purchase system.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-11T00:00:00Z",
-    "deadline": "2026-10-02T12:00:00Z",
-    "value": 41600.0,
-    "currency": "GBP",
-    "cpv": [
-      "72221000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72221000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564349",
-    "fetched_at": "2026-09-30T11:03:11.948647Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-93-SEP563674",
-    "id": "rls-93-SEP563674",
-    "ocid": "ocds-r6ebe6-0000841833",
-    "title": "Occupational Health, Employee Assistance Programme and Associated Services",
-    "buyer": "Skills Development Scotland Ltd",
-    "description": "Provision of Occupational Health, Employee Assistance Programme and Associated Services",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-02T00:00:00Z",
-    "deadline": "2026-10-02T12:00:00Z",
-    "value": 460000.0,
-    "currency": "GBP",
-    "cpv": [
-      "33196200",
-      "72212190",
-      "85140000",
-      "85147000",
-      "85312300",
-      "85312320"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72212190"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563674",
-    "fetched_at": "2026-09-30T22:06:45.535162Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-54-SEP564349",
-    "id": "rls-54-SEP564349",
-    "ocid": "ocds-r6ebe6-0000842803",
-    "title": "Compulsory Purchase Compensation Research",
-    "buyer": "Scottish Government",
-    "description": "The Scottish Government is pursuing a comprehensive programme to reform and modernise Scotlandâs compulsory purchase system.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-11T00:00:00Z",
-    "deadline": "2026-10-02T12:00:00Z",
-    "value": 41600.0,
-    "currency": "GBP",
-    "cpv": [
-      "72221000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72221000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564349",
-    "fetched_at": "2026-09-30T22:06:50.797401Z"
+      "CPV 32550000",
+      "CPV 32570000"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565666",
+    "fetched_at": "2026-10-02T22:02:59.359976Z"
   },
   {
     "key": "Find a Tender:084457-2026",
@@ -18088,6 +16540,30 @@
     "fetched_at": "2026-10-02T10:59:10.406420Z"
   },
   {
+    "key": "Public Contracts Scotland:rls-9-OCT565724",
+    "id": "rls-9-OCT565724",
+    "ocid": "ocds-r6ebe6-0000844457",
+    "title": "Provision of an Emergency Communication Platform and Associated Hardware.",
+    "buyer": "UHI Moray",
+    "description": "UHI Moray and UHI North, West and Hebrides are undertaking a joint procurement exercise for the Provision of an Emergency Communication Platform and Associated Hardware.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-01T00:00:00Z",
+    "deadline": "2026-10-22T09:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "32412000"
+    ],
+    "status": "active",
+    "relevance": 25,
+    "matched": [
+      "CPV 32412000"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565724",
+    "fetched_at": "2026-10-02T22:02:59.359551Z"
+  },
+  {
     "key": "Find a Tender:092274-2026",
     "id": "092274-2026",
     "ocid": "ocds-h6vhtk-077d5b",
@@ -18114,32 +16590,7 @@
       "website"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/092274-2026",
-    "fetched_at": "2026-10-02T10:58:36.337609Z"
-  },
-  {
-    "key": "Poland / TED:633325-2026",
-    "id": "633325-2026",
-    "ocid": null,
-    "title": "Poland – Transport equipment and auxiliary products to transportation – ZAKUP WRAZ Z DOSTAWĄ I MONTAŻEM WIELOZADANIOWEGO KALORYMETRU DETONACYJNEGO",
-    "buyer": "Wojskowy Instytut Techniki Inżynieryjnej im. profesora Józefa Kosackiego",
-    "description": "Active Polish public procurement notice published through TED.",
-    "source": "Poland / TED",
-    "country": "Poland",
-    "published_at": "2026-09-15T02:00:00Z",
-    "deadline": "2026-10-02T22:00:00Z",
-    "value": null,
-    "currency": "PLN",
-    "cpv": [
-      "34000000",
-      "38296000",
-      "38418000",
-      "38296000"
-    ],
-    "status": "active",
-    "relevance": 16,
-    "matched": [],
-    "url": "https://ted.europa.eu/en/notice/-/detail/633325-2026",
-    "fetched_at": "2026-09-22T21:09:36.886439Z"
+    "fetched_at": "2026-10-02T22:02:34.655656Z"
   },
   {
     "key": "Poland / TED:673094-2026",
@@ -18168,7 +16619,7 @@
       "oprogramowanie"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/673094-2026",
-    "fetched_at": "2026-10-02T10:59:25.110618Z"
+    "fetched_at": "2026-10-02T22:03:08.957665Z"
   },
   {
     "key": "eTenders Ireland / TED:641482-2026",
@@ -18626,5 +17077,54 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564523",
     "fetched_at": "2026-09-30T22:06:50.796921Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-1-OCT565862",
+    "id": "rls-1-OCT565862",
+    "ocid": "ocds-r6ebe6-0000844215",
+    "title": "In-House Design Support and Development",
+    "buyer": "CalMac Ferries Limited",
+    "description": "CFLâ¯requiresâ¯a partner with proven experience in: - Working with client in-house design resource to develop and plan impactful ideas and concepts. - Working with client in-house marketing team to develop appropriate multichannel campaigns and content. - Working with key third parties, including media buyer, film production company, marcomms agency, in-house Insight and Digital teams, brand partners, social media influencers, and content creators. The partner willâ¯be requiredâ¯to work on a variety of projects throughout the year for assets used across the website, social media, paid media and more, however exact projects are yet to beâ¯determined, and, in most cases, direction is already determined.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-02T00:00:00Z",
+    "deadline": "2026-11-02T12:00:00Z",
+    "value": 150000.0,
+    "currency": "GBP",
+    "cpv": [
+      "79933000"
+    ],
+    "status": "active",
+    "relevance": 13,
+    "matched": [
+      "website"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565862",
+    "fetched_at": "2026-10-02T22:02:59.358978Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-3-OCT565847",
+    "id": "rls-3-OCT565847",
+    "ocid": "ocds-r6ebe6-0000844675",
+    "title": "Environmental Monitoring System for Collections",
+    "buyer": "National Museums Scotland",
+    "description": "The National Museums Scotland (NMS) wishes to engage a contractor (âContractorâ) to provide an environmental monitoring system. NMS is seeking a suitably qualified Contractor to provide an environmental monitoring system which will replace the current system. The Contractor should have experience in supplying and installing necessary hardware and software to facilitate the implementation of an environmental monitoring system, whilst providing ongoing maintenance and technical support when required.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-02T00:00:00Z",
+    "deadline": "2026-11-02T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "92521000",
+      "92521200"
+    ],
+    "status": "active",
+    "relevance": 13,
+    "matched": [
+      "software"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565847",
+    "fetched_at": "2026-10-02T22:02:59.359192Z"
   }
 ]
