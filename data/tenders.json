@@ -3268,7 +3268,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/677656-2026",
-    "fetched_at": "2026-10-03T20:54:12.608753Z"
+    "fetched_at": "2026-10-04T11:02:29.464682Z"
   },
   {
     "key": "eTenders Ireland / TED:673624-2026",
@@ -3303,7 +3303,7 @@
       "support and maintenance"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/673624-2026",
-    "fetched_at": "2026-10-03T20:54:12.609388Z"
+    "fetched_at": "2026-10-04T11:02:29.466375Z"
   },
   {
     "key": "eTenders Ireland / TED:651154-2026",
@@ -3414,7 +3414,7 @@
       "CPV 30237410"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/670357-2026",
-    "fetched_at": "2026-10-03T20:54:31.587119Z"
+    "fetched_at": "2026-10-04T11:02:40.715955Z"
   },
   {
     "key": "Poland / TED:666193-2026",
@@ -3467,7 +3467,7 @@
       "cyberbezpiec"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/666193-2026",
-    "fetched_at": "2026-10-03T20:54:38.103450Z"
+    "fetched_at": "2026-10-04T11:02:45.087067Z"
   },
   {
     "key": "Poland / TED:673225-2026",
@@ -3549,7 +3549,7 @@
       "CPV 30238000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/673225-2026",
-    "fetched_at": "2026-10-03T20:54:25.590998Z"
+    "fetched_at": "2026-10-04T11:02:38.713327Z"
   },
   {
     "key": "eTenders Ireland / TED:648059-2026",
@@ -3694,7 +3694,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/675053-2026",
-    "fetched_at": "2026-10-03T20:54:12.607579Z"
+    "fetched_at": "2026-10-04T11:02:29.463439Z"
   },
   {
     "key": "eTenders Ireland / TED:676890-2026",
@@ -3745,7 +3745,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/676890-2026",
-    "fetched_at": "2026-10-03T20:54:12.605064Z"
+    "fetched_at": "2026-10-04T11:02:29.461557Z"
   },
   {
     "key": "eTenders Ireland / TED:662277-2026",
@@ -3785,6 +3785,32 @@
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/662277-2026",
     "fetched_at": "2026-10-01T11:29:28.503094Z"
+  },
+  {
+    "key": "Poland / TED:661264-2026",
+    "id": "661264-2026",
+    "ocid": null,
+    "title": "Poland – Software implementation services – Stworzenie Systemu Ewidencji Przeszkód Infrastruktury (EPI) oraz przeniesienie danych dotyczących parametrów i opisów elementów infrastruktury z wersji papierowej na wersję elektroniczną wektorową",
+    "buyer": "PKP Polskie Linie Kolejowe S.A.",
+    "description": "Active Polish public procurement notice published through TED.",
+    "source": "Poland / TED",
+    "country": "Poland",
+    "published_at": "2026-09-25T02:00:00Z",
+    "deadline": "2026-10-12T21:59:59Z",
+    "value": null,
+    "currency": "PLN",
+    "cpv": [
+      "72263000",
+      "72263000"
+    ],
+    "status": "active",
+    "relevance": 43,
+    "matched": [
+      "CPV 72263000",
+      "software"
+    ],
+    "url": "https://ted.europa.eu/en/notice/-/detail/661264-2026",
+    "fetched_at": "2026-10-04T11:02:45.100478Z"
   },
   {
     "key": "Find a Tender:087628-2026",
@@ -6449,7 +6475,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/677828-2026",
-    "fetched_at": "2026-10-03T20:54:12.609286Z"
+    "fetched_at": "2026-10-04T11:02:29.465148Z"
   },
   {
     "key": "eTenders Ireland / TED:658139-2026",
@@ -7793,7 +7819,7 @@
       "infrastructure"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/671405-2026",
-    "fetched_at": "2026-10-03T20:54:12.612404Z"
+    "fetched_at": "2026-10-04T11:02:29.468808Z"
   },
   {
     "key": "Public Contracts Scotland:rls-1-SEP564781",
@@ -8198,7 +8224,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/677392-2026",
-    "fetched_at": "2026-10-03T20:54:12.606576Z"
+    "fetched_at": "2026-10-04T11:02:29.463111Z"
   },
   {
     "key": "Find a Tender:087147-2026",
@@ -9199,7 +9225,7 @@
       "CPV 72320000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/676358-2026",
-    "fetched_at": "2026-10-03T20:54:12.608224Z"
+    "fetched_at": "2026-10-04T11:02:29.464122Z"
   },
   {
     "key": "Poland / TED:675742-2026",
@@ -9234,7 +9260,7 @@
       "CPV 30231300"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/675742-2026",
-    "fetched_at": "2026-10-03T20:54:20.812335Z"
+    "fetched_at": "2026-10-04T11:02:33.639814Z"
   },
   {
     "key": "Find a Tender:091992-2026",
@@ -9345,32 +9371,6 @@
     "fetched_at": "2026-09-17T21:12:33.838724Z"
   },
   {
-    "key": "Poland / TED:661264-2026",
-    "id": "661264-2026",
-    "ocid": null,
-    "title": "Poland – Software implementation services – Stworzenie Systemu Ewidencji Przeszkód Infrastruktury (EPI) oraz przeniesienie danych dotyczących parametrów i opisów elementów infrastruktury z wersji papierowej na wersję elektroniczną wektorową",
-    "buyer": "PKP Polskie Linie Kolejowe S.A.",
-    "description": "Active Polish public procurement notice published through TED.",
-    "source": "Poland / TED",
-    "country": "Poland",
-    "published_at": "2026-09-25T02:00:00Z",
-    "deadline": "2026-10-12T21:59:59Z",
-    "value": null,
-    "currency": "PLN",
-    "cpv": [
-      "72263000",
-      "72263000"
-    ],
-    "status": "active",
-    "relevance": 43,
-    "matched": [
-      "CPV 72263000",
-      "software"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/661264-2026",
-    "fetched_at": "2026-10-03T10:19:16.278560Z"
-  },
-  {
     "key": "eTenders Ireland / TED:656715-2026",
     "id": "656715-2026",
     "ocid": null,
@@ -9478,7 +9478,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/666701-2026",
-    "fetched_at": "2026-10-03T20:54:36.084295Z"
+    "fetched_at": "2026-10-04T11:02:43.401150Z"
   },
   {
     "key": "eTenders Ireland / TED:643285-2026",
@@ -13399,7 +13399,7 @@
       "CPV 30231300"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/672441-2026",
-    "fetched_at": "2026-10-03T20:54:12.609683Z"
+    "fetched_at": "2026-10-04T11:02:29.466514Z"
   },
   {
     "key": "eTenders Ireland / TED:647419-2026",
@@ -13483,7 +13483,7 @@
       "CPV 72224000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/669247-2026",
-    "fetched_at": "2026-10-03T20:54:12.618143Z"
+    "fetched_at": "2026-10-04T11:02:29.474722Z"
   },
   {
     "key": "eTenders Ireland / TED:644816-2026",
@@ -13581,7 +13581,7 @@
       "CPV 72221000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/674429-2026",
-    "fetched_at": "2026-10-03T20:54:12.607043Z"
+    "fetched_at": "2026-10-04T11:02:29.463541Z"
   },
   {
     "key": "Public Contracts Scotland:rls-1-OCT565666",
@@ -14105,7 +14105,7 @@
       "CPV 32570000"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565666",
-    "fetched_at": "2026-10-03T20:54:11.429097Z"
+    "fetched_at": "2026-10-04T11:02:28.730426Z"
   },
   {
     "key": "Find a Tender:084457-2026",
@@ -16561,7 +16561,7 @@
       "CPV 32412000"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565724",
-    "fetched_at": "2026-10-03T20:54:11.428639Z"
+    "fetched_at": "2026-10-04T11:02:28.729964Z"
   },
   {
     "key": "Find a Tender:092274-2026",
@@ -16619,7 +16619,7 @@
       "oprogramowanie"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/673094-2026",
-    "fetched_at": "2026-10-03T20:54:25.581227Z"
+    "fetched_at": "2026-10-04T11:02:38.718717Z"
   },
   {
     "key": "eTenders Ireland / TED:641482-2026",
@@ -17100,7 +17100,7 @@
       "website"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565862",
-    "fetched_at": "2026-10-03T20:54:11.428112Z"
+    "fetched_at": "2026-10-04T11:02:28.729420Z"
   },
   {
     "key": "Public Contracts Scotland:rls-3-OCT565847",
@@ -17125,6 +17125,6 @@
       "software"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565847",
-    "fetched_at": "2026-10-03T20:54:11.428304Z"
+    "fetched_at": "2026-10-04T11:02:28.729617Z"
   }
 ]
