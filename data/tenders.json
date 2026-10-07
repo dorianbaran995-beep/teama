@@ -1,56 +1,5 @@
 [
   {
-    "key": "eTenders Ireland / TED:647642-2026",
-    "id": "647642-2026",
-    "ocid": null,
-    "title": "Ireland – IT services: consulting, software development, Internet and support – Single-party Framework for the Provision of Website Design, Hosting and Support for New Website and Related Services",
-    "buyer": "Charities Regulator",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-21T02:00:00Z",
-    "deadline": "2026-10-07T11:00:00Z",
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "72000000",
-      "72212224",
-      "72420000",
-      "72212220",
-      "72500000",
-      "72413000",
-      "72400000",
-      "72410000",
-      "72590000",
-      "72222300",
-      "72000000",
-      "72212224",
-      "72420000",
-      "72212220",
-      "72500000",
-      "72413000",
-      "72400000",
-      "72410000",
-      "72590000",
-      "72222300"
-    ],
-    "status": "active",
-    "relevance": 100,
-    "matched": [
-      "CPV 72000000",
-      "CPV 72212220",
-      "CPV 72212224",
-      "CPV 72420000",
-      "hosting",
-      "new website",
-      "software",
-      "website",
-      "website design"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/647642-2026",
-    "fetched_at": "2026-09-29T22:07:22.075485Z"
-  },
-  {
     "key": "eTenders Ireland / TED:640511-2026",
     "id": "640511-2026",
     "ocid": null,
@@ -1972,7 +1921,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/677656-2026",
-    "fetched_at": "2026-10-06T22:34:06.271556Z"
+    "fetched_at": "2026-10-07T11:39:38.451652Z"
   },
   {
     "key": "eTenders Ireland / TED:673624-2026",
@@ -2007,7 +1956,7 @@
       "support and maintenance"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/673624-2026",
-    "fetched_at": "2026-10-06T22:34:06.272582Z"
+    "fetched_at": "2026-10-07T11:39:38.453190Z"
   },
   {
     "key": "eTenders Ireland / TED:651154-2026",
@@ -2129,7 +2078,7 @@
       "support and maintenance"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/684805-2026",
-    "fetched_at": "2026-10-06T22:34:06.265578Z"
+    "fetched_at": "2026-10-07T11:39:38.442196Z"
   },
   {
     "key": "eTenders Ireland / TED:638121-2026",
@@ -2248,7 +2197,7 @@
       "informatyczne"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/686798-2026",
-    "fetched_at": "2026-10-06T22:34:12.505512Z"
+    "fetched_at": "2026-10-07T11:39:46.565546Z"
   },
   {
     "key": "eTenders Ireland / TED:659552-2026",
@@ -2356,7 +2305,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/675053-2026",
-    "fetched_at": "2026-10-06T22:34:06.270797Z"
+    "fetched_at": "2026-10-07T11:39:38.450411Z"
   },
   {
     "key": "eTenders Ireland / TED:676890-2026",
@@ -2407,7 +2356,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/676890-2026",
-    "fetched_at": "2026-10-06T22:34:06.269642Z"
+    "fetched_at": "2026-10-07T11:39:38.448548Z"
   },
   {
     "key": "eTenders Ireland / TED:662277-2026",
@@ -2505,7 +2454,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/686651-2026",
-    "fetched_at": "2026-10-06T22:34:06.262532Z"
+    "fetched_at": "2026-10-07T11:39:38.437441Z"
   },
   {
     "key": "eTenders Ireland / TED:691020-2026",
@@ -2556,7 +2505,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/691020-2026",
-    "fetched_at": "2026-10-06T22:34:06.262002Z"
+    "fetched_at": "2026-10-07T11:39:38.436599Z"
   },
   {
     "key": "eTenders Ireland / TED:687757-2026",
@@ -2591,7 +2540,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/687757-2026",
-    "fetched_at": "2026-10-06T22:34:06.264092Z"
+    "fetched_at": "2026-10-07T11:39:38.439896Z"
   },
   {
     "key": "Find a Tender:087628-2026",
@@ -5354,7 +5303,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/677828-2026",
-    "fetched_at": "2026-10-06T22:34:06.271844Z"
+    "fetched_at": "2026-10-07T11:39:38.452112Z"
   },
   {
     "key": "eTenders Ireland / TED:658139-2026",
@@ -5414,7 +5363,7 @@
       "support and maintenance"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/690530-2026",
-    "fetched_at": "2026-10-06T22:34:06.261852Z"
+    "fetched_at": "2026-10-07T11:39:38.436367Z"
   },
   {
     "key": "Public Contracts Scotland:rls-3-SEP564706",
@@ -7133,7 +7082,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/677392-2026",
-    "fetched_at": "2026-10-06T22:34:06.270594Z"
+    "fetched_at": "2026-10-07T11:39:38.450091Z"
   },
   {
     "key": "Find a Tender:087147-2026",
@@ -8128,7 +8077,7 @@
       "CPV 72260000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/684659-2026",
-    "fetched_at": "2026-10-06T22:34:15.370829Z"
+    "fetched_at": "2026-10-07T11:39:48.607904Z"
   },
   {
     "key": "eTenders Ireland / TED:676358-2026",
@@ -8165,7 +8114,7 @@
       "CPV 72320000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/676358-2026",
-    "fetched_at": "2026-10-06T22:34:06.271218Z"
+    "fetched_at": "2026-10-07T11:39:38.451082Z"
   },
   {
     "key": "Poland / TED:675742-2026",
@@ -8200,7 +8149,7 @@
       "CPV 30231300"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/675742-2026",
-    "fetched_at": "2026-10-06T22:34:21.370118Z"
+    "fetched_at": "2026-10-07T11:39:55.705676Z"
   },
   {
     "key": "eTenders Ireland / TED:682322-2026",
@@ -8239,7 +8188,7 @@
       "CPV 48000000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/682322-2026",
-    "fetched_at": "2026-10-06T22:34:06.265888Z"
+    "fetched_at": "2026-10-07T11:39:38.442697Z"
   },
   {
     "key": "Find a Tender:091992-2026",
@@ -8318,36 +8267,6 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP565521",
     "fetched_at": "2026-09-30T11:03:05.365177Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:628381-2026",
-    "id": "628381-2026",
-    "ocid": null,
-    "title": "Ireland – Educational software development services – Open Competition for the School of Business Student Feedback Software System 529",
-    "buyer": "Maynooth University",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-11T02:00:00Z",
-    "deadline": "2026-10-07T11:00:00Z",
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "72212190",
-      "75121000",
-      "80430000",
-      "72212190",
-      "75121000",
-      "80430000"
-    ],
-    "status": "active",
-    "relevance": 43,
-    "matched": [
-      "CPV 72212190",
-      "software"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/628381-2026",
-    "fetched_at": "2026-09-17T21:12:33.838724Z"
   },
   {
     "key": "Poland / TED:661264-2026",
@@ -8553,7 +8472,7 @@
       "CPV 72224000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/687062-2026",
-    "fetched_at": "2026-10-06T22:34:06.262793Z"
+    "fetched_at": "2026-10-07T11:39:38.437832Z"
   },
   {
     "key": "Find a Tender:085492-2026",
@@ -9222,7 +9141,7 @@
       "user experience"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/093955-2026",
-    "fetched_at": "2026-10-06T22:33:36.435018Z"
+    "fetched_at": "2026-10-07T11:38:43.185935Z"
   },
   {
     "key": "Public Contracts Scotland:rls-2-OCT565958",
@@ -9300,7 +9219,7 @@
       "user experience"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565958",
-    "fetched_at": "2026-10-06T22:33:59.525745Z"
+    "fetched_at": "2026-10-07T11:39:25.556994Z"
   },
   {
     "key": "Find a Tender:084917-2026",
@@ -11443,7 +11362,7 @@
       "website support"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/093862-2026",
-    "fetched_at": "2026-10-06T22:33:36.435214Z"
+    "fetched_at": "2026-10-07T11:38:43.186208Z"
   },
   {
     "key": "Public Contracts Scotland:rls-3-OCT565941",
@@ -11521,7 +11440,7 @@
       "website support"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565941",
-    "fetched_at": "2026-10-06T22:33:59.525874Z"
+    "fetched_at": "2026-10-07T11:39:25.557150Z"
   },
   {
     "key": "Public Contracts Scotland:rls-21-SEP563932",
@@ -12456,7 +12375,7 @@
       "CPV 72263000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/684803-2026",
-    "fetched_at": "2026-10-06T22:34:06.266449Z"
+    "fetched_at": "2026-10-07T11:39:38.443571Z"
   },
   {
     "key": "eTenders Ireland / TED:639562-2026",
@@ -12696,7 +12615,7 @@
       "CPV 72221000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/674429-2026",
-    "fetched_at": "2026-10-06T22:34:06.270862Z"
+    "fetched_at": "2026-10-07T11:39:38.450511Z"
   },
   {
     "key": "Public Contracts Scotland:rls-1-OCT565666",
@@ -13744,7 +13663,7 @@
       "CPV 32570000"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565666",
-    "fetched_at": "2026-10-06T22:34:05.034018Z"
+    "fetched_at": "2026-10-07T11:39:36.758834Z"
   },
   {
     "key": "eTenders Ireland / TED:692747-2026",
@@ -13769,38 +13688,7 @@
       "CPV 72413000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/692747-2026",
-    "fetched_at": "2026-10-06T22:34:06.262358Z"
-  },
-  {
-    "key": "Find a Tender:084457-2026",
-    "id": "084457-2026",
-    "ocid": "ocds-h6vhtk-06f396",
-    "title": "Committee Livestreaming",
-    "buyer": "Dumfries and Galloway Council",
-    "description": "Dumfries and Galloway Council is seeking to procure a single supplier to deliver livestreaming/audio visual services, primarily to Council/Committee meetings. These meetings are open to the public and livestreaming further enables accessibility, thus enhancing our openness with stakeholders. Council/Committee meetings are held on a hybrid basis, enabling attendees to attend in person or online via Microsoft Teams and these are livestreamed on our YouTube Channel. The successful supplier will be expected to attend meetings in person.",
-    "source": "Find a Tender",
-    "country": "United Kingdom",
-    "published_at": "2026-09-07T13:17:18Z",
-    "deadline": "2026-10-07T11:00:00Z",
-    "value": 376000.0,
-    "currency": "GBP",
-    "cpv": [
-      "30237136",
-      "31711310",
-      "32320000",
-      "32321200",
-      "32321300",
-      "32333000",
-      "32353000",
-      "50340000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 30237136"
-    ],
-    "url": "https://www.find-tender.service.gov.uk/Notice/084457-2026",
-    "fetched_at": "2026-09-10T14:17:13.870726Z"
+    "fetched_at": "2026-10-07T11:39:38.437145Z"
   },
   {
     "key": "Public Contracts Scotland:rls-2-SEP564728",
@@ -14185,7 +14073,7 @@
       "CPV 72250000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/687343-2026",
-    "fetched_at": "2026-10-06T22:34:12.499123Z"
+    "fetched_at": "2026-10-07T11:39:46.555948Z"
   },
   {
     "key": "Public Contracts Scotland:rls-1-SEP564850",
@@ -16346,7 +16234,7 @@
       "CPV 32412000"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565724",
-    "fetched_at": "2026-10-06T22:34:05.033735Z"
+    "fetched_at": "2026-10-07T11:39:36.758404Z"
   },
   {
     "key": "Find a Tender:093954-2026",
@@ -16370,7 +16258,7 @@
       "CPV 48422000"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/093954-2026",
-    "fetched_at": "2026-10-06T22:33:36.435089Z"
+    "fetched_at": "2026-10-07T11:38:43.186037Z"
   },
   {
     "key": "Public Contracts Scotland:rls-1-OCT565959",
@@ -16442,7 +16330,7 @@
       "CPV 48422000"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565959",
-    "fetched_at": "2026-10-06T22:33:59.525637Z"
+    "fetched_at": "2026-10-07T11:39:25.556852Z"
   },
   {
     "key": "Find a Tender:092274-2026",
@@ -17177,7 +17065,7 @@
       "website"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565862",
-    "fetched_at": "2026-10-06T22:34:05.033345Z"
+    "fetched_at": "2026-10-07T11:39:36.757879Z"
   },
   {
     "key": "Public Contracts Scotland:rls-12-OCT565847",
@@ -17202,6 +17090,6 @@
       "software"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565847",
-    "fetched_at": "2026-10-06T22:34:05.033485Z"
+    "fetched_at": "2026-10-07T11:39:36.758058Z"
   }
 ]
