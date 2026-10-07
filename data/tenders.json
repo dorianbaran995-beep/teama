@@ -34,42 +34,45 @@
     "fetched_at": "2026-09-23T21:23:13.509313Z"
   },
   {
-    "key": "eTenders Ireland / TED:644527-2026",
-    "id": "644527-2026",
+    "key": "eTenders Ireland / TED:696163-2026",
+    "id": "696163-2026",
     "ocid": null,
-    "title": "Ireland – IT services: consulting, software development, Internet and support – ET2605 - RFT for the Provision, Hosting, Support, Maintenance and Enhancement of the RSA Online Digital Tachograph Card Application Solution",
-    "buyer": "Road Safety Authority (RSA)",
+    "title": "Ireland – IT services: consulting, software development, Internet and support – Request for Tender for Website Optimisation, Hosting, Maintenance, Support and Development Services",
+    "buyer": "Skillnet Ireland",
     "description": "Active Irish public procurement notice published through TED/eTenders.",
     "source": "eTenders Ireland / TED",
     "country": "Ireland",
-    "published_at": "2026-09-18T02:00:00Z",
-    "deadline": "2026-10-07T16:00:00Z",
+    "published_at": "2026-10-08T02:00:00Z",
+    "deadline": "2026-10-30T12:00:00Z",
     "value": null,
     "currency": "EUR",
     "cpv": [
       "72000000",
-      "72212517",
-      "72250000",
-      "72260000",
-      "72212000",
+      "72600000",
+      "73000000",
+      "72212222",
+      "72413000",
+      "72415000",
       "72000000",
-      "72212517",
-      "72250000",
-      "72260000",
-      "72212000"
+      "72600000",
+      "73000000",
+      "72212222",
+      "72413000",
+      "72415000"
     ],
     "status": "active",
-    "relevance": 71,
+    "relevance": 84,
     "matched": [
       "CPV 72000000",
-      "CPV 72212517",
-      "CPV 72250000",
-      "CPV 72260000",
+      "CPV 72212222",
+      "CPV 72413000",
+      "CPV 72600000",
       "hosting",
-      "software"
+      "software",
+      "website"
     ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/644527-2026",
-    "fetched_at": "2026-09-28T11:36:33.852191Z"
+    "url": "https://ted.europa.eu/en/notice/-/detail/696163-2026",
+    "fetched_at": "2026-10-07T22:58:14.837962Z"
   },
   {
     "key": "Public Contracts Scotland:rls-23-SEP564950",
@@ -2078,7 +2081,59 @@
       "support and maintenance"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/684805-2026",
-    "fetched_at": "2026-10-07T11:39:38.442196Z"
+    "fetched_at": "2026-10-07T22:58:14.849370Z"
+  },
+  {
+    "key": "eTenders Ireland / TED:695163-2026",
+    "id": "695163-2026",
+    "ocid": null,
+    "title": "Ireland – IT services: consulting, software development, Internet and support – Web applications maintenance support and Development Services",
+    "buyer": "Teagasc - the Agriculture and Food Development Authority",
+    "description": "Active Irish public procurement notice published through TED/eTenders.",
+    "source": "eTenders Ireland / TED",
+    "country": "Ireland",
+    "published_at": "2026-10-08T02:00:00Z",
+    "deadline": "2026-11-05T13:00:00Z",
+    "value": null,
+    "currency": "EUR",
+    "cpv": [
+      "72000000",
+      "72200000",
+      "72500000",
+      "72211000",
+      "72212000",
+      "72212100",
+      "72000000",
+      "72000000",
+      "72000000",
+      "72200000",
+      "72500000",
+      "72211000",
+      "72212000",
+      "72212100",
+      "72200000",
+      "72500000",
+      "72211000",
+      "72212000",
+      "72212100",
+      "72200000",
+      "72500000",
+      "72211000",
+      "72212000",
+      "72212100"
+    ],
+    "status": "active",
+    "relevance": 64,
+    "matched": [
+      "CPV 72000000",
+      "CPV 72200000",
+      "CPV 72211000",
+      "CPV 72500000",
+      "software",
+      "web application"
+    ],
+    "url": "https://ted.europa.eu/en/notice/-/detail/695163-2026",
+    "fetched_at": "2026-10-07T22:58:14.838287Z"
   },
   {
     "key": "eTenders Ireland / TED:638121-2026",
@@ -2197,7 +2252,7 @@
       "informatyczne"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/686798-2026",
-    "fetched_at": "2026-10-07T11:39:46.565546Z"
+    "fetched_at": "2026-10-07T22:58:24.902650Z"
   },
   {
     "key": "eTenders Ireland / TED:659552-2026",
@@ -2356,7 +2411,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/676890-2026",
-    "fetched_at": "2026-10-07T11:39:38.448548Z"
+    "fetched_at": "2026-10-07T22:58:14.855218Z"
   },
   {
     "key": "eTenders Ireland / TED:662277-2026",
@@ -2454,7 +2509,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/686651-2026",
-    "fetched_at": "2026-10-07T11:39:38.437441Z"
+    "fetched_at": "2026-10-07T22:58:14.845006Z"
   },
   {
     "key": "eTenders Ireland / TED:691020-2026",
@@ -2505,7 +2560,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/691020-2026",
-    "fetched_at": "2026-10-07T11:39:38.436599Z"
+    "fetched_at": "2026-10-07T22:58:14.844235Z"
   },
   {
     "key": "eTenders Ireland / TED:687757-2026",
@@ -2540,7 +2595,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/687757-2026",
-    "fetched_at": "2026-10-07T11:39:38.439896Z"
+    "fetched_at": "2026-10-07T22:58:14.847217Z"
   },
   {
     "key": "Find a Tender:087628-2026",
@@ -5363,7 +5418,7 @@
       "support and maintenance"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/690530-2026",
-    "fetched_at": "2026-10-07T11:39:38.436367Z"
+    "fetched_at": "2026-10-07T22:58:14.844027Z"
   },
   {
     "key": "Public Contracts Scotland:rls-3-SEP564706",
@@ -7058,33 +7113,6 @@
     "fetched_at": "2026-09-30T22:06:50.795942Z"
   },
   {
-    "key": "eTenders Ireland / TED:677392-2026",
-    "id": "677392-2026",
-    "ocid": null,
-    "title": "Ireland – IT services: consulting, software development, Internet and support – Provision of IT Managed Services",
-    "buyer": "Abbey Theatre Amharclann na Mainistreach",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-10-01T02:00:00Z",
-    "deadline": "2026-10-07T16:00:00Z",
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "72000000",
-      "72000000"
-    ],
-    "status": "active",
-    "relevance": 49,
-    "matched": [
-      "CPV 72000000",
-      "managed service",
-      "software"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/677392-2026",
-    "fetched_at": "2026-10-07T11:39:38.450091Z"
-  },
-  {
     "key": "Find a Tender:087147-2026",
     "id": "087147-2026",
     "ocid": "ocds-h6vhtk-06f9c3",
@@ -8077,7 +8105,7 @@
       "CPV 72260000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/684659-2026",
-    "fetched_at": "2026-10-07T11:39:48.607904Z"
+    "fetched_at": "2026-10-07T22:58:27.285405Z"
   },
   {
     "key": "eTenders Ireland / TED:676358-2026",
@@ -8149,7 +8177,7 @@
       "CPV 30231300"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/675742-2026",
-    "fetched_at": "2026-10-07T11:39:55.705676Z"
+    "fetched_at": "2026-10-07T22:58:34.552058Z"
   },
   {
     "key": "eTenders Ireland / TED:682322-2026",
@@ -8188,7 +8216,7 @@
       "CPV 48000000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/682322-2026",
-    "fetched_at": "2026-10-07T11:39:38.442697Z"
+    "fetched_at": "2026-10-07T22:58:14.849820Z"
   },
   {
     "key": "Find a Tender:091992-2026",
@@ -8437,6 +8465,58 @@
     "fetched_at": "2026-09-27T21:12:43.182908Z"
   },
   {
+    "key": "eTenders Ireland / TED:694051-2026",
+    "id": "694051-2026",
+    "ocid": null,
+    "title": "Ireland – Archive shelving – Archival Boxes for the National Archives",
+    "buyer": "Department of Culture Communications Sport",
+    "description": "Active Irish public procurement notice published through TED/eTenders.",
+    "source": "eTenders Ireland / TED",
+    "country": "Ireland",
+    "published_at": "2026-10-08T02:00:00Z",
+    "deadline": "2026-10-19T11:00:00Z",
+    "value": null,
+    "currency": "EUR",
+    "cpv": [
+      "39131100",
+      "92500000",
+      "92512000",
+      "92510000",
+      "30199500",
+      "44421780",
+      "44617000",
+      "75100000",
+      "75000000",
+      "92000000",
+      "22000000",
+      "22800000",
+      "22900000",
+      "30000000",
+      "39131100",
+      "92500000",
+      "92512000",
+      "92510000",
+      "30199500",
+      "44421780",
+      "44617000",
+      "75100000",
+      "75000000",
+      "92000000",
+      "22000000",
+      "22800000",
+      "22900000",
+      "30000000"
+    ],
+    "status": "active",
+    "relevance": 40,
+    "matched": [
+      "CPV 30000000",
+      "CPV 30199500"
+    ],
+    "url": "https://ted.europa.eu/en/notice/-/detail/694051-2026",
+    "fetched_at": "2026-10-07T22:58:14.839521Z"
+  },
+  {
     "key": "eTenders Ireland / TED:687062-2026",
     "id": "687062-2026",
     "ocid": null,
@@ -8472,7 +8552,7 @@
       "CPV 72224000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/687062-2026",
-    "fetched_at": "2026-10-07T11:39:38.437832Z"
+    "fetched_at": "2026-10-07T22:58:14.845359Z"
   },
   {
     "key": "Find a Tender:085492-2026",
@@ -9141,7 +9221,7 @@
       "user experience"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/093955-2026",
-    "fetched_at": "2026-10-07T11:38:43.185935Z"
+    "fetched_at": "2026-10-07T22:57:23.958978Z"
   },
   {
     "key": "Public Contracts Scotland:rls-2-OCT565958",
@@ -9220,6 +9300,32 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565958",
     "fetched_at": "2026-10-07T11:39:25.556994Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-5-OCT565958",
+    "id": "rls-5-OCT565958",
+    "ocid": "ocds-r6ebe6-0000844721",
+    "title": "C002187 Framework Agreement for the provision of a Learning Management System",
+    "buyer": "The Common Services Agency (more commonly known as Public Services Delivery Scotland) (PSD Scotland)",
+    "description": "Public Services Delivery Scotland (PSD Scotland) is delivering the Digital Learning Infrastructure (DLI) Programme, a national transformation programme to establish a modern, scalable, interoperable and sustainable digital learning ecosystem for Scotlandâs health and social care workforce. The programme responds to a fragmented learning technology landscape across public, private, voluntary and not-for-profit provision, where multiple local learning management systems, duplicated content, variable user experiences and inconsistent data quality limit workforce mobility, planning and system-wide efficiency.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-05T00:00:00Z",
+    "deadline": "2026-11-25T13:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "72212190"
+    ],
+    "status": "active",
+    "relevance": 37,
+    "matched": [
+      "CPV 72212190",
+      "infrastructure",
+      "user experience"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565958",
+    "fetched_at": "2026-10-07T22:58:04.453171Z"
   },
   {
     "key": "Find a Tender:084917-2026",
@@ -11362,7 +11468,7 @@
       "website support"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/093862-2026",
-    "fetched_at": "2026-10-07T11:38:43.186208Z"
+    "fetched_at": "2026-10-07T22:57:23.959259Z"
   },
   {
     "key": "Public Contracts Scotland:rls-3-OCT565941",
@@ -11443,908 +11549,30 @@
     "fetched_at": "2026-10-07T11:39:25.557150Z"
   },
   {
-    "key": "Public Contracts Scotland:rls-21-SEP563932",
-    "id": "rls-21-SEP563932",
-    "ocid": "ocds-r6ebe6-0000842227",
-    "title": "Committee Livestreaming",
-    "buyer": "Dumfries and Galloway Council",
-    "description": "Dumfries and Galloway Council is seeking to procure a single supplier to deliver livestreaming/audio visual services, primarily to Council/Committee meetings. These meetings are open to the public and livestreaming further enables accessibility, thus enhancing our openness with stakeholders. Council/Committee meetings are held on a hybrid basis, enabling attendees to attend in person or online via Microsoft Teams and these are livestreamed on our YouTube Channel. The successful supplier will be expected to attend meetings in person.",
+    "key": "Public Contracts Scotland:rls-6-OCT565941",
+    "id": "rls-6-OCT565941",
+    "ocid": "ocds-r6ebe6-0000844772",
+    "title": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP)",
+    "buyer": "University of Glasgow",
+    "description": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP) Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the âContact Usâ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
     "source": "Public Contracts Scotland",
     "country": "Scotland",
-    "published_at": "2026-09-07T00:00:00Z",
-    "deadline": "2026-10-07T12:00:00Z",
-    "value": 376000.0,
-    "currency": "GBP",
-    "cpv": [
-      "30237136",
-      "31711310",
-      "32320000",
-      "32321200",
-      "32321300",
-      "32333000",
-      "32353000",
-      "50340000"
-    ],
-    "status": "active",
-    "relevance": 31,
-    "matched": [
-      "CPV 30237136",
-      "accessibility"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563932",
-    "fetched_at": "2026-09-10T15:11:04.735332Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-23-SEP563932",
-    "id": "rls-23-SEP563932",
-    "ocid": "ocds-r6ebe6-0000842227",
-    "title": "Committee Livestreaming",
-    "buyer": "Dumfries and Galloway Council",
-    "description": "Dumfries and Galloway Council is seeking to procure a single supplier to deliver livestreaming/audio visual services, primarily to Council/Committee meetings. These meetings are open to the public and livestreaming further enables accessibility, thus enhancing our openness with stakeholders. Council/Committee meetings are held on a hybrid basis, enabling attendees to attend in person or online via Microsoft Teams and these are livestreamed on our YouTube Channel. The successful supplier will be expected to attend meetings in person.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-07T00:00:00Z",
-    "deadline": "2026-10-07T12:00:00Z",
-    "value": 376000.0,
-    "currency": "GBP",
-    "cpv": [
-      "30237136",
-      "31711310",
-      "32320000",
-      "32321200",
-      "32321300",
-      "32333000",
-      "32353000",
-      "50340000"
-    ],
-    "status": "active",
-    "relevance": 31,
-    "matched": [
-      "CPV 30237136",
-      "accessibility"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563932",
-    "fetched_at": "2026-09-10T20:43:55.420838Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-25-SEP563932",
-    "id": "rls-25-SEP563932",
-    "ocid": "ocds-r6ebe6-0000842227",
-    "title": "Committee Livestreaming",
-    "buyer": "Dumfries and Galloway Council",
-    "description": "Dumfries and Galloway Council is seeking to procure a single supplier to deliver livestreaming/audio visual services, primarily to Council/Committee meetings. These meetings are open to the public and livestreaming further enables accessibility, thus enhancing our openness with stakeholders. Council/Committee meetings are held on a hybrid basis, enabling attendees to attend in person or online via Microsoft Teams and these are livestreamed on our YouTube Channel. The successful supplier will be expected to attend meetings in person.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-07T00:00:00Z",
-    "deadline": "2026-10-07T12:00:00Z",
-    "value": 376000.0,
-    "currency": "GBP",
-    "cpv": [
-      "30237136",
-      "31711310",
-      "32320000",
-      "32321200",
-      "32321300",
-      "32333000",
-      "32353000",
-      "50340000"
-    ],
-    "status": "active",
-    "relevance": 31,
-    "matched": [
-      "CPV 30237136",
-      "accessibility"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563932",
-    "fetched_at": "2026-09-11T09:28:44.706251Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-33-SEP563932",
-    "id": "rls-33-SEP563932",
-    "ocid": "ocds-r6ebe6-0000842227",
-    "title": "Committee Livestreaming",
-    "buyer": "Dumfries and Galloway Council",
-    "description": "Dumfries and Galloway Council is seeking to procure a single supplier to deliver livestreaming/audio visual services, primarily to Council/Committee meetings. These meetings are open to the public and livestreaming further enables accessibility, thus enhancing our openness with stakeholders. Council/Committee meetings are held on a hybrid basis, enabling attendees to attend in person or online via Microsoft Teams and these are livestreamed on our YouTube Channel. The successful supplier will be expected to attend meetings in person.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-07T00:00:00Z",
-    "deadline": "2026-10-07T12:00:00Z",
-    "value": 376000.0,
-    "currency": "GBP",
-    "cpv": [
-      "30237136",
-      "31711310",
-      "32320000",
-      "32321200",
-      "32321300",
-      "32333000",
-      "32353000",
-      "50340000"
-    ],
-    "status": "active",
-    "relevance": 31,
-    "matched": [
-      "CPV 30237136",
-      "accessibility"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563932",
-    "fetched_at": "2026-09-13T20:36:55.632253Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-34-SEP563932",
-    "id": "rls-34-SEP563932",
-    "ocid": "ocds-r6ebe6-0000842227",
-    "title": "Committee Livestreaming",
-    "buyer": "Dumfries and Galloway Council",
-    "description": "Dumfries and Galloway Council is seeking to procure a single supplier to deliver livestreaming/audio visual services, primarily to Council/Committee meetings. These meetings are open to the public and livestreaming further enables accessibility, thus enhancing our openness with stakeholders. Council/Committee meetings are held on a hybrid basis, enabling attendees to attend in person or online via Microsoft Teams and these are livestreamed on our YouTube Channel. The successful supplier will be expected to attend meetings in person.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-07T00:00:00Z",
-    "deadline": "2026-10-07T12:00:00Z",
-    "value": 376000.0,
-    "currency": "GBP",
-    "cpv": [
-      "30237136",
-      "31711310",
-      "32320000",
-      "32321200",
-      "32321300",
-      "32333000",
-      "32353000",
-      "50340000"
-    ],
-    "status": "active",
-    "relevance": 31,
-    "matched": [
-      "CPV 30237136",
-      "accessibility"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563932",
-    "fetched_at": "2026-09-14T10:30:08.423143Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-35-SEP563932",
-    "id": "rls-35-SEP563932",
-    "ocid": "ocds-r6ebe6-0000842227",
-    "title": "Committee Livestreaming",
-    "buyer": "Dumfries and Galloway Council",
-    "description": "Dumfries and Galloway Council is seeking to procure a single supplier to deliver livestreaming/audio visual services, primarily to Council/Committee meetings. These meetings are open to the public and livestreaming further enables accessibility, thus enhancing our openness with stakeholders. Council/Committee meetings are held on a hybrid basis, enabling attendees to attend in person or online via Microsoft Teams and these are livestreamed on our YouTube Channel. The successful supplier will be expected to attend meetings in person.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-07T00:00:00Z",
-    "deadline": "2026-10-07T12:00:00Z",
-    "value": 376000.0,
-    "currency": "GBP",
-    "cpv": [
-      "30237136",
-      "31711310",
-      "32320000",
-      "32321200",
-      "32321300",
-      "32333000",
-      "32353000",
-      "50340000"
-    ],
-    "status": "active",
-    "relevance": 31,
-    "matched": [
-      "CPV 30237136",
-      "accessibility"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563932",
-    "fetched_at": "2026-09-14T21:43:19.185398Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-40-SEP563932",
-    "id": "rls-40-SEP563932",
-    "ocid": "ocds-r6ebe6-0000842227",
-    "title": "Committee Livestreaming",
-    "buyer": "Dumfries and Galloway Council",
-    "description": "Dumfries and Galloway Council is seeking to procure a single supplier to deliver livestreaming/audio visual services, primarily to Council/Committee meetings. These meetings are open to the public and livestreaming further enables accessibility, thus enhancing our openness with stakeholders. Council/Committee meetings are held on a hybrid basis, enabling attendees to attend in person or online via Microsoft Teams and these are livestreamed on our YouTube Channel. The successful supplier will be expected to attend meetings in person.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-07T00:00:00Z",
-    "deadline": "2026-10-07T12:00:00Z",
-    "value": 376000.0,
-    "currency": "GBP",
-    "cpv": [
-      "30237136",
-      "31711310",
-      "32320000",
-      "32321200",
-      "32321300",
-      "32333000",
-      "32353000",
-      "50340000"
-    ],
-    "status": "active",
-    "relevance": 31,
-    "matched": [
-      "CPV 30237136",
-      "accessibility"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563932",
-    "fetched_at": "2026-09-15T21:08:12.728921Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-42-SEP563932",
-    "id": "rls-42-SEP563932",
-    "ocid": "ocds-r6ebe6-0000842227",
-    "title": "Committee Livestreaming",
-    "buyer": "Dumfries and Galloway Council",
-    "description": "Dumfries and Galloway Council is seeking to procure a single supplier to deliver livestreaming/audio visual services, primarily to Council/Committee meetings. These meetings are open to the public and livestreaming further enables accessibility, thus enhancing our openness with stakeholders. Council/Committee meetings are held on a hybrid basis, enabling attendees to attend in person or online via Microsoft Teams and these are livestreamed on our YouTube Channel. The successful supplier will be expected to attend meetings in person.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-07T00:00:00Z",
-    "deadline": "2026-10-07T12:00:00Z",
-    "value": 376000.0,
-    "currency": "GBP",
-    "cpv": [
-      "30237136",
-      "31711310",
-      "32320000",
-      "32321200",
-      "32321300",
-      "32333000",
-      "32353000",
-      "50340000"
-    ],
-    "status": "active",
-    "relevance": 31,
-    "matched": [
-      "CPV 30237136",
-      "accessibility"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563932",
-    "fetched_at": "2026-09-16T09:48:37.240790Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-43-SEP563932",
-    "id": "rls-43-SEP563932",
-    "ocid": "ocds-r6ebe6-0000842227",
-    "title": "Committee Livestreaming",
-    "buyer": "Dumfries and Galloway Council",
-    "description": "Dumfries and Galloway Council is seeking to procure a single supplier to deliver livestreaming/audio visual services, primarily to Council/Committee meetings. These meetings are open to the public and livestreaming further enables accessibility, thus enhancing our openness with stakeholders. Council/Committee meetings are held on a hybrid basis, enabling attendees to attend in person or online via Microsoft Teams and these are livestreamed on our YouTube Channel. The successful supplier will be expected to attend meetings in person.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-07T00:00:00Z",
-    "deadline": "2026-10-07T12:00:00Z",
-    "value": 376000.0,
-    "currency": "GBP",
-    "cpv": [
-      "30237136",
-      "31711310",
-      "32320000",
-      "32321200",
-      "32321300",
-      "32333000",
-      "32353000",
-      "50340000"
-    ],
-    "status": "active",
-    "relevance": 31,
-    "matched": [
-      "CPV 30237136",
-      "accessibility"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563932",
-    "fetched_at": "2026-09-17T09:55:28.332131Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-47-SEP563932",
-    "id": "rls-47-SEP563932",
-    "ocid": "ocds-r6ebe6-0000842227",
-    "title": "Committee Livestreaming",
-    "buyer": "Dumfries and Galloway Council",
-    "description": "Dumfries and Galloway Council is seeking to procure a single supplier to deliver livestreaming/audio visual services, primarily to Council/Committee meetings. These meetings are open to the public and livestreaming further enables accessibility, thus enhancing our openness with stakeholders. Council/Committee meetings are held on a hybrid basis, enabling attendees to attend in person or online via Microsoft Teams and these are livestreamed on our YouTube Channel. The successful supplier will be expected to attend meetings in person.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-07T00:00:00Z",
-    "deadline": "2026-10-07T12:00:00Z",
-    "value": 376000.0,
-    "currency": "GBP",
-    "cpv": [
-      "30237136",
-      "31711310",
-      "32320000",
-      "32321200",
-      "32321300",
-      "32333000",
-      "32353000",
-      "50340000"
-    ],
-    "status": "active",
-    "relevance": 31,
-    "matched": [
-      "CPV 30237136",
-      "accessibility"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563932",
-    "fetched_at": "2026-09-18T09:33:33.232539Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-54-SEP563932",
-    "id": "rls-54-SEP563932",
-    "ocid": "ocds-r6ebe6-0000842227",
-    "title": "Committee Livestreaming",
-    "buyer": "Dumfries and Galloway Council",
-    "description": "Dumfries and Galloway Council is seeking to procure a single supplier to deliver livestreaming/audio visual services, primarily to Council/Committee meetings. These meetings are open to the public and livestreaming further enables accessibility, thus enhancing our openness with stakeholders. Council/Committee meetings are held on a hybrid basis, enabling attendees to attend in person or online via Microsoft Teams and these are livestreamed on our YouTube Channel. The successful supplier will be expected to attend meetings in person.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-07T00:00:00Z",
-    "deadline": "2026-10-07T12:00:00Z",
-    "value": 376000.0,
-    "currency": "GBP",
-    "cpv": [
-      "30237136",
-      "31711310",
-      "32320000",
-      "32321200",
-      "32321300",
-      "32333000",
-      "32353000",
-      "50340000"
-    ],
-    "status": "active",
-    "relevance": 31,
-    "matched": [
-      "CPV 30237136",
-      "accessibility"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563932",
-    "fetched_at": "2026-09-20T20:37:55.354709Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-57-SEP563932",
-    "id": "rls-57-SEP563932",
-    "ocid": "ocds-r6ebe6-0000842227",
-    "title": "Committee Livestreaming",
-    "buyer": "Dumfries and Galloway Council",
-    "description": "Dumfries and Galloway Council is seeking to procure a single supplier to deliver livestreaming/audio visual services, primarily to Council/Committee meetings. These meetings are open to the public and livestreaming further enables accessibility, thus enhancing our openness with stakeholders. Council/Committee meetings are held on a hybrid basis, enabling attendees to attend in person or online via Microsoft Teams and these are livestreamed on our YouTube Channel. The successful supplier will be expected to attend meetings in person.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-07T00:00:00Z",
-    "deadline": "2026-10-07T12:00:00Z",
-    "value": 376000.0,
-    "currency": "GBP",
-    "cpv": [
-      "30237136",
-      "31711310",
-      "32320000",
-      "32321200",
-      "32321300",
-      "32333000",
-      "32353000",
-      "50340000"
-    ],
-    "status": "active",
-    "relevance": 31,
-    "matched": [
-      "CPV 30237136",
-      "accessibility"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563932",
-    "fetched_at": "2026-09-21T10:35:22.643019Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-63-SEP563932",
-    "id": "rls-63-SEP563932",
-    "ocid": "ocds-r6ebe6-0000842227",
-    "title": "Committee Livestreaming",
-    "buyer": "Dumfries and Galloway Council",
-    "description": "Dumfries and Galloway Council is seeking to procure a single supplier to deliver livestreaming/audio visual services, primarily to Council/Committee meetings. These meetings are open to the public and livestreaming further enables accessibility, thus enhancing our openness with stakeholders. Council/Committee meetings are held on a hybrid basis, enabling attendees to attend in person or online via Microsoft Teams and these are livestreamed on our YouTube Channel. The successful supplier will be expected to attend meetings in person.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-07T00:00:00Z",
-    "deadline": "2026-10-07T12:00:00Z",
-    "value": 376000.0,
-    "currency": "GBP",
-    "cpv": [
-      "30237136",
-      "31711310",
-      "32320000",
-      "32321200",
-      "32321300",
-      "32333000",
-      "32353000",
-      "50340000"
-    ],
-    "status": "active",
-    "relevance": 31,
-    "matched": [
-      "CPV 30237136",
-      "accessibility"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563932",
-    "fetched_at": "2026-09-22T09:47:59.867870Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-65-SEP563932",
-    "id": "rls-65-SEP563932",
-    "ocid": "ocds-r6ebe6-0000842227",
-    "title": "Committee Livestreaming",
-    "buyer": "Dumfries and Galloway Council",
-    "description": "Dumfries and Galloway Council is seeking to procure a single supplier to deliver livestreaming/audio visual services, primarily to Council/Committee meetings. These meetings are open to the public and livestreaming further enables accessibility, thus enhancing our openness with stakeholders. Council/Committee meetings are held on a hybrid basis, enabling attendees to attend in person or online via Microsoft Teams and these are livestreamed on our YouTube Channel. The successful supplier will be expected to attend meetings in person.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-07T00:00:00Z",
-    "deadline": "2026-10-07T12:00:00Z",
-    "value": 376000.0,
-    "currency": "GBP",
-    "cpv": [
-      "30237136",
-      "31711310",
-      "32320000",
-      "32321200",
-      "32321300",
-      "32333000",
-      "32353000",
-      "50340000"
-    ],
-    "status": "active",
-    "relevance": 31,
-    "matched": [
-      "CPV 30237136",
-      "accessibility"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563932",
-    "fetched_at": "2026-09-22T21:09:05.548574Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-66-SEP563932",
-    "id": "rls-66-SEP563932",
-    "ocid": "ocds-r6ebe6-0000842227",
-    "title": "Committee Livestreaming",
-    "buyer": "Dumfries and Galloway Council",
-    "description": "Dumfries and Galloway Council is seeking to procure a single supplier to deliver livestreaming/audio visual services, primarily to Council/Committee meetings. These meetings are open to the public and livestreaming further enables accessibility, thus enhancing our openness with stakeholders. Council/Committee meetings are held on a hybrid basis, enabling attendees to attend in person or online via Microsoft Teams and these are livestreamed on our YouTube Channel. The successful supplier will be expected to attend meetings in person.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-07T00:00:00Z",
-    "deadline": "2026-10-07T12:00:00Z",
-    "value": 376000.0,
-    "currency": "GBP",
-    "cpv": [
-      "30237136",
-      "31711310",
-      "32320000",
-      "32321200",
-      "32321300",
-      "32333000",
-      "32353000",
-      "50340000"
-    ],
-    "status": "active",
-    "relevance": 31,
-    "matched": [
-      "CPV 30237136",
-      "accessibility"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563932",
-    "fetched_at": "2026-09-23T09:51:37.021314Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-67-SEP563932",
-    "id": "rls-67-SEP563932",
-    "ocid": "ocds-r6ebe6-0000842227",
-    "title": "Committee Livestreaming",
-    "buyer": "Dumfries and Galloway Council",
-    "description": "Dumfries and Galloway Council is seeking to procure a single supplier to deliver livestreaming/audio visual services, primarily to Council/Committee meetings. These meetings are open to the public and livestreaming further enables accessibility, thus enhancing our openness with stakeholders. Council/Committee meetings are held on a hybrid basis, enabling attendees to attend in person or online via Microsoft Teams and these are livestreamed on our YouTube Channel. The successful supplier will be expected to attend meetings in person.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-07T00:00:00Z",
-    "deadline": "2026-10-07T12:00:00Z",
-    "value": 376000.0,
-    "currency": "GBP",
-    "cpv": [
-      "30237136",
-      "31711310",
-      "32320000",
-      "32321200",
-      "32321300",
-      "32333000",
-      "32353000",
-      "50340000"
-    ],
-    "status": "active",
-    "relevance": 31,
-    "matched": [
-      "CPV 30237136",
-      "accessibility"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563932",
-    "fetched_at": "2026-09-23T21:23:01.528862Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-32-SEP563932",
-    "id": "rls-32-SEP563932",
-    "ocid": "ocds-r6ebe6-0000842227",
-    "title": "Committee Livestreaming",
-    "buyer": "Dumfries and Galloway Council",
-    "description": "Dumfries and Galloway Council is seeking to procure a single supplier to deliver livestreaming/audio visual services, primarily to Council/Committee meetings. These meetings are open to the public and livestreaming further enables accessibility, thus enhancing our openness with stakeholders. Council/Committee meetings are held on a hybrid basis, enabling attendees to attend in person or online via Microsoft Teams and these are livestreamed on our YouTube Channel. The successful supplier will be expected to attend meetings in person.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-07T00:00:00Z",
-    "deadline": "2026-10-07T12:00:00Z",
-    "value": 376000.0,
-    "currency": "GBP",
-    "cpv": [
-      "30237136",
-      "31711310",
-      "32320000",
-      "32321200",
-      "32321300",
-      "32333000",
-      "32353000",
-      "50340000"
-    ],
-    "status": "active",
-    "relevance": 31,
-    "matched": [
-      "CPV 30237136",
-      "accessibility"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563932",
-    "fetched_at": "2026-09-24T09:50:43.128778Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-68-SEP563932",
-    "id": "rls-68-SEP563932",
-    "ocid": "ocds-r6ebe6-0000842227",
-    "title": "Committee Livestreaming",
-    "buyer": "Dumfries and Galloway Council",
-    "description": "Dumfries and Galloway Council is seeking to procure a single supplier to deliver livestreaming/audio visual services, primarily to Council/Committee meetings. These meetings are open to the public and livestreaming further enables accessibility, thus enhancing our openness with stakeholders. Council/Committee meetings are held on a hybrid basis, enabling attendees to attend in person or online via Microsoft Teams and these are livestreamed on our YouTube Channel. The successful supplier will be expected to attend meetings in person.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-07T00:00:00Z",
-    "deadline": "2026-10-07T12:00:00Z",
-    "value": 376000.0,
-    "currency": "GBP",
-    "cpv": [
-      "30237136",
-      "31711310",
-      "32320000",
-      "32321200",
-      "32321300",
-      "32333000",
-      "32353000",
-      "50340000"
-    ],
-    "status": "active",
-    "relevance": 31,
-    "matched": [
-      "CPV 30237136",
-      "accessibility"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563932",
-    "fetched_at": "2026-09-24T21:24:14.846247Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-70-SEP563932",
-    "id": "rls-70-SEP563932",
-    "ocid": "ocds-r6ebe6-0000842227",
-    "title": "Committee Livestreaming",
-    "buyer": "Dumfries and Galloway Council",
-    "description": "Dumfries and Galloway Council is seeking to procure a single supplier to deliver livestreaming/audio visual services, primarily to Council/Committee meetings. These meetings are open to the public and livestreaming further enables accessibility, thus enhancing our openness with stakeholders. Council/Committee meetings are held on a hybrid basis, enabling attendees to attend in person or online via Microsoft Teams and these are livestreamed on our YouTube Channel. The successful supplier will be expected to attend meetings in person.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-07T00:00:00Z",
-    "deadline": "2026-10-07T12:00:00Z",
-    "value": 376000.0,
-    "currency": "GBP",
-    "cpv": [
-      "30237136",
-      "31711310",
-      "32320000",
-      "32321200",
-      "32321300",
-      "32333000",
-      "32353000",
-      "50340000"
-    ],
-    "status": "active",
-    "relevance": 31,
-    "matched": [
-      "CPV 30237136",
-      "accessibility"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563932",
-    "fetched_at": "2026-09-25T10:06:20.638424Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-74-SEP563932",
-    "id": "rls-74-SEP563932",
-    "ocid": "ocds-r6ebe6-0000842227",
-    "title": "Committee Livestreaming",
-    "buyer": "Dumfries and Galloway Council",
-    "description": "Dumfries and Galloway Council is seeking to procure a single supplier to deliver livestreaming/audio visual services, primarily to Council/Committee meetings. These meetings are open to the public and livestreaming further enables accessibility, thus enhancing our openness with stakeholders. Council/Committee meetings are held on a hybrid basis, enabling attendees to attend in person or online via Microsoft Teams and these are livestreamed on our YouTube Channel. The successful supplier will be expected to attend meetings in person.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-07T00:00:00Z",
-    "deadline": "2026-10-07T12:00:00Z",
-    "value": 376000.0,
-    "currency": "GBP",
-    "cpv": [
-      "30237136",
-      "31711310",
-      "32320000",
-      "32321200",
-      "32321300",
-      "32333000",
-      "32353000",
-      "50340000"
-    ],
-    "status": "active",
-    "relevance": 31,
-    "matched": [
-      "CPV 30237136",
-      "accessibility"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563932",
-    "fetched_at": "2026-09-27T21:12:35.837345Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-75-SEP563932",
-    "id": "rls-75-SEP563932",
-    "ocid": "ocds-r6ebe6-0000842227",
-    "title": "Committee Livestreaming",
-    "buyer": "Dumfries and Galloway Council",
-    "description": "Dumfries and Galloway Council is seeking to procure a single supplier to deliver livestreaming/audio visual services, primarily to Council/Committee meetings. These meetings are open to the public and livestreaming further enables accessibility, thus enhancing our openness with stakeholders. Council/Committee meetings are held on a hybrid basis, enabling attendees to attend in person or online via Microsoft Teams and these are livestreamed on our YouTube Channel. The successful supplier will be expected to attend meetings in person.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-07T00:00:00Z",
-    "deadline": "2026-10-07T12:00:00Z",
-    "value": 376000.0,
-    "currency": "GBP",
-    "cpv": [
-      "30237136",
-      "31711310",
-      "32320000",
-      "32321200",
-      "32321300",
-      "32333000",
-      "32353000",
-      "50340000"
-    ],
-    "status": "active",
-    "relevance": 31,
-    "matched": [
-      "CPV 30237136",
-      "accessibility"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563932",
-    "fetched_at": "2026-09-28T11:36:24.902342Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-76-SEP563932",
-    "id": "rls-76-SEP563932",
-    "ocid": "ocds-r6ebe6-0000842227",
-    "title": "Committee Livestreaming",
-    "buyer": "Dumfries and Galloway Council",
-    "description": "Dumfries and Galloway Council is seeking to procure a single supplier to deliver livestreaming/audio visual services, primarily to Council/Committee meetings. These meetings are open to the public and livestreaming further enables accessibility, thus enhancing our openness with stakeholders. Council/Committee meetings are held on a hybrid basis, enabling attendees to attend in person or online via Microsoft Teams and these are livestreamed on our YouTube Channel. The successful supplier will be expected to attend meetings in person.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-07T00:00:00Z",
-    "deadline": "2026-10-07T12:00:00Z",
-    "value": 376000.0,
-    "currency": "GBP",
-    "cpv": [
-      "30237136",
-      "31711310",
-      "32320000",
-      "32321200",
-      "32321300",
-      "32333000",
-      "32353000",
-      "50340000"
-    ],
-    "status": "active",
-    "relevance": 31,
-    "matched": [
-      "CPV 30237136",
-      "accessibility"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563932",
-    "fetched_at": "2026-09-29T11:14:53.681678Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-80-SEP563932",
-    "id": "rls-80-SEP563932",
-    "ocid": "ocds-r6ebe6-0000842227",
-    "title": "Committee Livestreaming",
-    "buyer": "Dumfries and Galloway Council",
-    "description": "Dumfries and Galloway Council is seeking to procure a single supplier to deliver livestreaming/audio visual services, primarily to Council/Committee meetings. These meetings are open to the public and livestreaming further enables accessibility, thus enhancing our openness with stakeholders. Council/Committee meetings are held on a hybrid basis, enabling attendees to attend in person or online via Microsoft Teams and these are livestreamed on our YouTube Channel. The successful supplier will be expected to attend meetings in person.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-07T00:00:00Z",
-    "deadline": "2026-10-07T12:00:00Z",
-    "value": 376000.0,
-    "currency": "GBP",
-    "cpv": [
-      "30237136",
-      "31711310",
-      "32320000",
-      "32321200",
-      "32321300",
-      "32333000",
-      "32353000",
-      "50340000"
-    ],
-    "status": "active",
-    "relevance": 31,
-    "matched": [
-      "CPV 30237136",
-      "accessibility"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563932",
-    "fetched_at": "2026-09-30T11:03:05.374473Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-85-SEP563932",
-    "id": "rls-85-SEP563932",
-    "ocid": "ocds-r6ebe6-0000842227",
-    "title": "Committee Livestreaming",
-    "buyer": "Dumfries and Galloway Council",
-    "description": "Dumfries and Galloway Council is seeking to procure a single supplier to deliver livestreaming/audio visual services, primarily to Council/Committee meetings. These meetings are open to the public and livestreaming further enables accessibility, thus enhancing our openness with stakeholders. Council/Committee meetings are held on a hybrid basis, enabling attendees to attend in person or online via Microsoft Teams and these are livestreamed on our YouTube Channel. The successful supplier will be expected to attend meetings in person.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-07T00:00:00Z",
-    "deadline": "2026-10-07T12:00:00Z",
-    "value": 376000.0,
-    "currency": "GBP",
-    "cpv": [
-      "30237136",
-      "31711310",
-      "32320000",
-      "32321200",
-      "32321300",
-      "32333000",
-      "32353000",
-      "50340000"
-    ],
-    "status": "active",
-    "relevance": 31,
-    "matched": [
-      "CPV 30237136",
-      "accessibility"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563932",
-    "fetched_at": "2026-09-30T22:06:45.534472Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:626069-2026",
-    "id": "626069-2026",
-    "ocid": null,
-    "title": "Ireland – Contract administration services – Employer’s Representative Services on Developer Design and Build Apartment Development - Coultry Gardens, Dublin",
-    "buyer": "Tuath Housing Association Ltd",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-11T02:00:00Z",
-    "deadline": "2026-10-07T15:00:00Z",
+    "published_at": "2026-10-05T00:00:00Z",
+    "deadline": "2026-11-05T12:00:00Z",
     "value": null,
-    "currency": "EUR",
+    "currency": null,
     "cpv": [
-      "79994000",
-      "71541000",
-      "72224000",
-      "79994000",
-      "71541000",
-      "72224000"
+      "80500000"
     ],
     "status": "active",
-    "relevance": 30,
+    "relevance": 32,
     "matched": [
-      "CPV 72224000"
+      "portal",
+      "website",
+      "website support"
     ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/626069-2026",
-    "fetched_at": "2026-09-20T20:38:09.232091Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:626328-2026",
-    "id": "626328-2026",
-    "ocid": null,
-    "title": "Ireland – Contract administration services – Employer’s Representative Services on Developer Design and Build Apartment Development - Hampden Hill, Donabate, Co. Dublin",
-    "buyer": "Tuath Housing Association Ltd",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-11T02:00:00Z",
-    "deadline": "2026-10-07T15:00:00Z",
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "79994000",
-      "71541000",
-      "72224000",
-      "79994000",
-      "71541000",
-      "72224000"
-    ],
-    "status": "active",
-    "relevance": 30,
-    "matched": [
-      "CPV 72224000"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/626328-2026",
-    "fetched_at": "2026-09-17T21:12:33.838935Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:614458-2026",
-    "id": "614458-2026",
-    "ocid": null,
-    "title": "Ireland – Audio-visual equipment – Single Party Framework Agreement for the provision of Audio Visual Equipment Supply and Support",
-    "buyer": "the Irish Aviation Authority",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-07T02:00:00Z",
-    "deadline": "2026-10-07T16:00:00Z",
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "32321200",
-      "32320000",
-      "32324300",
-      "32321300",
-      "51310000",
-      "50340000",
-      "50300000",
-      "30231300",
-      "32321200",
-      "32320000",
-      "32324300",
-      "32321300",
-      "51310000",
-      "50340000",
-      "50300000",
-      "30231300"
-    ],
-    "status": "active",
-    "relevance": 30,
-    "matched": [
-      "CPV 30231300"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/614458-2026",
-    "fetched_at": "2026-09-13T20:37:03.413814Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:632045-2026",
-    "id": "632045-2026",
-    "ocid": null,
-    "title": "Ireland – Architectural design services – Architect led Integrated Design Team Consultancy Services for Mixed-Use Redevelopment at the Athea Community Council Building, Co. Limerick",
-    "buyer": "Athea Community Council Company CLG",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-14T02:00:00Z",
-    "deadline": "2026-10-07T16:00:00Z",
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "71220000",
-      "45212350",
-      "71240000",
-      "71318000",
-      "72224000",
-      "71322000",
-      "71334000",
-      "71312000",
-      "71220000",
-      "45212350",
-      "71240000",
-      "71318000",
-      "72224000",
-      "71322000",
-      "71334000",
-      "71312000"
-    ],
-    "status": "active",
-    "relevance": 30,
-    "matched": [
-      "CPV 72224000"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/632045-2026",
-    "fetched_at": "2026-09-20T20:38:09.227855Z"
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565941",
+    "fetched_at": "2026-10-07T22:58:04.453344Z"
   },
   {
     "key": "eTenders Ireland / TED:684803-2026",
@@ -12375,7 +11603,7 @@
       "CPV 72263000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/684803-2026",
-    "fetched_at": "2026-10-07T11:39:38.443571Z"
+    "fetched_at": "2026-10-07T22:58:14.850642Z"
   },
   {
     "key": "eTenders Ireland / TED:639562-2026",
@@ -12616,6 +11844,41 @@
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/674429-2026",
     "fetched_at": "2026-10-07T11:39:38.450511Z"
+  },
+  {
+    "key": "eTenders Ireland / TED:695714-2026",
+    "id": "695714-2026",
+    "ocid": null,
+    "title": "Ireland – Miscellaneous business-related services – TG4 - Business Consultancy Services",
+    "buyer": "TG4",
+    "description": "Active Irish public procurement notice published through TED/eTenders.",
+    "source": "eTenders Ireland / TED",
+    "country": "Ireland",
+    "published_at": "2026-10-08T02:00:00Z",
+    "deadline": "2026-10-23T16:00:00Z",
+    "value": null,
+    "currency": "EUR",
+    "cpv": [
+      "79990000",
+      "79996000",
+      "72221000",
+      "79411100",
+      "79410000",
+      "79400000",
+      "79990000",
+      "79996000",
+      "72221000",
+      "79411100",
+      "79410000",
+      "79400000"
+    ],
+    "status": "active",
+    "relevance": 30,
+    "matched": [
+      "CPV 72221000"
+    ],
+    "url": "https://ted.europa.eu/en/notice/-/detail/695714-2026",
+    "fetched_at": "2026-10-07T22:58:14.840405Z"
   },
   {
     "key": "Public Contracts Scotland:rls-1-OCT565666",
@@ -13666,6 +12929,137 @@
     "fetched_at": "2026-10-07T11:39:36.758834Z"
   },
   {
+    "key": "Public Contracts Scotland:rls-24-OCT565666",
+    "id": "rls-24-OCT565666",
+    "ocid": "ocds-r6ebe6-0000843221",
+    "title": "General Building and Repair Works Framework",
+    "buyer": "North Ayrshire Council",
+    "description": "North Ayrshire Council (NAC) invites tenders for the provision of a General Building and Repair Works Framework. The framework will be split into 10 Lots: Lot 1 â Joinery Lot 2 - Door Entry Lot 3 â Electrical Lot 4 â Plumbing Lot 5 â Drainage Lot 6 â Plastering Lot 7 â Building Lot 8 â Roofing Lot 9 - Timber and Dampness Lot 10 â Fencing Bidders may submit tenders for a single Lot or multiple Lots. The framework will be ranked, and it is anticipated that up to 5 contractors will be appointed to each Lot. Notwithstanding this, NAC reserves the right to appoint a greater number of contractors to any Lot at its sole discretion, where it deems this appropriate and beneficial to the operation of the framework. There are no guaranteed volumes of business.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-01T00:00:00Z",
+    "deadline": "2026-10-29T12:00:00Z",
+    "value": 3960000.0,
+    "currency": "GBP",
+    "cpv": [
+      "03419000",
+      "03419100",
+      "31500000",
+      "31625100",
+      "32550000",
+      "32570000",
+      "33141640",
+      "34928200",
+      "34928210",
+      "34928220",
+      "35120000",
+      "35121700",
+      "35123000",
+      "35125300",
+      "41110000",
+      "44112400",
+      "44163110",
+      "44163111",
+      "44163112",
+      "44220000",
+      "44221300",
+      "44411000",
+      "45111240",
+      "45112000",
+      "45200000",
+      "45210000",
+      "45211310",
+      "45232450",
+      "45232451",
+      "45232452",
+      "45232453",
+      "45247112",
+      "45260000",
+      "45261100",
+      "45261200",
+      "45261210",
+      "45261211",
+      "45261212",
+      "45261300",
+      "45261410",
+      "45261900",
+      "45261910",
+      "45261920",
+      "45262300",
+      "45262330",
+      "45262500",
+      "45262511",
+      "45262520",
+      "45262522",
+      "45262690",
+      "45310000",
+      "45311000",
+      "45311100",
+      "45311200",
+      "45312000",
+      "45312100",
+      "45312200",
+      "45312300",
+      "45316000",
+      "45316100",
+      "45317000",
+      "45330000",
+      "45332000",
+      "45332200",
+      "45332300",
+      "45332400",
+      "45340000",
+      "45342000",
+      "45400000",
+      "45410000",
+      "45420000",
+      "45421000",
+      "45421111",
+      "45421112",
+      "45421130",
+      "45421131",
+      "45421132",
+      "45421141",
+      "45421148",
+      "45421151",
+      "45421152",
+      "45421153",
+      "45421160",
+      "45422000",
+      "45422100",
+      "45432110",
+      "45432113",
+      "45432114",
+      "45440000",
+      "45450000",
+      "45453000",
+      "45453100",
+      "50610000",
+      "50700000",
+      "50710000",
+      "50711000",
+      "50720000",
+      "50721000",
+      "64200000",
+      "65130000",
+      "71314100",
+      "71630000",
+      "90400000",
+      "90470000",
+      "90480000",
+      "90640000",
+      "90641000"
+    ],
+    "status": "active",
+    "relevance": 30,
+    "matched": [
+      "CPV 32550000",
+      "CPV 32570000"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565666",
+    "fetched_at": "2026-10-07T22:58:13.582592Z"
+  },
+  {
     "key": "eTenders Ireland / TED:692747-2026",
     "id": "692747-2026",
     "ocid": null,
@@ -13688,7 +13082,7 @@
       "CPV 72413000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/692747-2026",
-    "fetched_at": "2026-10-07T11:39:38.437145Z"
+    "fetched_at": "2026-10-07T22:58:14.844760Z"
   },
   {
     "key": "Public Contracts Scotland:rls-2-SEP564728",
@@ -14073,7 +13467,7 @@
       "CPV 72250000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/687343-2026",
-    "fetched_at": "2026-10-07T11:39:46.555948Z"
+    "fetched_at": "2026-10-07T22:58:22.972501Z"
   },
   {
     "key": "Public Contracts Scotland:rls-1-SEP564850",
@@ -16237,6 +15631,30 @@
     "fetched_at": "2026-10-07T11:39:36.758404Z"
   },
   {
+    "key": "Public Contracts Scotland:rls-23-OCT565724",
+    "id": "rls-23-OCT565724",
+    "ocid": "ocds-r6ebe6-0000844457",
+    "title": "Provision of an Emergency Communication Platform and Associated Hardware.",
+    "buyer": "UHI Moray",
+    "description": "UHI Moray and UHI North, West and Hebrides are undertaking a joint procurement exercise for the Provision of an Emergency Communication Platform and Associated Hardware.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-01T00:00:00Z",
+    "deadline": "2026-10-22T09:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "32412000"
+    ],
+    "status": "active",
+    "relevance": 25,
+    "matched": [
+      "CPV 32412000"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565724",
+    "fetched_at": "2026-10-07T22:58:13.582175Z"
+  },
+  {
     "key": "Find a Tender:093954-2026",
     "id": "093954-2026",
     "ocid": "ocds-h6vhtk-078109",
@@ -16258,7 +15676,7 @@
       "CPV 48422000"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/093954-2026",
-    "fetched_at": "2026-10-07T11:38:43.186037Z"
+    "fetched_at": "2026-10-07T22:57:23.959081Z"
   },
   {
     "key": "Public Contracts Scotland:rls-1-OCT565959",
@@ -16331,6 +15749,30 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565959",
     "fetched_at": "2026-10-07T11:39:25.556852Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-4-OCT565959",
+    "id": "rls-4-OCT565959",
+    "ocid": "ocds-r6ebe6-0000844805",
+    "title": "Asset Tracking System",
+    "buyer": "NHS Borders",
+    "description": "NHS Borders is seeking competitive tenders from suitably experienced suppliers for an asset tracking system. The requirement supports a programme to improve the control, traceability and efficient management of clinical and selected non-clinical equipment, replacing fragmented manual records with sustainable digital tracking and reporting.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-05T00:00:00Z",
+    "deadline": "2026-11-16T12:00:00Z",
+    "value": 116000.0,
+    "currency": "GBP",
+    "cpv": [
+      "48422000"
+    ],
+    "status": "active",
+    "relevance": 25,
+    "matched": [
+      "CPV 48422000"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565959",
+    "fetched_at": "2026-10-07T22:58:04.453018Z"
   },
   {
     "key": "Find a Tender:092274-2026",
@@ -17091,5 +16533,54 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565847",
     "fetched_at": "2026-10-07T11:39:36.758058Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-15-OCT565862",
+    "id": "rls-15-OCT565862",
+    "ocid": "ocds-r6ebe6-0000844215",
+    "title": "In-House Design Support and Development",
+    "buyer": "CalMac Ferries Limited",
+    "description": "CFLâ¯requiresâ¯a partner with proven experience in: - Working with client in-house design resource to develop and plan impactful ideas and concepts. - Working with client in-house marketing team to develop appropriate multichannel campaigns and content. - Working with key third parties, including media buyer, film production company, marcomms agency, in-house Insight and Digital teams, brand partners, social media influencers, and content creators. The partner willâ¯be requiredâ¯to work on a variety of projects throughout the year for assets used across the website, social media, paid media and more, however exact projects are yet to beâ¯determined, and, in most cases, direction is already determined.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-02T00:00:00Z",
+    "deadline": "2026-11-02T12:00:00Z",
+    "value": 150000.0,
+    "currency": "GBP",
+    "cpv": [
+      "79933000"
+    ],
+    "status": "active",
+    "relevance": 13,
+    "matched": [
+      "website"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565862",
+    "fetched_at": "2026-10-07T22:58:13.581628Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-17-OCT565847",
+    "id": "rls-17-OCT565847",
+    "ocid": "ocds-r6ebe6-0000844675",
+    "title": "Environmental Monitoring System for Collections",
+    "buyer": "National Museums Scotland",
+    "description": "The National Museums Scotland (NMS) wishes to engage a contractor (âContractorâ) to provide an environmental monitoring system. NMS is seeking a suitably qualified Contractor to provide an environmental monitoring system which will replace the current system. The Contractor should have experience in supplying and installing necessary hardware and software to facilitate the implementation of an environmental monitoring system, whilst providing ongoing maintenance and technical support when required.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-02T00:00:00Z",
+    "deadline": "2026-11-02T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "92521000",
+      "92521200"
+    ],
+    "status": "active",
+    "relevance": 13,
+    "matched": [
+      "software"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565847",
+    "fetched_at": "2026-10-07T22:58:13.581821Z"
   }
 ]
