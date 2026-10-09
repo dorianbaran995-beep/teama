@@ -38,7 +38,7 @@
       "website"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/696163-2026",
-    "fetched_at": "2026-10-09T11:45:58.548743Z"
+    "fetched_at": "2026-10-09T22:30:40.296828Z"
   },
   {
     "key": "Find a Tender:095000-2026",
@@ -71,7 +71,7 @@
       "network"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/095000-2026",
-    "fetched_at": "2026-10-09T11:45:16.249471Z"
+    "fetched_at": "2026-10-09T22:29:53.443083Z"
   },
   {
     "key": "Public Contracts Scotland:rls-23-SEP564950",
@@ -2080,7 +2080,7 @@
       "support and maintenance"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/684805-2026",
-    "fetched_at": "2026-10-09T11:45:58.561934Z"
+    "fetched_at": "2026-10-09T22:30:40.304444Z"
   },
   {
     "key": "eTenders Ireland / TED:695163-2026",
@@ -2132,7 +2132,7 @@
       "web application"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/695163-2026",
-    "fetched_at": "2026-10-09T11:45:58.549101Z"
+    "fetched_at": "2026-10-09T22:30:40.296943Z"
   },
   {
     "key": "Poland / TED:666193-2026",
@@ -2223,7 +2223,7 @@
       "informatyczne"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/686798-2026",
-    "fetched_at": "2026-10-09T11:46:18.983451Z"
+    "fetched_at": "2026-10-09T22:30:59.130320Z"
   },
   {
     "key": "eTenders Ireland / TED:675053-2026",
@@ -2407,7 +2407,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/686651-2026",
-    "fetched_at": "2026-10-09T11:45:58.557148Z"
+    "fetched_at": "2026-10-09T22:30:40.301752Z"
   },
   {
     "key": "eTenders Ireland / TED:691020-2026",
@@ -2458,7 +2458,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/691020-2026",
-    "fetched_at": "2026-10-09T11:45:58.556678Z"
+    "fetched_at": "2026-10-09T22:30:40.301431Z"
   },
   {
     "key": "eTenders Ireland / TED:687757-2026",
@@ -2493,7 +2493,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/687757-2026",
-    "fetched_at": "2026-10-09T11:45:58.559627Z"
+    "fetched_at": "2026-10-09T22:30:40.303102Z"
   },
   {
     "key": "Find a Tender:087628-2026",
@@ -5316,397 +5316,7 @@
       "support and maintenance"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/690530-2026",
-    "fetched_at": "2026-10-09T11:45:58.556458Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-3-SEP564706",
-    "id": "rls-3-SEP564706",
-    "ocid": "ocds-r6ebe6-0000840811",
-    "title": "Data Governance and Data Intelligence SaaS Platform",
-    "buyer": "Clackmannanshire Council",
-    "description": "A standalone, cloud-based Data Governance and Data Intelligence platform that enables the Council to discover, index, catalogue and classify data held across its systems and data sources. The solution will provide improved visibility and understanding of organisational data, including metadata, data ownership, sensitivity and classification, supporting effective data governance, security, compliance and the responsible use of data.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-17T00:00:00Z",
-    "deadline": "2026-10-09T12:00:00Z",
-    "value": 140000.0,
-    "currency": "GBP",
-    "cpv": [
-      "48613000"
-    ],
-    "status": "active",
-    "relevance": 51,
-    "matched": [
-      "CPV 48613000",
-      "cloud",
-      "saas"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564706",
-    "fetched_at": "2026-09-17T21:12:32.467339Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-4-SEP564706",
-    "id": "rls-4-SEP564706",
-    "ocid": "ocds-r6ebe6-0000840811",
-    "title": "Data Governance and Data Intelligence SaaS Platform",
-    "buyer": "Clackmannanshire Council",
-    "description": "A standalone, cloud-based Data Governance and Data Intelligence platform that enables the Council to discover, index, catalogue and classify data held across its systems and data sources. The solution will provide improved visibility and understanding of organisational data, including metadata, data ownership, sensitivity and classification, supporting effective data governance, security, compliance and the responsible use of data.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-17T00:00:00Z",
-    "deadline": "2026-10-09T12:00:00Z",
-    "value": 140000.0,
-    "currency": "GBP",
-    "cpv": [
-      "48613000"
-    ],
-    "status": "active",
-    "relevance": 51,
-    "matched": [
-      "CPV 48613000",
-      "cloud",
-      "saas"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564706",
-    "fetched_at": "2026-09-18T09:33:50.748384Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-11-SEP564706",
-    "id": "rls-11-SEP564706",
-    "ocid": "ocds-r6ebe6-0000840811",
-    "title": "Data Governance and Data Intelligence SaaS Platform",
-    "buyer": "Clackmannanshire Council",
-    "description": "A standalone, cloud-based Data Governance and Data Intelligence platform that enables the Council to discover, index, catalogue and classify data held across its systems and data sources. The solution will provide improved visibility and understanding of organisational data, including metadata, data ownership, sensitivity and classification, supporting effective data governance, security, compliance and the responsible use of data.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-17T00:00:00Z",
-    "deadline": "2026-10-09T12:00:00Z",
-    "value": 140000.0,
-    "currency": "GBP",
-    "cpv": [
-      "48613000"
-    ],
-    "status": "active",
-    "relevance": 51,
-    "matched": [
-      "CPV 48613000",
-      "cloud",
-      "saas"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564706",
-    "fetched_at": "2026-09-20T20:38:08.097724Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-12-SEP564706",
-    "id": "rls-12-SEP564706",
-    "ocid": "ocds-r6ebe6-0000840811",
-    "title": "Data Governance and Data Intelligence SaaS Platform",
-    "buyer": "Clackmannanshire Council",
-    "description": "A standalone, cloud-based Data Governance and Data Intelligence platform that enables the Council to discover, index, catalogue and classify data held across its systems and data sources. The solution will provide improved visibility and understanding of organisational data, including metadata, data ownership, sensitivity and classification, supporting effective data governance, security, compliance and the responsible use of data.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-17T00:00:00Z",
-    "deadline": "2026-10-09T12:00:00Z",
-    "value": 140000.0,
-    "currency": "GBP",
-    "cpv": [
-      "48613000"
-    ],
-    "status": "active",
-    "relevance": 51,
-    "matched": [
-      "CPV 48613000",
-      "cloud",
-      "saas"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564706",
-    "fetched_at": "2026-09-21T10:35:43.330458Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-16-SEP564706",
-    "id": "rls-16-SEP564706",
-    "ocid": "ocds-r6ebe6-0000840811",
-    "title": "Data Governance and Data Intelligence SaaS Platform",
-    "buyer": "Clackmannanshire Council",
-    "description": "A standalone, cloud-based Data Governance and Data Intelligence platform that enables the Council to discover, index, catalogue and classify data held across its systems and data sources. The solution will provide improved visibility and understanding of organisational data, including metadata, data ownership, sensitivity and classification, supporting effective data governance, security, compliance and the responsible use of data.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-17T00:00:00Z",
-    "deadline": "2026-10-09T12:00:00Z",
-    "value": 140000.0,
-    "currency": "GBP",
-    "cpv": [
-      "48613000"
-    ],
-    "status": "active",
-    "relevance": 51,
-    "matched": [
-      "CPV 48613000",
-      "cloud",
-      "saas"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564706",
-    "fetched_at": "2026-09-22T09:49:31.534629Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-20-SEP564706",
-    "id": "rls-20-SEP564706",
-    "ocid": "ocds-r6ebe6-0000840811",
-    "title": "Data Governance and Data Intelligence SaaS Platform",
-    "buyer": "Clackmannanshire Council",
-    "description": "A standalone, cloud-based Data Governance and Data Intelligence platform that enables the Council to discover, index, catalogue and classify data held across its systems and data sources. The solution will provide improved visibility and understanding of organisational data, including metadata, data ownership, sensitivity and classification, supporting effective data governance, security, compliance and the responsible use of data.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-17T00:00:00Z",
-    "deadline": "2026-10-09T12:00:00Z",
-    "value": 140000.0,
-    "currency": "GBP",
-    "cpv": [
-      "48613000"
-    ],
-    "status": "active",
-    "relevance": 51,
-    "matched": [
-      "CPV 48613000",
-      "cloud",
-      "saas"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564706",
-    "fetched_at": "2026-09-23T09:51:48.935427Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-21-SEP564706",
-    "id": "rls-21-SEP564706",
-    "ocid": "ocds-r6ebe6-0000840811",
-    "title": "Data Governance and Data Intelligence SaaS Platform",
-    "buyer": "Clackmannanshire Council",
-    "description": "A standalone, cloud-based Data Governance and Data Intelligence platform that enables the Council to discover, index, catalogue and classify data held across its systems and data sources. The solution will provide improved visibility and understanding of organisational data, including metadata, data ownership, sensitivity and classification, supporting effective data governance, security, compliance and the responsible use of data.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-17T00:00:00Z",
-    "deadline": "2026-10-09T12:00:00Z",
-    "value": 140000.0,
-    "currency": "GBP",
-    "cpv": [
-      "48613000"
-    ],
-    "status": "active",
-    "relevance": 51,
-    "matched": [
-      "CPV 48613000",
-      "cloud",
-      "saas"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564706",
-    "fetched_at": "2026-09-23T21:23:11.563828Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-22-SEP564706",
-    "id": "rls-22-SEP564706",
-    "ocid": "ocds-r6ebe6-0000840811",
-    "title": "Data Governance and Data Intelligence SaaS Platform",
-    "buyer": "Clackmannanshire Council",
-    "description": "A standalone, cloud-based Data Governance and Data Intelligence platform that enables the Council to discover, index, catalogue and classify data held across its systems and data sources. The solution will provide improved visibility and understanding of organisational data, including metadata, data ownership, sensitivity and classification, supporting effective data governance, security, compliance and the responsible use of data.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-17T00:00:00Z",
-    "deadline": "2026-10-09T12:00:00Z",
-    "value": 140000.0,
-    "currency": "GBP",
-    "cpv": [
-      "48613000"
-    ],
-    "status": "active",
-    "relevance": 51,
-    "matched": [
-      "CPV 48613000",
-      "cloud",
-      "saas"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564706",
-    "fetched_at": "2026-09-24T09:51:15.554382Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-25-SEP564706",
-    "id": "rls-25-SEP564706",
-    "ocid": "ocds-r6ebe6-0000840811",
-    "title": "Data Governance and Data Intelligence SaaS Platform",
-    "buyer": "Clackmannanshire Council",
-    "description": "A standalone, cloud-based Data Governance and Data Intelligence platform that enables the Council to discover, index, catalogue and classify data held across its systems and data sources. The solution will provide improved visibility and understanding of organisational data, including metadata, data ownership, sensitivity and classification, supporting effective data governance, security, compliance and the responsible use of data.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-17T00:00:00Z",
-    "deadline": "2026-10-09T12:00:00Z",
-    "value": 140000.0,
-    "currency": "GBP",
-    "cpv": [
-      "48613000"
-    ],
-    "status": "active",
-    "relevance": 51,
-    "matched": [
-      "CPV 48613000",
-      "cloud",
-      "saas"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564706",
-    "fetched_at": "2026-09-24T21:24:22.980698Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-26-SEP564706",
-    "id": "rls-26-SEP564706",
-    "ocid": "ocds-r6ebe6-0000840811",
-    "title": "Data Governance and Data Intelligence SaaS Platform",
-    "buyer": "Clackmannanshire Council",
-    "description": "A standalone, cloud-based Data Governance and Data Intelligence platform that enables the Council to discover, index, catalogue and classify data held across its systems and data sources. The solution will provide improved visibility and understanding of organisational data, including metadata, data ownership, sensitivity and classification, supporting effective data governance, security, compliance and the responsible use of data.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-17T00:00:00Z",
-    "deadline": "2026-10-09T12:00:00Z",
-    "value": 140000.0,
-    "currency": "GBP",
-    "cpv": [
-      "48613000"
-    ],
-    "status": "active",
-    "relevance": 51,
-    "matched": [
-      "CPV 48613000",
-      "cloud",
-      "saas"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564706",
-    "fetched_at": "2026-09-28T11:36:32.550847Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-29-SEP564706",
-    "id": "rls-29-SEP564706",
-    "ocid": "ocds-r6ebe6-0000840811",
-    "title": "Data Governance and Data Intelligence SaaS Platform",
-    "buyer": "Clackmannanshire Council",
-    "description": "A standalone, cloud-based Data Governance and Data Intelligence platform that enables the Council to discover, index, catalogue and classify data held across its systems and data sources. The solution will provide improved visibility and understanding of organisational data, including metadata, data ownership, sensitivity and classification, supporting effective data governance, security, compliance and the responsible use of data.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-17T00:00:00Z",
-    "deadline": "2026-10-09T12:00:00Z",
-    "value": 140000.0,
-    "currency": "GBP",
-    "cpv": [
-      "48613000"
-    ],
-    "status": "active",
-    "relevance": 51,
-    "matched": [
-      "CPV 48613000",
-      "cloud",
-      "saas"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564706",
-    "fetched_at": "2026-09-28T23:07:59.043371Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-32-SEP564706",
-    "id": "rls-32-SEP564706",
-    "ocid": "ocds-r6ebe6-0000840811",
-    "title": "Data Governance and Data Intelligence SaaS Platform",
-    "buyer": "Clackmannanshire Council",
-    "description": "A standalone, cloud-based Data Governance and Data Intelligence platform that enables the Council to discover, index, catalogue and classify data held across its systems and data sources. The solution will provide improved visibility and understanding of organisational data, including metadata, data ownership, sensitivity and classification, supporting effective data governance, security, compliance and the responsible use of data.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-17T00:00:00Z",
-    "deadline": "2026-10-09T12:00:00Z",
-    "value": 140000.0,
-    "currency": "GBP",
-    "cpv": [
-      "48613000"
-    ],
-    "status": "active",
-    "relevance": 51,
-    "matched": [
-      "CPV 48613000",
-      "cloud",
-      "saas"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564706",
-    "fetched_at": "2026-09-29T11:15:04.728324Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-34-SEP564706",
-    "id": "rls-34-SEP564706",
-    "ocid": "ocds-r6ebe6-0000840811",
-    "title": "Data Governance and Data Intelligence SaaS Platform",
-    "buyer": "Clackmannanshire Council",
-    "description": "A standalone, cloud-based Data Governance and Data Intelligence platform that enables the Council to discover, index, catalogue and classify data held across its systems and data sources. The solution will provide improved visibility and understanding of organisational data, including metadata, data ownership, sensitivity and classification, supporting effective data governance, security, compliance and the responsible use of data.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-17T00:00:00Z",
-    "deadline": "2026-10-09T12:00:00Z",
-    "value": 140000.0,
-    "currency": "GBP",
-    "cpv": [
-      "48613000"
-    ],
-    "status": "active",
-    "relevance": 51,
-    "matched": [
-      "CPV 48613000",
-      "cloud",
-      "saas"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564706",
-    "fetched_at": "2026-09-29T22:07:20.353905Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-35-SEP564706",
-    "id": "rls-35-SEP564706",
-    "ocid": "ocds-r6ebe6-0000840811",
-    "title": "Data Governance and Data Intelligence SaaS Platform",
-    "buyer": "Clackmannanshire Council",
-    "description": "A standalone, cloud-based Data Governance and Data Intelligence platform that enables the Council to discover, index, catalogue and classify data held across its systems and data sources. The solution will provide improved visibility and understanding of organisational data, including metadata, data ownership, sensitivity and classification, supporting effective data governance, security, compliance and the responsible use of data.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-17T00:00:00Z",
-    "deadline": "2026-10-09T12:00:00Z",
-    "value": 140000.0,
-    "currency": "GBP",
-    "cpv": [
-      "48613000"
-    ],
-    "status": "active",
-    "relevance": 51,
-    "matched": [
-      "CPV 48613000",
-      "cloud",
-      "saas"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564706",
-    "fetched_at": "2026-09-30T11:03:11.947515Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-36-SEP564706",
-    "id": "rls-36-SEP564706",
-    "ocid": "ocds-r6ebe6-0000840811",
-    "title": "Data Governance and Data Intelligence SaaS Platform",
-    "buyer": "Clackmannanshire Council",
-    "description": "A standalone, cloud-based Data Governance and Data Intelligence platform that enables the Council to discover, index, catalogue and classify data held across its systems and data sources. The solution will provide improved visibility and understanding of organisational data, including metadata, data ownership, sensitivity and classification, supporting effective data governance, security, compliance and the responsible use of data.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-17T00:00:00Z",
-    "deadline": "2026-10-09T12:00:00Z",
-    "value": 140000.0,
-    "currency": "GBP",
-    "cpv": [
-      "48613000"
-    ],
-    "status": "active",
-    "relevance": 51,
-    "matched": [
-      "CPV 48613000",
-      "cloud",
-      "saas"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564706",
-    "fetched_at": "2026-09-30T22:06:50.796139Z"
+    "fetched_at": "2026-10-09T22:30:40.301302Z"
   },
   {
     "key": "eTenders Ireland / TED:647203-2026",
@@ -8003,7 +7613,7 @@
       "CPV 72260000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/684659-2026",
-    "fetched_at": "2026-10-09T11:46:20.111220Z"
+    "fetched_at": "2026-10-09T22:31:00.204176Z"
   },
   {
     "key": "eTenders Ireland / TED:676358-2026",
@@ -8114,7 +7724,7 @@
       "CPV 48000000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/682322-2026",
-    "fetched_at": "2026-10-09T11:45:58.562421Z"
+    "fetched_at": "2026-10-09T22:30:40.304714Z"
   },
   {
     "key": "Find a Tender:091992-2026",
@@ -8380,7 +7990,7 @@
       "CPV 30199500"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/694051-2026",
-    "fetched_at": "2026-10-09T11:45:58.550310Z"
+    "fetched_at": "2026-10-09T22:30:40.297632Z"
   },
   {
     "key": "eTenders Ireland / TED:687062-2026",
@@ -8418,7 +8028,7 @@
       "CPV 72224000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/687062-2026",
-    "fetched_at": "2026-10-09T11:45:58.557582Z"
+    "fetched_at": "2026-10-09T22:30:40.301874Z"
   },
   {
     "key": "Poland / TED:698698-2026",
@@ -8448,34 +8058,7 @@
       "CPV 32523000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/698698-2026",
-    "fetched_at": "2026-10-09T11:46:02.894698Z"
-  },
-  {
-    "key": "Find a Tender:085492-2026",
-    "id": "085492-2026",
-    "ocid": "ocds-h6vhtk-06f5e2",
-    "title": "CAWT PEACEPLUS - Replacement of Virtual Recovery College Learning Management System for Mental Health Education",
-    "buyer": "Regional Business Services Organisation, Procurement and Logistics Service",
-    "description": "Co-operation and Working Together (CAWT) comprises the Northern Ireland (NI) Strategic Planning and Performance Group (SPPG), the NI Public Health Agency (PHA), the Western Health and Social Care Trust (WHSCT), the Southern Health and Social Care Trust (SHSCT) and the Health Services Executive (HSE) in the Republic of Ireland. The CAWT Community Connections and Wellbeing Project Board has a requirement for an off the shelf Learning Management System (LMS) for community learning and specifically for people living with mental health conditions, their carers as well as Health and Social Care staff, including the development of bespoke learning content. Please refer to the full suite of tender documents for further information on the service requirements. This tender has been published on the eTendersNI.gov.uk website, and all tender documentation is available at the following link: https://etendersni.gov.uk/epps/cft/prepareViewCfTWS.do?resourceId=6374846",
-    "source": "Find a Tender",
-    "country": "United Kingdom",
-    "published_at": "2026-09-09T14:46:42Z",
-    "deadline": "2026-10-09T14:00:00Z",
-    "value": 243478.0,
-    "currency": "GBP",
-    "cpv": [
-      "72268000",
-      "80000000",
-      "85000000"
-    ],
-    "status": "active",
-    "relevance": 38,
-    "matched": [
-      "CPV 72268000",
-      "website"
-    ],
-    "url": "https://www.find-tender.service.gov.uk/Notice/085492-2026",
-    "fetched_at": "2026-09-12T09:08:59.392515Z"
+    "fetched_at": "2026-10-09T22:30:42.179415Z"
   },
   {
     "key": "Find a Tender:086272-2026",
@@ -9300,6 +8883,32 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565958",
     "fetched_at": "2026-10-09T11:45:50.521631Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-15-OCT565958",
+    "id": "rls-15-OCT565958",
+    "ocid": "ocds-r6ebe6-0000844721",
+    "title": "C002187 Framework Agreement for the provision of a Learning Management System",
+    "buyer": "The Common Services Agency (more commonly known as Public Services Delivery Scotland) (PSD Scotland)",
+    "description": "Public Services Delivery Scotland (PSD Scotland) is delivering the Digital Learning Infrastructure (DLI) Programme, a national transformation programme to establish a modern, scalable, interoperable and sustainable digital learning ecosystem for Scotlandâs health and social care workforce. The programme responds to a fragmented learning technology landscape across public, private, voluntary and not-for-profit provision, where multiple local learning management systems, duplicated content, variable user experiences and inconsistent data quality limit workforce mobility, planning and system-wide efficiency.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-05T00:00:00Z",
+    "deadline": "2026-11-25T13:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "72212190"
+    ],
+    "status": "active",
+    "relevance": 37,
+    "matched": [
+      "CPV 72212190",
+      "infrastructure",
+      "user experience"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565958",
+    "fetched_at": "2026-10-09T22:30:30.888122Z"
   },
   {
     "key": "Find a Tender:084917-2026",
@@ -11627,6 +11236,32 @@
     "fetched_at": "2026-10-09T11:45:50.521784Z"
   },
   {
+    "key": "Public Contracts Scotland:rls-16-OCT565941",
+    "id": "rls-16-OCT565941",
+    "ocid": "ocds-r6ebe6-0000844772",
+    "title": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP)",
+    "buyer": "University of Glasgow",
+    "description": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP) Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the âContact Usâ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-05T00:00:00Z",
+    "deadline": "2026-11-05T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "80500000"
+    ],
+    "status": "active",
+    "relevance": 32,
+    "matched": [
+      "portal",
+      "website",
+      "website support"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565941",
+    "fetched_at": "2026-10-09T22:30:30.888230Z"
+  },
+  {
     "key": "eTenders Ireland / TED:684803-2026",
     "id": "684803-2026",
     "ocid": null,
@@ -11655,7 +11290,7 @@
       "CPV 72263000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/684803-2026",
-    "fetched_at": "2026-10-09T11:45:58.563305Z"
+    "fetched_at": "2026-10-09T22:30:40.305208Z"
   },
   {
     "key": "eTenders Ireland / TED:639562-2026",
@@ -11934,7 +11569,7 @@
       "CPV 30199500"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/700218-2026",
-    "fetched_at": "2026-10-09T11:45:58.548578Z"
+    "fetched_at": "2026-10-09T22:30:40.296729Z"
   },
   {
     "key": "eTenders Ireland / TED:695714-2026",
@@ -11969,7 +11604,7 @@
       "CPV 72221000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/695714-2026",
-    "fetched_at": "2026-10-09T11:45:58.550940Z"
+    "fetched_at": "2026-10-09T22:30:40.298010Z"
   },
   {
     "key": "Public Contracts Scotland:rls-1-OCT565666",
@@ -13544,6 +13179,137 @@
     "fetched_at": "2026-10-09T11:45:57.348960Z"
   },
   {
+    "key": "Public Contracts Scotland:rls-38-OCT565666",
+    "id": "rls-38-OCT565666",
+    "ocid": "ocds-r6ebe6-0000843221",
+    "title": "General Building and Repair Works Framework",
+    "buyer": "North Ayrshire Council",
+    "description": "North Ayrshire Council (NAC) invites tenders for the provision of a General Building and Repair Works Framework. The framework will be split into 10 Lots: Lot 1 â Joinery Lot 2 - Door Entry Lot 3 â Electrical Lot 4 â Plumbing Lot 5 â Drainage Lot 6 â Plastering Lot 7 â Building Lot 8 â Roofing Lot 9 - Timber and Dampness Lot 10 â Fencing Bidders may submit tenders for a single Lot or multiple Lots. The framework will be ranked, and it is anticipated that up to 5 contractors will be appointed to each Lot. Notwithstanding this, NAC reserves the right to appoint a greater number of contractors to any Lot at its sole discretion, where it deems this appropriate and beneficial to the operation of the framework. There are no guaranteed volumes of business.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-01T00:00:00Z",
+    "deadline": "2026-10-29T12:00:00Z",
+    "value": 3960000.0,
+    "currency": "GBP",
+    "cpv": [
+      "03419000",
+      "03419100",
+      "31500000",
+      "31625100",
+      "32550000",
+      "32570000",
+      "33141640",
+      "34928200",
+      "34928210",
+      "34928220",
+      "35120000",
+      "35121700",
+      "35123000",
+      "35125300",
+      "41110000",
+      "44112400",
+      "44163110",
+      "44163111",
+      "44163112",
+      "44220000",
+      "44221300",
+      "44411000",
+      "45111240",
+      "45112000",
+      "45200000",
+      "45210000",
+      "45211310",
+      "45232450",
+      "45232451",
+      "45232452",
+      "45232453",
+      "45247112",
+      "45260000",
+      "45261100",
+      "45261200",
+      "45261210",
+      "45261211",
+      "45261212",
+      "45261300",
+      "45261410",
+      "45261900",
+      "45261910",
+      "45261920",
+      "45262300",
+      "45262330",
+      "45262500",
+      "45262511",
+      "45262520",
+      "45262522",
+      "45262690",
+      "45310000",
+      "45311000",
+      "45311100",
+      "45311200",
+      "45312000",
+      "45312100",
+      "45312200",
+      "45312300",
+      "45316000",
+      "45316100",
+      "45317000",
+      "45330000",
+      "45332000",
+      "45332200",
+      "45332300",
+      "45332400",
+      "45340000",
+      "45342000",
+      "45400000",
+      "45410000",
+      "45420000",
+      "45421000",
+      "45421111",
+      "45421112",
+      "45421130",
+      "45421131",
+      "45421132",
+      "45421141",
+      "45421148",
+      "45421151",
+      "45421152",
+      "45421153",
+      "45421160",
+      "45422000",
+      "45422100",
+      "45432110",
+      "45432113",
+      "45432114",
+      "45440000",
+      "45450000",
+      "45453000",
+      "45453100",
+      "50610000",
+      "50700000",
+      "50710000",
+      "50711000",
+      "50720000",
+      "50721000",
+      "64200000",
+      "65130000",
+      "71314100",
+      "71630000",
+      "90400000",
+      "90470000",
+      "90480000",
+      "90640000",
+      "90641000"
+    ],
+    "status": "active",
+    "relevance": 30,
+    "matched": [
+      "CPV 32550000",
+      "CPV 32570000"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565666",
+    "fetched_at": "2026-10-09T22:30:38.268151Z"
+  },
+  {
     "key": "eTenders Ireland / TED:692747-2026",
     "id": "692747-2026",
     "ocid": null,
@@ -13566,7 +13332,7 @@
       "CPV 72413000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/692747-2026",
-    "fetched_at": "2026-10-09T11:45:58.556025Z"
+    "fetched_at": "2026-10-09T22:30:40.301029Z"
   },
   {
     "key": "Public Contracts Scotland:rls-2-SEP564728",
@@ -13951,7 +13717,7 @@
       "CPV 72250000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/687343-2026",
-    "fetched_at": "2026-10-09T11:46:16.720134Z"
+    "fetched_at": "2026-10-09T22:30:55.985701Z"
   },
   {
     "key": "Public Contracts Scotland:rls-1-SEP564850",
@@ -16211,6 +15977,30 @@
     "fetched_at": "2026-10-09T11:45:57.348539Z"
   },
   {
+    "key": "Public Contracts Scotland:rls-37-OCT565724",
+    "id": "rls-37-OCT565724",
+    "ocid": "ocds-r6ebe6-0000844457",
+    "title": "Provision of an Emergency Communication Platform and Associated Hardware.",
+    "buyer": "UHI Moray",
+    "description": "UHI Moray and UHI North, West and Hebrides are undertaking a joint procurement exercise for the Provision of an Emergency Communication Platform and Associated Hardware.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-01T00:00:00Z",
+    "deadline": "2026-10-22T09:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "32412000"
+    ],
+    "status": "active",
+    "relevance": 25,
+    "matched": [
+      "CPV 32412000"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565724",
+    "fetched_at": "2026-10-09T22:30:38.267894Z"
+  },
+  {
     "key": "Find a Tender:093954-2026",
     "id": "093954-2026",
     "ocid": "ocds-h6vhtk-078109",
@@ -16401,6 +16191,30 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565959",
     "fetched_at": "2026-10-09T11:45:50.521490Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-14-OCT565959",
+    "id": "rls-14-OCT565959",
+    "ocid": "ocds-r6ebe6-0000844805",
+    "title": "Asset Tracking System",
+    "buyer": "NHS Borders",
+    "description": "NHS Borders is seeking competitive tenders from suitably experienced suppliers for an asset tracking system. The requirement supports a programme to improve the control, traceability and efficient management of clinical and selected non-clinical equipment, replacing fragmented manual records with sustainable digital tracking and reporting.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-05T00:00:00Z",
+    "deadline": "2026-11-16T12:00:00Z",
+    "value": 116000.0,
+    "currency": "GBP",
+    "cpv": [
+      "48422000"
+    ],
+    "status": "active",
+    "relevance": 25,
+    "matched": [
+      "CPV 48422000"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565959",
+    "fetched_at": "2026-10-09T22:30:30.888027Z"
   },
   {
     "key": "Find a Tender:092274-2026",
@@ -17357,5 +17171,54 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565847",
     "fetched_at": "2026-10-09T11:45:57.348207Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-29-OCT565862",
+    "id": "rls-29-OCT565862",
+    "ocid": "ocds-r6ebe6-0000844215",
+    "title": "In-House Design Support and Development",
+    "buyer": "CalMac Ferries Limited",
+    "description": "CFLâ¯requiresâ¯a partner with proven experience in: - Working with client in-house design resource to develop and plan impactful ideas and concepts. - Working with client in-house marketing team to develop appropriate multichannel campaigns and content. - Working with key third parties, including media buyer, film production company, marcomms agency, in-house Insight and Digital teams, brand partners, social media influencers, and content creators. The partner willâ¯be requiredâ¯to work on a variety of projects throughout the year for assets used across the website, social media, paid media and more, however exact projects are yet to beâ¯determined, and, in most cases, direction is already determined.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-02T00:00:00Z",
+    "deadline": "2026-11-02T12:00:00Z",
+    "value": 150000.0,
+    "currency": "GBP",
+    "cpv": [
+      "79933000"
+    ],
+    "status": "active",
+    "relevance": 13,
+    "matched": [
+      "website"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565862",
+    "fetched_at": "2026-10-09T22:30:38.267548Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-31-OCT565847",
+    "id": "rls-31-OCT565847",
+    "ocid": "ocds-r6ebe6-0000844675",
+    "title": "Environmental Monitoring System for Collections",
+    "buyer": "National Museums Scotland",
+    "description": "The National Museums Scotland (NMS) wishes to engage a contractor (âContractorâ) to provide an environmental monitoring system. NMS is seeking a suitably qualified Contractor to provide an environmental monitoring system which will replace the current system. The Contractor should have experience in supplying and installing necessary hardware and software to facilitate the implementation of an environmental monitoring system, whilst providing ongoing maintenance and technical support when required.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-02T00:00:00Z",
+    "deadline": "2026-11-02T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "92521000",
+      "92521200"
+    ],
+    "status": "active",
+    "relevance": 13,
+    "matched": [
+      "software"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565847",
+    "fetched_at": "2026-10-09T22:30:38.267667Z"
   }
 ]
