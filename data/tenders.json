@@ -38,40 +38,7 @@
       "website"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/696163-2026",
-    "fetched_at": "2026-10-10T21:27:32.843184Z"
-  },
-  {
-    "key": "Find a Tender:095000-2026",
-    "id": "095000-2026",
-    "ocid": "ocds-h6vhtk-07834a",
-    "title": "Provision of Motor Control Centres, Systems Integration and ICA Services",
-    "buyer": "Scottish Water",
-    "description": "Scottish Water is seeking to establish a multi-supplier Framework Agreement for the provision of Motor Control Centres (MCCs), Instrumentation, Control and Automation (ICA), Systems Integration (SI) and ICA maintenance and support services. The Framework will provide a flexible, scalable and resilient route to market for electrical, control, automation and Operational Technology (OT) requirements across Scottish Water's water and wastewater assets, supporting capital delivery, asset renewal and operational requirements.<br/><br/>The Framework will be divided into three Lots, with multiple suppliers appointed to each Lot: Lot 1 – Integrated MCC, ICA and Systems Integration; Lot 2 – Systems Integration and Automation Services; and Lot 3 – ICA Maintenance, Minor Works and Support. Suppliers may apply for one, several or all Lots. Depending on the nature, value, complexity and risk of each requirement, call-offs may be for fully integrated end-to-end solutions, standalone equipment supply or discrete specialist services. The Framework will be available for use by Scottish Water and its appointed Delivery Vehicles. <br/><br/>Call-off contracts may be awarded by direct award or by mini-competition between the suppliers appointed to the relevant Lot(s), in accordance with the Framework Agreement. Scottish Water gives no guarantee of the volume or value of work to be called off under the Framework or any Lot. The estimated value stated in the Contract Notice is the maximum anticipated value over the full Framework term and is indicative only.<br/><br/>The Framework will be based on NEC4 terms. Call-off contracts may be placed under the NEC4 Professional Service Short Contract, the NEC4 Engineering and Construction Short Contract or Scottish Water Purchase Order Conditions, as appropriate to the requirement and Lot being engaged.<br/><br/>Suppliers must maintain all relevant certifications, standards and regulatory compliance throughout the Framework term. MCC assemblies must comply with the current edition of the BS EN IEC 61439 series, including Parts 1 and 2. As a designated Operator of Essential Services, Scottish Water will require suppliers to support its obligations under the Network and Information Systems (NIS) Regulations, including secure-by-design engineering, OT cyber security controls, vulnerability management, personnel assurance and cyber assurance ac",
-    "source": "Find a Tender",
-    "country": "United Kingdom",
-    "published_at": "2026-10-08T07:45:17Z",
-    "deadline": "2026-11-09T12:00:00Z",
-    "value": 140000000.0,
-    "currency": "GBP",
-    "cpv": [
-      "31211110",
-      "45310000",
-      "50530000",
-      "50532400",
-      "72212150"
-    ],
-    "status": "active",
-    "relevance": 62,
-    "matched": [
-      "CPV 72212150",
-      "automation",
-      "cyber security",
-      "infrastructure",
-      "integration",
-      "network"
-    ],
-    "url": "https://www.find-tender.service.gov.uk/Notice/095000-2026",
-    "fetched_at": "2026-10-10T21:26:55.367808Z"
+    "fetched_at": "2026-10-11T11:20:56.951664Z"
   },
   {
     "key": "Public Contracts Scotland:rls-23-SEP564950",
@@ -2080,7 +2047,7 @@
       "support and maintenance"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/684805-2026",
-    "fetched_at": "2026-10-10T21:27:32.856087Z"
+    "fetched_at": "2026-10-11T11:20:56.965226Z"
   },
   {
     "key": "eTenders Ireland / TED:695163-2026",
@@ -2132,7 +2099,40 @@
       "web application"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/695163-2026",
-    "fetched_at": "2026-10-10T21:27:32.843388Z"
+    "fetched_at": "2026-10-11T11:20:56.951873Z"
+  },
+  {
+    "key": "Find a Tender:095000-2026",
+    "id": "095000-2026",
+    "ocid": "ocds-h6vhtk-07834a",
+    "title": "Provision of Motor Control Centres, Systems Integration and ICA Services",
+    "buyer": "Scottish Water",
+    "description": "Scottish Water is seeking to establish a multi-supplier Framework Agreement for the provision of Motor Control Centres (MCCs), Instrumentation, Control and Automation (ICA), Systems Integration (SI) and ICA maintenance and support services. The Framework will provide a flexible, scalable and resilient route to market for electrical, control, automation and Operational Technology (OT) requirements across Scottish Water's water and wastewater assets, supporting capital delivery, asset renewal and operational requirements.<br/><br/>The Framework will be divided into three Lots, with multiple suppliers appointed to each Lot: Lot 1 – Integrated MCC, ICA and Systems Integration; Lot 2 – Systems Integration and Automation Services; and Lot 3 – ICA Maintenance, Minor Works and Support. Suppliers may apply for one, several or all Lots. Depending on the nature, value, complexity and risk of each requirement, call-offs may be for fully integrated end-to-end solutions, standalone equipment supply or discrete specialist services. The Framework will be available for use by Scottish Water and its appointed Delivery Vehicles. <br/><br/>Call-off contracts may be awarded by direct award or by mini-competition between the suppliers appointed to the relevant Lot(s), in accordance with the Framework Agreement. Scottish Water gives no guarantee of the volume or value of work to be called off under the Framework or any Lot. The estimated value stated in the Contract Notice is the maximum anticipated value over the full Framework term and is indicative only.<br/><br/>The Framework will be based on NEC4 terms. Call-off contracts may be placed under the NEC4 Professional Service Short Contract, the NEC4 Engineering and Construction Short Contract or Scottish Water Purchase Order Conditions, as appropriate to the requirement and Lot being engaged.<br/><br/>Suppliers must maintain all relevant certifications, standards and regulatory compliance throughout the Framework term. MCC assemblies must comply with the current edition of the BS EN IEC 61439 series, including Parts 1 and 2. As a designated Operator of Essential Services, Scottish Water will require suppliers to support its obligations under the Network and Information Systems (NIS) Regulations, including secure-by-design engineering, OT cyber security controls, vulnerability management, personnel assurance and cyber assurance ac",
+    "source": "Find a Tender",
+    "country": "United Kingdom",
+    "published_at": "2026-10-08T07:45:17Z",
+    "deadline": "2026-11-09T12:00:00Z",
+    "value": 140000000.0,
+    "currency": "GBP",
+    "cpv": [
+      "31211110",
+      "45310000",
+      "50530000",
+      "50532400",
+      "72212150"
+    ],
+    "status": "active",
+    "relevance": 62,
+    "matched": [
+      "CPV 72212150",
+      "automation",
+      "cyber security",
+      "infrastructure",
+      "integration",
+      "network"
+    ],
+    "url": "https://www.find-tender.service.gov.uk/Notice/095000-2026",
+    "fetched_at": "2026-10-10T21:26:55.367808Z"
   },
   {
     "key": "Poland / TED:666193-2026",
@@ -2223,7 +2223,7 @@
       "informatyczne"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/686798-2026",
-    "fetched_at": "2026-10-10T21:27:53.123676Z"
+    "fetched_at": "2026-10-11T11:21:12.097570Z"
   },
   {
     "key": "eTenders Ireland / TED:675053-2026",
@@ -2407,7 +2407,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/686651-2026",
-    "fetched_at": "2026-10-10T21:27:32.851599Z"
+    "fetched_at": "2026-10-11T11:20:56.960759Z"
   },
   {
     "key": "eTenders Ireland / TED:691020-2026",
@@ -2458,7 +2458,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/691020-2026",
-    "fetched_at": "2026-10-10T21:27:32.850819Z"
+    "fetched_at": "2026-10-11T11:20:56.959988Z"
   },
   {
     "key": "eTenders Ireland / TED:687757-2026",
@@ -2493,7 +2493,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/687757-2026",
-    "fetched_at": "2026-10-10T21:27:32.853304Z"
+    "fetched_at": "2026-10-11T11:20:56.962220Z"
   },
   {
     "key": "Find a Tender:087628-2026",
@@ -5316,7 +5316,7 @@
       "support and maintenance"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/690530-2026",
-    "fetched_at": "2026-10-10T21:27:32.850571Z"
+    "fetched_at": "2026-10-11T11:20:56.959785Z"
   },
   {
     "key": "eTenders Ireland / TED:647203-2026",
@@ -7613,7 +7613,7 @@
       "CPV 72260000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/684659-2026",
-    "fetched_at": "2026-10-10T21:27:54.641627Z"
+    "fetched_at": "2026-10-11T11:21:14.181581Z"
   },
   {
     "key": "eTenders Ireland / TED:676358-2026",
@@ -7724,7 +7724,7 @@
       "CPV 48000000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/682322-2026",
-    "fetched_at": "2026-10-10T21:27:32.856887Z"
+    "fetched_at": "2026-10-11T11:20:56.966020Z"
   },
   {
     "key": "Find a Tender:091992-2026",
@@ -7990,7 +7990,7 @@
       "CPV 30199500"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/694051-2026",
-    "fetched_at": "2026-10-10T21:27:32.845645Z"
+    "fetched_at": "2026-10-11T11:20:56.955311Z"
   },
   {
     "key": "eTenders Ireland / TED:687062-2026",
@@ -8028,7 +8028,7 @@
       "CPV 72224000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/687062-2026",
-    "fetched_at": "2026-10-10T21:27:32.851820Z"
+    "fetched_at": "2026-10-11T11:20:56.960965Z"
   },
   {
     "key": "Poland / TED:698698-2026",
@@ -8058,7 +8058,7 @@
       "CPV 32523000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/698698-2026",
-    "fetched_at": "2026-10-10T21:27:35.958592Z"
+    "fetched_at": "2026-10-11T11:20:59.958475Z"
   },
   {
     "key": "Find a Tender:086272-2026",
@@ -8908,7 +8908,7 @@
       "user experience"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565958",
-    "fetched_at": "2026-10-10T21:27:28.243735Z"
+    "fetched_at": "2026-10-11T11:20:39.612162Z"
   },
   {
     "key": "Find a Tender:084917-2026",
@@ -11259,7 +11259,7 @@
       "website support"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565941",
-    "fetched_at": "2026-10-10T21:27:28.243889Z"
+    "fetched_at": "2026-10-11T11:20:39.612322Z"
   },
   {
     "key": "eTenders Ireland / TED:684803-2026",
@@ -11290,7 +11290,7 @@
       "CPV 72263000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/684803-2026",
-    "fetched_at": "2026-10-10T21:27:32.858136Z"
+    "fetched_at": "2026-10-11T11:20:56.967275Z"
   },
   {
     "key": "eTenders Ireland / TED:639562-2026",
@@ -11569,7 +11569,7 @@
       "CPV 30199500"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/700218-2026",
-    "fetched_at": "2026-10-10T21:27:32.842322Z"
+    "fetched_at": "2026-10-11T11:20:56.950545Z"
   },
   {
     "key": "eTenders Ireland / TED:695714-2026",
@@ -11604,7 +11604,7 @@
       "CPV 72221000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/695714-2026",
-    "fetched_at": "2026-10-10T21:27:32.846143Z"
+    "fetched_at": "2026-10-11T11:20:56.953976Z"
   },
   {
     "key": "Public Contracts Scotland:rls-1-OCT565666",
@@ -13307,7 +13307,7 @@
       "CPV 32570000"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565666",
-    "fetched_at": "2026-10-10T21:27:31.892068Z"
+    "fetched_at": "2026-10-11T11:20:56.325280Z"
   },
   {
     "key": "eTenders Ireland / TED:692747-2026",
@@ -13332,7 +13332,7 @@
       "CPV 72413000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/692747-2026",
-    "fetched_at": "2026-10-10T21:27:32.851175Z"
+    "fetched_at": "2026-10-11T11:20:56.960348Z"
   },
   {
     "key": "Public Contracts Scotland:rls-2-SEP564728",
@@ -13717,7 +13717,7 @@
       "CPV 72250000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/687343-2026",
-    "fetched_at": "2026-10-10T21:27:50.509253Z"
+    "fetched_at": "2026-10-11T11:21:10.108290Z"
   },
   {
     "key": "Public Contracts Scotland:rls-1-SEP564850",
@@ -15998,7 +15998,7 @@
       "CPV 32412000"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565724",
-    "fetched_at": "2026-10-10T21:27:31.891647Z"
+    "fetched_at": "2026-10-11T11:20:56.324850Z"
   },
   {
     "key": "Find a Tender:093954-2026",
@@ -16214,7 +16214,7 @@
       "CPV 48422000"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565959",
-    "fetched_at": "2026-10-10T21:27:28.243593Z"
+    "fetched_at": "2026-10-11T11:20:39.612019Z"
   },
   {
     "key": "Find a Tender:092274-2026",
@@ -17194,7 +17194,7 @@
       "website"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565862",
-    "fetched_at": "2026-10-10T21:27:31.891147Z"
+    "fetched_at": "2026-10-11T11:20:56.324342Z"
   },
   {
     "key": "Public Contracts Scotland:rls-31-OCT565847",
@@ -17219,6 +17219,6 @@
       "software"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565847",
-    "fetched_at": "2026-10-10T21:27:31.891315Z"
+    "fetched_at": "2026-10-11T11:20:56.324510Z"
   }
 ]
