@@ -38,7 +38,7 @@
       "website"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/696163-2026",
-    "fetched_at": "2026-10-13T00:27:55.416433Z"
+    "fetched_at": "2026-10-13T12:35:06.038242Z"
   },
   {
     "key": "Public Contracts Scotland:rls-23-SEP564950",
@@ -1269,582 +1269,6 @@
     "fetched_at": "2026-09-20T20:37:55.347737Z"
   },
   {
-    "key": "Find a Tender:087346-2026",
-    "id": "087346-2026",
-    "ocid": "ocds-h6vhtk-069b1f",
-    "title": "Provision of a Complete Network Infrastructure Solution for the Mountain Bike Innovation Centre (MBIC), Innerleithen",
-    "buyer": "South of Scotland Enterprise Agency",
-    "description": "South of Scotland Enterprise (SOSE) seeks a suitably qualified and experienced supplier to review, validate, design, supply, install, configure, test, commission and support a complete ICT and network infrastructure solution for the Mountain Bike Innovation Centre (MBIC), Innerleithen. The contract includes any associated licensing, connectivity, maintenance, managed services and support arrangements required to deliver a fully operational solution. The successful supplier will be responsible for validating requirements and recommending the most appropriate solution to meet MBIC's operational needs.",
-    "source": "Find a Tender",
-    "country": "United Kingdom",
-    "published_at": "2026-09-15T13:15:46Z",
-    "deadline": "2026-10-13T11:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "32412100",
-      "32412110",
-      "32571000"
-    ],
-    "status": "active",
-    "relevance": 66,
-    "matched": [
-      "CPV 32412100",
-      "CPV 32412110",
-      "CPV 32571000",
-      "ict",
-      "infrastructure",
-      "managed service",
-      "network"
-    ],
-    "url": "https://www.find-tender.service.gov.uk/Notice/087346-2026",
-    "fetched_at": "2026-09-18T09:32:43.204054Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-48-SEP564551",
-    "id": "rls-48-SEP564551",
-    "ocid": "ocds-r6ebe6-0000843026",
-    "title": "Provision of a Complete Network Infrastructure Solution for the Mountain Bike Innovation Centre (MBIC), Innerleithen",
-    "buyer": "South of Scotland Enterprise Agency",
-    "description": "South of Scotland Enterprise (SOSE) seeks a suitably qualified and experienced supplier to review, validate, design, supply, install, configure, test, commission and support a complete ICT and network infrastructure solution for the Mountain Bike Innovation Centre (MBIC), Innerleithen. The contract includes any associated licensing, connectivity, maintenance, managed services and support arrangements required to deliver a fully operational solution. The successful supplier will be responsible for validating requirements and recommending the most appropriate solution to meet MBIC's operational needs.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-15T00:00:00Z",
-    "deadline": "2026-10-13T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "32412100",
-      "32412110",
-      "32571000"
-    ],
-    "status": "active",
-    "relevance": 66,
-    "matched": [
-      "CPV 32412100",
-      "CPV 32412110",
-      "CPV 32571000",
-      "ict",
-      "infrastructure",
-      "managed service",
-      "network"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564551",
-    "fetched_at": "2026-09-30T22:06:45.528909Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-43-SEP564551",
-    "id": "rls-43-SEP564551",
-    "ocid": "ocds-r6ebe6-0000843026",
-    "title": "Provision of a Complete Network Infrastructure Solution for the Mountain Bike Innovation Centre (MBIC), Innerleithen",
-    "buyer": "South of Scotland Enterprise Agency",
-    "description": "South of Scotland Enterprise (SOSE) seeks a suitably qualified and experienced supplier to review, validate, design, supply, install, configure, test, commission and support a complete ICT and network infrastructure solution for the Mountain Bike Innovation Centre (MBIC), Innerleithen. The contract includes any associated licensing, connectivity, maintenance, managed services and support arrangements required to deliver a fully operational solution. The successful supplier will be responsible for validating requirements and recommending the most appropriate solution to meet MBIC's operational needs.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-15T00:00:00Z",
-    "deadline": "2026-10-13T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "32412100",
-      "32412110",
-      "32571000"
-    ],
-    "status": "active",
-    "relevance": 66,
-    "matched": [
-      "CPV 32412100",
-      "CPV 32412110",
-      "CPV 32571000",
-      "ict",
-      "infrastructure",
-      "managed service",
-      "network"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564551",
-    "fetched_at": "2026-09-30T11:03:05.369558Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-39-SEP564551",
-    "id": "rls-39-SEP564551",
-    "ocid": "ocds-r6ebe6-0000843026",
-    "title": "Provision of a Complete Network Infrastructure Solution for the Mountain Bike Innovation Centre (MBIC), Innerleithen",
-    "buyer": "South of Scotland Enterprise Agency",
-    "description": "South of Scotland Enterprise (SOSE) seeks a suitably qualified and experienced supplier to review, validate, design, supply, install, configure, test, commission and support a complete ICT and network infrastructure solution for the Mountain Bike Innovation Centre (MBIC), Innerleithen. The contract includes any associated licensing, connectivity, maintenance, managed services and support arrangements required to deliver a fully operational solution. The successful supplier will be responsible for validating requirements and recommending the most appropriate solution to meet MBIC's operational needs.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-15T00:00:00Z",
-    "deadline": "2026-10-13T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "32412100",
-      "32412110",
-      "32571000"
-    ],
-    "status": "active",
-    "relevance": 66,
-    "matched": [
-      "CPV 32412100",
-      "CPV 32412110",
-      "CPV 32571000",
-      "ict",
-      "infrastructure",
-      "managed service",
-      "network"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564551",
-    "fetched_at": "2026-09-29T11:14:53.676101Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-38-SEP564551",
-    "id": "rls-38-SEP564551",
-    "ocid": "ocds-r6ebe6-0000843026",
-    "title": "Provision of a Complete Network Infrastructure Solution for the Mountain Bike Innovation Centre (MBIC), Innerleithen",
-    "buyer": "South of Scotland Enterprise Agency",
-    "description": "South of Scotland Enterprise (SOSE) seeks a suitably qualified and experienced supplier to review, validate, design, supply, install, configure, test, commission and support a complete ICT and network infrastructure solution for the Mountain Bike Innovation Centre (MBIC), Innerleithen. The contract includes any associated licensing, connectivity, maintenance, managed services and support arrangements required to deliver a fully operational solution. The successful supplier will be responsible for validating requirements and recommending the most appropriate solution to meet MBIC's operational needs.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-15T00:00:00Z",
-    "deadline": "2026-10-13T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "32412100",
-      "32412110",
-      "32571000"
-    ],
-    "status": "active",
-    "relevance": 66,
-    "matched": [
-      "CPV 32412100",
-      "CPV 32412110",
-      "CPV 32571000",
-      "ict",
-      "infrastructure",
-      "managed service",
-      "network"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564551",
-    "fetched_at": "2026-09-28T11:36:24.897624Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-37-SEP564551",
-    "id": "rls-37-SEP564551",
-    "ocid": "ocds-r6ebe6-0000843026",
-    "title": "Provision of a Complete Network Infrastructure Solution for the Mountain Bike Innovation Centre (MBIC), Innerleithen",
-    "buyer": "South of Scotland Enterprise Agency",
-    "description": "South of Scotland Enterprise (SOSE) seeks a suitably qualified and experienced supplier to review, validate, design, supply, install, configure, test, commission and support a complete ICT and network infrastructure solution for the Mountain Bike Innovation Centre (MBIC), Innerleithen. The contract includes any associated licensing, connectivity, maintenance, managed services and support arrangements required to deliver a fully operational solution. The successful supplier will be responsible for validating requirements and recommending the most appropriate solution to meet MBIC's operational needs.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-15T00:00:00Z",
-    "deadline": "2026-10-13T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "32412100",
-      "32412110",
-      "32571000"
-    ],
-    "status": "active",
-    "relevance": 66,
-    "matched": [
-      "CPV 32412100",
-      "CPV 32412110",
-      "CPV 32571000",
-      "ict",
-      "infrastructure",
-      "managed service",
-      "network"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564551",
-    "fetched_at": "2026-09-27T21:12:35.833476Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-33-SEP564551",
-    "id": "rls-33-SEP564551",
-    "ocid": "ocds-r6ebe6-0000843026",
-    "title": "Provision of a Complete Network Infrastructure Solution for the Mountain Bike Innovation Centre (MBIC), Innerleithen",
-    "buyer": "South of Scotland Enterprise Agency",
-    "description": "South of Scotland Enterprise (SOSE) seeks a suitably qualified and experienced supplier to review, validate, design, supply, install, configure, test, commission and support a complete ICT and network infrastructure solution for the Mountain Bike Innovation Centre (MBIC), Innerleithen. The contract includes any associated licensing, connectivity, maintenance, managed services and support arrangements required to deliver a fully operational solution. The successful supplier will be responsible for validating requirements and recommending the most appropriate solution to meet MBIC's operational needs.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-15T00:00:00Z",
-    "deadline": "2026-10-13T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "32412100",
-      "32412110",
-      "32571000"
-    ],
-    "status": "active",
-    "relevance": 66,
-    "matched": [
-      "CPV 32412100",
-      "CPV 32412110",
-      "CPV 32571000",
-      "ict",
-      "infrastructure",
-      "managed service",
-      "network"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564551",
-    "fetched_at": "2026-09-25T10:06:20.632760Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-31-SEP564551",
-    "id": "rls-31-SEP564551",
-    "ocid": "ocds-r6ebe6-0000843026",
-    "title": "Provision of a Complete Network Infrastructure Solution for the Mountain Bike Innovation Centre (MBIC), Innerleithen",
-    "buyer": "South of Scotland Enterprise Agency",
-    "description": "South of Scotland Enterprise (SOSE) seeks a suitably qualified and experienced supplier to review, validate, design, supply, install, configure, test, commission and support a complete ICT and network infrastructure solution for the Mountain Bike Innovation Centre (MBIC), Innerleithen. The contract includes any associated licensing, connectivity, maintenance, managed services and support arrangements required to deliver a fully operational solution. The successful supplier will be responsible for validating requirements and recommending the most appropriate solution to meet MBIC's operational needs.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-15T00:00:00Z",
-    "deadline": "2026-10-13T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "32412100",
-      "32412110",
-      "32571000"
-    ],
-    "status": "active",
-    "relevance": 66,
-    "matched": [
-      "CPV 32412100",
-      "CPV 32412110",
-      "CPV 32571000",
-      "ict",
-      "infrastructure",
-      "managed service",
-      "network"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564551",
-    "fetched_at": "2026-09-24T21:24:14.840450Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-30-SEP564551",
-    "id": "rls-30-SEP564551",
-    "ocid": "ocds-r6ebe6-0000843026",
-    "title": "Provision of a Complete Network Infrastructure Solution for the Mountain Bike Innovation Centre (MBIC), Innerleithen",
-    "buyer": "South of Scotland Enterprise Agency",
-    "description": "South of Scotland Enterprise (SOSE) seeks a suitably qualified and experienced supplier to review, validate, design, supply, install, configure, test, commission and support a complete ICT and network infrastructure solution for the Mountain Bike Innovation Centre (MBIC), Innerleithen. The contract includes any associated licensing, connectivity, maintenance, managed services and support arrangements required to deliver a fully operational solution. The successful supplier will be responsible for validating requirements and recommending the most appropriate solution to meet MBIC's operational needs.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-15T00:00:00Z",
-    "deadline": "2026-10-13T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "32412100",
-      "32412110",
-      "32571000"
-    ],
-    "status": "active",
-    "relevance": 66,
-    "matched": [
-      "CPV 32412100",
-      "CPV 32412110",
-      "CPV 32571000",
-      "ict",
-      "infrastructure",
-      "managed service",
-      "network"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564551",
-    "fetched_at": "2026-09-23T21:23:01.524345Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-29-SEP564551",
-    "id": "rls-29-SEP564551",
-    "ocid": "ocds-r6ebe6-0000843026",
-    "title": "Provision of a Complete Network Infrastructure Solution for the Mountain Bike Innovation Centre (MBIC), Innerleithen",
-    "buyer": "South of Scotland Enterprise Agency",
-    "description": "South of Scotland Enterprise (SOSE) seeks a suitably qualified and experienced supplier to review, validate, design, supply, install, configure, test, commission and support a complete ICT and network infrastructure solution for the Mountain Bike Innovation Centre (MBIC), Innerleithen. The contract includes any associated licensing, connectivity, maintenance, managed services and support arrangements required to deliver a fully operational solution. The successful supplier will be responsible for validating requirements and recommending the most appropriate solution to meet MBIC's operational needs.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-15T00:00:00Z",
-    "deadline": "2026-10-13T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "32412100",
-      "32412110",
-      "32571000"
-    ],
-    "status": "active",
-    "relevance": 66,
-    "matched": [
-      "CPV 32412100",
-      "CPV 32412110",
-      "CPV 32571000",
-      "ict",
-      "infrastructure",
-      "managed service",
-      "network"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564551",
-    "fetched_at": "2026-09-23T09:51:37.016629Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-28-SEP564551",
-    "id": "rls-28-SEP564551",
-    "ocid": "ocds-r6ebe6-0000843026",
-    "title": "Provision of a Complete Network Infrastructure Solution for the Mountain Bike Innovation Centre (MBIC), Innerleithen",
-    "buyer": "South of Scotland Enterprise Agency",
-    "description": "South of Scotland Enterprise (SOSE) seeks a suitably qualified and experienced supplier to review, validate, design, supply, install, configure, test, commission and support a complete ICT and network infrastructure solution for the Mountain Bike Innovation Centre (MBIC), Innerleithen. The contract includes any associated licensing, connectivity, maintenance, managed services and support arrangements required to deliver a fully operational solution. The successful supplier will be responsible for validating requirements and recommending the most appropriate solution to meet MBIC's operational needs.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-15T00:00:00Z",
-    "deadline": "2026-10-13T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "32412100",
-      "32412110",
-      "32571000"
-    ],
-    "status": "active",
-    "relevance": 66,
-    "matched": [
-      "CPV 32412100",
-      "CPV 32412110",
-      "CPV 32571000",
-      "ict",
-      "infrastructure",
-      "managed service",
-      "network"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564551",
-    "fetched_at": "2026-09-22T21:09:05.544396Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-26-SEP564551",
-    "id": "rls-26-SEP564551",
-    "ocid": "ocds-r6ebe6-0000843026",
-    "title": "Provision of a Complete Network Infrastructure Solution for the Mountain Bike Innovation Centre (MBIC), Innerleithen",
-    "buyer": "South of Scotland Enterprise Agency",
-    "description": "South of Scotland Enterprise (SOSE) seeks a suitably qualified and experienced supplier to review, validate, design, supply, install, configure, test, commission and support a complete ICT and network infrastructure solution for the Mountain Bike Innovation Centre (MBIC), Innerleithen. The contract includes any associated licensing, connectivity, maintenance, managed services and support arrangements required to deliver a fully operational solution. The successful supplier will be responsible for validating requirements and recommending the most appropriate solution to meet MBIC's operational needs.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-15T00:00:00Z",
-    "deadline": "2026-10-13T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "32412100",
-      "32412110",
-      "32571000"
-    ],
-    "status": "active",
-    "relevance": 66,
-    "matched": [
-      "CPV 32412100",
-      "CPV 32412110",
-      "CPV 32571000",
-      "ict",
-      "infrastructure",
-      "managed service",
-      "network"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564551",
-    "fetched_at": "2026-09-22T09:47:59.862279Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-20-SEP564551",
-    "id": "rls-20-SEP564551",
-    "ocid": "ocds-r6ebe6-0000843026",
-    "title": "Provision of a Complete Network Infrastructure Solution for the Mountain Bike Innovation Centre (MBIC), Innerleithen",
-    "buyer": "South of Scotland Enterprise Agency",
-    "description": "South of Scotland Enterprise (SOSE) seeks a suitably qualified and experienced supplier to review, validate, design, supply, install, configure, test, commission and support a complete ICT and network infrastructure solution for the Mountain Bike Innovation Centre (MBIC), Innerleithen. The contract includes any associated licensing, connectivity, maintenance, managed services and support arrangements required to deliver a fully operational solution. The successful supplier will be responsible for validating requirements and recommending the most appropriate solution to meet MBIC's operational needs.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-15T00:00:00Z",
-    "deadline": "2026-10-13T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "32412100",
-      "32412110",
-      "32571000"
-    ],
-    "status": "active",
-    "relevance": 66,
-    "matched": [
-      "CPV 32412100",
-      "CPV 32412110",
-      "CPV 32571000",
-      "ict",
-      "infrastructure",
-      "managed service",
-      "network"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564551",
-    "fetched_at": "2026-09-21T10:35:22.638875Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-17-SEP564551",
-    "id": "rls-17-SEP564551",
-    "ocid": "ocds-r6ebe6-0000843026",
-    "title": "Provision of a Complete Network Infrastructure Solution for the Mountain Bike Innovation Centre (MBIC), Innerleithen",
-    "buyer": "South of Scotland Enterprise Agency",
-    "description": "South of Scotland Enterprise (SOSE) seeks a suitably qualified and experienced supplier to review, validate, design, supply, install, configure, test, commission and support a complete ICT and network infrastructure solution for the Mountain Bike Innovation Centre (MBIC), Innerleithen. The contract includes any associated licensing, connectivity, maintenance, managed services and support arrangements required to deliver a fully operational solution. The successful supplier will be responsible for validating requirements and recommending the most appropriate solution to meet MBIC's operational needs.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-15T00:00:00Z",
-    "deadline": "2026-10-13T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "32412100",
-      "32412110",
-      "32571000"
-    ],
-    "status": "active",
-    "relevance": 66,
-    "matched": [
-      "CPV 32412100",
-      "CPV 32412110",
-      "CPV 32571000",
-      "ict",
-      "infrastructure",
-      "managed service",
-      "network"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564551",
-    "fetched_at": "2026-09-20T20:37:55.349027Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-10-SEP564551",
-    "id": "rls-10-SEP564551",
-    "ocid": "ocds-r6ebe6-0000843026",
-    "title": "Provision of a Complete Network Infrastructure Solution for the Mountain Bike Innovation Centre (MBIC), Innerleithen",
-    "buyer": "South of Scotland Enterprise Agency",
-    "description": "South of Scotland Enterprise (SOSE) seeks a suitably qualified and experienced supplier to review, validate, design, supply, install, configure, test, commission and support a complete ICT and network infrastructure solution for the Mountain Bike Innovation Centre (MBIC), Innerleithen. The contract includes any associated licensing, connectivity, maintenance, managed services and support arrangements required to deliver a fully operational solution. The successful supplier will be responsible for validating requirements and recommending the most appropriate solution to meet MBIC's operational needs.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-15T00:00:00Z",
-    "deadline": "2026-10-13T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "32412100",
-      "32412110",
-      "32571000"
-    ],
-    "status": "active",
-    "relevance": 66,
-    "matched": [
-      "CPV 32412100",
-      "CPV 32412110",
-      "CPV 32571000",
-      "ict",
-      "infrastructure",
-      "managed service",
-      "network"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564551",
-    "fetched_at": "2026-09-18T09:33:33.226933Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-6-SEP564551",
-    "id": "rls-6-SEP564551",
-    "ocid": "ocds-r6ebe6-0000843026",
-    "title": "Provision of a Complete Network Infrastructure Solution for the Mountain Bike Innovation Centre (MBIC), Innerleithen",
-    "buyer": "South of Scotland Enterprise Agency",
-    "description": "South of Scotland Enterprise (SOSE) seeks a suitably qualified and experienced supplier to review, validate, design, supply, install, configure, test, commission and support a complete ICT and network infrastructure solution for the Mountain Bike Innovation Centre (MBIC), Innerleithen. The contract includes any associated licensing, connectivity, maintenance, managed services and support arrangements required to deliver a fully operational solution. The successful supplier will be responsible for validating requirements and recommending the most appropriate solution to meet MBIC's operational needs.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-15T00:00:00Z",
-    "deadline": "2026-10-13T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "32412100",
-      "32412110",
-      "32571000"
-    ],
-    "status": "active",
-    "relevance": 66,
-    "matched": [
-      "CPV 32412100",
-      "CPV 32412110",
-      "CPV 32571000",
-      "ict",
-      "infrastructure",
-      "managed service",
-      "network"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564551",
-    "fetched_at": "2026-09-17T09:55:28.326402Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-5-SEP564551",
-    "id": "rls-5-SEP564551",
-    "ocid": "ocds-r6ebe6-0000843026",
-    "title": "Provision of a Complete Network Infrastructure Solution for the Mountain Bike Innovation Centre (MBIC), Innerleithen",
-    "buyer": "South of Scotland Enterprise Agency",
-    "description": "South of Scotland Enterprise (SOSE) seeks a suitably qualified and experienced supplier to review, validate, design, supply, install, configure, test, commission and support a complete ICT and network infrastructure solution for the Mountain Bike Innovation Centre (MBIC), Innerleithen. The contract includes any associated licensing, connectivity, maintenance, managed services and support arrangements required to deliver a fully operational solution. The successful supplier will be responsible for validating requirements and recommending the most appropriate solution to meet MBIC's operational needs.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-15T00:00:00Z",
-    "deadline": "2026-10-13T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "32412100",
-      "32412110",
-      "32571000"
-    ],
-    "status": "active",
-    "relevance": 66,
-    "matched": [
-      "CPV 32412100",
-      "CPV 32412110",
-      "CPV 32571000",
-      "ict",
-      "infrastructure",
-      "managed service",
-      "network"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564551",
-    "fetched_at": "2026-09-16T09:48:37.234820Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-3-SEP564551",
-    "id": "rls-3-SEP564551",
-    "ocid": "ocds-r6ebe6-0000843026",
-    "title": "Provision of a Complete Network Infrastructure Solution for the Mountain Bike Innovation Centre (MBIC), Innerleithen",
-    "buyer": "South of Scotland Enterprise Agency",
-    "description": "South of Scotland Enterprise (SOSE) seeks a suitably qualified and experienced supplier to review, validate, design, supply, install, configure, test, commission and support a complete ICT and network infrastructure solution for the Mountain Bike Innovation Centre (MBIC), Innerleithen. The contract includes any associated licensing, connectivity, maintenance, managed services and support arrangements required to deliver a fully operational solution. The successful supplier will be responsible for validating requirements and recommending the most appropriate solution to meet MBIC's operational needs.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-15T00:00:00Z",
-    "deadline": "2026-10-13T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "32412100",
-      "32412110",
-      "32571000"
-    ],
-    "status": "active",
-    "relevance": 66,
-    "matched": [
-      "CPV 32412100",
-      "CPV 32412110",
-      "CPV 32571000",
-      "ict",
-      "infrastructure",
-      "managed service",
-      "network"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564551",
-    "fetched_at": "2026-09-15T21:08:12.723281Z"
-  },
-  {
     "key": "eTenders Ireland / TED:677656-2026",
     "id": "677656-2026",
     "ocid": null,
@@ -2107,7 +1531,7 @@
       "managed service"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/707247-2026",
-    "fetched_at": "2026-10-13T00:27:55.410028Z"
+    "fetched_at": "2026-10-13T12:35:06.027242Z"
   },
   {
     "key": "eTenders Ireland / TED:695163-2026",
@@ -2159,7 +1583,7 @@
       "web application"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/695163-2026",
-    "fetched_at": "2026-10-13T00:27:55.416511Z"
+    "fetched_at": "2026-10-13T12:35:06.038380Z"
   },
   {
     "key": "Find a Tender:095000-2026",
@@ -2483,7 +1907,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/691020-2026",
-    "fetched_at": "2026-10-13T00:27:55.420775Z"
+    "fetched_at": "2026-10-13T12:35:06.045560Z"
   },
   {
     "key": "eTenders Ireland / TED:705880-2026",
@@ -2540,7 +1964,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/705880-2026",
-    "fetched_at": "2026-10-13T00:27:55.411222Z"
+    "fetched_at": "2026-10-13T12:35:06.029451Z"
   },
   {
     "key": "eTenders Ireland / TED:687757-2026",
@@ -2618,7 +2042,7 @@
       "ict"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/706914-2026",
-    "fetched_at": "2026-10-13T00:27:55.409664Z"
+    "fetched_at": "2026-10-13T12:35:06.026620Z"
   },
   {
     "key": "Find a Tender:087628-2026",
@@ -5488,66 +4912,7 @@
       "support and maintenance"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/690530-2026",
-    "fetched_at": "2026-10-13T00:27:55.420656Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:647203-2026",
-    "id": "647203-2026",
-    "ocid": null,
-    "title": "Ireland – Facilities management services – The provision of a mobile app to facilitate the booking of desks, lockers and parking spaces at the Office of Public Works, 1GQ, 1 Georges Quay, Dublin 2. D02 Y098",
-    "buyer": "Office of Public Works (OPW)",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-21T02:00:00Z",
-    "deadline": "2026-10-13T11:00:00Z",
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "79993100",
-      "79993000",
-      "48421000",
-      "48420000",
-      "72514100",
-      "72514300",
-      "72514200",
-      "72212421",
-      "72514000",
-      "48000000",
-      "48781000",
-      "48219300",
-      "48422000",
-      "48627000",
-      "48700000",
-      "48517000",
-      "79993100",
-      "79993000",
-      "48421000",
-      "48420000",
-      "72514100",
-      "72514300",
-      "72514200",
-      "72212421",
-      "72514000",
-      "48000000",
-      "48781000",
-      "48219300",
-      "48422000",
-      "48627000",
-      "48700000",
-      "48517000"
-    ],
-    "status": "active",
-    "relevance": 51,
-    "matched": [
-      "CPV 48420000",
-      "CPV 48421000",
-      "CPV 72514100",
-      "CPV 72514300",
-      "mobile app"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/647203-2026",
-    "fetched_at": "2026-09-28T11:36:33.851864Z"
+    "fetched_at": "2026-10-13T12:35:06.045356Z"
   },
   {
     "key": "Find a Tender:084933-2026",
@@ -7467,7 +6832,7 @@
       "network"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/701174-2026",
-    "fetched_at": "2026-10-13T00:27:58.606386Z"
+    "fetched_at": "2026-10-13T12:35:10.171292Z"
   },
   {
     "key": "eTenders Ireland / TED:652620-2026",
@@ -7720,7 +7085,7 @@
       "CPV 72514000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/702258-2026",
-    "fetched_at": "2026-10-13T00:27:55.412715Z"
+    "fetched_at": "2026-10-13T12:35:06.031883Z"
   },
   {
     "key": "eTenders Ireland / TED:705132-2026",
@@ -7758,7 +7123,7 @@
       "CPV 72268000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/705132-2026",
-    "fetched_at": "2026-10-13T00:27:55.410406Z"
+    "fetched_at": "2026-10-13T12:35:06.027982Z"
   },
   {
     "key": "Find a Tender:091992-2026",
@@ -7972,7 +7337,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/706780-2026",
-    "fetched_at": "2026-10-13T00:27:57.341047Z"
+    "fetched_at": "2026-10-13T12:35:08.853235Z"
   },
   {
     "key": "Find a Tender:096255-2026",
@@ -8006,7 +7371,7 @@
       "digital service"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/096255-2026",
-    "fetched_at": "2026-10-13T00:27:16.289196Z"
+    "fetched_at": "2026-10-13T12:33:32.610460Z"
   },
   {
     "key": "Public Contracts Scotland:rls-1-OCT566533",
@@ -8041,6 +7406,40 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT566533",
     "fetched_at": "2026-10-13T00:27:45.196549Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-4-OCT566533",
+    "id": "rls-4-OCT566533",
+    "ocid": "ocds-r6ebe6-0000842561",
+    "title": "Dental Implants, Digital Services & Associated Products",
+    "buyer": "NHS Greater Glasgow and Clyde",
+    "description": "NHS Greater Glasgow & Clyde (NHS GGC) require suitably qualified, experienced and licensed contractors to undertake the provision of Dental Implants, Digital Services and Associated Products, in order to procure a high quality solution across the Board. The tender opportunity consists of six primary lots. Suppliers successfully appointed to one or more of Lots 1 to 6 shall automatically qualify for participation within Lot 7 (Innovation). No separate appointment process is required for Lot 7.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-12T00:00:00Z",
+    "deadline": "2026-11-11T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "33130000",
+      "33132000",
+      "33133000",
+      "33138000",
+      "33141800",
+      "48180000",
+      "72267100",
+      "72268000"
+    ],
+    "status": "active",
+    "relevance": 41,
+    "matched": [
+      "CPV 48180000",
+      "CPV 72267100",
+      "CPV 72268000",
+      "digital service"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT566533",
+    "fetched_at": "2026-10-13T12:34:15.201423Z"
   },
   {
     "key": "eTenders Ireland / TED:694051-2026",
@@ -8092,7 +7491,7 @@
       "CPV 30199500"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/694051-2026",
-    "fetched_at": "2026-10-13T00:27:55.418223Z"
+    "fetched_at": "2026-10-13T12:35:06.041340Z"
   },
   {
     "key": "eTenders Ireland / TED:704727-2026",
@@ -8124,7 +7523,7 @@
       "CPV 48781000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/704727-2026",
-    "fetched_at": "2026-10-13T00:27:55.410911Z"
+    "fetched_at": "2026-10-13T12:35:06.028851Z"
   },
   {
     "key": "eTenders Ireland / TED:687062-2026",
@@ -8192,7 +7591,7 @@
       "CPV 32523000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/698698-2026",
-    "fetched_at": "2026-10-13T00:28:01.835783Z"
+    "fetched_at": "2026-10-13T12:35:14.018333Z"
   },
   {
     "key": "Find a Tender:086272-2026",
@@ -9095,6 +8494,32 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565958",
     "fetched_at": "2026-10-13T00:27:45.198092Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-25-OCT565958",
+    "id": "rls-25-OCT565958",
+    "ocid": "ocds-r6ebe6-0000844721",
+    "title": "C002187 Framework Agreement for the provision of a Learning Management System",
+    "buyer": "The Common Services Agency (more commonly known as Public Services Delivery Scotland) (PSD Scotland)",
+    "description": "Public Services Delivery Scotland (PSD Scotland) is delivering the Digital Learning Infrastructure (DLI) Programme, a national transformation programme to establish a modern, scalable, interoperable and sustainable digital learning ecosystem for Scotlandâs health and social care workforce. The programme responds to a fragmented learning technology landscape across public, private, voluntary and not-for-profit provision, where multiple local learning management systems, duplicated content, variable user experiences and inconsistent data quality limit workforce mobility, planning and system-wide efficiency.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-05T00:00:00Z",
+    "deadline": "2026-11-25T13:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "72212190"
+    ],
+    "status": "active",
+    "relevance": 37,
+    "matched": [
+      "CPV 72212190",
+      "infrastructure",
+      "user experience"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565958",
+    "fetched_at": "2026-10-13T12:34:15.203709Z"
   },
   {
     "key": "Find a Tender:084917-2026",
@@ -10522,6 +9947,110 @@
     "fetched_at": "2026-09-30T22:06:45.532678Z"
   },
   {
+    "key": "Find a Tender:096433-2026",
+    "id": "096433-2026",
+    "ocid": "ocds-h6vhtk-03cd6d",
+    "title": "Pupil Equity Funding (PEF) Flexible Framework",
+    "buyer": "Dumfries and Galloway Council",
+    "description": "The Scottish Government has committed to providing additional funding in the form of Pupil Equity Funding (PEF), to schools as part of the Scottish Attainment Challenge programme. This funding is allocated directly to schools and is aimed at closing the poverty related attainment gap. The aim of this framework agreement is to allow schools to contract compliantly with providers who will be able to support the pupil equity fund.",
+    "source": "Find a Tender",
+    "country": "United Kingdom",
+    "published_at": "2026-10-13T10:00:46Z",
+    "deadline": "2027-09-13T11:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "37000000",
+      "48520000",
+      "48521000",
+      "48931000",
+      "75121000",
+      "80000000",
+      "80100000",
+      "80200000",
+      "80210000",
+      "80310000",
+      "80340000",
+      "80400000",
+      "80570000",
+      "80590000",
+      "85140000",
+      "85312300",
+      "85312310",
+      "85312320",
+      "85312400",
+      "85322000",
+      "92000000",
+      "92340000",
+      "92342000",
+      "92342100",
+      "92342200",
+      "98000000",
+      "98330000"
+    ],
+    "status": "active",
+    "relevance": 35,
+    "matched": [
+      "CPV 48520000",
+      "CPV 48521000",
+      "CPV 48931000"
+    ],
+    "url": "https://www.find-tender.service.gov.uk/Notice/096433-2026",
+    "fetched_at": "2026-10-13T12:33:32.610005Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-2-OCT566576",
+    "id": "rls-2-OCT566576",
+    "ocid": "ocds-r6ebe6-0000845584",
+    "title": "Pupil Equity Funding (PEF) Flexible Framework",
+    "buyer": "Dumfries and Galloway Council",
+    "description": "The Scottish Government has committed to providing additional funding in the form of Pupil Equity Funding (PEF), to schools as part of the Scottish Attainment Challenge programme. This funding is allocated directly to schools and is aimed at closing the poverty related attainment gap. The aim of this framework agreement is to allow schools to contract compliantly with providers who will be able to support the pupil equity fund.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-13T00:00:00Z",
+    "deadline": "2027-09-13T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "37000000",
+      "48520000",
+      "48521000",
+      "48931000",
+      "75121000",
+      "80000000",
+      "80100000",
+      "80200000",
+      "80210000",
+      "80310000",
+      "80340000",
+      "80400000",
+      "80570000",
+      "80590000",
+      "85140000",
+      "85312300",
+      "85312310",
+      "85312320",
+      "85312400",
+      "85322000",
+      "92000000",
+      "92340000",
+      "92342000",
+      "92342100",
+      "92342200",
+      "98000000",
+      "98330000"
+    ],
+    "status": "active",
+    "relevance": 35,
+    "matched": [
+      "CPV 48520000",
+      "CPV 48521000",
+      "CPV 48931000"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT566576",
+    "fetched_at": "2026-10-13T12:34:15.201110Z"
+  },
+  {
     "key": "Find a Tender:087673-2026",
     "id": "087673-2026",
     "ocid": "ocds-h6vhtk-06faf0",
@@ -11500,6 +11029,32 @@
     "fetched_at": "2026-10-13T00:27:45.198201Z"
   },
   {
+    "key": "Public Contracts Scotland:rls-26-OCT565941",
+    "id": "rls-26-OCT565941",
+    "ocid": "ocds-r6ebe6-0000844772",
+    "title": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP)",
+    "buyer": "University of Glasgow",
+    "description": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP) Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the âContact Usâ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-05T00:00:00Z",
+    "deadline": "2026-11-05T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "80500000"
+    ],
+    "status": "active",
+    "relevance": 32,
+    "matched": [
+      "portal",
+      "website",
+      "website support"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565941",
+    "fetched_at": "2026-10-13T12:34:15.203872Z"
+  },
+  {
     "key": "eTenders Ireland / TED:639562-2026",
     "id": "639562-2026",
     "ocid": null,
@@ -11776,7 +11331,7 @@
       "CPV 30199500"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/700218-2026",
-    "fetched_at": "2026-10-13T00:27:55.415822Z"
+    "fetched_at": "2026-10-13T12:35:06.037215Z"
   },
   {
     "key": "eTenders Ireland / TED:695714-2026",
@@ -11811,7 +11366,7 @@
       "CPV 72221000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/695714-2026",
-    "fetched_at": "2026-10-13T00:27:55.417594Z"
+    "fetched_at": "2026-10-13T12:35:06.040270Z"
   },
   {
     "key": "Public Contracts Scotland:rls-1-OCT565666",
@@ -13779,6 +13334,137 @@
     "fetched_at": "2026-10-13T00:27:54.262945Z"
   },
   {
+    "key": "Public Contracts Scotland:rls-48-OCT565666",
+    "id": "rls-48-OCT565666",
+    "ocid": "ocds-r6ebe6-0000843221",
+    "title": "General Building and Repair Works Framework",
+    "buyer": "North Ayrshire Council",
+    "description": "North Ayrshire Council (NAC) invites tenders for the provision of a General Building and Repair Works Framework. The framework will be split into 10 Lots: Lot 1 â Joinery Lot 2 - Door Entry Lot 3 â Electrical Lot 4 â Plumbing Lot 5 â Drainage Lot 6 â Plastering Lot 7 â Building Lot 8 â Roofing Lot 9 - Timber and Dampness Lot 10 â Fencing Bidders may submit tenders for a single Lot or multiple Lots. The framework will be ranked, and it is anticipated that up to 5 contractors will be appointed to each Lot. Notwithstanding this, NAC reserves the right to appoint a greater number of contractors to any Lot at its sole discretion, where it deems this appropriate and beneficial to the operation of the framework. There are no guaranteed volumes of business.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-01T00:00:00Z",
+    "deadline": "2026-10-29T12:00:00Z",
+    "value": 3960000.0,
+    "currency": "GBP",
+    "cpv": [
+      "03419000",
+      "03419100",
+      "31500000",
+      "31625100",
+      "32550000",
+      "32570000",
+      "33141640",
+      "34928200",
+      "34928210",
+      "34928220",
+      "35120000",
+      "35121700",
+      "35123000",
+      "35125300",
+      "41110000",
+      "44112400",
+      "44163110",
+      "44163111",
+      "44163112",
+      "44220000",
+      "44221300",
+      "44411000",
+      "45111240",
+      "45112000",
+      "45200000",
+      "45210000",
+      "45211310",
+      "45232450",
+      "45232451",
+      "45232452",
+      "45232453",
+      "45247112",
+      "45260000",
+      "45261100",
+      "45261200",
+      "45261210",
+      "45261211",
+      "45261212",
+      "45261300",
+      "45261410",
+      "45261900",
+      "45261910",
+      "45261920",
+      "45262300",
+      "45262330",
+      "45262500",
+      "45262511",
+      "45262520",
+      "45262522",
+      "45262690",
+      "45310000",
+      "45311000",
+      "45311100",
+      "45311200",
+      "45312000",
+      "45312100",
+      "45312200",
+      "45312300",
+      "45316000",
+      "45316100",
+      "45317000",
+      "45330000",
+      "45332000",
+      "45332200",
+      "45332300",
+      "45332400",
+      "45340000",
+      "45342000",
+      "45400000",
+      "45410000",
+      "45420000",
+      "45421000",
+      "45421111",
+      "45421112",
+      "45421130",
+      "45421131",
+      "45421132",
+      "45421141",
+      "45421148",
+      "45421151",
+      "45421152",
+      "45421153",
+      "45421160",
+      "45422000",
+      "45422100",
+      "45432110",
+      "45432113",
+      "45432114",
+      "45440000",
+      "45450000",
+      "45453000",
+      "45453100",
+      "50610000",
+      "50700000",
+      "50710000",
+      "50711000",
+      "50720000",
+      "50721000",
+      "64200000",
+      "65130000",
+      "71314100",
+      "71630000",
+      "90400000",
+      "90470000",
+      "90480000",
+      "90640000",
+      "90641000"
+    ],
+    "status": "active",
+    "relevance": 30,
+    "matched": [
+      "CPV 32550000",
+      "CPV 32570000"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565666",
+    "fetched_at": "2026-10-13T12:35:04.789100Z"
+  },
+  {
     "key": "eTenders Ireland / TED:692747-2026",
     "id": "692747-2026",
     "ocid": null,
@@ -13801,7 +13487,7 @@
       "CPV 72413000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/692747-2026",
-    "fetched_at": "2026-10-13T00:27:55.420992Z"
+    "fetched_at": "2026-10-13T12:35:06.045934Z"
   },
   {
     "key": "eTenders Ireland / TED:700750-2026",
@@ -13830,7 +13516,7 @@
       "CPV 72322000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/700750-2026",
-    "fetched_at": "2026-10-13T00:27:55.412200Z"
+    "fetched_at": "2026-10-13T12:35:06.031026Z"
   },
   {
     "key": "Poland / TED:687343-2026",
@@ -13855,7 +13541,7 @@
       "CPV 72250000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/687343-2026",
-    "fetched_at": "2026-10-13T00:28:06.893828Z"
+    "fetched_at": "2026-10-13T12:35:20.378355Z"
   },
   {
     "key": "Public Contracts Scotland:rls-1-SEP564850",
@@ -16187,6 +15873,80 @@
     "fetched_at": "2026-10-13T00:27:54.262684Z"
   },
   {
+    "key": "Public Contracts Scotland:rls-47-OCT565724",
+    "id": "rls-47-OCT565724",
+    "ocid": "ocds-r6ebe6-0000844457",
+    "title": "Provision of an Emergency Communication Platform and Associated Hardware.",
+    "buyer": "UHI Moray",
+    "description": "UHI Moray and UHI North, West and Hebrides are undertaking a joint procurement exercise for the Provision of an Emergency Communication Platform and Associated Hardware.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-01T00:00:00Z",
+    "deadline": "2026-10-22T09:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "32412000"
+    ],
+    "status": "active",
+    "relevance": 25,
+    "matched": [
+      "CPV 32412000"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565724",
+    "fetched_at": "2026-10-13T12:35:04.788677Z"
+  },
+  {
+    "key": "Find a Tender:096471-2026",
+    "id": "096471-2026",
+    "ocid": "ocds-h6vhtk-078663",
+    "title": "Libraries Scotland eNewspaper and eMagazine",
+    "buyer": "Scottish Library and Information Council",
+    "description": "The aim of this tender is to provide a single national eMagazines and eNewpapers service to all thirty-two public library services for access by their members. Scottish Library and Information Council (SLIC) is seeking a vendor that can supply eMagazines and eNewspapers to all thirty-two public library services.",
+    "source": "Find a Tender",
+    "country": "United Kingdom",
+    "published_at": "2026-10-13T10:42:17Z",
+    "deadline": "2026-11-13T12:00:00Z",
+    "value": 1600000.0,
+    "currency": "GBP",
+    "cpv": [
+      "48160000",
+      "92511000"
+    ],
+    "status": "active",
+    "relevance": 25,
+    "matched": [
+      "CPV 48160000"
+    ],
+    "url": "https://www.find-tender.service.gov.uk/Notice/096471-2026",
+    "fetched_at": "2026-10-13T12:33:32.609793Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-1-OCT566581",
+    "id": "rls-1-OCT566581",
+    "ocid": "ocds-r6ebe6-0000845512",
+    "title": "Libraries Scotland eNewspaper and eMagazine",
+    "buyer": "Scottish Library and Information Council",
+    "description": "The aim of this tender is to provide a single national eMagazines and eNewpapers service to all thirty-two public library services for access by their members. Scottish Library and Information Council (SLIC) is seeking a vendor that can supply eMagazines and eNewspapers to all thirty-two public library services.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-13T00:00:00Z",
+    "deadline": "2026-11-13T12:00:00Z",
+    "value": 1600000.0,
+    "currency": "GBP",
+    "cpv": [
+      "48160000",
+      "92511000"
+    ],
+    "status": "active",
+    "relevance": 25,
+    "matched": [
+      "CPV 48160000"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT566581",
+    "fetched_at": "2026-10-13T12:34:15.200904Z"
+  },
+  {
     "key": "Find a Tender:093954-2026",
     "id": "093954-2026",
     "ocid": "ocds-h6vhtk-078109",
@@ -16449,6 +16209,30 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565959",
     "fetched_at": "2026-10-13T00:27:45.197995Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-24-OCT565959",
+    "id": "rls-24-OCT565959",
+    "ocid": "ocds-r6ebe6-0000844805",
+    "title": "Asset Tracking System",
+    "buyer": "NHS Borders",
+    "description": "NHS Borders is seeking competitive tenders from suitably experienced suppliers for an asset tracking system. The requirement supports a programme to improve the control, traceability and efficient management of clinical and selected non-clinical equipment, replacing fragmented manual records with sustainable digital tracking and reporting.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-05T00:00:00Z",
+    "deadline": "2026-11-16T12:00:00Z",
+    "value": 116000.0,
+    "currency": "GBP",
+    "cpv": [
+      "48422000"
+    ],
+    "status": "active",
+    "relevance": 25,
+    "matched": [
+      "CPV 48422000"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565959",
+    "fetched_at": "2026-10-13T12:34:15.203555Z"
   },
   {
     "key": "Find a Tender:092274-2026",
@@ -17527,5 +17311,54 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565847",
     "fetched_at": "2026-10-13T00:27:54.262447Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-39-OCT565862",
+    "id": "rls-39-OCT565862",
+    "ocid": "ocds-r6ebe6-0000844215",
+    "title": "In-House Design Support and Development",
+    "buyer": "CalMac Ferries Limited",
+    "description": "CFLâ¯requiresâ¯a partner with proven experience in: - Working with client in-house design resource to develop and plan impactful ideas and concepts. - Working with client in-house marketing team to develop appropriate multichannel campaigns and content. - Working with key third parties, including media buyer, film production company, marcomms agency, in-house Insight and Digital teams, brand partners, social media influencers, and content creators. The partner willâ¯be requiredâ¯to work on a variety of projects throughout the year for assets used across the website, social media, paid media and more, however exact projects are yet to beâ¯determined, and, in most cases, direction is already determined.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-02T00:00:00Z",
+    "deadline": "2026-11-02T12:00:00Z",
+    "value": 150000.0,
+    "currency": "GBP",
+    "cpv": [
+      "79933000"
+    ],
+    "status": "active",
+    "relevance": 13,
+    "matched": [
+      "website"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565862",
+    "fetched_at": "2026-10-13T12:35:04.788148Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-41-OCT565847",
+    "id": "rls-41-OCT565847",
+    "ocid": "ocds-r6ebe6-0000844675",
+    "title": "Environmental Monitoring System for Collections",
+    "buyer": "National Museums Scotland",
+    "description": "The National Museums Scotland (NMS) wishes to engage a contractor (âContractorâ) to provide an environmental monitoring system. NMS is seeking a suitably qualified Contractor to provide an environmental monitoring system which will replace the current system. The Contractor should have experience in supplying and installing necessary hardware and software to facilitate the implementation of an environmental monitoring system, whilst providing ongoing maintenance and technical support when required.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-02T00:00:00Z",
+    "deadline": "2026-11-02T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "92521000",
+      "92521200"
+    ],
+    "status": "active",
+    "relevance": 13,
+    "matched": [
+      "software"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565847",
+    "fetched_at": "2026-10-13T12:35:04.788330Z"
   }
 ]
