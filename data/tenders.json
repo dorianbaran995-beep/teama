@@ -1412,7 +1412,7 @@
       "managed service"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/707247-2026",
-    "fetched_at": "2026-10-15T21:12:02.640883Z"
+    "fetched_at": "2026-10-16T09:37:29.174111Z"
   },
   {
     "key": "eTenders Ireland / TED:712448-2026",
@@ -1466,7 +1466,7 @@
       "managed service"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/712448-2026",
-    "fetched_at": "2026-10-15T21:12:02.634069Z"
+    "fetched_at": "2026-10-16T09:37:29.169712Z"
   },
   {
     "key": "eTenders Ireland / TED:695163-2026",
@@ -1899,7 +1899,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/705880-2026",
-    "fetched_at": "2026-10-15T21:12:02.643261Z"
+    "fetched_at": "2026-10-16T09:37:29.177022Z"
   },
   {
     "key": "eTenders Ireland / TED:687757-2026",
@@ -1975,7 +1975,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/708409-2026",
-    "fetched_at": "2026-10-15T21:12:02.638115Z"
+    "fetched_at": "2026-10-16T09:37:29.172867Z"
   },
   {
     "key": "eTenders Ireland / TED:706914-2026",
@@ -2018,7 +2018,7 @@
       "ict"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/706914-2026",
-    "fetched_at": "2026-10-15T21:12:02.639197Z"
+    "fetched_at": "2026-10-16T09:37:29.175089Z"
   },
   {
     "key": "Find a Tender:087628-2026",
@@ -4130,100 +4130,6 @@
     "fetched_at": "2026-09-30T22:06:51.922814Z"
   },
   {
-    "key": "Poland / TED:702948-2026",
-    "id": "702948-2026",
-    "ocid": null,
-    "title": "Poland – Computer equipment and supplies – Dostawa sprzętu elektronicznego, w ramach projektu „Zielona transformacja w toruńskich przedszkolach”",
-    "buyer": "Gmina Miasta Toruń działająca poprzez Toruńskie Centrum Usług Wspólnych",
-    "description": "Active Polish public procurement notice published through TED.",
-    "source": "Poland / TED",
-    "country": "Poland",
-    "published_at": "2026-10-12T02:00:00Z",
-    "deadline": "2026-10-15T21:59:59Z",
-    "value": null,
-    "currency": "PLN",
-    "cpv": [
-      "30200000",
-      "30237270",
-      "30213100",
-      "30237410",
-      "48300000",
-      "48761000",
-      "30231320",
-      "51611100",
-      "38652000",
-      "38653400",
-      "30191400",
-      "30213100",
-      "30231320",
-      "38652000",
-      "30237410",
-      "30237270",
-      "48300000",
-      "48761000",
-      "51611100",
-      "38653400",
-      "30191400"
-    ],
-    "status": "active",
-    "relevance": 53,
-    "matched": [
-      "CPV 30200000",
-      "CPV 30213100",
-      "CPV 30237270",
-      "CPV 30237410"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/702948-2026",
-    "fetched_at": "2026-10-15T09:44:14.530956Z"
-  },
-  {
-    "key": "Poland / TED:670357-2026",
-    "id": "670357-2026",
-    "ocid": null,
-    "title": "Poland – Computer equipment and supplies – Dostawa sprzętu elektronicznego, w ramach projektu „Zielona transformacja w toruńskich przedszkolach”",
-    "buyer": "Gmina Miasta Toruń działająca poprzez Toruńskie Centrum Usług Wspólnych",
-    "description": "Active Polish public procurement notice published through TED.",
-    "source": "Poland / TED",
-    "country": "Poland",
-    "published_at": "2026-09-29T02:00:00Z",
-    "deadline": "2026-10-15T21:59:59Z",
-    "value": null,
-    "currency": "PLN",
-    "cpv": [
-      "30200000",
-      "30237270",
-      "30213100",
-      "30237410",
-      "48300000",
-      "48761000",
-      "30231320",
-      "51611100",
-      "38652000",
-      "38653400",
-      "30191400",
-      "30213100",
-      "30231320",
-      "38652000",
-      "30237410",
-      "30237270",
-      "48300000",
-      "48761000",
-      "51611100",
-      "38653400",
-      "30191400"
-    ],
-    "status": "active",
-    "relevance": 53,
-    "matched": [
-      "CPV 30200000",
-      "CPV 30213100",
-      "CPV 30237270",
-      "CPV 30237410"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/670357-2026",
-    "fetched_at": "2026-10-06T11:54:55.907352Z"
-  },
-  {
     "key": "Poland / TED:673225-2026",
     "id": "673225-2026",
     "ocid": null,
@@ -4859,7 +4765,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/707513-2026",
-    "fetched_at": "2026-10-15T21:12:02.637116Z"
+    "fetched_at": "2026-10-16T09:37:29.172175Z"
   },
   {
     "key": "eTenders Ireland / TED:658139-2026",
@@ -6191,7 +6097,7 @@
       "network"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/701174-2026",
-    "fetched_at": "2026-10-15T21:12:18.596291Z"
+    "fetched_at": "2026-10-16T09:37:58.388856Z"
   },
   {
     "key": "eTenders Ireland / TED:676358-2026",
@@ -6348,7 +6254,7 @@
       "CPV 72514000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/702258-2026",
-    "fetched_at": "2026-10-15T21:12:02.645059Z"
+    "fetched_at": "2026-10-16T09:37:29.178536Z"
   },
   {
     "key": "eTenders Ireland / TED:705132-2026",
@@ -6386,7 +6292,43 @@
       "CPV 72268000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/705132-2026",
-    "fetched_at": "2026-10-15T21:12:02.641560Z"
+    "fetched_at": "2026-10-16T09:37:29.175634Z"
+  },
+  {
+    "key": "Poland / TED:715186-2026",
+    "id": "715186-2026",
+    "ocid": null,
+    "title": "Poland – Application service providers – Zakup i wdrożenie systemu finansowo-księgowego",
+    "buyer": "BANKOWY FUNDUSZ GWARANCYJNY",
+    "description": "Active Polish public procurement notice published through TED.",
+    "source": "Poland / TED",
+    "country": "Poland",
+    "published_at": "2026-10-16T02:00:00Z",
+    "deadline": "2026-12-01T00:00:00Z",
+    "value": null,
+    "currency": "PLN",
+    "cpv": [
+      "72416000",
+      "72268000",
+      "72263000",
+      "64227000",
+      "72253200",
+      "72416000",
+      "72268000",
+      "72263000",
+      "64227000",
+      "72253200"
+    ],
+    "status": "active",
+    "relevance": 45,
+    "matched": [
+      "CPV 72253200",
+      "CPV 72263000",
+      "CPV 72268000",
+      "CPV 72416000"
+    ],
+    "url": "https://ted.europa.eu/en/notice/-/detail/715186-2026",
+    "fetched_at": "2026-10-16T09:37:33.280430Z"
   },
   {
     "key": "Find a Tender:091992-2026",
@@ -6570,7 +6512,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/706780-2026",
-    "fetched_at": "2026-10-15T21:12:15.386820Z"
+    "fetched_at": "2026-10-16T09:37:56.316047Z"
   },
   {
     "key": "Find a Tender:096255-2026",
@@ -6777,6 +6719,40 @@
     "fetched_at": "2026-10-15T21:11:54.149079Z"
   },
   {
+    "key": "Public Contracts Scotland:rls-18-OCT566533",
+    "id": "rls-18-OCT566533",
+    "ocid": "ocds-r6ebe6-0000842561",
+    "title": "Dental Implants, Digital Services & Associated Products",
+    "buyer": "NHS Greater Glasgow and Clyde",
+    "description": "NHS Greater Glasgow & Clyde (NHS GGC) require suitably qualified, experienced and licensed contractors to undertake the provision of Dental Implants, Digital Services and Associated Products, in order to procure a high quality solution across the Board. The tender opportunity consists of six primary lots. Suppliers successfully appointed to one or more of Lots 1 to 6 shall automatically qualify for participation within Lot 7 (Innovation). No separate appointment process is required for Lot 7.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-12T00:00:00Z",
+    "deadline": "2026-11-11T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "33130000",
+      "33132000",
+      "33133000",
+      "33138000",
+      "33141800",
+      "48180000",
+      "72267100",
+      "72268000"
+    ],
+    "status": "active",
+    "relevance": 41,
+    "matched": [
+      "CPV 48180000",
+      "CPV 72267100",
+      "CPV 72268000",
+      "digital service"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT566533",
+    "fetched_at": "2026-10-16T09:37:14.002552Z"
+  },
+  {
     "key": "eTenders Ireland / TED:694051-2026",
     "id": "694051-2026",
     "ocid": null,
@@ -6858,7 +6834,7 @@
       "CPV 48781000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/704727-2026",
-    "fetched_at": "2026-10-15T21:12:02.642807Z"
+    "fetched_at": "2026-10-16T09:37:29.176643Z"
   },
   {
     "key": "Poland / TED:714691-2026",
@@ -7961,6 +7937,32 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565958",
     "fetched_at": "2026-10-15T21:11:54.151375Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-39-OCT565958",
+    "id": "rls-39-OCT565958",
+    "ocid": "ocds-r6ebe6-0000844721",
+    "title": "C002187 Framework Agreement for the provision of a Learning Management System",
+    "buyer": "The Common Services Agency (more commonly known as Public Services Delivery Scotland) (PSD Scotland)",
+    "description": "Public Services Delivery Scotland (PSD Scotland) is delivering the Digital Learning Infrastructure (DLI) Programme, a national transformation programme to establish a modern, scalable, interoperable and sustainable digital learning ecosystem for Scotlandâs health and social care workforce. The programme responds to a fragmented learning technology landscape across public, private, voluntary and not-for-profit provision, where multiple local learning management systems, duplicated content, variable user experiences and inconsistent data quality limit workforce mobility, planning and system-wide efficiency.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-05T00:00:00Z",
+    "deadline": "2026-11-25T13:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "72212190"
+    ],
+    "status": "active",
+    "relevance": 37,
+    "matched": [
+      "CPV 72212190",
+      "infrastructure",
+      "user experience"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565958",
+    "fetched_at": "2026-10-16T09:37:14.004368Z"
   },
   {
     "key": "Find a Tender:084917-2026",
@@ -9437,7 +9439,7 @@
       "CPV 48931000"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/096433-2026",
-    "fetched_at": "2026-10-15T21:11:09.786622Z"
+    "fetched_at": "2026-10-16T09:36:22.361578Z"
   },
   {
     "key": "Public Contracts Scotland:rls-2-OCT566576",
@@ -9646,6 +9648,58 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT566576",
     "fetched_at": "2026-10-15T21:11:54.148775Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-16-OCT566576",
+    "id": "rls-16-OCT566576",
+    "ocid": "ocds-r6ebe6-0000845584",
+    "title": "Pupil Equity Funding (PEF) Flexible Framework",
+    "buyer": "Dumfries and Galloway Council",
+    "description": "The Scottish Government has committed to providing additional funding in the form of Pupil Equity Funding (PEF), to schools as part of the Scottish Attainment Challenge programme. This funding is allocated directly to schools and is aimed at closing the poverty related attainment gap. The aim of this framework agreement is to allow schools to contract compliantly with providers who will be able to support the pupil equity fund.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-13T00:00:00Z",
+    "deadline": "2027-09-13T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "37000000",
+      "48520000",
+      "48521000",
+      "48931000",
+      "75121000",
+      "80000000",
+      "80100000",
+      "80200000",
+      "80210000",
+      "80310000",
+      "80340000",
+      "80400000",
+      "80570000",
+      "80590000",
+      "85140000",
+      "85312300",
+      "85312310",
+      "85312320",
+      "85312400",
+      "85322000",
+      "92000000",
+      "92340000",
+      "92342000",
+      "92342100",
+      "92342200",
+      "98000000",
+      "98330000"
+    ],
+    "status": "active",
+    "relevance": 35,
+    "matched": [
+      "CPV 48520000",
+      "CPV 48521000",
+      "CPV 48931000"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT566576",
+    "fetched_at": "2026-10-16T09:37:14.002317Z"
   },
   {
     "key": "Find a Tender:087673-2026",
@@ -10728,6 +10782,32 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565941",
     "fetched_at": "2026-10-15T21:11:54.151539Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-40-OCT565941",
+    "id": "rls-40-OCT565941",
+    "ocid": "ocds-r6ebe6-0000844772",
+    "title": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP)",
+    "buyer": "University of Glasgow",
+    "description": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP) Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the âContact Usâ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-05T00:00:00Z",
+    "deadline": "2026-11-05T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "80500000"
+    ],
+    "status": "active",
+    "relevance": 32,
+    "matched": [
+      "portal",
+      "website",
+      "website support"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565941",
+    "fetched_at": "2026-10-16T09:37:14.004498Z"
   },
   {
     "key": "eTenders Ireland / TED:647419-2026",
@@ -13603,7 +13683,7 @@
       "CPV 32570000"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565666",
-    "fetched_at": "2026-10-15T21:12:00.321632Z"
+    "fetched_at": "2026-10-16T09:37:26.518048Z"
   },
   {
     "key": "eTenders Ireland / TED:692747-2026",
@@ -13659,7 +13739,7 @@
       "CPV 32413100"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/713556-2026",
-    "fetched_at": "2026-10-15T21:12:02.635040Z"
+    "fetched_at": "2026-10-16T09:37:29.170452Z"
   },
   {
     "key": "eTenders Ireland / TED:700750-2026",
@@ -13688,7 +13768,7 @@
       "CPV 72322000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/700750-2026",
-    "fetched_at": "2026-10-15T21:12:02.645785Z"
+    "fetched_at": "2026-10-16T09:37:29.179121Z"
   },
   {
     "key": "Find a Tender:097651-2026",
@@ -13716,7 +13796,7 @@
       "CPV 48000000"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/097651-2026",
-    "fetched_at": "2026-10-15T21:11:09.782453Z"
+    "fetched_at": "2026-10-16T09:36:22.358400Z"
   },
   {
     "key": "Public Contracts Scotland:rls-1-OCT566767",
@@ -13747,407 +13827,32 @@
     "fetched_at": "2026-10-15T21:11:54.146804Z"
   },
   {
-    "key": "Public Contracts Scotland:rls-1-SEP564850",
-    "id": "rls-1-SEP564850",
-    "ocid": "ocds-r6ebe6-0000843372",
-    "title": "Immersive Theater Installation and Exhibition Alterations",
-    "buyer": "Scottish Seabird Centre",
-    "description": "The Scottish Seabird Centre (SSC) seeks to appoint suitably qualified contractor(s) to deliver exhibition alterations, visitor experience improvements and a new immersive theater installation. The procurement is divided into two lots comprising base build works and audio visual design and installation.",
+    "key": "Public Contracts Scotland:rls-4-OCT566767",
+    "id": "rls-4-OCT566767",
+    "ocid": "ocds-r6ebe6-0000845818",
+    "title": "Provision of Vehicle Telematics, CCTV and Tachograph Solutions 2026 (Re Tender) Aberdeenshire Council",
+    "buyer": "Aberdeenshire Council",
+    "description": "Aberdeenshire Council require a vehicle management and tracking system, including CCTV and Tachograph services to cover vehicles within their fleet to be installed by Aberdeenshire Council staff",
     "source": "Public Contracts Scotland",
     "country": "Scotland",
-    "published_at": "2026-09-18T00:00:00Z",
-    "deadline": "2026-10-16T09:00:00Z",
-    "value": 265000.0,
-    "currency": "GBP",
+    "published_at": "2026-10-15T00:00:00Z",
+    "deadline": "2026-11-16T12:00:00Z",
+    "value": null,
+    "currency": null,
     "cpv": [
-      "32321200",
-      "39154000",
-      "45310000",
-      "45331000",
-      "45453100",
-      "51310000",
-      "72212520",
-      "92521100"
+      "32441300",
+      "44316400",
+      "48000000",
+      "64226000"
     ],
     "status": "active",
-    "relevance": 25,
+    "relevance": 30,
     "matched": [
-      "CPV 72212520"
+      "CPV 32441300",
+      "CPV 48000000"
     ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564850",
-    "fetched_at": "2026-09-20T20:38:08.096936Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-2-SEP564850",
-    "id": "rls-2-SEP564850",
-    "ocid": "ocds-r6ebe6-0000843372",
-    "title": "Immersive Theater Installation and Exhibition Alterations",
-    "buyer": "Scottish Seabird Centre",
-    "description": "The Scottish Seabird Centre (SSC) seeks to appoint suitably qualified contractor(s) to deliver exhibition alterations, visitor experience improvements and a new immersive theater installation. The procurement is divided into two lots comprising base build works and audio visual design and installation.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-18T00:00:00Z",
-    "deadline": "2026-10-16T09:00:00Z",
-    "value": 265000.0,
-    "currency": "GBP",
-    "cpv": [
-      "32321200",
-      "39154000",
-      "45310000",
-      "45331000",
-      "45453100",
-      "51310000",
-      "72212520",
-      "92521100"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72212520"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564850",
-    "fetched_at": "2026-09-21T10:35:43.329869Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-6-SEP564850",
-    "id": "rls-6-SEP564850",
-    "ocid": "ocds-r6ebe6-0000843372",
-    "title": "Immersive Theater Installation and Exhibition Alterations",
-    "buyer": "Scottish Seabird Centre",
-    "description": "The Scottish Seabird Centre (SSC) seeks to appoint suitably qualified contractor(s) to deliver exhibition alterations, visitor experience improvements and a new immersive theater installation. The procurement is divided into two lots comprising base build works and audio visual design and installation.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-18T00:00:00Z",
-    "deadline": "2026-10-16T09:00:00Z",
-    "value": 265000.0,
-    "currency": "GBP",
-    "cpv": [
-      "32321200",
-      "39154000",
-      "45310000",
-      "45331000",
-      "45453100",
-      "51310000",
-      "72212520",
-      "92521100"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72212520"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564850",
-    "fetched_at": "2026-09-22T09:49:31.533858Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-10-SEP564850",
-    "id": "rls-10-SEP564850",
-    "ocid": "ocds-r6ebe6-0000843372",
-    "title": "Immersive Theater Installation and Exhibition Alterations",
-    "buyer": "Scottish Seabird Centre",
-    "description": "The Scottish Seabird Centre (SSC) seeks to appoint suitably qualified contractor(s) to deliver exhibition alterations, visitor experience improvements and a new immersive theater installation. The procurement is divided into two lots comprising base build works and audio visual design and installation.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-18T00:00:00Z",
-    "deadline": "2026-10-16T09:00:00Z",
-    "value": 265000.0,
-    "currency": "GBP",
-    "cpv": [
-      "32321200",
-      "39154000",
-      "45310000",
-      "45331000",
-      "45453100",
-      "51310000",
-      "72212520",
-      "92521100"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72212520"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564850",
-    "fetched_at": "2026-09-23T09:51:48.934807Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-11-SEP564850",
-    "id": "rls-11-SEP564850",
-    "ocid": "ocds-r6ebe6-0000843372",
-    "title": "Immersive Theater Installation and Exhibition Alterations",
-    "buyer": "Scottish Seabird Centre",
-    "description": "The Scottish Seabird Centre (SSC) seeks to appoint suitably qualified contractor(s) to deliver exhibition alterations, visitor experience improvements and a new immersive theater installation. The procurement is divided into two lots comprising base build works and audio visual design and installation.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-18T00:00:00Z",
-    "deadline": "2026-10-16T09:00:00Z",
-    "value": 265000.0,
-    "currency": "GBP",
-    "cpv": [
-      "32321200",
-      "39154000",
-      "45310000",
-      "45331000",
-      "45453100",
-      "51310000",
-      "72212520",
-      "92521100"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72212520"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564850",
-    "fetched_at": "2026-09-23T21:23:11.563213Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-12-SEP564850",
-    "id": "rls-12-SEP564850",
-    "ocid": "ocds-r6ebe6-0000843372",
-    "title": "Immersive Theater Installation and Exhibition Alterations",
-    "buyer": "Scottish Seabird Centre",
-    "description": "The Scottish Seabird Centre (SSC) seeks to appoint suitably qualified contractor(s) to deliver exhibition alterations, visitor experience improvements and a new immersive theater installation. The procurement is divided into two lots comprising base build works and audio visual design and installation.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-18T00:00:00Z",
-    "deadline": "2026-10-16T09:00:00Z",
-    "value": 265000.0,
-    "currency": "GBP",
-    "cpv": [
-      "32321200",
-      "39154000",
-      "45310000",
-      "45331000",
-      "45453100",
-      "51310000",
-      "72212520",
-      "92521100"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72212520"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564850",
-    "fetched_at": "2026-09-24T09:51:15.553665Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-15-SEP564850",
-    "id": "rls-15-SEP564850",
-    "ocid": "ocds-r6ebe6-0000843372",
-    "title": "Immersive Theater Installation and Exhibition Alterations",
-    "buyer": "Scottish Seabird Centre",
-    "description": "The Scottish Seabird Centre (SSC) seeks to appoint suitably qualified contractor(s) to deliver exhibition alterations, visitor experience improvements and a new immersive theater installation. The procurement is divided into two lots comprising base build works and audio visual design and installation.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-18T00:00:00Z",
-    "deadline": "2026-10-16T09:00:00Z",
-    "value": 265000.0,
-    "currency": "GBP",
-    "cpv": [
-      "32321200",
-      "39154000",
-      "45310000",
-      "45331000",
-      "45453100",
-      "51310000",
-      "72212520",
-      "92521100"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72212520"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564850",
-    "fetched_at": "2026-09-24T21:24:22.979924Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-16-SEP564850",
-    "id": "rls-16-SEP564850",
-    "ocid": "ocds-r6ebe6-0000843372",
-    "title": "Immersive Theater Installation and Exhibition Alterations",
-    "buyer": "Scottish Seabird Centre",
-    "description": "The Scottish Seabird Centre (SSC) seeks to appoint suitably qualified contractor(s) to deliver exhibition alterations, visitor experience improvements and a new immersive theater installation. The procurement is divided into two lots comprising base build works and audio visual design and installation.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-18T00:00:00Z",
-    "deadline": "2026-10-16T09:00:00Z",
-    "value": 265000.0,
-    "currency": "GBP",
-    "cpv": [
-      "32321200",
-      "39154000",
-      "45310000",
-      "45331000",
-      "45453100",
-      "51310000",
-      "72212520",
-      "92521100"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72212520"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564850",
-    "fetched_at": "2026-09-28T11:36:32.550230Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-19-SEP564850",
-    "id": "rls-19-SEP564850",
-    "ocid": "ocds-r6ebe6-0000843372",
-    "title": "Immersive Theater Installation and Exhibition Alterations",
-    "buyer": "Scottish Seabird Centre",
-    "description": "The Scottish Seabird Centre (SSC) seeks to appoint suitably qualified contractor(s) to deliver exhibition alterations, visitor experience improvements and a new immersive theater installation. The procurement is divided into two lots comprising base build works and audio visual design and installation.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-18T00:00:00Z",
-    "deadline": "2026-10-16T09:00:00Z",
-    "value": 265000.0,
-    "currency": "GBP",
-    "cpv": [
-      "32321200",
-      "39154000",
-      "45310000",
-      "45331000",
-      "45453100",
-      "51310000",
-      "72212520",
-      "92521100"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72212520"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564850",
-    "fetched_at": "2026-09-28T23:07:59.042576Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-22-SEP564850",
-    "id": "rls-22-SEP564850",
-    "ocid": "ocds-r6ebe6-0000843372",
-    "title": "Immersive Theater Installation and Exhibition Alterations",
-    "buyer": "Scottish Seabird Centre",
-    "description": "The Scottish Seabird Centre (SSC) seeks to appoint suitably qualified contractor(s) to deliver exhibition alterations, visitor experience improvements and a new immersive theater installation. The procurement is divided into two lots comprising base build works and audio visual design and installation.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-18T00:00:00Z",
-    "deadline": "2026-10-16T09:00:00Z",
-    "value": 265000.0,
-    "currency": "GBP",
-    "cpv": [
-      "32321200",
-      "39154000",
-      "45310000",
-      "45331000",
-      "45453100",
-      "51310000",
-      "72212520",
-      "92521100"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72212520"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564850",
-    "fetched_at": "2026-09-29T11:15:04.727574Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-24-SEP564850",
-    "id": "rls-24-SEP564850",
-    "ocid": "ocds-r6ebe6-0000843372",
-    "title": "Immersive Theater Installation and Exhibition Alterations",
-    "buyer": "Scottish Seabird Centre",
-    "description": "The Scottish Seabird Centre (SSC) seeks to appoint suitably qualified contractor(s) to deliver exhibition alterations, visitor experience improvements and a new immersive theater installation. The procurement is divided into two lots comprising base build works and audio visual design and installation.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-18T00:00:00Z",
-    "deadline": "2026-10-16T09:00:00Z",
-    "value": 265000.0,
-    "currency": "GBP",
-    "cpv": [
-      "32321200",
-      "39154000",
-      "45310000",
-      "45331000",
-      "45453100",
-      "51310000",
-      "72212520",
-      "92521100"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72212520"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564850",
-    "fetched_at": "2026-09-29T22:07:20.353289Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-25-SEP564850",
-    "id": "rls-25-SEP564850",
-    "ocid": "ocds-r6ebe6-0000843372",
-    "title": "Immersive Theater Installation and Exhibition Alterations",
-    "buyer": "Scottish Seabird Centre",
-    "description": "The Scottish Seabird Centre (SSC) seeks to appoint suitably qualified contractor(s) to deliver exhibition alterations, visitor experience improvements and a new immersive theater installation. The procurement is divided into two lots comprising base build works and audio visual design and installation.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-18T00:00:00Z",
-    "deadline": "2026-10-16T09:00:00Z",
-    "value": 265000.0,
-    "currency": "GBP",
-    "cpv": [
-      "32321200",
-      "39154000",
-      "45310000",
-      "45331000",
-      "45453100",
-      "51310000",
-      "72212520",
-      "92521100"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72212520"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564850",
-    "fetched_at": "2026-09-30T11:03:11.946866Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-26-SEP564850",
-    "id": "rls-26-SEP564850",
-    "ocid": "ocds-r6ebe6-0000843372",
-    "title": "Immersive Theater Installation and Exhibition Alterations",
-    "buyer": "Scottish Seabird Centre",
-    "description": "The Scottish Seabird Centre (SSC) seeks to appoint suitably qualified contractor(s) to deliver exhibition alterations, visitor experience improvements and a new immersive theater installation. The procurement is divided into two lots comprising base build works and audio visual design and installation.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-18T00:00:00Z",
-    "deadline": "2026-10-16T09:00:00Z",
-    "value": 265000.0,
-    "currency": "GBP",
-    "cpv": [
-      "32321200",
-      "39154000",
-      "45310000",
-      "45331000",
-      "45453100",
-      "51310000",
-      "72212520",
-      "92521100"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72212520"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564850",
-    "fetched_at": "2026-09-30T22:06:50.795390Z"
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT566767",
+    "fetched_at": "2026-10-16T09:37:14.000820Z"
   },
   {
     "key": "Public Contracts Scotland:rls-4-SEP564992",
@@ -16193,7 +15898,7 @@
       "CPV 32412000"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565724",
-    "fetched_at": "2026-10-15T21:12:00.321239Z"
+    "fetched_at": "2026-10-16T09:37:26.517719Z"
   },
   {
     "key": "Poland / TED:712538-2026",
@@ -16222,7 +15927,36 @@
       "CPV 48000000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/712538-2026",
-    "fetched_at": "2026-10-15T21:12:08.253164Z"
+    "fetched_at": "2026-10-16T09:37:42.130712Z"
+  },
+  {
+    "key": "Poland / TED:715638-2026",
+    "id": "715638-2026",
+    "ocid": null,
+    "title": "Poland – Laundry-collection services – KOMPLEKSOWA USŁUGA NAJMU I SERWISOWANIA ODZIEŻY ROBOCZEJ ORAZ NAJMU I SERWISU SZAFEK NA CZYSTĄ I BRUDNĄ ODZIEŻ DLA PRACOWNIKÓW ZOO WROCŁAW SP. Z O.O.",
+    "buyer": "ZOO WROCŁAW Sp. z o.o.",
+    "description": "Active Polish public procurement notice published through TED.",
+    "source": "Poland / TED",
+    "country": "Poland",
+    "published_at": "2026-10-16T02:00:00Z",
+    "deadline": "2026-11-02T14:00:00Z",
+    "value": null,
+    "currency": "PLN",
+    "cpv": [
+      "98311000",
+      "50830000",
+      "48000000",
+      "35113400",
+      "98311000",
+      "50830000"
+    ],
+    "status": "active",
+    "relevance": 25,
+    "matched": [
+      "CPV 48000000"
+    ],
+    "url": "https://ted.europa.eu/en/notice/-/detail/715638-2026",
+    "fetched_at": "2026-10-16T09:37:36.110287Z"
   },
   {
     "key": "Find a Tender:096471-2026",
@@ -16247,7 +15981,7 @@
       "CPV 48160000"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/096471-2026",
-    "fetched_at": "2026-10-15T21:11:09.786439Z"
+    "fetched_at": "2026-10-16T09:36:22.361431Z"
   },
   {
     "key": "Public Contracts Scotland:rls-1-OCT566581",
@@ -16348,6 +16082,31 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT566581",
     "fetched_at": "2026-10-15T21:11:54.148594Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-15-OCT566581",
+    "id": "rls-15-OCT566581",
+    "ocid": "ocds-r6ebe6-0000845512",
+    "title": "Libraries Scotland eNewspaper and eMagazine",
+    "buyer": "Scottish Library and Information Council",
+    "description": "The aim of this tender is to provide a single national eMagazines and eNewpapers service to all thirty-two public library services for access by their members. Scottish Library and Information Council (SLIC) is seeking a vendor that can supply eMagazines and eNewspapers to all thirty-two public library services.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-13T00:00:00Z",
+    "deadline": "2026-11-13T12:00:00Z",
+    "value": 1600000.0,
+    "currency": "GBP",
+    "cpv": [
+      "48160000",
+      "92511000"
+    ],
+    "status": "active",
+    "relevance": 25,
+    "matched": [
+      "CPV 48160000"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT566581",
+    "fetched_at": "2026-10-16T09:37:14.002172Z"
   },
   {
     "key": "Find a Tender:093954-2026",
@@ -16708,6 +16467,30 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565959",
     "fetched_at": "2026-10-15T21:11:54.151228Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-38-OCT565959",
+    "id": "rls-38-OCT565959",
+    "ocid": "ocds-r6ebe6-0000844805",
+    "title": "Asset Tracking System",
+    "buyer": "NHS Borders",
+    "description": "NHS Borders is seeking competitive tenders from suitably experienced suppliers for an asset tracking system. The requirement supports a programme to improve the control, traceability and efficient management of clinical and selected non-clinical equipment, replacing fragmented manual records with sustainable digital tracking and reporting.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-05T00:00:00Z",
+    "deadline": "2026-11-16T12:00:00Z",
+    "value": 116000.0,
+    "currency": "GBP",
+    "cpv": [
+      "48422000"
+    ],
+    "status": "active",
+    "relevance": 25,
+    "matched": [
+      "CPV 48422000"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565959",
+    "fetched_at": "2026-10-16T09:37:14.004250Z"
   },
   {
     "key": "Poland / TED:673094-2026",
@@ -17570,7 +17353,7 @@
       "software"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT566707",
-    "fetched_at": "2026-10-15T21:12:00.317194Z"
+    "fetched_at": "2026-10-16T09:37:26.514722Z"
   },
   {
     "key": "Public Contracts Scotland:rls-48-OCT565862",
@@ -17594,7 +17377,7 @@
       "website"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565862",
-    "fetched_at": "2026-10-15T21:12:00.320688Z"
+    "fetched_at": "2026-10-16T09:37:26.517323Z"
   },
   {
     "key": "Public Contracts Scotland:rls-50-OCT565847",
@@ -17619,6 +17402,6 @@
       "software"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565847",
-    "fetched_at": "2026-10-15T21:12:00.320873Z"
+    "fetched_at": "2026-10-16T09:37:26.517459Z"
   }
 ]
