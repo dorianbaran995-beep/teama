@@ -36,7 +36,7 @@
       "website hosting"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/720768-2026",
-    "fetched_at": "2026-10-19T10:47:28.956283Z"
+    "fetched_at": "2026-10-19T22:21:48.001012Z"
   },
   {
     "key": "eTenders Ireland / TED:696163-2026",
@@ -860,452 +860,34 @@
     "fetched_at": "2026-09-30T22:06:45.526444Z"
   },
   {
-    "key": "Find a Tender:088594-2026",
-    "id": "088594-2026",
-    "ocid": "ocds-h6vhtk-07753e",
-    "title": "PROVISION OF PAYMENT PLATFORM - UNIVERSITY OF ABERDEEN",
-    "buyer": "University of Aberdeen",
-    "description": "Provision of an enterprise online payment platform and associated payment processing services, including software-as-a-service (SaaS), merchant services, payment gateway functionality, online store capability, implementation, integration, support, maintenance and associated professional services",
-    "source": "Find a Tender",
-    "country": "United Kingdom",
-    "published_at": "2026-09-18T10:32:21Z",
-    "deadline": "2026-10-19T11:00:00Z",
+    "key": "Poland / TED:725595-2026",
+    "id": "725595-2026",
+    "ocid": null,
+    "title": "Poland – Computer equipment and supplies – Multiple framework contract for the supply of ICT hardware, spare parts, accessories and associated services (SUPEPAAS)",
+    "buyer": "European Border and Coast Guard Agency (FRONTEX)",
+    "description": "Active Polish public procurement notice published through TED.",
+    "source": "Poland / TED",
+    "country": "Poland",
+    "published_at": "2026-10-20T02:00:00Z",
+    "deadline": "2026-11-17T22:59:59Z",
     "value": null,
-    "currency": null,
+    "currency": "PLN",
     "cpv": [
-      "48000000",
-      "48100000",
-      "48442000",
-      "66170000"
+      "30200000",
+      "30200000",
+      "30210000",
+      "30230000"
     ],
     "status": "active",
-    "relevance": 67,
+    "relevance": 61,
     "matched": [
-      "CPV 48000000",
-      "CPV 48100000",
-      "CPV 48442000",
-      "integration",
-      "saas",
-      "software"
+      "CPV 30200000",
+      "CPV 30210000",
+      "CPV 30230000",
+      "ict"
     ],
-    "url": "https://www.find-tender.service.gov.uk/Notice/088594-2026",
-    "fetched_at": "2026-09-21T10:34:21.996198Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-37-SEP564806",
-    "id": "rls-37-SEP564806",
-    "ocid": "ocds-r6ebe6-0000843414",
-    "title": "PROVISION OF PAYMENT PLATFORM - UNIVERSITY OF ABERDEEN",
-    "buyer": "University of Aberdeen",
-    "description": "Provision of an enterprise online payment platform and associated payment processing services, including software-as-a-service (SaaS), merchant services, payment gateway functionality, online store capability, implementation, integration, support, maintenance and associated professional services",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-18T00:00:00Z",
-    "deadline": "2026-10-19T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "48000000",
-      "48100000",
-      "48442000",
-      "66170000"
-    ],
-    "status": "active",
-    "relevance": 67,
-    "matched": [
-      "CPV 48000000",
-      "CPV 48100000",
-      "CPV 48442000",
-      "integration",
-      "saas",
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564806",
-    "fetched_at": "2026-09-30T22:06:45.527656Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-32-SEP564806",
-    "id": "rls-32-SEP564806",
-    "ocid": "ocds-r6ebe6-0000843414",
-    "title": "PROVISION OF PAYMENT PLATFORM - UNIVERSITY OF ABERDEEN",
-    "buyer": "University of Aberdeen",
-    "description": "Provision of an enterprise online payment platform and associated payment processing services, including software-as-a-service (SaaS), merchant services, payment gateway functionality, online store capability, implementation, integration, support, maintenance and associated professional services",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-18T00:00:00Z",
-    "deadline": "2026-10-19T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "48000000",
-      "48100000",
-      "48442000",
-      "66170000"
-    ],
-    "status": "active",
-    "relevance": 67,
-    "matched": [
-      "CPV 48000000",
-      "CPV 48100000",
-      "CPV 48442000",
-      "integration",
-      "saas",
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564806",
-    "fetched_at": "2026-09-30T11:03:05.368476Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-28-SEP564806",
-    "id": "rls-28-SEP564806",
-    "ocid": "ocds-r6ebe6-0000843414",
-    "title": "PROVISION OF PAYMENT PLATFORM - UNIVERSITY OF ABERDEEN",
-    "buyer": "University of Aberdeen",
-    "description": "Provision of an enterprise online payment platform and associated payment processing services, including software-as-a-service (SaaS), merchant services, payment gateway functionality, online store capability, implementation, integration, support, maintenance and associated professional services",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-18T00:00:00Z",
-    "deadline": "2026-10-19T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "48000000",
-      "48100000",
-      "48442000",
-      "66170000"
-    ],
-    "status": "active",
-    "relevance": 67,
-    "matched": [
-      "CPV 48000000",
-      "CPV 48100000",
-      "CPV 48442000",
-      "integration",
-      "saas",
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564806",
-    "fetched_at": "2026-09-29T11:14:53.674864Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-27-SEP564806",
-    "id": "rls-27-SEP564806",
-    "ocid": "ocds-r6ebe6-0000843414",
-    "title": "PROVISION OF PAYMENT PLATFORM - UNIVERSITY OF ABERDEEN",
-    "buyer": "University of Aberdeen",
-    "description": "Provision of an enterprise online payment platform and associated payment processing services, including software-as-a-service (SaaS), merchant services, payment gateway functionality, online store capability, implementation, integration, support, maintenance and associated professional services",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-18T00:00:00Z",
-    "deadline": "2026-10-19T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "48000000",
-      "48100000",
-      "48442000",
-      "66170000"
-    ],
-    "status": "active",
-    "relevance": 67,
-    "matched": [
-      "CPV 48000000",
-      "CPV 48100000",
-      "CPV 48442000",
-      "integration",
-      "saas",
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564806",
-    "fetched_at": "2026-09-28T11:36:24.896578Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-26-SEP564806",
-    "id": "rls-26-SEP564806",
-    "ocid": "ocds-r6ebe6-0000843414",
-    "title": "PROVISION OF PAYMENT PLATFORM - UNIVERSITY OF ABERDEEN",
-    "buyer": "University of Aberdeen",
-    "description": "Provision of an enterprise online payment platform and associated payment processing services, including software-as-a-service (SaaS), merchant services, payment gateway functionality, online store capability, implementation, integration, support, maintenance and associated professional services",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-18T00:00:00Z",
-    "deadline": "2026-10-19T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "48000000",
-      "48100000",
-      "48442000",
-      "66170000"
-    ],
-    "status": "active",
-    "relevance": 67,
-    "matched": [
-      "CPV 48000000",
-      "CPV 48100000",
-      "CPV 48442000",
-      "integration",
-      "saas",
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564806",
-    "fetched_at": "2026-09-27T21:12:35.832611Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-22-SEP564806",
-    "id": "rls-22-SEP564806",
-    "ocid": "ocds-r6ebe6-0000843414",
-    "title": "PROVISION OF PAYMENT PLATFORM - UNIVERSITY OF ABERDEEN",
-    "buyer": "University of Aberdeen",
-    "description": "Provision of an enterprise online payment platform and associated payment processing services, including software-as-a-service (SaaS), merchant services, payment gateway functionality, online store capability, implementation, integration, support, maintenance and associated professional services",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-18T00:00:00Z",
-    "deadline": "2026-10-19T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "48000000",
-      "48100000",
-      "48442000",
-      "66170000"
-    ],
-    "status": "active",
-    "relevance": 67,
-    "matched": [
-      "CPV 48000000",
-      "CPV 48100000",
-      "CPV 48442000",
-      "integration",
-      "saas",
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564806",
-    "fetched_at": "2026-09-25T10:06:20.631514Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-20-SEP564806",
-    "id": "rls-20-SEP564806",
-    "ocid": "ocds-r6ebe6-0000843414",
-    "title": "PROVISION OF PAYMENT PLATFORM - UNIVERSITY OF ABERDEEN",
-    "buyer": "University of Aberdeen",
-    "description": "Provision of an enterprise online payment platform and associated payment processing services, including software-as-a-service (SaaS), merchant services, payment gateway functionality, online store capability, implementation, integration, support, maintenance and associated professional services",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-18T00:00:00Z",
-    "deadline": "2026-10-19T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "48000000",
-      "48100000",
-      "48442000",
-      "66170000"
-    ],
-    "status": "active",
-    "relevance": 67,
-    "matched": [
-      "CPV 48000000",
-      "CPV 48100000",
-      "CPV 48442000",
-      "integration",
-      "saas",
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564806",
-    "fetched_at": "2026-09-24T21:24:14.839184Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-19-SEP564806",
-    "id": "rls-19-SEP564806",
-    "ocid": "ocds-r6ebe6-0000843414",
-    "title": "PROVISION OF PAYMENT PLATFORM - UNIVERSITY OF ABERDEEN",
-    "buyer": "University of Aberdeen",
-    "description": "Provision of an enterprise online payment platform and associated payment processing services, including software-as-a-service (SaaS), merchant services, payment gateway functionality, online store capability, implementation, integration, support, maintenance and associated professional services",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-18T00:00:00Z",
-    "deadline": "2026-10-19T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "48000000",
-      "48100000",
-      "48442000",
-      "66170000"
-    ],
-    "status": "active",
-    "relevance": 67,
-    "matched": [
-      "CPV 48000000",
-      "CPV 48100000",
-      "CPV 48442000",
-      "integration",
-      "saas",
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564806",
-    "fetched_at": "2026-09-23T21:23:01.523338Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-18-SEP564806",
-    "id": "rls-18-SEP564806",
-    "ocid": "ocds-r6ebe6-0000843414",
-    "title": "PROVISION OF PAYMENT PLATFORM - UNIVERSITY OF ABERDEEN",
-    "buyer": "University of Aberdeen",
-    "description": "Provision of an enterprise online payment platform and associated payment processing services, including software-as-a-service (SaaS), merchant services, payment gateway functionality, online store capability, implementation, integration, support, maintenance and associated professional services",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-18T00:00:00Z",
-    "deadline": "2026-10-19T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "48000000",
-      "48100000",
-      "48442000",
-      "66170000"
-    ],
-    "status": "active",
-    "relevance": 67,
-    "matched": [
-      "CPV 48000000",
-      "CPV 48100000",
-      "CPV 48442000",
-      "integration",
-      "saas",
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564806",
-    "fetched_at": "2026-09-23T09:51:37.015575Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-17-SEP564806",
-    "id": "rls-17-SEP564806",
-    "ocid": "ocds-r6ebe6-0000843414",
-    "title": "PROVISION OF PAYMENT PLATFORM - UNIVERSITY OF ABERDEEN",
-    "buyer": "University of Aberdeen",
-    "description": "Provision of an enterprise online payment platform and associated payment processing services, including software-as-a-service (SaaS), merchant services, payment gateway functionality, online store capability, implementation, integration, support, maintenance and associated professional services",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-18T00:00:00Z",
-    "deadline": "2026-10-19T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "48000000",
-      "48100000",
-      "48442000",
-      "66170000"
-    ],
-    "status": "active",
-    "relevance": 67,
-    "matched": [
-      "CPV 48000000",
-      "CPV 48100000",
-      "CPV 48442000",
-      "integration",
-      "saas",
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564806",
-    "fetched_at": "2026-09-22T21:09:05.543457Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-15-SEP564806",
-    "id": "rls-15-SEP564806",
-    "ocid": "ocds-r6ebe6-0000843414",
-    "title": "PROVISION OF PAYMENT PLATFORM - UNIVERSITY OF ABERDEEN",
-    "buyer": "University of Aberdeen",
-    "description": "Provision of an enterprise online payment platform and associated payment processing services, including software-as-a-service (SaaS), merchant services, payment gateway functionality, online store capability, implementation, integration, support, maintenance and associated professional services",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-18T00:00:00Z",
-    "deadline": "2026-10-19T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "48000000",
-      "48100000",
-      "48442000",
-      "66170000"
-    ],
-    "status": "active",
-    "relevance": 67,
-    "matched": [
-      "CPV 48000000",
-      "CPV 48100000",
-      "CPV 48442000",
-      "integration",
-      "saas",
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564806",
-    "fetched_at": "2026-09-22T09:47:59.861031Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-9-SEP564806",
-    "id": "rls-9-SEP564806",
-    "ocid": "ocds-r6ebe6-0000843414",
-    "title": "PROVISION OF PAYMENT PLATFORM - UNIVERSITY OF ABERDEEN",
-    "buyer": "University of Aberdeen",
-    "description": "Provision of an enterprise online payment platform and associated payment processing services, including software-as-a-service (SaaS), merchant services, payment gateway functionality, online store capability, implementation, integration, support, maintenance and associated professional services",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-18T00:00:00Z",
-    "deadline": "2026-10-19T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "48000000",
-      "48100000",
-      "48442000",
-      "66170000"
-    ],
-    "status": "active",
-    "relevance": 67,
-    "matched": [
-      "CPV 48000000",
-      "CPV 48100000",
-      "CPV 48442000",
-      "integration",
-      "saas",
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564806",
-    "fetched_at": "2026-09-21T10:35:22.637921Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-6-SEP564806",
-    "id": "rls-6-SEP564806",
-    "ocid": "ocds-r6ebe6-0000843414",
-    "title": "PROVISION OF PAYMENT PLATFORM - UNIVERSITY OF ABERDEEN",
-    "buyer": "University of Aberdeen",
-    "description": "Provision of an enterprise online payment platform and associated payment processing services, including software-as-a-service (SaaS), merchant services, payment gateway functionality, online store capability, implementation, integration, support, maintenance and associated professional services",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-18T00:00:00Z",
-    "deadline": "2026-10-19T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "48000000",
-      "48100000",
-      "48442000",
-      "66170000"
-    ],
-    "status": "active",
-    "relevance": 67,
-    "matched": [
-      "CPV 48000000",
-      "CPV 48100000",
-      "CPV 48442000",
-      "integration",
-      "saas",
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564806",
-    "fetched_at": "2026-09-20T20:37:55.347737Z"
+    "url": "https://ted.europa.eu/en/notice/-/detail/725595-2026",
+    "fetched_at": "2026-10-19T22:21:52.534205Z"
   },
   {
     "key": "eTenders Ireland / TED:684805-2026",
@@ -1451,7 +1033,7 @@
       "managed service"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/707247-2026",
-    "fetched_at": "2026-10-19T10:47:28.967927Z"
+    "fetched_at": "2026-10-19T22:21:48.014244Z"
   },
   {
     "key": "eTenders Ireland / TED:712448-2026",
@@ -1505,7 +1087,7 @@
       "managed service"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/712448-2026",
-    "fetched_at": "2026-10-19T10:47:28.962161Z"
+    "fetched_at": "2026-10-19T22:21:48.007059Z"
   },
   {
     "key": "eTenders Ireland / TED:695163-2026",
@@ -1910,7 +1492,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/719402-2026",
-    "fetched_at": "2026-10-19T10:47:28.954785Z"
+    "fetched_at": "2026-10-19T22:21:47.999469Z"
   },
   {
     "key": "eTenders Ireland / TED:708409-2026",
@@ -1951,7 +1533,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/708409-2026",
-    "fetched_at": "2026-10-19T10:47:28.966747Z"
+    "fetched_at": "2026-10-19T22:21:48.011196Z"
   },
   {
     "key": "eTenders Ireland / TED:706914-2026",
@@ -1994,7 +1576,7 @@
       "ict"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/706914-2026",
-    "fetched_at": "2026-10-19T10:47:28.969223Z"
+    "fetched_at": "2026-10-19T22:21:48.012426Z"
   },
   {
     "key": "eTenders Ireland / TED:657631-2026",
@@ -3602,88 +3184,6 @@
     "fetched_at": "2026-09-30T22:06:51.922814Z"
   },
   {
-    "key": "Poland / TED:673225-2026",
-    "id": "673225-2026",
-    "ocid": null,
-    "title": "Poland – Miscellaneous furniture and equipment – Dostawa wyposażenia dla budynku Gminnego Ośrodka Kultury w Widawie, zadanie pn.: Odbudowa i rozbudowa budynku Gminnego Ośrodka Kultury w Widawie w systemie „zaprojektuj i wybuduj” w ramach projektu „Przebudowa i rozbudowa Gminnego Ośrodka Kultury w Widawie” – część II zamówienia",
-    "buyer": "Gmina Widawa",
-    "description": "Active Polish public procurement notice published through TED.",
-    "source": "Poland / TED",
-    "country": "Poland",
-    "published_at": "2026-09-30T02:00:00Z",
-    "deadline": "2026-10-19T22:00:00Z",
-    "value": null,
-    "currency": "PLN",
-    "cpv": [
-      "39150000",
-      "39121200",
-      "39121100",
-      "39113600",
-      "44421000",
-      "39151300",
-      "30213000",
-      "30213100",
-      "30231300",
-      "30238000",
-      "30121100",
-      "30121430",
-      "30190000",
-      "39155100",
-      "38651000",
-      "37311100",
-      "37321100",
-      "42992200",
-      "42990000",
-      "39711360",
-      "39711110",
-      "39711310",
-      "39713430",
-      "39713400",
-      "37524100",
-      "72212517",
-      "42611000",
-      "39150000",
-      "39121200",
-      "39121100",
-      "39112000",
-      "39113600",
-      "39113000",
-      "39132100",
-      "44421000",
-      "39151300",
-      "30213000",
-      "30213100",
-      "30231300",
-      "30238000",
-      "30121100",
-      "30121430",
-      "30190000",
-      "39155100",
-      "38651000",
-      "37311100",
-      "37320000",
-      "42990000",
-      "39711360",
-      "39711110",
-      "39711310",
-      "39713430",
-      "39713400",
-      "37524100",
-      "72212517",
-      "42611000"
-    ],
-    "status": "active",
-    "relevance": 53,
-    "matched": [
-      "CPV 30213000",
-      "CPV 30213100",
-      "CPV 30231300",
-      "CPV 30238000"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/673225-2026",
-    "fetched_at": "2026-10-06T11:54:52.940480Z"
-  },
-  {
     "key": "Public Contracts Scotland:rls-2-SEP564669",
     "id": "rls-2-SEP564669",
     "ocid": "ocds-r6ebe6-0000843210",
@@ -4237,7 +3737,36 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/707513-2026",
-    "fetched_at": "2026-10-19T10:47:28.965399Z"
+    "fetched_at": "2026-10-19T22:21:48.010277Z"
+  },
+  {
+    "key": "eTenders Ireland / TED:725963-2026",
+    "id": "725963-2026",
+    "ocid": null,
+    "title": "Ireland – Software-related services – Licences for Lansweeper",
+    "buyer": "Department of Agriculture Food and the Marine",
+    "description": "Active Irish public procurement notice published through TED/eTenders.",
+    "source": "eTenders Ireland / TED",
+    "country": "Ireland",
+    "published_at": "2026-10-20T02:00:00Z",
+    "deadline": "2026-11-10T15:00:00Z",
+    "value": null,
+    "currency": "EUR",
+    "cpv": [
+      "72260000",
+      "72268000",
+      "72260000",
+      "72268000"
+    ],
+    "status": "active",
+    "relevance": 53,
+    "matched": [
+      "CPV 72260000",
+      "CPV 72268000",
+      "software"
+    ],
+    "url": "https://ted.europa.eu/en/notice/-/detail/725963-2026",
+    "fetched_at": "2026-10-19T22:21:47.996920Z"
   },
   {
     "key": "eTenders Ireland / TED:658139-2026",
@@ -5386,7 +4915,7 @@
       "CPV 72268000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/705132-2026",
-    "fetched_at": "2026-10-19T10:47:28.969992Z"
+    "fetched_at": "2026-10-19T22:21:48.014958Z"
   },
   {
     "key": "Poland / TED:715186-2026",
@@ -5422,7 +4951,7 @@
       "CPV 72416000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/715186-2026",
-    "fetched_at": "2026-10-19T10:47:33.968898Z"
+    "fetched_at": "2026-10-19T22:21:58.265291Z"
   },
   {
     "key": "Find a Tender:091992-2026",
@@ -5821,58 +5350,6 @@
     "fetched_at": "2026-10-16T09:37:14.002552Z"
   },
   {
-    "key": "eTenders Ireland / TED:694051-2026",
-    "id": "694051-2026",
-    "ocid": null,
-    "title": "Ireland – Archive shelving – Archival Boxes for the National Archives",
-    "buyer": "Department of Culture Communications Sport",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-10-08T02:00:00Z",
-    "deadline": "2026-10-19T11:00:00Z",
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "39131100",
-      "92500000",
-      "92512000",
-      "92510000",
-      "30199500",
-      "44421780",
-      "44617000",
-      "75100000",
-      "75000000",
-      "92000000",
-      "22000000",
-      "22800000",
-      "22900000",
-      "30000000",
-      "39131100",
-      "92500000",
-      "92512000",
-      "92510000",
-      "30199500",
-      "44421780",
-      "44617000",
-      "75100000",
-      "75000000",
-      "92000000",
-      "22000000",
-      "22800000",
-      "22900000",
-      "30000000"
-    ],
-    "status": "active",
-    "relevance": 40,
-    "matched": [
-      "CPV 30000000",
-      "CPV 30199500"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/694051-2026",
-    "fetched_at": "2026-10-14T21:30:37.492742Z"
-  },
-  {
     "key": "eTenders Ireland / TED:704727-2026",
     "id": "704727-2026",
     "ocid": null,
@@ -5930,7 +5407,7 @@
       "CPV 72260000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/714691-2026",
-    "fetched_at": "2026-10-19T10:47:37.540641Z"
+    "fetched_at": "2026-10-19T22:22:02.961161Z"
   },
   {
     "key": "eTenders Ireland / TED:687062-2026",
@@ -8154,438 +7631,6 @@
     "fetched_at": "2026-10-16T09:37:14.002317Z"
   },
   {
-    "key": "Find a Tender:087673-2026",
-    "id": "087673-2026",
-    "ocid": "ocds-h6vhtk-06faf0",
-    "title": "PURCH3013 Provision of Contract Agreement for Manufacture of Investigational Medicinal Products for a Clinical Trial",
-    "buyer": "University of Glasgow",
-    "description": "PURCH3013 Provision of Contract Agreement for Manufacture of Investigational Medicinal Products for a Clinical Trial, (Including Final Qualified Person Release, Storage and Distribution to Study Sites) and Option to Provide an Integrated IRT System with Forecasting Capabilities. This procurement process is being conducted using the Competitive Procedure with Negotiation (CPN) in accordance with the requirements of Regulation 30 of the PC(S)R 2015. Although this procurement is being conducted under the Competitive Procedure with Negotiation (CPN), it is structured differently from a typical CPN process. This approach has been adopted to enhance the efficiency of evaluating supplier responses across both stages (SPD and ITT). Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the ‘Contact Us’ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
-    "source": "Find a Tender",
-    "country": "United Kingdom",
-    "published_at": "2026-09-16T10:28:18Z",
-    "deadline": "2026-10-19T11:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "33000000",
-      "33600000"
-    ],
-    "status": "active",
-    "relevance": 32,
-    "matched": [
-      "portal",
-      "website",
-      "website support"
-    ],
-    "url": "https://www.find-tender.service.gov.uk/Notice/087673-2026",
-    "fetched_at": "2026-09-19T09:19:14.157589Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-1-SEP564618",
-    "id": "rls-1-SEP564618",
-    "ocid": "ocds-r6ebe6-0000843130",
-    "title": "PURCH3013 Provision of Contract Agreement for Manufacture of Investigational Medicinal Products for a Clinical Trial",
-    "buyer": "University of Glasgow",
-    "description": "PURCH3013 Provision of Contract Agreement for Manufacture of Investigational Medicinal Products for a Clinical Trial, (Including Final Qualified Person Release, Storage and Distribution to Study Sites) and Option to Provide an Integrated IRT System with Forecasting Capabilities. This procurement process is being conducted using the Competitive Procedure with Negotiation (CPN) in accordance with the requirements of Regulation 30 of the PC(S)R 2015. Although this procurement is being conducted under the Competitive Procedure with Negotiation (CPN), it is structured differently from a typical CPN process. This approach has been adopted to enhance the efficiency of evaluating supplier responses across both stages (SPD and ITT). Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the âContact Usâ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-16T00:00:00Z",
-    "deadline": "2026-10-19T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "33000000",
-      "33600000"
-    ],
-    "status": "active",
-    "relevance": 32,
-    "matched": [
-      "portal",
-      "website",
-      "website support"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564618",
-    "fetched_at": "2026-09-17T09:55:28.325897Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-5-SEP564618",
-    "id": "rls-5-SEP564618",
-    "ocid": "ocds-r6ebe6-0000843130",
-    "title": "PURCH3013 Provision of Contract Agreement for Manufacture of Investigational Medicinal Products for a Clinical Trial",
-    "buyer": "University of Glasgow",
-    "description": "PURCH3013 Provision of Contract Agreement for Manufacture of Investigational Medicinal Products for a Clinical Trial, (Including Final Qualified Person Release, Storage and Distribution to Study Sites) and Option to Provide an Integrated IRT System with Forecasting Capabilities. This procurement process is being conducted using the Competitive Procedure with Negotiation (CPN) in accordance with the requirements of Regulation 30 of the PC(S)R 2015. Although this procurement is being conducted under the Competitive Procedure with Negotiation (CPN), it is structured differently from a typical CPN process. This approach has been adopted to enhance the efficiency of evaluating supplier responses across both stages (SPD and ITT). Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the âContact Usâ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-16T00:00:00Z",
-    "deadline": "2026-10-19T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "33000000",
-      "33600000"
-    ],
-    "status": "active",
-    "relevance": 32,
-    "matched": [
-      "portal",
-      "website",
-      "website support"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564618",
-    "fetched_at": "2026-09-18T09:33:33.226464Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-12-SEP564618",
-    "id": "rls-12-SEP564618",
-    "ocid": "ocds-r6ebe6-0000843130",
-    "title": "PURCH3013 Provision of Contract Agreement for Manufacture of Investigational Medicinal Products for a Clinical Trial",
-    "buyer": "University of Glasgow",
-    "description": "PURCH3013 Provision of Contract Agreement for Manufacture of Investigational Medicinal Products for a Clinical Trial, (Including Final Qualified Person Release, Storage and Distribution to Study Sites) and Option to Provide an Integrated IRT System with Forecasting Capabilities. This procurement process is being conducted using the Competitive Procedure with Negotiation (CPN) in accordance with the requirements of Regulation 30 of the PC(S)R 2015. Although this procurement is being conducted under the Competitive Procedure with Negotiation (CPN), it is structured differently from a typical CPN process. This approach has been adopted to enhance the efficiency of evaluating supplier responses across both stages (SPD and ITT). Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the âContact Usâ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-16T00:00:00Z",
-    "deadline": "2026-10-19T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "33000000",
-      "33600000"
-    ],
-    "status": "active",
-    "relevance": 32,
-    "matched": [
-      "portal",
-      "website",
-      "website support"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564618",
-    "fetched_at": "2026-09-20T20:37:55.348549Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-15-SEP564618",
-    "id": "rls-15-SEP564618",
-    "ocid": "ocds-r6ebe6-0000843130",
-    "title": "PURCH3013 Provision of Contract Agreement for Manufacture of Investigational Medicinal Products for a Clinical Trial",
-    "buyer": "University of Glasgow",
-    "description": "PURCH3013 Provision of Contract Agreement for Manufacture of Investigational Medicinal Products for a Clinical Trial, (Including Final Qualified Person Release, Storage and Distribution to Study Sites) and Option to Provide an Integrated IRT System with Forecasting Capabilities. This procurement process is being conducted using the Competitive Procedure with Negotiation (CPN) in accordance with the requirements of Regulation 30 of the PC(S)R 2015. Although this procurement is being conducted under the Competitive Procedure with Negotiation (CPN), it is structured differently from a typical CPN process. This approach has been adopted to enhance the efficiency of evaluating supplier responses across both stages (SPD and ITT). Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the âContact Usâ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-16T00:00:00Z",
-    "deadline": "2026-10-19T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "33000000",
-      "33600000"
-    ],
-    "status": "active",
-    "relevance": 32,
-    "matched": [
-      "portal",
-      "website",
-      "website support"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564618",
-    "fetched_at": "2026-09-21T10:35:22.638538Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-21-SEP564618",
-    "id": "rls-21-SEP564618",
-    "ocid": "ocds-r6ebe6-0000843130",
-    "title": "PURCH3013 Provision of Contract Agreement for Manufacture of Investigational Medicinal Products for a Clinical Trial",
-    "buyer": "University of Glasgow",
-    "description": "PURCH3013 Provision of Contract Agreement for Manufacture of Investigational Medicinal Products for a Clinical Trial, (Including Final Qualified Person Release, Storage and Distribution to Study Sites) and Option to Provide an Integrated IRT System with Forecasting Capabilities. This procurement process is being conducted using the Competitive Procedure with Negotiation (CPN) in accordance with the requirements of Regulation 30 of the PC(S)R 2015. Although this procurement is being conducted under the Competitive Procedure with Negotiation (CPN), it is structured differently from a typical CPN process. This approach has been adopted to enhance the efficiency of evaluating supplier responses across both stages (SPD and ITT). Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the âContact Usâ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-16T00:00:00Z",
-    "deadline": "2026-10-19T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "33000000",
-      "33600000"
-    ],
-    "status": "active",
-    "relevance": 32,
-    "matched": [
-      "portal",
-      "website",
-      "website support"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564618",
-    "fetched_at": "2026-09-22T09:47:59.861834Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-23-SEP564618",
-    "id": "rls-23-SEP564618",
-    "ocid": "ocds-r6ebe6-0000843130",
-    "title": "PURCH3013 Provision of Contract Agreement for Manufacture of Investigational Medicinal Products for a Clinical Trial",
-    "buyer": "University of Glasgow",
-    "description": "PURCH3013 Provision of Contract Agreement for Manufacture of Investigational Medicinal Products for a Clinical Trial, (Including Final Qualified Person Release, Storage and Distribution to Study Sites) and Option to Provide an Integrated IRT System with Forecasting Capabilities. This procurement process is being conducted using the Competitive Procedure with Negotiation (CPN) in accordance with the requirements of Regulation 30 of the PC(S)R 2015. Although this procurement is being conducted under the Competitive Procedure with Negotiation (CPN), it is structured differently from a typical CPN process. This approach has been adopted to enhance the efficiency of evaluating supplier responses across both stages (SPD and ITT). Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the âContact Usâ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-16T00:00:00Z",
-    "deadline": "2026-10-19T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "33000000",
-      "33600000"
-    ],
-    "status": "active",
-    "relevance": 32,
-    "matched": [
-      "portal",
-      "website",
-      "website support"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564618",
-    "fetched_at": "2026-09-22T21:09:05.544063Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-24-SEP564618",
-    "id": "rls-24-SEP564618",
-    "ocid": "ocds-r6ebe6-0000843130",
-    "title": "PURCH3013 Provision of Contract Agreement for Manufacture of Investigational Medicinal Products for a Clinical Trial",
-    "buyer": "University of Glasgow",
-    "description": "PURCH3013 Provision of Contract Agreement for Manufacture of Investigational Medicinal Products for a Clinical Trial, (Including Final Qualified Person Release, Storage and Distribution to Study Sites) and Option to Provide an Integrated IRT System with Forecasting Capabilities. This procurement process is being conducted using the Competitive Procedure with Negotiation (CPN) in accordance with the requirements of Regulation 30 of the PC(S)R 2015. Although this procurement is being conducted under the Competitive Procedure with Negotiation (CPN), it is structured differently from a typical CPN process. This approach has been adopted to enhance the efficiency of evaluating supplier responses across both stages (SPD and ITT). Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the âContact Usâ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-16T00:00:00Z",
-    "deadline": "2026-10-19T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "33000000",
-      "33600000"
-    ],
-    "status": "active",
-    "relevance": 32,
-    "matched": [
-      "portal",
-      "website",
-      "website support"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564618",
-    "fetched_at": "2026-09-23T09:51:37.016250Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-25-SEP564618",
-    "id": "rls-25-SEP564618",
-    "ocid": "ocds-r6ebe6-0000843130",
-    "title": "PURCH3013 Provision of Contract Agreement for Manufacture of Investigational Medicinal Products for a Clinical Trial",
-    "buyer": "University of Glasgow",
-    "description": "PURCH3013 Provision of Contract Agreement for Manufacture of Investigational Medicinal Products for a Clinical Trial, (Including Final Qualified Person Release, Storage and Distribution to Study Sites) and Option to Provide an Integrated IRT System with Forecasting Capabilities. This procurement process is being conducted using the Competitive Procedure with Negotiation (CPN) in accordance with the requirements of Regulation 30 of the PC(S)R 2015. Although this procurement is being conducted under the Competitive Procedure with Negotiation (CPN), it is structured differently from a typical CPN process. This approach has been adopted to enhance the efficiency of evaluating supplier responses across both stages (SPD and ITT). Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the âContact Usâ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-16T00:00:00Z",
-    "deadline": "2026-10-19T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "33000000",
-      "33600000"
-    ],
-    "status": "active",
-    "relevance": 32,
-    "matched": [
-      "portal",
-      "website",
-      "website support"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564618",
-    "fetched_at": "2026-09-23T21:23:01.523978Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-26-SEP564618",
-    "id": "rls-26-SEP564618",
-    "ocid": "ocds-r6ebe6-0000843130",
-    "title": "PURCH3013 Provision of Contract Agreement for Manufacture of Investigational Medicinal Products for a Clinical Trial",
-    "buyer": "University of Glasgow",
-    "description": "PURCH3013 Provision of Contract Agreement for Manufacture of Investigational Medicinal Products for a Clinical Trial, (Including Final Qualified Person Release, Storage and Distribution to Study Sites) and Option to Provide an Integrated IRT System with Forecasting Capabilities. This procurement process is being conducted using the Competitive Procedure with Negotiation (CPN) in accordance with the requirements of Regulation 30 of the PC(S)R 2015. Although this procurement is being conducted under the Competitive Procedure with Negotiation (CPN), it is structured differently from a typical CPN process. This approach has been adopted to enhance the efficiency of evaluating supplier responses across both stages (SPD and ITT). Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the âContact Usâ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-16T00:00:00Z",
-    "deadline": "2026-10-19T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "33000000",
-      "33600000"
-    ],
-    "status": "active",
-    "relevance": 32,
-    "matched": [
-      "portal",
-      "website",
-      "website support"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564618",
-    "fetched_at": "2026-09-24T21:24:14.839997Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-28-SEP564618",
-    "id": "rls-28-SEP564618",
-    "ocid": "ocds-r6ebe6-0000843130",
-    "title": "PURCH3013 Provision of Contract Agreement for Manufacture of Investigational Medicinal Products for a Clinical Trial",
-    "buyer": "University of Glasgow",
-    "description": "PURCH3013 Provision of Contract Agreement for Manufacture of Investigational Medicinal Products for a Clinical Trial, (Including Final Qualified Person Release, Storage and Distribution to Study Sites) and Option to Provide an Integrated IRT System with Forecasting Capabilities. This procurement process is being conducted using the Competitive Procedure with Negotiation (CPN) in accordance with the requirements of Regulation 30 of the PC(S)R 2015. Although this procurement is being conducted under the Competitive Procedure with Negotiation (CPN), it is structured differently from a typical CPN process. This approach has been adopted to enhance the efficiency of evaluating supplier responses across both stages (SPD and ITT). Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the âContact Usâ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-16T00:00:00Z",
-    "deadline": "2026-10-19T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "33000000",
-      "33600000"
-    ],
-    "status": "active",
-    "relevance": 32,
-    "matched": [
-      "portal",
-      "website",
-      "website support"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564618",
-    "fetched_at": "2026-09-25T10:06:20.632315Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-32-SEP564618",
-    "id": "rls-32-SEP564618",
-    "ocid": "ocds-r6ebe6-0000843130",
-    "title": "PURCH3013 Provision of Contract Agreement for Manufacture of Investigational Medicinal Products for a Clinical Trial",
-    "buyer": "University of Glasgow",
-    "description": "PURCH3013 Provision of Contract Agreement for Manufacture of Investigational Medicinal Products for a Clinical Trial, (Including Final Qualified Person Release, Storage and Distribution to Study Sites) and Option to Provide an Integrated IRT System with Forecasting Capabilities. This procurement process is being conducted using the Competitive Procedure with Negotiation (CPN) in accordance with the requirements of Regulation 30 of the PC(S)R 2015. Although this procurement is being conducted under the Competitive Procedure with Negotiation (CPN), it is structured differently from a typical CPN process. This approach has been adopted to enhance the efficiency of evaluating supplier responses across both stages (SPD and ITT). Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the âContact Usâ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-16T00:00:00Z",
-    "deadline": "2026-10-19T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "33000000",
-      "33600000"
-    ],
-    "status": "active",
-    "relevance": 32,
-    "matched": [
-      "portal",
-      "website",
-      "website support"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564618",
-    "fetched_at": "2026-09-27T21:12:35.833166Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-33-SEP564618",
-    "id": "rls-33-SEP564618",
-    "ocid": "ocds-r6ebe6-0000843130",
-    "title": "PURCH3013 Provision of Contract Agreement for Manufacture of Investigational Medicinal Products for a Clinical Trial",
-    "buyer": "University of Glasgow",
-    "description": "PURCH3013 Provision of Contract Agreement for Manufacture of Investigational Medicinal Products for a Clinical Trial, (Including Final Qualified Person Release, Storage and Distribution to Study Sites) and Option to Provide an Integrated IRT System with Forecasting Capabilities. This procurement process is being conducted using the Competitive Procedure with Negotiation (CPN) in accordance with the requirements of Regulation 30 of the PC(S)R 2015. Although this procurement is being conducted under the Competitive Procedure with Negotiation (CPN), it is structured differently from a typical CPN process. This approach has been adopted to enhance the efficiency of evaluating supplier responses across both stages (SPD and ITT). Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the âContact Usâ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-16T00:00:00Z",
-    "deadline": "2026-10-19T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "33000000",
-      "33600000"
-    ],
-    "status": "active",
-    "relevance": 32,
-    "matched": [
-      "portal",
-      "website",
-      "website support"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564618",
-    "fetched_at": "2026-09-28T11:36:24.897238Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-34-SEP564618",
-    "id": "rls-34-SEP564618",
-    "ocid": "ocds-r6ebe6-0000843130",
-    "title": "PURCH3013 Provision of Contract Agreement for Manufacture of Investigational Medicinal Products for a Clinical Trial",
-    "buyer": "University of Glasgow",
-    "description": "PURCH3013 Provision of Contract Agreement for Manufacture of Investigational Medicinal Products for a Clinical Trial, (Including Final Qualified Person Release, Storage and Distribution to Study Sites) and Option to Provide an Integrated IRT System with Forecasting Capabilities. This procurement process is being conducted using the Competitive Procedure with Negotiation (CPN) in accordance with the requirements of Regulation 30 of the PC(S)R 2015. Although this procurement is being conducted under the Competitive Procedure with Negotiation (CPN), it is structured differently from a typical CPN process. This approach has been adopted to enhance the efficiency of evaluating supplier responses across both stages (SPD and ITT). Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the âContact Usâ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-16T00:00:00Z",
-    "deadline": "2026-10-19T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "33000000",
-      "33600000"
-    ],
-    "status": "active",
-    "relevance": 32,
-    "matched": [
-      "portal",
-      "website",
-      "website support"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564618",
-    "fetched_at": "2026-09-29T11:14:53.675658Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-38-SEP564618",
-    "id": "rls-38-SEP564618",
-    "ocid": "ocds-r6ebe6-0000843130",
-    "title": "PURCH3013 Provision of Contract Agreement for Manufacture of Investigational Medicinal Products for a Clinical Trial",
-    "buyer": "University of Glasgow",
-    "description": "PURCH3013 Provision of Contract Agreement for Manufacture of Investigational Medicinal Products for a Clinical Trial, (Including Final Qualified Person Release, Storage and Distribution to Study Sites) and Option to Provide an Integrated IRT System with Forecasting Capabilities. This procurement process is being conducted using the Competitive Procedure with Negotiation (CPN) in accordance with the requirements of Regulation 30 of the PC(S)R 2015. Although this procurement is being conducted under the Competitive Procedure with Negotiation (CPN), it is structured differently from a typical CPN process. This approach has been adopted to enhance the efficiency of evaluating supplier responses across both stages (SPD and ITT). Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the âContact Usâ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-16T00:00:00Z",
-    "deadline": "2026-10-19T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "33000000",
-      "33600000"
-    ],
-    "status": "active",
-    "relevance": 32,
-    "matched": [
-      "portal",
-      "website",
-      "website support"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564618",
-    "fetched_at": "2026-09-30T11:03:05.369177Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-43-SEP564618",
-    "id": "rls-43-SEP564618",
-    "ocid": "ocds-r6ebe6-0000843130",
-    "title": "PURCH3013 Provision of Contract Agreement for Manufacture of Investigational Medicinal Products for a Clinical Trial",
-    "buyer": "University of Glasgow",
-    "description": "PURCH3013 Provision of Contract Agreement for Manufacture of Investigational Medicinal Products for a Clinical Trial, (Including Final Qualified Person Release, Storage and Distribution to Study Sites) and Option to Provide an Integrated IRT System with Forecasting Capabilities. This procurement process is being conducted using the Competitive Procedure with Negotiation (CPN) in accordance with the requirements of Regulation 30 of the PC(S)R 2015. Although this procurement is being conducted under the Competitive Procedure with Negotiation (CPN), it is structured differently from a typical CPN process. This approach has been adopted to enhance the efficiency of evaluating supplier responses across both stages (SPD and ITT). Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the âContact Usâ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-16T00:00:00Z",
-    "deadline": "2026-10-19T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "33000000",
-      "33600000"
-    ],
-    "status": "active",
-    "relevance": 32,
-    "matched": [
-      "portal",
-      "website",
-      "website support"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564618",
-    "fetched_at": "2026-09-30T22:06:45.528448Z"
-  },
-  {
     "key": "Public Contracts Scotland:rls-3-SEP565045",
     "id": "rls-3-SEP565045",
     "ocid": "ocds-r6ebe6-0000843701",
@@ -9260,49 +8305,6 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565941",
     "fetched_at": "2026-10-16T09:37:14.004498Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:669247-2026",
-    "id": "669247-2026",
-    "ocid": null,
-    "title": "Ireland – Specialist training services – Request for Tender for the Provision of a Shared Island Media Fund Talent Development and Content Development Initiative for Audio Content",
-    "buyer": "Coimisiún na Meán",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-29T02:00:00Z",
-    "deadline": "2026-10-19T14:00:00Z",
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "80510000",
-      "80590000",
-      "79951000",
-      "79952000",
-      "72224000",
-      "79411000",
-      "79411100",
-      "73220000",
-      "79400000",
-      "79410000",
-      "80510000",
-      "80590000",
-      "79951000",
-      "79952000",
-      "72224000",
-      "79411000",
-      "79411100",
-      "73220000",
-      "79400000",
-      "79410000"
-    ],
-    "status": "active",
-    "relevance": 30,
-    "matched": [
-      "CPV 72224000"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/669247-2026",
-    "fetched_at": "2026-10-04T21:10:05.471060Z"
   },
   {
     "key": "eTenders Ireland / TED:644816-2026",
@@ -12150,7 +11152,7 @@
       "CPV 32413100"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/713556-2026",
-    "fetched_at": "2026-10-19T10:47:28.962749Z"
+    "fetched_at": "2026-10-19T22:21:48.008036Z"
   },
   {
     "key": "eTenders Ireland / TED:700750-2026",
@@ -12264,296 +11266,6 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT566767",
     "fetched_at": "2026-10-16T09:37:14.000820Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-4-SEP564992",
-    "id": "rls-4-SEP564992",
-    "ocid": "ocds-r6ebe6-0000828697",
-    "title": "Provision of Off-Site Storage for NatureScot Records",
-    "buyer": "Scottish Natural Heritage",
-    "description": "NatureScot require a competent provider of secure off-site records storage. The successful Contractor will provide a high-quality service, whilst offering good value in the expenditure of public funds.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-22T00:00:00Z",
-    "deadline": "2026-10-19T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "63120000",
-      "63121000",
-      "63121100",
-      "72317000",
-      "79131000",
-      "79996100"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72317000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564992",
-    "fetched_at": "2026-09-23T09:51:48.934455Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-5-SEP564992",
-    "id": "rls-5-SEP564992",
-    "ocid": "ocds-r6ebe6-0000828697",
-    "title": "Provision of Off-Site Storage for NatureScot Records",
-    "buyer": "Scottish Natural Heritage",
-    "description": "NatureScot require a competent provider of secure off-site records storage. The successful Contractor will provide a high-quality service, whilst offering good value in the expenditure of public funds.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-22T00:00:00Z",
-    "deadline": "2026-10-19T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "63120000",
-      "63121000",
-      "63121100",
-      "72317000",
-      "79131000",
-      "79996100"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72317000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564992",
-    "fetched_at": "2026-09-23T21:23:11.562873Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-6-SEP564992",
-    "id": "rls-6-SEP564992",
-    "ocid": "ocds-r6ebe6-0000828697",
-    "title": "Provision of Off-Site Storage for NatureScot Records",
-    "buyer": "Scottish Natural Heritage",
-    "description": "NatureScot require a competent provider of secure off-site records storage. The successful Contractor will provide a high-quality service, whilst offering good value in the expenditure of public funds.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-22T00:00:00Z",
-    "deadline": "2026-10-19T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "63120000",
-      "63121000",
-      "63121100",
-      "72317000",
-      "79131000",
-      "79996100"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72317000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564992",
-    "fetched_at": "2026-09-24T09:51:15.553306Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-9-SEP564992",
-    "id": "rls-9-SEP564992",
-    "ocid": "ocds-r6ebe6-0000828697",
-    "title": "Provision of Off-Site Storage for NatureScot Records",
-    "buyer": "Scottish Natural Heritage",
-    "description": "NatureScot require a competent provider of secure off-site records storage. The successful Contractor will provide a high-quality service, whilst offering good value in the expenditure of public funds.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-22T00:00:00Z",
-    "deadline": "2026-10-19T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "63120000",
-      "63121000",
-      "63121100",
-      "72317000",
-      "79131000",
-      "79996100"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72317000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564992",
-    "fetched_at": "2026-09-24T21:24:22.979502Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-10-SEP564992",
-    "id": "rls-10-SEP564992",
-    "ocid": "ocds-r6ebe6-0000828697",
-    "title": "Provision of Off-Site Storage for NatureScot Records",
-    "buyer": "Scottish Natural Heritage",
-    "description": "NatureScot require a competent provider of secure off-site records storage. The successful Contractor will provide a high-quality service, whilst offering good value in the expenditure of public funds.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-22T00:00:00Z",
-    "deadline": "2026-10-19T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "63120000",
-      "63121000",
-      "63121100",
-      "72317000",
-      "79131000",
-      "79996100"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72317000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564992",
-    "fetched_at": "2026-09-28T11:36:32.549899Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-13-SEP564992",
-    "id": "rls-13-SEP564992",
-    "ocid": "ocds-r6ebe6-0000828697",
-    "title": "Provision of Off-Site Storage for NatureScot Records",
-    "buyer": "Scottish Natural Heritage",
-    "description": "NatureScot require a competent provider of secure off-site records storage. The successful Contractor will provide a high-quality service, whilst offering good value in the expenditure of public funds.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-22T00:00:00Z",
-    "deadline": "2026-10-19T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "63120000",
-      "63121000",
-      "63121100",
-      "72317000",
-      "79131000",
-      "79996100"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72317000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564992",
-    "fetched_at": "2026-09-28T23:07:59.042134Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-16-SEP564992",
-    "id": "rls-16-SEP564992",
-    "ocid": "ocds-r6ebe6-0000828697",
-    "title": "Provision of Off-Site Storage for NatureScot Records",
-    "buyer": "Scottish Natural Heritage",
-    "description": "NatureScot require a competent provider of secure off-site records storage. The successful Contractor will provide a high-quality service, whilst offering good value in the expenditure of public funds.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-22T00:00:00Z",
-    "deadline": "2026-10-19T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "63120000",
-      "63121000",
-      "63121100",
-      "72317000",
-      "79131000",
-      "79996100"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72317000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564992",
-    "fetched_at": "2026-09-29T11:15:04.727169Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-18-SEP564992",
-    "id": "rls-18-SEP564992",
-    "ocid": "ocds-r6ebe6-0000828697",
-    "title": "Provision of Off-Site Storage for NatureScot Records",
-    "buyer": "Scottish Natural Heritage",
-    "description": "NatureScot require a competent provider of secure off-site records storage. The successful Contractor will provide a high-quality service, whilst offering good value in the expenditure of public funds.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-22T00:00:00Z",
-    "deadline": "2026-10-19T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "63120000",
-      "63121000",
-      "63121100",
-      "72317000",
-      "79131000",
-      "79996100"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72317000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564992",
-    "fetched_at": "2026-09-29T22:07:20.352957Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-19-SEP564992",
-    "id": "rls-19-SEP564992",
-    "ocid": "ocds-r6ebe6-0000828697",
-    "title": "Provision of Off-Site Storage for NatureScot Records",
-    "buyer": "Scottish Natural Heritage",
-    "description": "NatureScot require a competent provider of secure off-site records storage. The successful Contractor will provide a high-quality service, whilst offering good value in the expenditure of public funds.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-22T00:00:00Z",
-    "deadline": "2026-10-19T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "63120000",
-      "63121000",
-      "63121100",
-      "72317000",
-      "79131000",
-      "79996100"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72317000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564992",
-    "fetched_at": "2026-09-30T11:03:11.946517Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-20-SEP564992",
-    "id": "rls-20-SEP564992",
-    "ocid": "ocds-r6ebe6-0000828697",
-    "title": "Provision of Off-Site Storage for NatureScot Records",
-    "buyer": "Scottish Natural Heritage",
-    "description": "NatureScot require a competent provider of secure off-site records storage. The successful Contractor will provide a high-quality service, whilst offering good value in the expenditure of public funds.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-22T00:00:00Z",
-    "deadline": "2026-10-19T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "63120000",
-      "63121000",
-      "63121100",
-      "72317000",
-      "79131000",
-      "79996100"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72317000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564992",
-    "fetched_at": "2026-09-30T22:06:50.795010Z"
   },
   {
     "key": "Find a Tender:084956-2026",
@@ -14338,7 +13050,7 @@
       "CPV 48000000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/712538-2026",
-    "fetched_at": "2026-10-19T10:47:36.449632Z"
+    "fetched_at": "2026-10-19T22:22:00.061560Z"
   },
   {
     "key": "Poland / TED:715638-2026",
@@ -14367,7 +13079,7 @@
       "CPV 48000000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/715638-2026",
-    "fetched_at": "2026-10-19T10:47:35.560990Z"
+    "fetched_at": "2026-10-19T22:21:59.300838Z"
   },
   {
     "key": "Find a Tender:096471-2026",
