@@ -1,5 +1,44 @@
 [
   {
+    "key": "eTenders Ireland / TED:720768-2026",
+    "id": "720768-2026",
+    "ocid": null,
+    "title": "Ireland – IT services: consulting, software development, Internet and support – Request for Tender for Website Hosting, Development, Support and Maintenance of the Contracting Authority’s Websites",
+    "buyer": "Department of Housing Local Government and Heritage",
+    "description": "Active Irish public procurement notice published through TED/eTenders.",
+    "source": "eTenders Ireland / TED",
+    "country": "Ireland",
+    "published_at": "2026-10-19T02:00:00Z",
+    "deadline": "2026-11-25T11:00:00Z",
+    "value": null,
+    "currency": "EUR",
+    "cpv": [
+      "72000000",
+      "72212224",
+      "72413000",
+      "72415000",
+      "72000000",
+      "72212224",
+      "72413000",
+      "72415000"
+    ],
+    "status": "active",
+    "relevance": 100,
+    "matched": [
+      "CPV 72000000",
+      "CPV 72212224",
+      "CPV 72413000",
+      "CPV 72415000",
+      "hosting",
+      "software",
+      "support and maintenance",
+      "website",
+      "website hosting"
+    ],
+    "url": "https://ted.europa.eu/en/notice/-/detail/720768-2026",
+    "fetched_at": "2026-10-19T10:47:28.956283Z"
+  },
+  {
     "key": "eTenders Ireland / TED:696163-2026",
     "id": "696163-2026",
     "ocid": null,
@@ -1412,7 +1451,7 @@
       "managed service"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/707247-2026",
-    "fetched_at": "2026-10-16T09:37:29.174111Z"
+    "fetched_at": "2026-10-19T10:47:28.967927Z"
   },
   {
     "key": "eTenders Ireland / TED:712448-2026",
@@ -1466,7 +1505,7 @@
       "managed service"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/712448-2026",
-    "fetched_at": "2026-10-16T09:37:29.169712Z"
+    "fetched_at": "2026-10-19T10:47:28.962161Z"
   },
   {
     "key": "eTenders Ireland / TED:695163-2026",
@@ -1554,59 +1593,6 @@
     "fetched_at": "2026-10-10T21:26:55.367808Z"
   },
   {
-    "key": "Poland / TED:666193-2026",
-    "id": "666193-2026",
-    "ocid": null,
-    "title": "Poland – Servers – Dostawa i wdrożenie oprogramowania wraz ze sprzętem w ramach realizacji projektu \"Cyberbezpieczny wodociąg w Gminie Rymanów\"",
-    "buyer": "ZAKŁAD GOSPODARKI KOMUNALNEJ",
-    "description": "Active Polish public procurement notice published through TED.",
-    "source": "Poland / TED",
-    "country": "Poland",
-    "published_at": "2026-09-28T02:00:00Z",
-    "deadline": "2026-10-16T13:00:00Z",
-    "value": null,
-    "currency": "PLN",
-    "cpv": [
-      "48820000",
-      "72263000",
-      "32420000",
-      "48730000",
-      "30233141",
-      "30234500",
-      "48710000",
-      "31682530",
-      "48000000",
-      "72268000",
-      "72265000",
-      "48900000",
-      "72253200",
-      "48820000",
-      "72263000",
-      "32420000",
-      "48730000",
-      "30233141",
-      "30234500",
-      "48710000",
-      "31682530",
-      "48000000",
-      "72268000",
-      "72265000",
-      "48900000",
-      "72253200"
-    ],
-    "status": "active",
-    "relevance": 59,
-    "matched": [
-      "CPV 32420000",
-      "CPV 48730000",
-      "CPV 48820000",
-      "CPV 72263000",
-      "cyberbezpiec"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/666193-2026",
-    "fetched_at": "2026-10-04T21:10:24.248182Z"
-  },
-  {
     "key": "Poland / TED:686798-2026",
     "id": "686798-2026",
     "ocid": null,
@@ -1643,57 +1629,6 @@
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/686798-2026",
     "fetched_at": "2026-10-12T13:00:06.598742Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:676890-2026",
-    "id": "676890-2026",
-    "ocid": null,
-    "title": "Ireland – Scanners – Scanning and software equipment for the National Archives, Ireland",
-    "buyer": "Department of Culture Communications Sport",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-10-01T02:00:00Z",
-    "deadline": "2026-10-16T11:00:00Z",
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "38520000",
-      "48318000",
-      "30216110",
-      "30124520",
-      "30232130",
-      "30199330",
-      "32552200",
-      "30232150",
-      "30100000",
-      "30232110",
-      "30000000",
-      "30200000",
-      "38520000",
-      "48318000",
-      "30216110",
-      "30124520",
-      "30232130",
-      "30199330",
-      "32552200",
-      "30232150",
-      "30100000",
-      "30232110",
-      "30000000",
-      "30200000"
-    ],
-    "status": "active",
-    "relevance": 58,
-    "matched": [
-      "CPV 30124520",
-      "CPV 30216110",
-      "CPV 30232130",
-      "CPV 48318000",
-      "software"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/676890-2026",
-    "fetched_at": "2026-10-08T11:54:09.416990Z"
   },
   {
     "key": "eTenders Ireland / TED:662277-2026",
@@ -1899,7 +1834,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/705880-2026",
-    "fetched_at": "2026-10-16T09:37:29.177022Z"
+    "fetched_at": "2026-10-19T10:47:28.971201Z"
   },
   {
     "key": "eTenders Ireland / TED:687757-2026",
@@ -1935,6 +1870,47 @@
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/687757-2026",
     "fetched_at": "2026-10-12T12:59:48.007276Z"
+  },
+  {
+    "key": "eTenders Ireland / TED:719402-2026",
+    "id": "719402-2026",
+    "ocid": null,
+    "title": "Ireland – Display screens – Single party framework for the supply, delivery and maintenance (via warranty) of a Holographic Display Systems (hardware and related software required for operation)",
+    "buyer": "Kildare and Wicklow Education and Training Board",
+    "description": "Active Irish public procurement notice published through TED/eTenders.",
+    "source": "eTenders Ireland / TED",
+    "country": "Ireland",
+    "published_at": "2026-10-19T02:00:00Z",
+    "deadline": "2026-10-29T11:00:00Z",
+    "value": null,
+    "currency": "EUR",
+    "cpv": [
+      "30231300",
+      "32322000",
+      "30200000",
+      "30211300",
+      "48000000",
+      "51611100",
+      "80510000",
+      "30231300",
+      "32322000",
+      "30200000",
+      "30211300",
+      "48000000",
+      "51611100",
+      "80510000"
+    ],
+    "status": "active",
+    "relevance": 58,
+    "matched": [
+      "CPV 30200000",
+      "CPV 30211300",
+      "CPV 30231300",
+      "CPV 48000000",
+      "software"
+    ],
+    "url": "https://ted.europa.eu/en/notice/-/detail/719402-2026",
+    "fetched_at": "2026-10-19T10:47:28.954785Z"
   },
   {
     "key": "eTenders Ireland / TED:708409-2026",
@@ -1975,7 +1951,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/708409-2026",
-    "fetched_at": "2026-10-16T09:37:29.172867Z"
+    "fetched_at": "2026-10-19T10:47:28.966747Z"
   },
   {
     "key": "eTenders Ireland / TED:706914-2026",
@@ -2018,483 +1994,7 @@
       "ict"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/706914-2026",
-    "fetched_at": "2026-10-16T09:37:29.175089Z"
-  },
-  {
-    "key": "Find a Tender:087628-2026",
-    "id": "087628-2026",
-    "ocid": "ocds-h6vhtk-06b674",
-    "title": "Integrated Hospitality Technology platform (EPOS, Digital Ordering, Kiosk & CRM Solutions)",
-    "buyer": "University Of Edinburgh",
-    "description": "The University requires a flexible and scalable software and hardware solution to support the efficient operation of a complex, multi-site catering environment. This solution must seamlessly operate across the full catering estate, which spans a range of commercial operations including: retail, full-service restaurants, bars and hotels.",
-    "source": "Find a Tender",
-    "country": "United Kingdom",
-    "published_at": "2026-09-16T09:24:13Z",
-    "deadline": "2026-10-16T11:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "48110000",
-      "72212110"
-    ],
-    "status": "active",
-    "relevance": 56,
-    "matched": [
-      "CPV 48110000",
-      "CPV 72212110",
-      "crm",
-      "software"
-    ],
-    "url": "https://www.find-tender.service.gov.uk/Notice/087628-2026",
-    "fetched_at": "2026-09-19T09:19:14.157845Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-1-SEP564603",
-    "id": "rls-1-SEP564603",
-    "ocid": "ocds-r6ebe6-0000834454",
-    "title": "Integrated Hospitality Technology platform (EPOS, Digital Ordering, Kiosk & CRM Solutions)",
-    "buyer": "University Of Edinburgh",
-    "description": "The University requires a flexible and scalable software and hardware solution to support the efficient operation of a complex, multi-site catering environment. This solution must seamlessly operate across the full catering estate, which spans a range of commercial operations including: retail, full-service restaurants, bars and hotels.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-16T00:00:00Z",
-    "deadline": "2026-10-16T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "48110000",
-      "72212110"
-    ],
-    "status": "active",
-    "relevance": 56,
-    "matched": [
-      "CPV 48110000",
-      "CPV 72212110",
-      "crm",
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564603",
-    "fetched_at": "2026-09-16T09:48:37.234378Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-2-SEP564603",
-    "id": "rls-2-SEP564603",
-    "ocid": "ocds-r6ebe6-0000834454",
-    "title": "Integrated Hospitality Technology platform (EPOS, Digital Ordering, Kiosk & CRM Solutions)",
-    "buyer": "University Of Edinburgh",
-    "description": "The University requires a flexible and scalable software and hardware solution to support the efficient operation of a complex, multi-site catering environment. This solution must seamlessly operate across the full catering estate, which spans a range of commercial operations including: retail, full-service restaurants, bars and hotels.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-16T00:00:00Z",
-    "deadline": "2026-10-16T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "48110000",
-      "72212110"
-    ],
-    "status": "active",
-    "relevance": 56,
-    "matched": [
-      "CPV 48110000",
-      "CPV 72212110",
-      "crm",
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564603",
-    "fetched_at": "2026-09-17T09:55:28.326016Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-6-SEP564603",
-    "id": "rls-6-SEP564603",
-    "ocid": "ocds-r6ebe6-0000834454",
-    "title": "Integrated Hospitality Technology platform (EPOS, Digital Ordering, Kiosk & CRM Solutions)",
-    "buyer": "University Of Edinburgh",
-    "description": "The University requires a flexible and scalable software and hardware solution to support the efficient operation of a complex, multi-site catering environment. This solution must seamlessly operate across the full catering estate, which spans a range of commercial operations including: retail, full-service restaurants, bars and hotels.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-16T00:00:00Z",
-    "deadline": "2026-10-16T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "48110000",
-      "72212110"
-    ],
-    "status": "active",
-    "relevance": 56,
-    "matched": [
-      "CPV 48110000",
-      "CPV 72212110",
-      "crm",
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564603",
-    "fetched_at": "2026-09-18T09:33:33.226580Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-13-SEP564603",
-    "id": "rls-13-SEP564603",
-    "ocid": "ocds-r6ebe6-0000834454",
-    "title": "Integrated Hospitality Technology platform (EPOS, Digital Ordering, Kiosk & CRM Solutions)",
-    "buyer": "University Of Edinburgh",
-    "description": "The University requires a flexible and scalable software and hardware solution to support the efficient operation of a complex, multi-site catering environment. This solution must seamlessly operate across the full catering estate, which spans a range of commercial operations including: retail, full-service restaurants, bars and hotels.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-16T00:00:00Z",
-    "deadline": "2026-10-16T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "48110000",
-      "72212110"
-    ],
-    "status": "active",
-    "relevance": 56,
-    "matched": [
-      "CPV 48110000",
-      "CPV 72212110",
-      "crm",
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564603",
-    "fetched_at": "2026-09-20T20:37:55.348676Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-16-SEP564603",
-    "id": "rls-16-SEP564603",
-    "ocid": "ocds-r6ebe6-0000834454",
-    "title": "Integrated Hospitality Technology platform (EPOS, Digital Ordering, Kiosk & CRM Solutions)",
-    "buyer": "University Of Edinburgh",
-    "description": "The University requires a flexible and scalable software and hardware solution to support the efficient operation of a complex, multi-site catering environment. This solution must seamlessly operate across the full catering estate, which spans a range of commercial operations including: retail, full-service restaurants, bars and hotels.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-16T00:00:00Z",
-    "deadline": "2026-10-16T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "48110000",
-      "72212110"
-    ],
-    "status": "active",
-    "relevance": 56,
-    "matched": [
-      "CPV 48110000",
-      "CPV 72212110",
-      "crm",
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564603",
-    "fetched_at": "2026-09-21T10:35:22.638616Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-22-SEP564603",
-    "id": "rls-22-SEP564603",
-    "ocid": "ocds-r6ebe6-0000834454",
-    "title": "Integrated Hospitality Technology platform (EPOS, Digital Ordering, Kiosk & CRM Solutions)",
-    "buyer": "University Of Edinburgh",
-    "description": "The University requires a flexible and scalable software and hardware solution to support the efficient operation of a complex, multi-site catering environment. This solution must seamlessly operate across the full catering estate, which spans a range of commercial operations including: retail, full-service restaurants, bars and hotels.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-16T00:00:00Z",
-    "deadline": "2026-10-16T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "48110000",
-      "72212110"
-    ],
-    "status": "active",
-    "relevance": 56,
-    "matched": [
-      "CPV 48110000",
-      "CPV 72212110",
-      "crm",
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564603",
-    "fetched_at": "2026-09-22T09:47:59.861936Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-24-SEP564603",
-    "id": "rls-24-SEP564603",
-    "ocid": "ocds-r6ebe6-0000834454",
-    "title": "Integrated Hospitality Technology platform (EPOS, Digital Ordering, Kiosk & CRM Solutions)",
-    "buyer": "University Of Edinburgh",
-    "description": "The University requires a flexible and scalable software and hardware solution to support the efficient operation of a complex, multi-site catering environment. This solution must seamlessly operate across the full catering estate, which spans a range of commercial operations including: retail, full-service restaurants, bars and hotels.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-16T00:00:00Z",
-    "deadline": "2026-10-16T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "48110000",
-      "72212110"
-    ],
-    "status": "active",
-    "relevance": 56,
-    "matched": [
-      "CPV 48110000",
-      "CPV 72212110",
-      "crm",
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564603",
-    "fetched_at": "2026-09-22T21:09:05.544137Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-25-SEP564603",
-    "id": "rls-25-SEP564603",
-    "ocid": "ocds-r6ebe6-0000834454",
-    "title": "Integrated Hospitality Technology platform (EPOS, Digital Ordering, Kiosk & CRM Solutions)",
-    "buyer": "University Of Edinburgh",
-    "description": "The University requires a flexible and scalable software and hardware solution to support the efficient operation of a complex, multi-site catering environment. This solution must seamlessly operate across the full catering estate, which spans a range of commercial operations including: retail, full-service restaurants, bars and hotels.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-16T00:00:00Z",
-    "deadline": "2026-10-16T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "48110000",
-      "72212110"
-    ],
-    "status": "active",
-    "relevance": 56,
-    "matched": [
-      "CPV 48110000",
-      "CPV 72212110",
-      "crm",
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564603",
-    "fetched_at": "2026-09-23T09:51:37.016337Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-26-SEP564603",
-    "id": "rls-26-SEP564603",
-    "ocid": "ocds-r6ebe6-0000834454",
-    "title": "Integrated Hospitality Technology platform (EPOS, Digital Ordering, Kiosk & CRM Solutions)",
-    "buyer": "University Of Edinburgh",
-    "description": "The University requires a flexible and scalable software and hardware solution to support the efficient operation of a complex, multi-site catering environment. This solution must seamlessly operate across the full catering estate, which spans a range of commercial operations including: retail, full-service restaurants, bars and hotels.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-16T00:00:00Z",
-    "deadline": "2026-10-16T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "48110000",
-      "72212110"
-    ],
-    "status": "active",
-    "relevance": 56,
-    "matched": [
-      "CPV 48110000",
-      "CPV 72212110",
-      "crm",
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564603",
-    "fetched_at": "2026-09-23T21:23:01.524058Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-27-SEP564603",
-    "id": "rls-27-SEP564603",
-    "ocid": "ocds-r6ebe6-0000834454",
-    "title": "Integrated Hospitality Technology platform (EPOS, Digital Ordering, Kiosk & CRM Solutions)",
-    "buyer": "University Of Edinburgh",
-    "description": "The University requires a flexible and scalable software and hardware solution to support the efficient operation of a complex, multi-site catering environment. This solution must seamlessly operate across the full catering estate, which spans a range of commercial operations including: retail, full-service restaurants, bars and hotels.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-16T00:00:00Z",
-    "deadline": "2026-10-16T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "48110000",
-      "72212110"
-    ],
-    "status": "active",
-    "relevance": 56,
-    "matched": [
-      "CPV 48110000",
-      "CPV 72212110",
-      "crm",
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564603",
-    "fetched_at": "2026-09-24T21:24:14.840101Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-29-SEP564603",
-    "id": "rls-29-SEP564603",
-    "ocid": "ocds-r6ebe6-0000834454",
-    "title": "Integrated Hospitality Technology platform (EPOS, Digital Ordering, Kiosk & CRM Solutions)",
-    "buyer": "University Of Edinburgh",
-    "description": "The University requires a flexible and scalable software and hardware solution to support the efficient operation of a complex, multi-site catering environment. This solution must seamlessly operate across the full catering estate, which spans a range of commercial operations including: retail, full-service restaurants, bars and hotels.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-16T00:00:00Z",
-    "deadline": "2026-10-16T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "48110000",
-      "72212110"
-    ],
-    "status": "active",
-    "relevance": 56,
-    "matched": [
-      "CPV 48110000",
-      "CPV 72212110",
-      "crm",
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564603",
-    "fetched_at": "2026-09-25T10:06:20.632420Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-33-SEP564603",
-    "id": "rls-33-SEP564603",
-    "ocid": "ocds-r6ebe6-0000834454",
-    "title": "Integrated Hospitality Technology platform (EPOS, Digital Ordering, Kiosk & CRM Solutions)",
-    "buyer": "University Of Edinburgh",
-    "description": "The University requires a flexible and scalable software and hardware solution to support the efficient operation of a complex, multi-site catering environment. This solution must seamlessly operate across the full catering estate, which spans a range of commercial operations including: retail, full-service restaurants, bars and hotels.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-16T00:00:00Z",
-    "deadline": "2026-10-16T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "48110000",
-      "72212110"
-    ],
-    "status": "active",
-    "relevance": 56,
-    "matched": [
-      "CPV 48110000",
-      "CPV 72212110",
-      "crm",
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564603",
-    "fetched_at": "2026-09-27T21:12:35.833235Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-34-SEP564603",
-    "id": "rls-34-SEP564603",
-    "ocid": "ocds-r6ebe6-0000834454",
-    "title": "Integrated Hospitality Technology platform (EPOS, Digital Ordering, Kiosk & CRM Solutions)",
-    "buyer": "University Of Edinburgh",
-    "description": "The University requires a flexible and scalable software and hardware solution to support the efficient operation of a complex, multi-site catering environment. This solution must seamlessly operate across the full catering estate, which spans a range of commercial operations including: retail, full-service restaurants, bars and hotels.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-16T00:00:00Z",
-    "deadline": "2026-10-16T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "48110000",
-      "72212110"
-    ],
-    "status": "active",
-    "relevance": 56,
-    "matched": [
-      "CPV 48110000",
-      "CPV 72212110",
-      "crm",
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564603",
-    "fetched_at": "2026-09-28T11:36:24.897323Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-35-SEP564603",
-    "id": "rls-35-SEP564603",
-    "ocid": "ocds-r6ebe6-0000834454",
-    "title": "Integrated Hospitality Technology platform (EPOS, Digital Ordering, Kiosk & CRM Solutions)",
-    "buyer": "University Of Edinburgh",
-    "description": "The University requires a flexible and scalable software and hardware solution to support the efficient operation of a complex, multi-site catering environment. This solution must seamlessly operate across the full catering estate, which spans a range of commercial operations including: retail, full-service restaurants, bars and hotels.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-16T00:00:00Z",
-    "deadline": "2026-10-16T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "48110000",
-      "72212110"
-    ],
-    "status": "active",
-    "relevance": 56,
-    "matched": [
-      "CPV 48110000",
-      "CPV 72212110",
-      "crm",
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564603",
-    "fetched_at": "2026-09-29T11:14:53.675761Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-39-SEP564603",
-    "id": "rls-39-SEP564603",
-    "ocid": "ocds-r6ebe6-0000834454",
-    "title": "Integrated Hospitality Technology platform (EPOS, Digital Ordering, Kiosk & CRM Solutions)",
-    "buyer": "University Of Edinburgh",
-    "description": "The University requires a flexible and scalable software and hardware solution to support the efficient operation of a complex, multi-site catering environment. This solution must seamlessly operate across the full catering estate, which spans a range of commercial operations including: retail, full-service restaurants, bars and hotels.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-16T00:00:00Z",
-    "deadline": "2026-10-16T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "48110000",
-      "72212110"
-    ],
-    "status": "active",
-    "relevance": 56,
-    "matched": [
-      "CPV 48110000",
-      "CPV 72212110",
-      "crm",
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564603",
-    "fetched_at": "2026-09-30T11:03:05.369262Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-44-SEP564603",
-    "id": "rls-44-SEP564603",
-    "ocid": "ocds-r6ebe6-0000834454",
-    "title": "Integrated Hospitality Technology platform (EPOS, Digital Ordering, Kiosk & CRM Solutions)",
-    "buyer": "University Of Edinburgh",
-    "description": "The University requires a flexible and scalable software and hardware solution to support the efficient operation of a complex, multi-site catering environment. This solution must seamlessly operate across the full catering estate, which spans a range of commercial operations including: retail, full-service restaurants, bars and hotels.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-16T00:00:00Z",
-    "deadline": "2026-10-16T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "48110000",
-      "72212110"
-    ],
-    "status": "active",
-    "relevance": 56,
-    "matched": [
-      "CPV 48110000",
-      "CPV 72212110",
-      "crm",
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564603",
-    "fetched_at": "2026-09-30T22:06:45.528549Z"
+    "fetched_at": "2026-10-19T10:47:28.969223Z"
   },
   {
     "key": "eTenders Ireland / TED:657631-2026",
@@ -2522,34 +2022,6 @@
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/657631-2026",
     "fetched_at": "2026-10-01T11:29:28.504056Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:612350-2026",
-    "id": "612350-2026",
-    "ocid": null,
-    "title": "Belgium, Latvia, Germany, France, Romania, Denmark, Spain, Italy, Ireland, Luxembourg, Slovakia, Hungary, Malta, Netherlands, Greece, Austria, Slovenia, Estonia, Portugal – IT services: consulting, software development, Internet and support – Development, Implementation, Maintenance and Operation of financial IT Systems",
-    "buyer": "European Commission, DG BUDG - Budget EP - European Parliament European External Action Service (EEAS) The General Secretariat of the Council of the European Union Agence Exécutive du Conseil Européen de la Recherche European Innovation Council and SMEs Executive Agency (EISMEA) European Research Executive Agency (REA) Health and Digital Executive Agency (HaDEA) Agency for Support for BEREC (BEREC Office) Authority for Anti-Money Laundering and Countering the Financing of Terrorism Circular Bio-based Europe Joint Undertaking Community Plant Variety Office Europe's Rail Joint Undertaking European Cybersecurity Industrial, Technology and Research Competence Centre European Defence Agency European Environment Agency (EEA) European Fisheries Control Agency (EFCA) European Food Safety Authority European Foundation for the Improvement of Living and Working Conditions European High-Performance Computing Joint Undertaking European Labour Authority (ELA) European Public Prosecutor’s Office European Schools European Securities and Markets Authority European Union Agency For Law Enforcement Training European Union Agency for Asylum European Union Agency for Criminal Justice Cooperation (Eurojust) European Union Agency for Cybersecurity (ENISA) European Union Agency for Fundamental Rights European Union Agency for Law Enforcement Cooperation European Union Agency for Railways European Union Agency for the Cooperation of Energy Regulators European Union Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice (eu-LISA) European Union Drugs Agency Global Health EDCTP3 Joint Undertaking Innovative Health Initiative Joint Undertaking (IHI JU) Single Resolution Board (SRB) Committee of the Regions of the European Union European Economic and Social Committee",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-04T02:00:00Z",
-    "deadline": "2026-10-16T21:59:59Z",
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "72000000",
-      "72000000",
-      "72000000"
-    ],
-    "status": "active",
-    "relevance": 54,
-    "matched": [
-      "CPV 72000000",
-      "it system",
-      "software"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/612350-2026",
-    "fetched_at": "2026-09-10T20:44:06.589082Z"
   },
   {
     "key": "Find a Tender:084995-2026",
@@ -4765,7 +4237,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/707513-2026",
-    "fetched_at": "2026-10-16T09:37:29.172175Z"
+    "fetched_at": "2026-10-19T10:47:28.965399Z"
   },
   {
     "key": "eTenders Ireland / TED:658139-2026",
@@ -5693,384 +5165,6 @@
     "fetched_at": "2026-10-06T11:54:30.851201Z"
   },
   {
-    "key": "Public Contracts Scotland:rls-1-SEP564781",
-    "id": "rls-1-SEP564781",
-    "ocid": "ocds-r6ebe6-0000843381",
-    "title": "Penetration Testing and Cybersecurity Assessment",
-    "buyer": "Cairn Housing Association",
-    "description": "Services of a cybersecurity partner to conduct comprehensive penetration testing and security assessment engagement across Cairn Housing Association's digital infrastructure, applications and operational processes, in support of our information security programme and its obligations under regulatory frameworks including GDPR, ISO27001, PCI DSS, NIS and Cyber Essentials Plus",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-18T00:00:00Z",
-    "deadline": "2026-10-16T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "72267100"
-    ],
-    "status": "active",
-    "relevance": 50,
-    "matched": [
-      "CPV 72267100",
-      "cybersecurity",
-      "information security",
-      "infrastructure"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564781",
-    "fetched_at": "2026-09-18T09:33:50.748143Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-8-SEP564781",
-    "id": "rls-8-SEP564781",
-    "ocid": "ocds-r6ebe6-0000843381",
-    "title": "Penetration Testing and Cybersecurity Assessment",
-    "buyer": "Cairn Housing Association",
-    "description": "Services of a cybersecurity partner to conduct comprehensive penetration testing and security assessment engagement across Cairn Housing Association's digital infrastructure, applications and operational processes, in support of our information security programme and its obligations under regulatory frameworks including GDPR, ISO27001, PCI DSS, NIS and Cyber Essentials Plus",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-18T00:00:00Z",
-    "deadline": "2026-10-16T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "72267100"
-    ],
-    "status": "active",
-    "relevance": 50,
-    "matched": [
-      "CPV 72267100",
-      "cybersecurity",
-      "information security",
-      "infrastructure"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564781",
-    "fetched_at": "2026-09-20T20:38:08.097496Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-9-SEP564781",
-    "id": "rls-9-SEP564781",
-    "ocid": "ocds-r6ebe6-0000843381",
-    "title": "Penetration Testing and Cybersecurity Assessment",
-    "buyer": "Cairn Housing Association",
-    "description": "Services of a cybersecurity partner to conduct comprehensive penetration testing and security assessment engagement across Cairn Housing Association's digital infrastructure, applications and operational processes, in support of our information security programme and its obligations under regulatory frameworks including GDPR, ISO27001, PCI DSS, NIS and Cyber Essentials Plus",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-18T00:00:00Z",
-    "deadline": "2026-10-16T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "72267100"
-    ],
-    "status": "active",
-    "relevance": 50,
-    "matched": [
-      "CPV 72267100",
-      "cybersecurity",
-      "information security",
-      "infrastructure"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564781",
-    "fetched_at": "2026-09-21T10:35:43.330304Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-13-SEP564781",
-    "id": "rls-13-SEP564781",
-    "ocid": "ocds-r6ebe6-0000843381",
-    "title": "Penetration Testing and Cybersecurity Assessment",
-    "buyer": "Cairn Housing Association",
-    "description": "Services of a cybersecurity partner to conduct comprehensive penetration testing and security assessment engagement across Cairn Housing Association's digital infrastructure, applications and operational processes, in support of our information security programme and its obligations under regulatory frameworks including GDPR, ISO27001, PCI DSS, NIS and Cyber Essentials Plus",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-18T00:00:00Z",
-    "deadline": "2026-10-16T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "72267100"
-    ],
-    "status": "active",
-    "relevance": 50,
-    "matched": [
-      "CPV 72267100",
-      "cybersecurity",
-      "information security",
-      "infrastructure"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564781",
-    "fetched_at": "2026-09-22T09:49:31.534428Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-17-SEP564781",
-    "id": "rls-17-SEP564781",
-    "ocid": "ocds-r6ebe6-0000843381",
-    "title": "Penetration Testing and Cybersecurity Assessment",
-    "buyer": "Cairn Housing Association",
-    "description": "Services of a cybersecurity partner to conduct comprehensive penetration testing and security assessment engagement across Cairn Housing Association's digital infrastructure, applications and operational processes, in support of our information security programme and its obligations under regulatory frameworks including GDPR, ISO27001, PCI DSS, NIS and Cyber Essentials Plus",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-18T00:00:00Z",
-    "deadline": "2026-10-16T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "72267100"
-    ],
-    "status": "active",
-    "relevance": 50,
-    "matched": [
-      "CPV 72267100",
-      "cybersecurity",
-      "information security",
-      "infrastructure"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564781",
-    "fetched_at": "2026-09-23T09:51:48.935267Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-18-SEP564781",
-    "id": "rls-18-SEP564781",
-    "ocid": "ocds-r6ebe6-0000843381",
-    "title": "Penetration Testing and Cybersecurity Assessment",
-    "buyer": "Cairn Housing Association",
-    "description": "Services of a cybersecurity partner to conduct comprehensive penetration testing and security assessment engagement across Cairn Housing Association's digital infrastructure, applications and operational processes, in support of our information security programme and its obligations under regulatory frameworks including GDPR, ISO27001, PCI DSS, NIS and Cyber Essentials Plus",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-18T00:00:00Z",
-    "deadline": "2026-10-16T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "72267100"
-    ],
-    "status": "active",
-    "relevance": 50,
-    "matched": [
-      "CPV 72267100",
-      "cybersecurity",
-      "information security",
-      "infrastructure"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564781",
-    "fetched_at": "2026-09-23T21:23:11.563667Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-19-SEP564781",
-    "id": "rls-19-SEP564781",
-    "ocid": "ocds-r6ebe6-0000843381",
-    "title": "Penetration Testing and Cybersecurity Assessment",
-    "buyer": "Cairn Housing Association",
-    "description": "Services of a cybersecurity partner to conduct comprehensive penetration testing and security assessment engagement across Cairn Housing Association's digital infrastructure, applications and operational processes, in support of our information security programme and its obligations under regulatory frameworks including GDPR, ISO27001, PCI DSS, NIS and Cyber Essentials Plus",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-18T00:00:00Z",
-    "deadline": "2026-10-16T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "72267100"
-    ],
-    "status": "active",
-    "relevance": 50,
-    "matched": [
-      "CPV 72267100",
-      "cybersecurity",
-      "information security",
-      "infrastructure"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564781",
-    "fetched_at": "2026-09-24T09:51:15.554198Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-22-SEP564781",
-    "id": "rls-22-SEP564781",
-    "ocid": "ocds-r6ebe6-0000843381",
-    "title": "Penetration Testing and Cybersecurity Assessment",
-    "buyer": "Cairn Housing Association",
-    "description": "Services of a cybersecurity partner to conduct comprehensive penetration testing and security assessment engagement across Cairn Housing Association's digital infrastructure, applications and operational processes, in support of our information security programme and its obligations under regulatory frameworks including GDPR, ISO27001, PCI DSS, NIS and Cyber Essentials Plus",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-18T00:00:00Z",
-    "deadline": "2026-10-16T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "72267100"
-    ],
-    "status": "active",
-    "relevance": 50,
-    "matched": [
-      "CPV 72267100",
-      "cybersecurity",
-      "information security",
-      "infrastructure"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564781",
-    "fetched_at": "2026-09-24T21:24:22.980480Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-23-SEP564781",
-    "id": "rls-23-SEP564781",
-    "ocid": "ocds-r6ebe6-0000843381",
-    "title": "Penetration Testing and Cybersecurity Assessment",
-    "buyer": "Cairn Housing Association",
-    "description": "Services of a cybersecurity partner to conduct comprehensive penetration testing and security assessment engagement across Cairn Housing Association's digital infrastructure, applications and operational processes, in support of our information security programme and its obligations under regulatory frameworks including GDPR, ISO27001, PCI DSS, NIS and Cyber Essentials Plus",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-18T00:00:00Z",
-    "deadline": "2026-10-16T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "72267100"
-    ],
-    "status": "active",
-    "relevance": 50,
-    "matched": [
-      "CPV 72267100",
-      "cybersecurity",
-      "information security",
-      "infrastructure"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564781",
-    "fetched_at": "2026-09-28T11:36:32.550690Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-26-SEP564781",
-    "id": "rls-26-SEP564781",
-    "ocid": "ocds-r6ebe6-0000843381",
-    "title": "Penetration Testing and Cybersecurity Assessment",
-    "buyer": "Cairn Housing Association",
-    "description": "Services of a cybersecurity partner to conduct comprehensive penetration testing and security assessment engagement across Cairn Housing Association's digital infrastructure, applications and operational processes, in support of our information security programme and its obligations under regulatory frameworks including GDPR, ISO27001, PCI DSS, NIS and Cyber Essentials Plus",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-18T00:00:00Z",
-    "deadline": "2026-10-16T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "72267100"
-    ],
-    "status": "active",
-    "relevance": 50,
-    "matched": [
-      "CPV 72267100",
-      "cybersecurity",
-      "information security",
-      "infrastructure"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564781",
-    "fetched_at": "2026-09-28T23:07:59.043166Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-29-SEP564781",
-    "id": "rls-29-SEP564781",
-    "ocid": "ocds-r6ebe6-0000843381",
-    "title": "Penetration Testing and Cybersecurity Assessment",
-    "buyer": "Cairn Housing Association",
-    "description": "Services of a cybersecurity partner to conduct comprehensive penetration testing and security assessment engagement across Cairn Housing Association's digital infrastructure, applications and operational processes, in support of our information security programme and its obligations under regulatory frameworks including GDPR, ISO27001, PCI DSS, NIS and Cyber Essentials Plus",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-18T00:00:00Z",
-    "deadline": "2026-10-16T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "72267100"
-    ],
-    "status": "active",
-    "relevance": 50,
-    "matched": [
-      "CPV 72267100",
-      "cybersecurity",
-      "information security",
-      "infrastructure"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564781",
-    "fetched_at": "2026-09-29T11:15:04.728105Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-31-SEP564781",
-    "id": "rls-31-SEP564781",
-    "ocid": "ocds-r6ebe6-0000843381",
-    "title": "Penetration Testing and Cybersecurity Assessment",
-    "buyer": "Cairn Housing Association",
-    "description": "Services of a cybersecurity partner to conduct comprehensive penetration testing and security assessment engagement across Cairn Housing Association's digital infrastructure, applications and operational processes, in support of our information security programme and its obligations under regulatory frameworks including GDPR, ISO27001, PCI DSS, NIS and Cyber Essentials Plus",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-18T00:00:00Z",
-    "deadline": "2026-10-16T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "72267100"
-    ],
-    "status": "active",
-    "relevance": 50,
-    "matched": [
-      "CPV 72267100",
-      "cybersecurity",
-      "information security",
-      "infrastructure"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564781",
-    "fetched_at": "2026-09-29T22:07:20.353744Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-32-SEP564781",
-    "id": "rls-32-SEP564781",
-    "ocid": "ocds-r6ebe6-0000843381",
-    "title": "Penetration Testing and Cybersecurity Assessment",
-    "buyer": "Cairn Housing Association",
-    "description": "Services of a cybersecurity partner to conduct comprehensive penetration testing and security assessment engagement across Cairn Housing Association's digital infrastructure, applications and operational processes, in support of our information security programme and its obligations under regulatory frameworks including GDPR, ISO27001, PCI DSS, NIS and Cyber Essentials Plus",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-18T00:00:00Z",
-    "deadline": "2026-10-16T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "72267100"
-    ],
-    "status": "active",
-    "relevance": 50,
-    "matched": [
-      "CPV 72267100",
-      "cybersecurity",
-      "information security",
-      "infrastructure"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564781",
-    "fetched_at": "2026-09-30T11:03:11.947348Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-33-SEP564781",
-    "id": "rls-33-SEP564781",
-    "ocid": "ocds-r6ebe6-0000843381",
-    "title": "Penetration Testing and Cybersecurity Assessment",
-    "buyer": "Cairn Housing Association",
-    "description": "Services of a cybersecurity partner to conduct comprehensive penetration testing and security assessment engagement across Cairn Housing Association's digital infrastructure, applications and operational processes, in support of our information security programme and its obligations under regulatory frameworks including GDPR, ISO27001, PCI DSS, NIS and Cyber Essentials Plus",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-18T00:00:00Z",
-    "deadline": "2026-10-16T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "72267100"
-    ],
-    "status": "active",
-    "relevance": 50,
-    "matched": [
-      "CPV 72267100",
-      "cybersecurity",
-      "information security",
-      "infrastructure"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564781",
-    "fetched_at": "2026-09-30T22:06:50.795942Z"
-  },
-  {
     "key": "Poland / TED:701174-2026",
     "id": "701174-2026",
     "ocid": null,
@@ -6097,7 +5191,7 @@
       "network"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/701174-2026",
-    "fetched_at": "2026-10-16T09:37:58.388856Z"
+    "fetched_at": "2026-10-19T10:47:42.492838Z"
   },
   {
     "key": "eTenders Ireland / TED:676358-2026",
@@ -6254,7 +5348,7 @@
       "CPV 72514000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/702258-2026",
-    "fetched_at": "2026-10-16T09:37:29.178536Z"
+    "fetched_at": "2026-10-19T10:47:28.973708Z"
   },
   {
     "key": "eTenders Ireland / TED:705132-2026",
@@ -6292,7 +5386,7 @@
       "CPV 72268000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/705132-2026",
-    "fetched_at": "2026-10-16T09:37:29.175634Z"
+    "fetched_at": "2026-10-19T10:47:28.969992Z"
   },
   {
     "key": "Poland / TED:715186-2026",
@@ -6328,7 +5422,7 @@
       "CPV 72416000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/715186-2026",
-    "fetched_at": "2026-10-16T09:37:33.280430Z"
+    "fetched_at": "2026-10-19T10:47:33.968898Z"
   },
   {
     "key": "Find a Tender:091992-2026",
@@ -6409,32 +5503,6 @@
     "fetched_at": "2026-09-30T11:03:05.365177Z"
   },
   {
-    "key": "eTenders Ireland / TED:652095-2026",
-    "id": "652095-2026",
-    "ocid": null,
-    "title": "Ireland – Software package and information systems – Request for Tenders for the Supply, renewal and/or extension of Smartbear Software Suite Licences and Subscription Renewals",
-    "buyer": "An Garda Síochána_1192",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-22T02:00:00Z",
-    "deadline": "2026-10-16T14:00:00Z",
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "48000000",
-      "48000000"
-    ],
-    "status": "active",
-    "relevance": 43,
-    "matched": [
-      "CPV 48000000",
-      "software"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/652095-2026",
-    "fetched_at": "2026-09-29T22:07:22.074075Z"
-  },
-  {
     "key": "Poland / TED:649637-2026",
     "id": "649637-2026",
     "ocid": null,
@@ -6512,7 +5580,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/706780-2026",
-    "fetched_at": "2026-10-16T09:37:56.316047Z"
+    "fetched_at": "2026-10-19T10:47:41.670721Z"
   },
   {
     "key": "Find a Tender:096255-2026",
@@ -6834,7 +5902,7 @@
       "CPV 48781000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/704727-2026",
-    "fetched_at": "2026-10-16T09:37:29.176643Z"
+    "fetched_at": "2026-10-19T10:47:28.970588Z"
   },
   {
     "key": "Poland / TED:714691-2026",
@@ -6862,7 +5930,7 @@
       "CPV 72260000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/714691-2026",
-    "fetched_at": "2026-10-15T21:12:05.822857Z"
+    "fetched_at": "2026-10-19T10:47:37.540641Z"
   },
   {
     "key": "eTenders Ireland / TED:687062-2026",
@@ -6931,622 +5999,6 @@
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/698698-2026",
     "fetched_at": "2026-10-15T21:12:22.626873Z"
-  },
-  {
-    "key": "Find a Tender:086272-2026",
-    "id": "086272-2026",
-    "ocid": "ocds-h6vhtk-06f7bf",
-    "title": "High-Throughput Experimentation (HTE) Software for Drug Discovery",
-    "buyer": "University of Dundee",
-    "description": "HTE is a field of chemistry that expanded exponentially in the past five years, and most pharmaceutical companies are currently using it in their workflows. This methodology allows multi-parameter optimisation of chemical reactions but also synthesis of multiple compounds (96 to 384) on a small-scale using plate chemistry. Combined with the implementation of Direct-to-Biology (D2B) approaches, which involves the direct testing of non-purified mixtures, biological data is obtained faster. The combination of these methods greatly improves the Design, Make, Test, and Analyse (DMTA) cycle.",
-    "source": "Find a Tender",
-    "country": "United Kingdom",
-    "published_at": "2026-09-11T09:48:35Z",
-    "deadline": "2026-10-16T11:00:00Z",
-    "value": 210000.0,
-    "currency": "GBP",
-    "cpv": [
-      "72322000",
-      "73300000",
-      "79930000",
-      "79933000"
-    ],
-    "status": "active",
-    "relevance": 38,
-    "matched": [
-      "CPV 72322000",
-      "software"
-    ],
-    "url": "https://www.find-tender.service.gov.uk/Notice/086272-2026",
-    "fetched_at": "2026-09-14T10:29:24.076867Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-8-SEP564348",
-    "id": "rls-8-SEP564348",
-    "ocid": "ocds-r6ebe6-0000842663",
-    "title": "High-Throughput Experimentation (HTE) Software for Drug Discovery",
-    "buyer": "University of Dundee",
-    "description": "HTE is a field of chemistry that expanded exponentially in the past five years, and most pharmaceutical companies are currently using it in their workflows. This methodology allows multi-parameter optimisation of chemical reactions but also synthesis of multiple compounds (96 to 384) on a small-scale using plate chemistry. Combined with the implementation of Direct-to-Biology (D2B) approaches, which involves the direct testing of non-purified mixtures, biological data is obtained faster. The combination of these methods greatly improves the Design, Make, Test, and Analyse (DMTA) cycle.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-11T00:00:00Z",
-    "deadline": "2026-10-16T12:00:00Z",
-    "value": 210000.0,
-    "currency": "GBP",
-    "cpv": [
-      "72322000",
-      "73300000",
-      "79930000",
-      "79933000"
-    ],
-    "status": "active",
-    "relevance": 38,
-    "matched": [
-      "CPV 72322000",
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564348",
-    "fetched_at": "2026-09-13T20:36:55.629225Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-9-SEP564348",
-    "id": "rls-9-SEP564348",
-    "ocid": "ocds-r6ebe6-0000842663",
-    "title": "High-Throughput Experimentation (HTE) Software for Drug Discovery",
-    "buyer": "University of Dundee",
-    "description": "HTE is a field of chemistry that expanded exponentially in the past five years, and most pharmaceutical companies are currently using it in their workflows. This methodology allows multi-parameter optimisation of chemical reactions but also synthesis of multiple compounds (96 to 384) on a small-scale using plate chemistry. Combined with the implementation of Direct-to-Biology (D2B) approaches, which involves the direct testing of non-purified mixtures, biological data is obtained faster. The combination of these methods greatly improves the Design, Make, Test, and Analyse (DMTA) cycle.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-11T00:00:00Z",
-    "deadline": "2026-10-16T12:00:00Z",
-    "value": 210000.0,
-    "currency": "GBP",
-    "cpv": [
-      "72322000",
-      "73300000",
-      "79930000",
-      "79933000"
-    ],
-    "status": "active",
-    "relevance": 38,
-    "matched": [
-      "CPV 72322000",
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564348",
-    "fetched_at": "2026-09-14T10:30:08.419534Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-10-SEP564348",
-    "id": "rls-10-SEP564348",
-    "ocid": "ocds-r6ebe6-0000842663",
-    "title": "High-Throughput Experimentation (HTE) Software for Drug Discovery",
-    "buyer": "University of Dundee",
-    "description": "HTE is a field of chemistry that expanded exponentially in the past five years, and most pharmaceutical companies are currently using it in their workflows. This methodology allows multi-parameter optimisation of chemical reactions but also synthesis of multiple compounds (96 to 384) on a small-scale using plate chemistry. Combined with the implementation of Direct-to-Biology (D2B) approaches, which involves the direct testing of non-purified mixtures, biological data is obtained faster. The combination of these methods greatly improves the Design, Make, Test, and Analyse (DMTA) cycle.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-11T00:00:00Z",
-    "deadline": "2026-10-16T12:00:00Z",
-    "value": 210000.0,
-    "currency": "GBP",
-    "cpv": [
-      "72322000",
-      "73300000",
-      "79930000",
-      "79933000"
-    ],
-    "status": "active",
-    "relevance": 38,
-    "matched": [
-      "CPV 72322000",
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564348",
-    "fetched_at": "2026-09-14T21:43:19.181811Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-15-SEP564348",
-    "id": "rls-15-SEP564348",
-    "ocid": "ocds-r6ebe6-0000842663",
-    "title": "High-Throughput Experimentation (HTE) Software for Drug Discovery",
-    "buyer": "University of Dundee",
-    "description": "HTE is a field of chemistry that expanded exponentially in the past five years, and most pharmaceutical companies are currently using it in their workflows. This methodology allows multi-parameter optimisation of chemical reactions but also synthesis of multiple compounds (96 to 384) on a small-scale using plate chemistry. Combined with the implementation of Direct-to-Biology (D2B) approaches, which involves the direct testing of non-purified mixtures, biological data is obtained faster. The combination of these methods greatly improves the Design, Make, Test, and Analyse (DMTA) cycle.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-11T00:00:00Z",
-    "deadline": "2026-10-16T12:00:00Z",
-    "value": 210000.0,
-    "currency": "GBP",
-    "cpv": [
-      "72322000",
-      "73300000",
-      "79930000",
-      "79933000"
-    ],
-    "status": "active",
-    "relevance": 38,
-    "matched": [
-      "CPV 72322000",
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564348",
-    "fetched_at": "2026-09-15T21:08:12.725489Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-17-SEP564348",
-    "id": "rls-17-SEP564348",
-    "ocid": "ocds-r6ebe6-0000842663",
-    "title": "High-Throughput Experimentation (HTE) Software for Drug Discovery",
-    "buyer": "University of Dundee",
-    "description": "HTE is a field of chemistry that expanded exponentially in the past five years, and most pharmaceutical companies are currently using it in their workflows. This methodology allows multi-parameter optimisation of chemical reactions but also synthesis of multiple compounds (96 to 384) on a small-scale using plate chemistry. Combined with the implementation of Direct-to-Biology (D2B) approaches, which involves the direct testing of non-purified mixtures, biological data is obtained faster. The combination of these methods greatly improves the Design, Make, Test, and Analyse (DMTA) cycle.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-11T00:00:00Z",
-    "deadline": "2026-10-16T12:00:00Z",
-    "value": 210000.0,
-    "currency": "GBP",
-    "cpv": [
-      "72322000",
-      "73300000",
-      "79930000",
-      "79933000"
-    ],
-    "status": "active",
-    "relevance": 38,
-    "matched": [
-      "CPV 72322000",
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564348",
-    "fetched_at": "2026-09-16T09:48:37.237125Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-18-SEP564348",
-    "id": "rls-18-SEP564348",
-    "ocid": "ocds-r6ebe6-0000842663",
-    "title": "High-Throughput Experimentation (HTE) Software for Drug Discovery",
-    "buyer": "University of Dundee",
-    "description": "HTE is a field of chemistry that expanded exponentially in the past five years, and most pharmaceutical companies are currently using it in their workflows. This methodology allows multi-parameter optimisation of chemical reactions but also synthesis of multiple compounds (96 to 384) on a small-scale using plate chemistry. Combined with the implementation of Direct-to-Biology (D2B) approaches, which involves the direct testing of non-purified mixtures, biological data is obtained faster. The combination of these methods greatly improves the Design, Make, Test, and Analyse (DMTA) cycle.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-11T00:00:00Z",
-    "deadline": "2026-10-16T12:00:00Z",
-    "value": 210000.0,
-    "currency": "GBP",
-    "cpv": [
-      "72322000",
-      "73300000",
-      "79930000",
-      "79933000"
-    ],
-    "status": "active",
-    "relevance": 38,
-    "matched": [
-      "CPV 72322000",
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564348",
-    "fetched_at": "2026-09-17T09:55:28.328610Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-22-SEP564348",
-    "id": "rls-22-SEP564348",
-    "ocid": "ocds-r6ebe6-0000842663",
-    "title": "High-Throughput Experimentation (HTE) Software for Drug Discovery",
-    "buyer": "University of Dundee",
-    "description": "HTE is a field of chemistry that expanded exponentially in the past five years, and most pharmaceutical companies are currently using it in their workflows. This methodology allows multi-parameter optimisation of chemical reactions but also synthesis of multiple compounds (96 to 384) on a small-scale using plate chemistry. Combined with the implementation of Direct-to-Biology (D2B) approaches, which involves the direct testing of non-purified mixtures, biological data is obtained faster. The combination of these methods greatly improves the Design, Make, Test, and Analyse (DMTA) cycle.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-11T00:00:00Z",
-    "deadline": "2026-10-16T12:00:00Z",
-    "value": 210000.0,
-    "currency": "GBP",
-    "cpv": [
-      "72322000",
-      "73300000",
-      "79930000",
-      "79933000"
-    ],
-    "status": "active",
-    "relevance": 38,
-    "matched": [
-      "CPV 72322000",
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564348",
-    "fetched_at": "2026-09-18T09:33:33.229104Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-29-SEP564348",
-    "id": "rls-29-SEP564348",
-    "ocid": "ocds-r6ebe6-0000842663",
-    "title": "High-Throughput Experimentation (HTE) Software for Drug Discovery",
-    "buyer": "University of Dundee",
-    "description": "HTE is a field of chemistry that expanded exponentially in the past five years, and most pharmaceutical companies are currently using it in their workflows. This methodology allows multi-parameter optimisation of chemical reactions but also synthesis of multiple compounds (96 to 384) on a small-scale using plate chemistry. Combined with the implementation of Direct-to-Biology (D2B) approaches, which involves the direct testing of non-purified mixtures, biological data is obtained faster. The combination of these methods greatly improves the Design, Make, Test, and Analyse (DMTA) cycle.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-11T00:00:00Z",
-    "deadline": "2026-10-16T12:00:00Z",
-    "value": 210000.0,
-    "currency": "GBP",
-    "cpv": [
-      "72322000",
-      "73300000",
-      "79930000",
-      "79933000"
-    ],
-    "status": "active",
-    "relevance": 38,
-    "matched": [
-      "CPV 72322000",
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564348",
-    "fetched_at": "2026-09-20T20:37:55.351199Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-32-SEP564348",
-    "id": "rls-32-SEP564348",
-    "ocid": "ocds-r6ebe6-0000842663",
-    "title": "High-Throughput Experimentation (HTE) Software for Drug Discovery",
-    "buyer": "University of Dundee",
-    "description": "HTE is a field of chemistry that expanded exponentially in the past five years, and most pharmaceutical companies are currently using it in their workflows. This methodology allows multi-parameter optimisation of chemical reactions but also synthesis of multiple compounds (96 to 384) on a small-scale using plate chemistry. Combined with the implementation of Direct-to-Biology (D2B) approaches, which involves the direct testing of non-purified mixtures, biological data is obtained faster. The combination of these methods greatly improves the Design, Make, Test, and Analyse (DMTA) cycle.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-11T00:00:00Z",
-    "deadline": "2026-10-16T12:00:00Z",
-    "value": 210000.0,
-    "currency": "GBP",
-    "cpv": [
-      "72322000",
-      "73300000",
-      "79930000",
-      "79933000"
-    ],
-    "status": "active",
-    "relevance": 38,
-    "matched": [
-      "CPV 72322000",
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564348",
-    "fetched_at": "2026-09-21T10:35:22.640456Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-38-SEP564348",
-    "id": "rls-38-SEP564348",
-    "ocid": "ocds-r6ebe6-0000842663",
-    "title": "High-Throughput Experimentation (HTE) Software for Drug Discovery",
-    "buyer": "University of Dundee",
-    "description": "HTE is a field of chemistry that expanded exponentially in the past five years, and most pharmaceutical companies are currently using it in their workflows. This methodology allows multi-parameter optimisation of chemical reactions but also synthesis of multiple compounds (96 to 384) on a small-scale using plate chemistry. Combined with the implementation of Direct-to-Biology (D2B) approaches, which involves the direct testing of non-purified mixtures, biological data is obtained faster. The combination of these methods greatly improves the Design, Make, Test, and Analyse (DMTA) cycle.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-11T00:00:00Z",
-    "deadline": "2026-10-16T12:00:00Z",
-    "value": 210000.0,
-    "currency": "GBP",
-    "cpv": [
-      "72322000",
-      "73300000",
-      "79930000",
-      "79933000"
-    ],
-    "status": "active",
-    "relevance": 38,
-    "matched": [
-      "CPV 72322000",
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564348",
-    "fetched_at": "2026-09-22T09:47:59.864458Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-40-SEP564348",
-    "id": "rls-40-SEP564348",
-    "ocid": "ocds-r6ebe6-0000842663",
-    "title": "High-Throughput Experimentation (HTE) Software for Drug Discovery",
-    "buyer": "University of Dundee",
-    "description": "HTE is a field of chemistry that expanded exponentially in the past five years, and most pharmaceutical companies are currently using it in their workflows. This methodology allows multi-parameter optimisation of chemical reactions but also synthesis of multiple compounds (96 to 384) on a small-scale using plate chemistry. Combined with the implementation of Direct-to-Biology (D2B) approaches, which involves the direct testing of non-purified mixtures, biological data is obtained faster. The combination of these methods greatly improves the Design, Make, Test, and Analyse (DMTA) cycle.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-11T00:00:00Z",
-    "deadline": "2026-10-16T12:00:00Z",
-    "value": 210000.0,
-    "currency": "GBP",
-    "cpv": [
-      "72322000",
-      "73300000",
-      "79930000",
-      "79933000"
-    ],
-    "status": "active",
-    "relevance": 38,
-    "matched": [
-      "CPV 72322000",
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564348",
-    "fetched_at": "2026-09-22T21:09:05.545988Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-41-SEP564348",
-    "id": "rls-41-SEP564348",
-    "ocid": "ocds-r6ebe6-0000842663",
-    "title": "High-Throughput Experimentation (HTE) Software for Drug Discovery",
-    "buyer": "University of Dundee",
-    "description": "HTE is a field of chemistry that expanded exponentially in the past five years, and most pharmaceutical companies are currently using it in their workflows. This methodology allows multi-parameter optimisation of chemical reactions but also synthesis of multiple compounds (96 to 384) on a small-scale using plate chemistry. Combined with the implementation of Direct-to-Biology (D2B) approaches, which involves the direct testing of non-purified mixtures, biological data is obtained faster. The combination of these methods greatly improves the Design, Make, Test, and Analyse (DMTA) cycle.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-11T00:00:00Z",
-    "deadline": "2026-10-16T12:00:00Z",
-    "value": 210000.0,
-    "currency": "GBP",
-    "cpv": [
-      "72322000",
-      "73300000",
-      "79930000",
-      "79933000"
-    ],
-    "status": "active",
-    "relevance": 38,
-    "matched": [
-      "CPV 72322000",
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564348",
-    "fetched_at": "2026-09-23T09:51:37.018435Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-42-SEP564348",
-    "id": "rls-42-SEP564348",
-    "ocid": "ocds-r6ebe6-0000842663",
-    "title": "High-Throughput Experimentation (HTE) Software for Drug Discovery",
-    "buyer": "University of Dundee",
-    "description": "HTE is a field of chemistry that expanded exponentially in the past five years, and most pharmaceutical companies are currently using it in their workflows. This methodology allows multi-parameter optimisation of chemical reactions but also synthesis of multiple compounds (96 to 384) on a small-scale using plate chemistry. Combined with the implementation of Direct-to-Biology (D2B) approaches, which involves the direct testing of non-purified mixtures, biological data is obtained faster. The combination of these methods greatly improves the Design, Make, Test, and Analyse (DMTA) cycle.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-11T00:00:00Z",
-    "deadline": "2026-10-16T12:00:00Z",
-    "value": 210000.0,
-    "currency": "GBP",
-    "cpv": [
-      "72322000",
-      "73300000",
-      "79930000",
-      "79933000"
-    ],
-    "status": "active",
-    "relevance": 38,
-    "matched": [
-      "CPV 72322000",
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564348",
-    "fetched_at": "2026-09-23T21:23:01.526062Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-7-SEP564348",
-    "id": "rls-7-SEP564348",
-    "ocid": "ocds-r6ebe6-0000842663",
-    "title": "High-Throughput Experimentation (HTE) Software for Drug Discovery",
-    "buyer": "University of Dundee",
-    "description": "HTE is a field of chemistry that expanded exponentially in the past five years, and most pharmaceutical companies are currently using it in their workflows. This methodology allows multi-parameter optimisation of chemical reactions but also synthesis of multiple compounds (96 to 384) on a small-scale using plate chemistry. Combined with the implementation of Direct-to-Biology (D2B) approaches, which involves the direct testing of non-purified mixtures, biological data is obtained faster. The combination of these methods greatly improves the Design, Make, Test, and Analyse (DMTA) cycle.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-11T00:00:00Z",
-    "deadline": "2026-10-16T12:00:00Z",
-    "value": 210000.0,
-    "currency": "GBP",
-    "cpv": [
-      "72322000",
-      "73300000",
-      "79930000",
-      "79933000"
-    ],
-    "status": "active",
-    "relevance": 38,
-    "matched": [
-      "CPV 72322000",
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564348",
-    "fetched_at": "2026-09-24T09:50:43.125547Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-43-SEP564348",
-    "id": "rls-43-SEP564348",
-    "ocid": "ocds-r6ebe6-0000842663",
-    "title": "High-Throughput Experimentation (HTE) Software for Drug Discovery",
-    "buyer": "University of Dundee",
-    "description": "HTE is a field of chemistry that expanded exponentially in the past five years, and most pharmaceutical companies are currently using it in their workflows. This methodology allows multi-parameter optimisation of chemical reactions but also synthesis of multiple compounds (96 to 384) on a small-scale using plate chemistry. Combined with the implementation of Direct-to-Biology (D2B) approaches, which involves the direct testing of non-purified mixtures, biological data is obtained faster. The combination of these methods greatly improves the Design, Make, Test, and Analyse (DMTA) cycle.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-11T00:00:00Z",
-    "deadline": "2026-10-16T12:00:00Z",
-    "value": 210000.0,
-    "currency": "GBP",
-    "cpv": [
-      "72322000",
-      "73300000",
-      "79930000",
-      "79933000"
-    ],
-    "status": "active",
-    "relevance": 38,
-    "matched": [
-      "CPV 72322000",
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564348",
-    "fetched_at": "2026-09-24T21:24:14.842682Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-45-SEP564348",
-    "id": "rls-45-SEP564348",
-    "ocid": "ocds-r6ebe6-0000842663",
-    "title": "High-Throughput Experimentation (HTE) Software for Drug Discovery",
-    "buyer": "University of Dundee",
-    "description": "HTE is a field of chemistry that expanded exponentially in the past five years, and most pharmaceutical companies are currently using it in their workflows. This methodology allows multi-parameter optimisation of chemical reactions but also synthesis of multiple compounds (96 to 384) on a small-scale using plate chemistry. Combined with the implementation of Direct-to-Biology (D2B) approaches, which involves the direct testing of non-purified mixtures, biological data is obtained faster. The combination of these methods greatly improves the Design, Make, Test, and Analyse (DMTA) cycle.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-11T00:00:00Z",
-    "deadline": "2026-10-16T12:00:00Z",
-    "value": 210000.0,
-    "currency": "GBP",
-    "cpv": [
-      "72322000",
-      "73300000",
-      "79930000",
-      "79933000"
-    ],
-    "status": "active",
-    "relevance": 38,
-    "matched": [
-      "CPV 72322000",
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564348",
-    "fetched_at": "2026-09-25T10:06:20.634910Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-49-SEP564348",
-    "id": "rls-49-SEP564348",
-    "ocid": "ocds-r6ebe6-0000842663",
-    "title": "High-Throughput Experimentation (HTE) Software for Drug Discovery",
-    "buyer": "University of Dundee",
-    "description": "HTE is a field of chemistry that expanded exponentially in the past five years, and most pharmaceutical companies are currently using it in their workflows. This methodology allows multi-parameter optimisation of chemical reactions but also synthesis of multiple compounds (96 to 384) on a small-scale using plate chemistry. Combined with the implementation of Direct-to-Biology (D2B) approaches, which involves the direct testing of non-purified mixtures, biological data is obtained faster. The combination of these methods greatly improves the Design, Make, Test, and Analyse (DMTA) cycle.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-11T00:00:00Z",
-    "deadline": "2026-10-16T12:00:00Z",
-    "value": 210000.0,
-    "currency": "GBP",
-    "cpv": [
-      "72322000",
-      "73300000",
-      "79930000",
-      "79933000"
-    ],
-    "status": "active",
-    "relevance": 38,
-    "matched": [
-      "CPV 72322000",
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564348",
-    "fetched_at": "2026-09-27T21:12:35.834941Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-50-SEP564348",
-    "id": "rls-50-SEP564348",
-    "ocid": "ocds-r6ebe6-0000842663",
-    "title": "High-Throughput Experimentation (HTE) Software for Drug Discovery",
-    "buyer": "University of Dundee",
-    "description": "HTE is a field of chemistry that expanded exponentially in the past five years, and most pharmaceutical companies are currently using it in their workflows. This methodology allows multi-parameter optimisation of chemical reactions but also synthesis of multiple compounds (96 to 384) on a small-scale using plate chemistry. Combined with the implementation of Direct-to-Biology (D2B) approaches, which involves the direct testing of non-purified mixtures, biological data is obtained faster. The combination of these methods greatly improves the Design, Make, Test, and Analyse (DMTA) cycle.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-11T00:00:00Z",
-    "deadline": "2026-10-16T12:00:00Z",
-    "value": 210000.0,
-    "currency": "GBP",
-    "cpv": [
-      "72322000",
-      "73300000",
-      "79930000",
-      "79933000"
-    ],
-    "status": "active",
-    "relevance": 38,
-    "matched": [
-      "CPV 72322000",
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564348",
-    "fetched_at": "2026-09-28T11:36:24.899418Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-51-SEP564348",
-    "id": "rls-51-SEP564348",
-    "ocid": "ocds-r6ebe6-0000842663",
-    "title": "High-Throughput Experimentation (HTE) Software for Drug Discovery",
-    "buyer": "University of Dundee",
-    "description": "HTE is a field of chemistry that expanded exponentially in the past five years, and most pharmaceutical companies are currently using it in their workflows. This methodology allows multi-parameter optimisation of chemical reactions but also synthesis of multiple compounds (96 to 384) on a small-scale using plate chemistry. Combined with the implementation of Direct-to-Biology (D2B) approaches, which involves the direct testing of non-purified mixtures, biological data is obtained faster. The combination of these methods greatly improves the Design, Make, Test, and Analyse (DMTA) cycle.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-11T00:00:00Z",
-    "deadline": "2026-10-16T12:00:00Z",
-    "value": 210000.0,
-    "currency": "GBP",
-    "cpv": [
-      "72322000",
-      "73300000",
-      "79930000",
-      "79933000"
-    ],
-    "status": "active",
-    "relevance": 38,
-    "matched": [
-      "CPV 72322000",
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564348",
-    "fetched_at": "2026-09-29T11:14:53.678244Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-55-SEP564348",
-    "id": "rls-55-SEP564348",
-    "ocid": "ocds-r6ebe6-0000842663",
-    "title": "High-Throughput Experimentation (HTE) Software for Drug Discovery",
-    "buyer": "University of Dundee",
-    "description": "HTE is a field of chemistry that expanded exponentially in the past five years, and most pharmaceutical companies are currently using it in their workflows. This methodology allows multi-parameter optimisation of chemical reactions but also synthesis of multiple compounds (96 to 384) on a small-scale using plate chemistry. Combined with the implementation of Direct-to-Biology (D2B) approaches, which involves the direct testing of non-purified mixtures, biological data is obtained faster. The combination of these methods greatly improves the Design, Make, Test, and Analyse (DMTA) cycle.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-11T00:00:00Z",
-    "deadline": "2026-10-16T12:00:00Z",
-    "value": 210000.0,
-    "currency": "GBP",
-    "cpv": [
-      "72322000",
-      "73300000",
-      "79930000",
-      "79933000"
-    ],
-    "status": "active",
-    "relevance": 38,
-    "matched": [
-      "CPV 72322000",
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564348",
-    "fetched_at": "2026-09-30T11:03:05.371401Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-60-SEP564348",
-    "id": "rls-60-SEP564348",
-    "ocid": "ocds-r6ebe6-0000842663",
-    "title": "High-Throughput Experimentation (HTE) Software for Drug Discovery",
-    "buyer": "University of Dundee",
-    "description": "HTE is a field of chemistry that expanded exponentially in the past five years, and most pharmaceutical companies are currently using it in their workflows. This methodology allows multi-parameter optimisation of chemical reactions but also synthesis of multiple compounds (96 to 384) on a small-scale using plate chemistry. Combined with the implementation of Direct-to-Biology (D2B) approaches, which involves the direct testing of non-purified mixtures, biological data is obtained faster. The combination of these methods greatly improves the Design, Make, Test, and Analyse (DMTA) cycle.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-11T00:00:00Z",
-    "deadline": "2026-10-16T12:00:00Z",
-    "value": 210000.0,
-    "currency": "GBP",
-    "cpv": [
-      "72322000",
-      "73300000",
-      "79930000",
-      "79933000"
-    ],
-    "status": "active",
-    "relevance": 38,
-    "matched": [
-      "CPV 72322000",
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564348",
-    "fetched_at": "2026-09-30T22:06:45.531042Z"
   },
   {
     "key": "Find a Tender:093955-2026",
@@ -10810,47 +9262,6 @@
     "fetched_at": "2026-10-16T09:37:14.004498Z"
   },
   {
-    "key": "eTenders Ireland / TED:647419-2026",
-    "id": "647419-2026",
-    "ocid": null,
-    "title": "Ireland – Design consultancy services – WCCC26 462 Design Team for proposed Dungarvan Innovation and Business Development Centre",
-    "buyer": "Waterford City and County Council_103683",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-21T02:00:00Z",
-    "deadline": "2026-10-16T14:00:00Z",
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "79415200",
-      "71315210",
-      "71311000",
-      "71530000",
-      "71314300",
-      "72224000",
-      "71312000",
-      "71315100",
-      "71315200",
-      "79415200",
-      "71315210",
-      "71311000",
-      "71530000",
-      "71314300",
-      "72224000",
-      "71312000",
-      "71315100",
-      "71315200"
-    ],
-    "status": "active",
-    "relevance": 30,
-    "matched": [
-      "CPV 72224000"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/647419-2026",
-    "fetched_at": "2026-09-28T11:36:33.850373Z"
-  },
-  {
     "key": "eTenders Ireland / TED:669247-2026",
     "id": "669247-2026",
     "ocid": null,
@@ -13739,7 +12150,7 @@
       "CPV 32413100"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/713556-2026",
-    "fetched_at": "2026-10-16T09:37:29.170452Z"
+    "fetched_at": "2026-10-19T10:47:28.962749Z"
   },
   {
     "key": "eTenders Ireland / TED:700750-2026",
@@ -15927,7 +14338,7 @@
       "CPV 48000000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/712538-2026",
-    "fetched_at": "2026-10-16T09:37:42.130712Z"
+    "fetched_at": "2026-10-19T10:47:36.449632Z"
   },
   {
     "key": "Poland / TED:715638-2026",
@@ -15956,7 +14367,7 @@
       "CPV 48000000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/715638-2026",
-    "fetched_at": "2026-10-16T09:37:36.110287Z"
+    "fetched_at": "2026-10-19T10:47:35.560990Z"
   },
   {
     "key": "Find a Tender:096471-2026",
