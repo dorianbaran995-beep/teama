@@ -36,7 +36,7 @@
       "website hosting"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/720768-2026",
-    "fetched_at": "2026-10-19T22:21:48.001012Z"
+    "fetched_at": "2026-10-20T10:04:29.246135Z"
   },
   {
     "key": "eTenders Ireland / TED:696163-2026",
@@ -887,7 +887,7 @@
       "ict"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/725595-2026",
-    "fetched_at": "2026-10-19T22:21:52.534205Z"
+    "fetched_at": "2026-10-20T10:04:32.201308Z"
   },
   {
     "key": "eTenders Ireland / TED:684805-2026",
@@ -1033,7 +1033,7 @@
       "managed service"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/707247-2026",
-    "fetched_at": "2026-10-19T22:21:48.014244Z"
+    "fetched_at": "2026-10-20T10:04:29.259345Z"
   },
   {
     "key": "eTenders Ireland / TED:712448-2026",
@@ -1087,7 +1087,7 @@
       "managed service"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/712448-2026",
-    "fetched_at": "2026-10-19T22:21:48.007059Z"
+    "fetched_at": "2026-10-20T10:04:29.252126Z"
   },
   {
     "key": "eTenders Ireland / TED:695163-2026",
@@ -1492,7 +1492,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/719402-2026",
-    "fetched_at": "2026-10-19T22:21:47.999469Z"
+    "fetched_at": "2026-10-20T10:04:29.244595Z"
   },
   {
     "key": "eTenders Ireland / TED:708409-2026",
@@ -1533,7 +1533,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/708409-2026",
-    "fetched_at": "2026-10-19T22:21:48.011196Z"
+    "fetched_at": "2026-10-20T10:04:29.256691Z"
   },
   {
     "key": "eTenders Ireland / TED:706914-2026",
@@ -1576,7 +1576,7 @@
       "ict"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/706914-2026",
-    "fetched_at": "2026-10-19T22:21:48.012426Z"
+    "fetched_at": "2026-10-20T10:04:29.257520Z"
   },
   {
     "key": "eTenders Ireland / TED:657631-2026",
@@ -3737,7 +3737,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/707513-2026",
-    "fetched_at": "2026-10-19T22:21:48.010277Z"
+    "fetched_at": "2026-10-20T10:04:29.255255Z"
   },
   {
     "key": "eTenders Ireland / TED:725963-2026",
@@ -3766,7 +3766,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/725963-2026",
-    "fetched_at": "2026-10-19T22:21:47.996920Z"
+    "fetched_at": "2026-10-20T10:04:29.242055Z"
   },
   {
     "key": "eTenders Ireland / TED:658139-2026",
@@ -4915,7 +4915,7 @@
       "CPV 72268000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/705132-2026",
-    "fetched_at": "2026-10-19T22:21:48.014958Z"
+    "fetched_at": "2026-10-20T10:04:29.260056Z"
   },
   {
     "key": "Poland / TED:715186-2026",
@@ -4951,7 +4951,7 @@
       "CPV 72416000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/715186-2026",
-    "fetched_at": "2026-10-19T22:21:58.265291Z"
+    "fetched_at": "2026-10-20T10:04:36.515464Z"
   },
   {
     "key": "Find a Tender:091992-2026",
@@ -5030,32 +5030,6 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP565521",
     "fetched_at": "2026-09-30T11:03:05.365177Z"
-  },
-  {
-    "key": "Poland / TED:649637-2026",
-    "id": "649637-2026",
-    "ocid": null,
-    "title": "Poland – Software package and information systems – Podniesienie poziomu bezpieczeństwa IT w sądach apelacji łódzkiej poprzez rozbudowę warstwy kontroli i zarządzania dostępem do sieci LAN oraz WLAN",
-    "buyer": "Sąd Apelacyjny w Łodzi",
-    "description": "Active Polish public procurement notice published through TED.",
-    "source": "Poland / TED",
-    "country": "Poland",
-    "published_at": "2026-09-21T02:00:00Z",
-    "deadline": "2026-10-20T08:30:00Z",
-    "value": null,
-    "currency": "PLN",
-    "cpv": [
-      "48000000",
-      "48000000"
-    ],
-    "status": "active",
-    "relevance": 43,
-    "matched": [
-      "CPV 48000000",
-      "software"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/649637-2026",
-    "fetched_at": "2026-09-28T11:36:53.345356Z"
   },
   {
     "key": "Poland / TED:666701-2026",
@@ -5407,7 +5381,7 @@
       "CPV 72260000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/714691-2026",
-    "fetched_at": "2026-10-19T22:22:02.961161Z"
+    "fetched_at": "2026-10-20T10:04:39.399401Z"
   },
   {
     "key": "eTenders Ireland / TED:687062-2026",
@@ -11152,7 +11126,7 @@
       "CPV 32413100"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/713556-2026",
-    "fetched_at": "2026-10-19T22:21:48.008036Z"
+    "fetched_at": "2026-10-20T10:04:29.252689Z"
   },
   {
     "key": "eTenders Ireland / TED:700750-2026",
@@ -13050,7 +13024,7 @@
       "CPV 48000000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/712538-2026",
-    "fetched_at": "2026-10-19T22:22:00.061560Z"
+    "fetched_at": "2026-10-20T10:04:38.367810Z"
   },
   {
     "key": "Poland / TED:715638-2026",
@@ -13079,7 +13053,7 @@
       "CPV 48000000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/715638-2026",
-    "fetched_at": "2026-10-19T22:21:59.300838Z"
+    "fetched_at": "2026-10-20T10:04:37.470241Z"
   },
   {
     "key": "Find a Tender:096471-2026",
