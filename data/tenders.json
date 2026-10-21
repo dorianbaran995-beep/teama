@@ -36,7 +36,7 @@
       "website hosting"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/720768-2026",
-    "fetched_at": "2026-10-21T10:06:25.155860Z"
+    "fetched_at": "2026-10-21T21:38:09.213476Z"
   },
   {
     "key": "eTenders Ireland / TED:696163-2026",
@@ -887,7 +887,7 @@
       "ict"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/725595-2026",
-    "fetched_at": "2026-10-21T10:06:34.582240Z"
+    "fetched_at": "2026-10-21T21:38:18.358182Z"
   },
   {
     "key": "eTenders Ireland / TED:684805-2026",
@@ -1087,7 +1087,7 @@
       "managed service"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/712448-2026",
-    "fetched_at": "2026-10-21T10:06:25.161741Z"
+    "fetched_at": "2026-10-21T21:38:09.219440Z"
   },
   {
     "key": "eTenders Ireland / TED:695163-2026",
@@ -1208,115 +1208,7 @@
       "CPV 30236000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/729265-2026",
-    "fetched_at": "2026-10-21T10:06:28.846037Z"
-  },
-  {
-    "key": "Poland / TED:729251-2026",
-    "id": "729251-2026",
-    "ocid": null,
-    "title": "Poland – Teaching equipment – Dostawa pomocy dydaktycznych, w ramach projektu „Zielona transformacja w toruńskich przedszkolach”.",
-    "buyer": "Gmina Miasta Toruń działająca przez Toruńskie Centrum Usług Wspólnych",
-    "description": "Active Polish public procurement notice published through TED.",
-    "source": "Poland / TED",
-    "country": "Poland",
-    "published_at": "2026-10-21T02:00:00Z",
-    "deadline": "2026-11-06T22:59:59Z",
-    "value": null,
-    "currency": "PLN",
-    "cpv": [
-      "39162100",
-      "38510000",
-      "48190000",
-      "37524100",
-      "37524000",
-      "37524200",
-      "39142000",
-      "14212400",
-      "48000000",
-      "30195910",
-      "44211500",
-      "37520000",
-      "39161000",
-      "39162100",
-      "39162100",
-      "39162100",
-      "38510000",
-      "48190000",
-      "37524100",
-      "37524000",
-      "37524200",
-      "39142000",
-      "14212400",
-      "48000000",
-      "30195910",
-      "44211500",
-      "38510000",
-      "48190000",
-      "37524100",
-      "37524000",
-      "37524200",
-      "48000000",
-      "44211500",
-      "38510000",
-      "48190000",
-      "37524100",
-      "37524000",
-      "37524200",
-      "48000000",
-      "44211500",
-      "37520000",
-      "14212400",
-      "39161000",
-      "30195910"
-    ],
-    "status": "active",
-    "relevance": 53,
-    "matched": [
-      "CPV 30195910",
-      "CPV 48000000",
-      "CPV 48190000"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/729251-2026",
-    "fetched_at": "2026-10-21T10:06:30.791592Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:662277-2026",
-    "id": "662277-2026",
-    "ocid": null,
-    "title": "Ireland – Research consultancy services – ICT Research and Advisory Services",
-    "buyer": "the Irish Aviation Authority",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-25T02:00:00Z",
-    "deadline": "2026-10-21T16:00:00Z",
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "73210000",
-      "72222200",
-      "72222000",
-      "72222100",
-      "72223000",
-      "79980000",
-      "73210000",
-      "72222200",
-      "72222000",
-      "72222100",
-      "72223000",
-      "79980000"
-    ],
-    "status": "active",
-    "relevance": 58,
-    "matched": [
-      "CPV 72222000",
-      "CPV 72222100",
-      "CPV 72222200",
-      "CPV 72223000",
-      "ict"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/662277-2026",
-    "fetched_at": "2026-10-01T11:29:28.503094Z"
+    "fetched_at": "2026-10-21T21:38:12.030013Z"
   },
   {
     "key": "eTenders Ireland / TED:686651-2026",
@@ -1559,7 +1451,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/719402-2026",
-    "fetched_at": "2026-10-21T10:06:25.154444Z"
+    "fetched_at": "2026-10-21T21:38:09.211923Z"
   },
   {
     "key": "eTenders Ireland / TED:708409-2026",
@@ -1734,6 +1626,75 @@
     "fetched_at": "2026-10-20T21:36:35.930451Z"
   },
   {
+    "key": "Poland / TED:729251-2026",
+    "id": "729251-2026",
+    "ocid": null,
+    "title": "Poland – Teaching equipment – Dostawa pomocy dydaktycznych, w ramach projektu „Zielona transformacja w toruńskich przedszkolach”.",
+    "buyer": "Gmina Miasta Toruń działająca przez Toruńskie Centrum Usług Wspólnych",
+    "description": "Active Polish public procurement notice published through TED.",
+    "source": "Poland / TED",
+    "country": "Poland",
+    "published_at": "2026-10-21T02:00:00Z",
+    "deadline": "2026-11-06T22:59:59Z",
+    "value": null,
+    "currency": "PLN",
+    "cpv": [
+      "39162100",
+      "38510000",
+      "48190000",
+      "37524100",
+      "37524000",
+      "37524200",
+      "39142000",
+      "14212400",
+      "48000000",
+      "30195910",
+      "44211500",
+      "37520000",
+      "39161000",
+      "39162100",
+      "39162100",
+      "39162100",
+      "38510000",
+      "48190000",
+      "37524100",
+      "37524000",
+      "37524200",
+      "39142000",
+      "14212400",
+      "48000000",
+      "30195910",
+      "44211500",
+      "38510000",
+      "48190000",
+      "37524100",
+      "37524000",
+      "37524200",
+      "48000000",
+      "44211500",
+      "38510000",
+      "48190000",
+      "37524100",
+      "37524000",
+      "37524200",
+      "48000000",
+      "44211500",
+      "37520000",
+      "14212400",
+      "39161000",
+      "30195910"
+    ],
+    "status": "active",
+    "relevance": 53,
+    "matched": [
+      "CPV 30195910",
+      "CPV 48000000",
+      "CPV 48190000"
+    ],
+    "url": "https://ted.europa.eu/en/notice/-/detail/729251-2026",
+    "fetched_at": "2026-10-21T10:06:30.791592Z"
+  },
+  {
     "key": "eTenders Ireland / TED:725963-2026",
     "id": "725963-2026",
     "ocid": null,
@@ -1760,7 +1721,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/725963-2026",
-    "fetched_at": "2026-10-21T10:06:25.151530Z"
+    "fetched_at": "2026-10-21T21:38:09.208973Z"
   },
   {
     "key": "eTenders Ireland / TED:671405-2026",
@@ -2023,7 +1984,7 @@
       "CPV 72416000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/715186-2026",
-    "fetched_at": "2026-10-21T10:06:40.965133Z"
+    "fetched_at": "2026-10-21T21:38:23.280044Z"
   },
   {
     "key": "Find a Tender:091992-2026",
@@ -2183,7 +2144,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/728304-2026",
-    "fetched_at": "2026-10-21T10:06:25.145786Z"
+    "fetched_at": "2026-10-21T21:38:09.203730Z"
   },
   {
     "key": "Find a Tender:096255-2026",
@@ -2481,7 +2442,7 @@
       "CPV 72260000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/714691-2026",
-    "fetched_at": "2026-10-21T10:06:43.807915Z"
+    "fetched_at": "2026-10-21T21:38:25.289112Z"
   },
   {
     "key": "eTenders Ireland / TED:687062-2026",
@@ -3954,73 +3915,6 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565941",
     "fetched_at": "2026-10-16T09:37:14.004498Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:644816-2026",
-    "id": "644816-2026",
-    "ocid": null,
-    "title": "Ireland – Architectural design services – Tipperary County Council Procurement of Single-Party Framework Agreement for Architect-Led Integrated Design Team Consultancy Services for Clonmel, Co. Tipperary",
-    "buyer": "Tipperary County Council",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-18T02:00:00Z",
-    "deadline": "2026-10-21T11:00:00Z",
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "71220000",
-      "71250000",
-      "71240000",
-      "71311000",
-      "71420000",
-      "71320000",
-      "45212350",
-      "71221000",
-      "71222000",
-      "71223000",
-      "71000000",
-      "71251000",
-      "71322000",
-      "71322100",
-      "71311100",
-      "71324000",
-      "72224000",
-      "71541000",
-      "71400000",
-      "79415200",
-      "79421200",
-      "71242000",
-      "71220000",
-      "71250000",
-      "71240000",
-      "71311000",
-      "71420000",
-      "71320000",
-      "45212350",
-      "71221000",
-      "71222000",
-      "71223000",
-      "71000000",
-      "71251000",
-      "71322000",
-      "71322100",
-      "71311100",
-      "71324000",
-      "72224000",
-      "71541000",
-      "71400000",
-      "79415200",
-      "79421200",
-      "71242000"
-    ],
-    "status": "active",
-    "relevance": 30,
-    "matched": [
-      "CPV 72224000"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/644816-2026",
-    "fetched_at": "2026-09-27T21:12:43.181278Z"
   },
   {
     "key": "eTenders Ireland / TED:674429-2026",
@@ -6801,7 +6695,7 @@
       "CPV 32413100"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/713556-2026",
-    "fetched_at": "2026-10-21T10:06:25.162322Z"
+    "fetched_at": "2026-10-21T21:38:09.220374Z"
   },
   {
     "key": "eTenders Ireland / TED:700750-2026",
@@ -6867,7 +6761,7 @@
       "CPV 72224000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/728928-2026",
-    "fetched_at": "2026-10-21T10:06:25.149074Z"
+    "fetched_at": "2026-10-21T21:38:09.205640Z"
   },
   {
     "key": "Find a Tender:097651-2026",
@@ -7436,7 +7330,7 @@
       "CPV 48000000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/712538-2026",
-    "fetched_at": "2026-10-21T10:06:42.230622Z"
+    "fetched_at": "2026-10-21T21:38:24.355381Z"
   },
   {
     "key": "Poland / TED:715638-2026",
@@ -7465,7 +7359,7 @@
       "CPV 48000000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/715638-2026",
-    "fetched_at": "2026-10-21T10:06:40.980917Z"
+    "fetched_at": "2026-10-21T21:38:23.296282Z"
   },
   {
     "key": "Find a Tender:096471-2026",
@@ -8000,6 +7894,31 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565959",
     "fetched_at": "2026-10-16T09:37:14.004250Z"
+  },
+  {
+    "key": "Find a Tender:099661-2026",
+    "id": "099661-2026",
+    "ocid": "ocds-h6vhtk-078d41",
+    "title": "Scottish Approach to Change Evaluation and Learning Partner",
+    "buyer": "Healthcare Improvement Scotland",
+    "description": "We are seeking to commission a suitably qualified and experienced provider to design and deliver a robust, independent evaluation of the Scottish Approach to Change. The evaluation should provide objective challenge, learning, reflection and assurance regarding the implementation and impact of the programme, including the extent to which it continues to embody its core principles of openness, collaboration and responsiveness to system feedback.",
+    "source": "Find a Tender",
+    "country": "United Kingdom",
+    "published_at": "2026-10-21T15:27:57Z",
+    "deadline": "2026-11-25T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "72416000",
+      "73200000"
+    ],
+    "status": "active",
+    "relevance": 25,
+    "matched": [
+      "CPV 72416000"
+    ],
+    "url": "https://www.find-tender.service.gov.uk/Notice/099661-2026",
+    "fetched_at": "2026-10-21T21:28:54.383536Z"
   },
   {
     "key": "Public Contracts Scotland:rls-1-OCT565862",
@@ -8906,6 +8825,6 @@
       "software"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/099063-2026",
-    "fetched_at": "2026-10-21T09:57:12.059168Z"
+    "fetched_at": "2026-10-21T21:28:54.384994Z"
   }
 ]
