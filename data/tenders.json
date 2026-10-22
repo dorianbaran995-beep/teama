@@ -36,7 +36,7 @@
       "website hosting"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/720768-2026",
-    "fetched_at": "2026-10-21T21:38:09.213476Z"
+    "fetched_at": "2026-10-22T10:06:31.925430Z"
   },
   {
     "key": "eTenders Ireland / TED:696163-2026",
@@ -887,7 +887,7 @@
       "ict"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/725595-2026",
-    "fetched_at": "2026-10-21T21:38:18.358182Z"
+    "fetched_at": "2026-10-22T10:06:49.907550Z"
   },
   {
     "key": "eTenders Ireland / TED:684805-2026",
@@ -1208,7 +1208,121 @@
       "CPV 30236000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/729265-2026",
-    "fetched_at": "2026-10-21T21:38:12.030013Z"
+    "fetched_at": "2026-10-22T10:06:43.717948Z"
+  },
+  {
+    "key": "Poland / TED:729251-2026",
+    "id": "729251-2026",
+    "ocid": null,
+    "title": "Poland – Teaching equipment – Dostawa pomocy dydaktycznych, w ramach projektu „Zielona transformacja w toruńskich przedszkolach”.",
+    "buyer": "Gmina Miasta Toruń działająca przez Toruńskie Centrum Usług Wspólnych",
+    "description": "Active Polish public procurement notice published through TED.",
+    "source": "Poland / TED",
+    "country": "Poland",
+    "published_at": "2026-10-21T02:00:00Z",
+    "deadline": "2026-11-06T22:59:59Z",
+    "value": null,
+    "currency": "PLN",
+    "cpv": [
+      "39162100",
+      "38510000",
+      "48190000",
+      "37524100",
+      "37524000",
+      "37524200",
+      "39142000",
+      "14212400",
+      "48000000",
+      "30195910",
+      "44211500",
+      "37520000",
+      "39161000",
+      "39162100",
+      "39162100",
+      "39162100",
+      "38510000",
+      "48190000",
+      "37524100",
+      "37524000",
+      "37524200",
+      "39142000",
+      "14212400",
+      "48000000",
+      "30195910",
+      "44211500",
+      "38510000",
+      "48190000",
+      "37524100",
+      "37524000",
+      "37524200",
+      "48000000",
+      "44211500",
+      "38510000",
+      "48190000",
+      "37524100",
+      "37524000",
+      "37524200",
+      "48000000",
+      "44211500",
+      "37520000",
+      "14212400",
+      "39161000",
+      "30195910"
+    ],
+    "status": "active",
+    "relevance": 53,
+    "matched": [
+      "CPV 30195910",
+      "CPV 48000000",
+      "CPV 48190000"
+    ],
+    "url": "https://ted.europa.eu/en/notice/-/detail/729251-2026",
+    "fetched_at": "2026-10-22T10:06:46.236718Z"
+  },
+  {
+    "key": "Poland / TED:732777-2026",
+    "id": "732777-2026",
+    "ocid": null,
+    "title": "Poland – Tablet computer – Zakup tabletów, akcesoriów, aplikacji MDM wraz z instalacja w pojazdach MPK – Łódź Spółka z o.o.",
+    "buyer": "Miejskie Przedsiębiorstwo Komunikacyjne – Łódź Spółka z ograniczoną odpowiedzialnością",
+    "description": "Active Polish public procurement notice published through TED.",
+    "source": "Poland / TED",
+    "country": "Poland",
+    "published_at": "2026-10-22T02:00:00Z",
+    "deadline": "2026-11-09T23:00:00Z",
+    "value": null,
+    "currency": "PLN",
+    "cpv": [
+      "30213200",
+      "51110000",
+      "51100000",
+      "48000000",
+      "72268000",
+      "72263000",
+      "72265000",
+      "72267000",
+      "72000000",
+      "30213200",
+      "51110000",
+      "51100000",
+      "48000000",
+      "72268000",
+      "72263000",
+      "72265000",
+      "72267000",
+      "72000000"
+    ],
+    "status": "active",
+    "relevance": 59,
+    "matched": [
+      "CPV 30213200",
+      "CPV 48000000",
+      "CPV 72263000",
+      "CPV 72268000",
+      "aplikacji"
+    ],
+    "url": "https://ted.europa.eu/en/notice/-/detail/732777-2026",
+    "fetched_at": "2026-10-22T10:06:36.845250Z"
   },
   {
     "key": "eTenders Ireland / TED:686651-2026",
@@ -1451,7 +1565,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/719402-2026",
-    "fetched_at": "2026-10-21T21:38:09.211923Z"
+    "fetched_at": "2026-10-22T10:06:31.924568Z"
   },
   {
     "key": "eTenders Ireland / TED:708409-2026",
@@ -1626,75 +1740,6 @@
     "fetched_at": "2026-10-20T21:36:35.930451Z"
   },
   {
-    "key": "Poland / TED:729251-2026",
-    "id": "729251-2026",
-    "ocid": null,
-    "title": "Poland – Teaching equipment – Dostawa pomocy dydaktycznych, w ramach projektu „Zielona transformacja w toruńskich przedszkolach”.",
-    "buyer": "Gmina Miasta Toruń działająca przez Toruńskie Centrum Usług Wspólnych",
-    "description": "Active Polish public procurement notice published through TED.",
-    "source": "Poland / TED",
-    "country": "Poland",
-    "published_at": "2026-10-21T02:00:00Z",
-    "deadline": "2026-11-06T22:59:59Z",
-    "value": null,
-    "currency": "PLN",
-    "cpv": [
-      "39162100",
-      "38510000",
-      "48190000",
-      "37524100",
-      "37524000",
-      "37524200",
-      "39142000",
-      "14212400",
-      "48000000",
-      "30195910",
-      "44211500",
-      "37520000",
-      "39161000",
-      "39162100",
-      "39162100",
-      "39162100",
-      "38510000",
-      "48190000",
-      "37524100",
-      "37524000",
-      "37524200",
-      "39142000",
-      "14212400",
-      "48000000",
-      "30195910",
-      "44211500",
-      "38510000",
-      "48190000",
-      "37524100",
-      "37524000",
-      "37524200",
-      "48000000",
-      "44211500",
-      "38510000",
-      "48190000",
-      "37524100",
-      "37524000",
-      "37524200",
-      "48000000",
-      "44211500",
-      "37520000",
-      "14212400",
-      "39161000",
-      "30195910"
-    ],
-    "status": "active",
-    "relevance": 53,
-    "matched": [
-      "CPV 30195910",
-      "CPV 48000000",
-      "CPV 48190000"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/729251-2026",
-    "fetched_at": "2026-10-21T10:06:30.791592Z"
-  },
-  {
     "key": "eTenders Ireland / TED:725963-2026",
     "id": "725963-2026",
     "ocid": null,
@@ -1721,7 +1766,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/725963-2026",
-    "fetched_at": "2026-10-21T21:38:09.208973Z"
+    "fetched_at": "2026-10-22T10:06:31.922798Z"
   },
   {
     "key": "eTenders Ireland / TED:671405-2026",
@@ -1791,41 +1836,6 @@
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/701174-2026",
     "fetched_at": "2026-10-19T10:47:42.492838Z"
-  },
-  {
-    "key": "Poland / TED:675742-2026",
-    "id": "675742-2026",
-    "ocid": null,
-    "title": "Poland – Display screens – Dostawa monitorów, jednostek centralnych i notebooków (3 zadania częściowe)",
-    "buyer": "KOMENDA WOJEWÓDZKA POLICJI W OLSZTYNIE",
-    "description": "Active Polish public procurement notice published through TED.",
-    "source": "Poland / TED",
-    "country": "Poland",
-    "published_at": "2026-10-01T02:00:00Z",
-    "deadline": "2026-10-21T21:59:00Z",
-    "value": null,
-    "currency": "PLN",
-    "cpv": [
-      "30231300",
-      "30213300",
-      "30213100",
-      "30214000",
-      "30231300",
-      "30213100",
-      "30213300",
-      "30214000",
-      "30231300"
-    ],
-    "status": "active",
-    "relevance": 45,
-    "matched": [
-      "CPV 30213100",
-      "CPV 30213300",
-      "CPV 30214000",
-      "CPV 30231300"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/675742-2026",
-    "fetched_at": "2026-10-08T11:54:31.316879Z"
   },
   {
     "key": "eTenders Ireland / TED:682322-2026",
@@ -1984,7 +1994,7 @@
       "CPV 72416000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/715186-2026",
-    "fetched_at": "2026-10-21T21:38:23.280044Z"
+    "fetched_at": "2026-10-22T10:06:54.813544Z"
   },
   {
     "key": "Find a Tender:091992-2026",
@@ -2144,7 +2154,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/728304-2026",
-    "fetched_at": "2026-10-21T21:38:09.203730Z"
+    "fetched_at": "2026-10-22T10:06:31.919021Z"
   },
   {
     "key": "Find a Tender:096255-2026",
@@ -2927,6 +2937,35 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565958",
     "fetched_at": "2026-10-16T09:37:14.004368Z"
+  },
+  {
+    "key": "eTenders Ireland / TED:731629-2026",
+    "id": "731629-2026",
+    "ocid": null,
+    "title": "Ireland – Television and audio-visual equipment – 26P057 RTE Bonding Technology Framework",
+    "buyer": "Raidió Teilifís Éireann ( RTÉ )",
+    "description": "Active Irish public procurement notice published through TED/eTenders.",
+    "source": "eTenders Ireland / TED",
+    "country": "Ireland",
+    "published_at": "2026-10-22T02:00:00Z",
+    "deadline": "2026-10-30T12:00:00Z",
+    "value": null,
+    "currency": "EUR",
+    "cpv": [
+      "32320000",
+      "32570000",
+      "32320000",
+      "32320000",
+      "32570000",
+      "32570000"
+    ],
+    "status": "active",
+    "relevance": 35,
+    "matched": [
+      "CPV 32570000"
+    ],
+    "url": "https://ted.europa.eu/en/notice/-/detail/731629-2026",
+    "fetched_at": "2026-10-22T10:06:31.916775Z"
   },
   {
     "key": "Find a Tender:096433-2026",
@@ -6761,7 +6800,7 @@
       "CPV 72224000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/728928-2026",
-    "fetched_at": "2026-10-21T21:38:09.205640Z"
+    "fetched_at": "2026-10-22T10:06:31.921133Z"
   },
   {
     "key": "Find a Tender:097651-2026",
@@ -6848,462 +6887,6 @@
     "fetched_at": "2026-10-16T09:37:14.000820Z"
   },
   {
-    "key": "Public Contracts Scotland:rls-4-OCT565724",
-    "id": "rls-4-OCT565724",
-    "ocid": "ocds-r6ebe6-0000844457",
-    "title": "Provision of an Emergency Communication Platform and Associated Hardware.",
-    "buyer": "UHI Moray",
-    "description": "UHI Moray and UHI North, West and Hebrides are undertaking a joint procurement exercise for the Provision of an Emergency Communication Platform and Associated Hardware.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-01T00:00:00Z",
-    "deadline": "2026-10-22T09:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "32412000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 32412000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565724",
-    "fetched_at": "2026-10-01T22:33:28.863462Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-5-OCT565724",
-    "id": "rls-5-OCT565724",
-    "ocid": "ocds-r6ebe6-0000844457",
-    "title": "Provision of an Emergency Communication Platform and Associated Hardware.",
-    "buyer": "UHI Moray",
-    "description": "UHI Moray and UHI North, West and Hebrides are undertaking a joint procurement exercise for the Provision of an Emergency Communication Platform and Associated Hardware.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-01T00:00:00Z",
-    "deadline": "2026-10-22T09:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "32412000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 32412000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565724",
-    "fetched_at": "2026-10-02T10:59:10.406420Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-9-OCT565724",
-    "id": "rls-9-OCT565724",
-    "ocid": "ocds-r6ebe6-0000844457",
-    "title": "Provision of an Emergency Communication Platform and Associated Hardware.",
-    "buyer": "UHI Moray",
-    "description": "UHI Moray and UHI North, West and Hebrides are undertaking a joint procurement exercise for the Provision of an Emergency Communication Platform and Associated Hardware.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-01T00:00:00Z",
-    "deadline": "2026-10-22T09:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "32412000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 32412000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565724",
-    "fetched_at": "2026-10-04T21:10:04.182447Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-11-OCT565724",
-    "id": "rls-11-OCT565724",
-    "ocid": "ocds-r6ebe6-0000844457",
-    "title": "Provision of an Emergency Communication Platform and Associated Hardware.",
-    "buyer": "UHI Moray",
-    "description": "UHI Moray and UHI North, West and Hebrides are undertaking a joint procurement exercise for the Provision of an Emergency Communication Platform and Associated Hardware.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-01T00:00:00Z",
-    "deadline": "2026-10-22T09:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "32412000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 32412000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565724",
-    "fetched_at": "2026-10-05T12:10:32.630009Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-14-OCT565724",
-    "id": "rls-14-OCT565724",
-    "ocid": "ocds-r6ebe6-0000844457",
-    "title": "Provision of an Emergency Communication Platform and Associated Hardware.",
-    "buyer": "UHI Moray",
-    "description": "UHI Moray and UHI North, West and Hebrides are undertaking a joint procurement exercise for the Provision of an Emergency Communication Platform and Associated Hardware.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-01T00:00:00Z",
-    "deadline": "2026-10-22T09:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "32412000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 32412000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565724",
-    "fetched_at": "2026-10-05T23:56:33.051715Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-17-OCT565724",
-    "id": "rls-17-OCT565724",
-    "ocid": "ocds-r6ebe6-0000844457",
-    "title": "Provision of an Emergency Communication Platform and Associated Hardware.",
-    "buyer": "UHI Moray",
-    "description": "UHI Moray and UHI North, West and Hebrides are undertaking a joint procurement exercise for the Provision of an Emergency Communication Platform and Associated Hardware.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-01T00:00:00Z",
-    "deadline": "2026-10-22T09:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "32412000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 32412000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565724",
-    "fetched_at": "2026-10-06T11:54:28.805181Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-18-OCT565724",
-    "id": "rls-18-OCT565724",
-    "ocid": "ocds-r6ebe6-0000844457",
-    "title": "Provision of an Emergency Communication Platform and Associated Hardware.",
-    "buyer": "UHI Moray",
-    "description": "UHI Moray and UHI North, West and Hebrides are undertaking a joint procurement exercise for the Provision of an Emergency Communication Platform and Associated Hardware.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-01T00:00:00Z",
-    "deadline": "2026-10-22T09:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "32412000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 32412000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565724",
-    "fetched_at": "2026-10-07T11:39:36.758404Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-23-OCT565724",
-    "id": "rls-23-OCT565724",
-    "ocid": "ocds-r6ebe6-0000844457",
-    "title": "Provision of an Emergency Communication Platform and Associated Hardware.",
-    "buyer": "UHI Moray",
-    "description": "UHI Moray and UHI North, West and Hebrides are undertaking a joint procurement exercise for the Provision of an Emergency Communication Platform and Associated Hardware.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-01T00:00:00Z",
-    "deadline": "2026-10-22T09:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "32412000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 32412000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565724",
-    "fetched_at": "2026-10-07T22:58:13.582175Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-26-OCT565724",
-    "id": "rls-26-OCT565724",
-    "ocid": "ocds-r6ebe6-0000844457",
-    "title": "Provision of an Emergency Communication Platform and Associated Hardware.",
-    "buyer": "UHI Moray",
-    "description": "UHI Moray and UHI North, West and Hebrides are undertaking a joint procurement exercise for the Provision of an Emergency Communication Platform and Associated Hardware.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-01T00:00:00Z",
-    "deadline": "2026-10-22T09:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "32412000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 32412000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565724",
-    "fetched_at": "2026-10-08T11:54:08.195018Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-30-OCT565724",
-    "id": "rls-30-OCT565724",
-    "ocid": "ocds-r6ebe6-0000844457",
-    "title": "Provision of an Emergency Communication Platform and Associated Hardware.",
-    "buyer": "UHI Moray",
-    "description": "UHI Moray and UHI North, West and Hebrides are undertaking a joint procurement exercise for the Provision of an Emergency Communication Platform and Associated Hardware.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-01T00:00:00Z",
-    "deadline": "2026-10-22T09:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "32412000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 32412000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565724",
-    "fetched_at": "2026-10-08T23:11:21.163564Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-35-OCT565724",
-    "id": "rls-35-OCT565724",
-    "ocid": "ocds-r6ebe6-0000844457",
-    "title": "Provision of an Emergency Communication Platform and Associated Hardware.",
-    "buyer": "UHI Moray",
-    "description": "UHI Moray and UHI North, West and Hebrides are undertaking a joint procurement exercise for the Provision of an Emergency Communication Platform and Associated Hardware.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-01T00:00:00Z",
-    "deadline": "2026-10-22T09:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "32412000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 32412000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565724",
-    "fetched_at": "2026-10-09T11:45:57.348539Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-37-OCT565724",
-    "id": "rls-37-OCT565724",
-    "ocid": "ocds-r6ebe6-0000844457",
-    "title": "Provision of an Emergency Communication Platform and Associated Hardware.",
-    "buyer": "UHI Moray",
-    "description": "UHI Moray and UHI North, West and Hebrides are undertaking a joint procurement exercise for the Provision of an Emergency Communication Platform and Associated Hardware.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-01T00:00:00Z",
-    "deadline": "2026-10-22T09:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "32412000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 32412000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565724",
-    "fetched_at": "2026-10-11T21:44:03.114501Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-39-OCT565724",
-    "id": "rls-39-OCT565724",
-    "ocid": "ocds-r6ebe6-0000844457",
-    "title": "Provision of an Emergency Communication Platform and Associated Hardware.",
-    "buyer": "UHI Moray",
-    "description": "UHI Moray and UHI North, West and Hebrides are undertaking a joint procurement exercise for the Provision of an Emergency Communication Platform and Associated Hardware.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-01T00:00:00Z",
-    "deadline": "2026-10-22T09:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "32412000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 32412000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565724",
-    "fetched_at": "2026-10-12T12:59:46.792862Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-43-OCT565724",
-    "id": "rls-43-OCT565724",
-    "ocid": "ocds-r6ebe6-0000844457",
-    "title": "Provision of an Emergency Communication Platform and Associated Hardware.",
-    "buyer": "UHI Moray",
-    "description": "UHI Moray and UHI North, West and Hebrides are undertaking a joint procurement exercise for the Provision of an Emergency Communication Platform and Associated Hardware.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-01T00:00:00Z",
-    "deadline": "2026-10-22T09:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "32412000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 32412000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565724",
-    "fetched_at": "2026-10-13T00:27:54.262684Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-47-OCT565724",
-    "id": "rls-47-OCT565724",
-    "ocid": "ocds-r6ebe6-0000844457",
-    "title": "Provision of an Emergency Communication Platform and Associated Hardware.",
-    "buyer": "UHI Moray",
-    "description": "UHI Moray and UHI North, West and Hebrides are undertaking a joint procurement exercise for the Provision of an Emergency Communication Platform and Associated Hardware.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-01T00:00:00Z",
-    "deadline": "2026-10-22T09:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "32412000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 32412000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565724",
-    "fetched_at": "2026-10-13T22:31:47.019858Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-48-OCT565724",
-    "id": "rls-48-OCT565724",
-    "ocid": "ocds-r6ebe6-0000844457",
-    "title": "Provision of an Emergency Communication Platform and Associated Hardware.",
-    "buyer": "UHI Moray",
-    "description": "UHI Moray and UHI North, West and Hebrides are undertaking a joint procurement exercise for the Provision of an Emergency Communication Platform and Associated Hardware.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-01T00:00:00Z",
-    "deadline": "2026-10-22T09:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "32412000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 32412000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565724",
-    "fetched_at": "2026-10-14T10:01:18.710914Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-50-OCT565724",
-    "id": "rls-50-OCT565724",
-    "ocid": "ocds-r6ebe6-0000844457",
-    "title": "Provision of an Emergency Communication Platform and Associated Hardware.",
-    "buyer": "UHI Moray",
-    "description": "UHI Moray and UHI North, West and Hebrides are undertaking a joint procurement exercise for the Provision of an Emergency Communication Platform and Associated Hardware.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-01T00:00:00Z",
-    "deadline": "2026-10-22T09:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "32412000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 32412000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565724",
-    "fetched_at": "2026-10-14T21:30:35.574415Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-53-OCT565724",
-    "id": "rls-53-OCT565724",
-    "ocid": "ocds-r6ebe6-0000844457",
-    "title": "Provision of an Emergency Communication Platform and Associated Hardware.",
-    "buyer": "UHI Moray",
-    "description": "UHI Moray and UHI North, West and Hebrides are undertaking a joint procurement exercise for the Provision of an Emergency Communication Platform and Associated Hardware.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-01T00:00:00Z",
-    "deadline": "2026-10-22T09:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "32412000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 32412000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565724",
-    "fetched_at": "2026-10-15T09:43:57.060621Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-56-OCT565724",
-    "id": "rls-56-OCT565724",
-    "ocid": "ocds-r6ebe6-0000844457",
-    "title": "Provision of an Emergency Communication Platform and Associated Hardware.",
-    "buyer": "UHI Moray",
-    "description": "UHI Moray and UHI North, West and Hebrides are undertaking a joint procurement exercise for the Provision of an Emergency Communication Platform and Associated Hardware.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-01T00:00:00Z",
-    "deadline": "2026-10-22T09:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "32412000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 32412000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565724",
-    "fetched_at": "2026-10-16T09:37:26.517719Z"
-  },
-  {
     "key": "Poland / TED:712538-2026",
     "id": "712538-2026",
     "ocid": null,
@@ -7330,7 +6913,7 @@
       "CPV 48000000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/712538-2026",
-    "fetched_at": "2026-10-21T21:38:24.355381Z"
+    "fetched_at": "2026-10-22T10:06:57.462891Z"
   },
   {
     "key": "Poland / TED:715638-2026",
@@ -7359,7 +6942,7 @@
       "CPV 48000000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/715638-2026",
-    "fetched_at": "2026-10-21T21:38:23.296282Z"
+    "fetched_at": "2026-10-22T10:06:57.451535Z"
   },
   {
     "key": "Find a Tender:096471-2026",
@@ -7918,7 +7501,32 @@
       "CPV 72416000"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/099661-2026",
-    "fetched_at": "2026-10-21T21:28:54.383536Z"
+    "fetched_at": "2026-10-22T09:57:18.191967Z"
+  },
+  {
+    "key": "eTenders Ireland / TED:732260-2026",
+    "id": "732260-2026",
+    "ocid": null,
+    "title": "Ireland – Installation services (except software) – daa Artificial Plant Tender",
+    "buyer": "daa plc",
+    "description": "Active Irish public procurement notice published through TED/eTenders.",
+    "source": "eTenders Ireland / TED",
+    "country": "Ireland",
+    "published_at": "2026-10-22T02:00:00Z",
+    "deadline": "2026-10-23T11:00:00Z",
+    "value": null,
+    "currency": "EUR",
+    "cpv": [
+      "51000000",
+      "51000000"
+    ],
+    "status": "active",
+    "relevance": 13,
+    "matched": [
+      "software"
+    ],
+    "url": "https://ted.europa.eu/en/notice/-/detail/732260-2026",
+    "fetched_at": "2026-10-22T10:06:31.917876Z"
   },
   {
     "key": "Public Contracts Scotland:rls-1-OCT565862",
@@ -8825,6 +8433,6 @@
       "software"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/099063-2026",
-    "fetched_at": "2026-10-21T21:28:54.384994Z"
+    "fetched_at": "2026-10-22T09:57:18.193018Z"
   }
 ]
