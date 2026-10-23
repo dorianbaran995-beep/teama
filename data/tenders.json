@@ -36,7 +36,7 @@
       "website hosting"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/720768-2026",
-    "fetched_at": "2026-10-22T21:33:13.484454Z"
+    "fetched_at": "2026-10-23T21:15:50.829259Z"
   },
   {
     "key": "eTenders Ireland / TED:696163-2026",
@@ -887,7 +887,7 @@
       "ict"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/725595-2026",
-    "fetched_at": "2026-10-22T21:33:30.320266Z"
+    "fetched_at": "2026-10-23T21:16:10.335710Z"
   },
   {
     "key": "eTenders Ireland / TED:684805-2026",
@@ -1208,7 +1208,7 @@
       "CPV 30236000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/729265-2026",
-    "fetched_at": "2026-10-22T21:33:23.896699Z"
+    "fetched_at": "2026-10-23T21:16:01.695061Z"
   },
   {
     "key": "Poland / TED:729251-2026",
@@ -1277,7 +1277,7 @@
       "CPV 48190000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/729251-2026",
-    "fetched_at": "2026-10-22T21:33:23.910782Z"
+    "fetched_at": "2026-10-23T21:16:03.636310Z"
   },
   {
     "key": "Poland / TED:732777-2026",
@@ -1322,209 +1322,7 @@
       "aplikacji"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/732777-2026",
-    "fetched_at": "2026-10-22T21:33:14.648130Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:686651-2026",
-    "id": "686651-2026",
-    "ocid": null,
-    "title": "Ireland – Analytical, scientific, mathematical or forecasting software development services – Request (Call) for Tenders for the provision of a Maritime Data Analysis System.",
-    "buyer": "Office of the Revenue Commissioners_366",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-10-06T02:00:00Z",
-    "deadline": "2026-10-23T11:00:00Z",
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "72212460",
-      "35125000",
-      "48100000",
-      "48326100",
-      "48460000",
-      "48461000",
-      "48462000",
-      "48463000",
-      "48627000",
-      "48951000",
-      "71354500",
-      "72000000",
-      "72300000",
-      "72310000",
-      "72316000",
-      "73112000",
-      "72212460",
-      "35125000",
-      "48100000",
-      "48326100",
-      "48460000",
-      "48461000",
-      "48462000",
-      "48463000",
-      "48627000",
-      "48951000",
-      "71354500",
-      "72000000",
-      "72300000",
-      "72310000",
-      "72316000",
-      "73112000"
-    ],
-    "status": "active",
-    "relevance": 58,
-    "matched": [
-      "CPV 48100000",
-      "CPV 48326100",
-      "CPV 48460000",
-      "CPV 72212460",
-      "software"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/686651-2026",
-    "fetched_at": "2026-10-12T12:59:48.005230Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:691020-2026",
-    "id": "691020-2026",
-    "ocid": null,
-    "title": "Ireland – Time accounting or human resources software development services – Integrated Human Resource Information System (HRIS) REPUBLISHED",
-    "buyer": "Sustainable Energy Authority of Ireland",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-10-07T02:00:00Z",
-    "deadline": "2026-10-23T11:00:00Z",
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "72212450",
-      "48450000",
-      "79631000",
-      "75320000",
-      "66520000",
-      "48000000",
-      "72212100",
-      "48100000",
-      "72263000",
-      "72266000",
-      "79414000",
-      "79632000",
-      "72212450",
-      "48450000",
-      "79631000",
-      "75320000",
-      "66520000",
-      "48000000",
-      "72212100",
-      "48100000",
-      "72263000",
-      "72266000",
-      "79414000",
-      "79632000"
-    ],
-    "status": "active",
-    "relevance": 58,
-    "matched": [
-      "CPV 48000000",
-      "CPV 48450000",
-      "CPV 72212100",
-      "CPV 72212450",
-      "software"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/691020-2026",
-    "fetched_at": "2026-10-13T12:35:06.045560Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:705880-2026",
-    "id": "705880-2026",
-    "ocid": null,
-    "title": "Ireland – IT services: consulting, software development, Internet and support – HSE 29425 Support Maintenance and Development Services For the existing HSE Track and Trace Software System",
-    "buyer": "Health Service Executive (HSE)",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-10-13T02:00:00Z",
-    "deadline": "2026-10-23T11:00:00Z",
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "72000000",
-      "72222300",
-      "72224000",
-      "72224100",
-      "72260000",
-      "72261000",
-      "72262000",
-      "72265000",
-      "72266000",
-      "72267000",
-      "72267100",
-      "48180000",
-      "48814000",
-      "48600000",
-      "48000000",
-      "72000000",
-      "72222300",
-      "72224000",
-      "72224100",
-      "72260000",
-      "72261000",
-      "72262000",
-      "72265000",
-      "72266000",
-      "72267000",
-      "72267100",
-      "48180000",
-      "48814000",
-      "48600000",
-      "48000000"
-    ],
-    "status": "active",
-    "relevance": 58,
-    "matched": [
-      "CPV 72000000",
-      "CPV 72222300",
-      "CPV 72224000",
-      "CPV 72224100",
-      "software"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/705880-2026",
-    "fetched_at": "2026-10-19T10:47:28.971201Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:687757-2026",
-    "id": "687757-2026",
-    "ocid": null,
-    "title": "Ireland – Financial analysis and accounting software development services – Request for Tenders for the Provision of a Finance System to Royal Irish Academy",
-    "buyer": "Royal Irish Academy",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-10-06T02:00:00Z",
-    "deadline": "2026-10-23T13:00:00Z",
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "72212440",
-      "72212441",
-      "72212442",
-      "72212443",
-      "72212440",
-      "72212441",
-      "72212442",
-      "72212443"
-    ],
-    "status": "active",
-    "relevance": 58,
-    "matched": [
-      "CPV 72212440",
-      "CPV 72212441",
-      "CPV 72212442",
-      "CPV 72212443",
-      "software"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/687757-2026",
-    "fetched_at": "2026-10-12T12:59:48.007276Z"
+    "fetched_at": "2026-10-23T21:15:56.076502Z"
   },
   {
     "key": "eTenders Ireland / TED:719402-2026",
@@ -1565,7 +1363,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/719402-2026",
-    "fetched_at": "2026-10-22T21:33:13.483038Z"
+    "fetched_at": "2026-10-23T21:15:50.828415Z"
   },
   {
     "key": "eTenders Ireland / TED:708409-2026",
@@ -1607,6 +1405,43 @@
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/708409-2026",
     "fetched_at": "2026-10-20T21:36:35.931188Z"
+  },
+  {
+    "key": "eTenders Ireland / TED:735396-2026",
+    "id": "735396-2026",
+    "ocid": null,
+    "title": "Ireland – IT services: consulting, software development, Internet and support – RFT for Renewal of Secure Email Gateway Environment",
+    "buyer": "Office of Public Works (OPW)",
+    "description": "Active Irish public procurement notice published through TED/eTenders.",
+    "source": "eTenders Ireland / TED",
+    "country": "Ireland",
+    "published_at": "2026-10-23T02:00:00Z",
+    "deadline": "2026-11-11T16:00:00Z",
+    "value": null,
+    "currency": "EUR",
+    "cpv": [
+      "72000000",
+      "72212223",
+      "72212517",
+      "72212730",
+      "72261000",
+      "72000000",
+      "72212223",
+      "72212517",
+      "72212730",
+      "72261000"
+    ],
+    "status": "active",
+    "relevance": 58,
+    "matched": [
+      "CPV 72000000",
+      "CPV 72212223",
+      "CPV 72212517",
+      "CPV 72212730",
+      "software"
+    ],
+    "url": "https://ted.europa.eu/en/notice/-/detail/735396-2026",
+    "fetched_at": "2026-10-23T21:15:50.818805Z"
   },
   {
     "key": "eTenders Ireland / TED:706914-2026",
@@ -1766,7 +1601,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/725963-2026",
-    "fetched_at": "2026-10-22T21:33:13.480273Z"
+    "fetched_at": "2026-10-23T21:15:50.826688Z"
   },
   {
     "key": "eTenders Ireland / TED:671405-2026",
@@ -1920,6 +1755,43 @@
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/705132-2026",
     "fetched_at": "2026-10-20T21:36:35.934179Z"
+  },
+  {
+    "key": "eTenders Ireland / TED:734297-2026",
+    "id": "734297-2026",
+    "ocid": null,
+    "title": "Ireland – Library and archive services – LI3976R MU PQQ for the Provision of Portico, a community supported preservation archive that safeguards access to eJournals for Higher Education Institution libraries",
+    "buyer": "Education Procurement Service (EPS)",
+    "description": "Active Irish public procurement notice published through TED/eTenders.",
+    "source": "eTenders Ireland / TED",
+    "country": "Ireland",
+    "published_at": "2026-10-23T02:00:00Z",
+    "deadline": "2026-11-11T13:00:00Z",
+    "value": null,
+    "currency": "EUR",
+    "cpv": [
+      "92510000",
+      "92511000",
+      "48160000",
+      "79995000",
+      "72212160",
+      "72320000",
+      "92510000",
+      "92511000",
+      "48160000",
+      "79995000",
+      "72212160",
+      "72320000"
+    ],
+    "status": "active",
+    "relevance": 45,
+    "matched": [
+      "CPV 48160000",
+      "CPV 72212160",
+      "CPV 72320000"
+    ],
+    "url": "https://ted.europa.eu/en/notice/-/detail/734297-2026",
+    "fetched_at": "2026-10-23T21:15:50.819343Z"
   },
   {
     "key": "Poland / TED:715186-2026",
@@ -2090,6 +1962,31 @@
     "fetched_at": "2026-10-19T10:47:41.670721Z"
   },
   {
+    "key": "Poland / TED:734168-2026",
+    "id": "734168-2026",
+    "ocid": null,
+    "title": "Poland – Envelopes – Dostawa materiałów biurowych i papierniczych Zad. 1 - Koperty z kolorowym nadrukiem",
+    "buyer": "Górnośląskie Centrum Medyczne im. prof. Leszka Gieca Śląskiego Uniwersytetu Medycznego w Katowicach",
+    "description": "Active Polish public procurement notice published through TED.",
+    "source": "Poland / TED",
+    "country": "Poland",
+    "published_at": "2026-10-23T02:00:00Z",
+    "deadline": "2026-11-02T22:59:00Z",
+    "value": null,
+    "currency": "PLN",
+    "cpv": [
+      "30199230",
+      "30199230"
+    ],
+    "status": "active",
+    "relevance": 30,
+    "matched": [
+      "CPV 30199230"
+    ],
+    "url": "https://ted.europa.eu/en/notice/-/detail/734168-2026",
+    "fetched_at": "2026-10-23T21:15:54.034948Z"
+  },
+  {
     "key": "eTenders Ireland / TED:728304-2026",
     "id": "728304-2026",
     "ocid": null,
@@ -2115,7 +2012,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/728304-2026",
-    "fetched_at": "2026-10-22T21:33:13.474297Z"
+    "fetched_at": "2026-10-23T21:15:50.823115Z"
   },
   {
     "key": "Find a Tender:096255-2026",
@@ -2356,36 +2253,38 @@
     "fetched_at": "2026-10-16T09:37:14.002552Z"
   },
   {
-    "key": "eTenders Ireland / TED:704727-2026",
-    "id": "704727-2026",
-    "ocid": null,
-    "title": "Ireland – Health and safety consultancy services – Single Party Framework for Electronic Management System",
-    "buyer": "Tipperary County Council",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-10-13T02:00:00Z",
-    "deadline": "2026-10-23T13:00:00Z",
+    "key": "Public Contracts Scotland:rls-39-OCT566533",
+    "id": "rls-39-OCT566533",
+    "ocid": "ocds-r6ebe6-0000842561",
+    "title": "Dental Implants, Digital Services & Associated Products",
+    "buyer": "NHS Greater Glasgow and Clyde",
+    "description": "NHS Greater Glasgow & Clyde (NHS GGC) require suitably qualified, experienced and licensed contractors to undertake the provision of Dental Implants, Digital Services and Associated Products, in order to procure a high quality solution across the Board. The tender opportunity consists of six primary lots. Suppliers successfully appointed to one or more of Lots 1 to 6 shall automatically qualify for participation within Lot 7 (Innovation). No separate appointment process is required for Lot 7.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-12T00:00:00Z",
+    "deadline": "2026-11-11T12:00:00Z",
     "value": null,
-    "currency": "EUR",
+    "currency": null,
     "cpv": [
-      "71317210",
-      "71317200",
-      "48781000",
-      "48311000",
-      "71317210",
-      "71317200",
-      "48781000",
-      "48311000"
+      "33130000",
+      "33132000",
+      "33133000",
+      "33138000",
+      "33141800",
+      "48180000",
+      "72267100",
+      "72268000"
     ],
     "status": "active",
-    "relevance": 40,
+    "relevance": 41,
     "matched": [
-      "CPV 48311000",
-      "CPV 48781000"
+      "CPV 48180000",
+      "CPV 72267100",
+      "CPV 72268000",
+      "digital service"
     ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/704727-2026",
-    "fetched_at": "2026-10-19T10:47:28.970588Z"
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT566533",
+    "fetched_at": "2026-10-23T21:15:45.568319Z"
   },
   {
     "key": "Poland / TED:714691-2026",
@@ -2482,6 +2381,33 @@
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/698698-2026",
     "fetched_at": "2026-10-15T21:12:22.626873Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-17-OCT567030",
+    "id": "rls-17-OCT567030",
+    "ocid": "ocds-r6ebe6-0000846178",
+    "title": "PURCH2961 Provision of a Study to Assess Climate-Related Risk Interdependencies Between Critical Infrastructure Systems",
+    "buyer": "University of Glasgow",
+    "description": "PURCH2961 Provision of a Study to Assess Climate-Related Risk Interdependencies Between Critical Infrastructure Systems Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the âContact Usâ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-20T00:00:00Z",
+    "deadline": "2026-11-03T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "73210000"
+    ],
+    "status": "active",
+    "relevance": 38,
+    "matched": [
+      "infrastructure",
+      "portal",
+      "website",
+      "website support"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT567030",
+    "fetched_at": "2026-10-23T21:15:49.617066Z"
   },
   {
     "key": "Find a Tender:093955-2026",
@@ -2900,6 +2826,32 @@
     "fetched_at": "2026-10-16T09:37:14.004368Z"
   },
   {
+    "key": "Public Contracts Scotland:rls-60-OCT565958",
+    "id": "rls-60-OCT565958",
+    "ocid": "ocds-r6ebe6-0000844721",
+    "title": "C002187 Framework Agreement for the provision of a Learning Management System",
+    "buyer": "The Common Services Agency (more commonly known as Public Services Delivery Scotland) (PSD Scotland)",
+    "description": "Public Services Delivery Scotland (PSD Scotland) is delivering the Digital Learning Infrastructure (DLI) Programme, a national transformation programme to establish a modern, scalable, interoperable and sustainable digital learning ecosystem for Scotlandâs health and social care workforce. The programme responds to a fragmented learning technology landscape across public, private, voluntary and not-for-profit provision, where multiple local learning management systems, duplicated content, variable user experiences and inconsistent data quality limit workforce mobility, planning and system-wide efficiency.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-05T00:00:00Z",
+    "deadline": "2026-11-25T13:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "72212190"
+    ],
+    "status": "active",
+    "relevance": 37,
+    "matched": [
+      "CPV 72212190",
+      "infrastructure",
+      "user experience"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565958",
+    "fetched_at": "2026-10-23T21:15:45.569911Z"
+  },
+  {
     "key": "eTenders Ireland / TED:731629-2026",
     "id": "731629-2026",
     "ocid": null,
@@ -2926,7 +2878,7 @@
       "CPV 32570000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/731629-2026",
-    "fetched_at": "2026-10-22T21:33:13.470702Z"
+    "fetched_at": "2026-10-23T21:15:50.821311Z"
   },
   {
     "key": "Find a Tender:096433-2026",
@@ -3239,6 +3191,58 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT566576",
     "fetched_at": "2026-10-16T09:37:14.002317Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-37-OCT566576",
+    "id": "rls-37-OCT566576",
+    "ocid": "ocds-r6ebe6-0000845584",
+    "title": "Pupil Equity Funding (PEF) Flexible Framework",
+    "buyer": "Dumfries and Galloway Council",
+    "description": "The Scottish Government has committed to providing additional funding in the form of Pupil Equity Funding (PEF), to schools as part of the Scottish Attainment Challenge programme. This funding is allocated directly to schools and is aimed at closing the poverty related attainment gap. The aim of this framework agreement is to allow schools to contract compliantly with providers who will be able to support the pupil equity fund.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-13T00:00:00Z",
+    "deadline": "2027-09-13T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "37000000",
+      "48520000",
+      "48521000",
+      "48931000",
+      "75121000",
+      "80000000",
+      "80100000",
+      "80200000",
+      "80210000",
+      "80310000",
+      "80340000",
+      "80400000",
+      "80570000",
+      "80590000",
+      "85140000",
+      "85312300",
+      "85312310",
+      "85312320",
+      "85312400",
+      "85322000",
+      "92000000",
+      "92340000",
+      "92342000",
+      "92342100",
+      "92342200",
+      "98000000",
+      "98330000"
+    ],
+    "status": "active",
+    "relevance": 35,
+    "matched": [
+      "CPV 48520000",
+      "CPV 48521000",
+      "CPV 48931000"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT566576",
+    "fetched_at": "2026-10-23T21:15:45.568106Z"
   },
   {
     "key": "Find a Tender:093862-2026",
@@ -3657,78 +3661,30 @@
     "fetched_at": "2026-10-16T09:37:14.004498Z"
   },
   {
-    "key": "eTenders Ireland / TED:700218-2026",
-    "id": "700218-2026",
-    "ocid": null,
-    "title": "Ireland – Archive shelving – Archival folders for the National Archives",
-    "buyer": "Department of Culture Communications Sport",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-10-09T02:00:00Z",
-    "deadline": "2026-10-23T11:00:00Z",
+    "key": "Public Contracts Scotland:rls-61-OCT565941",
+    "id": "rls-61-OCT565941",
+    "ocid": "ocds-r6ebe6-0000844772",
+    "title": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP)",
+    "buyer": "University of Glasgow",
+    "description": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP) Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the âContact Usâ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-05T00:00:00Z",
+    "deadline": "2026-11-05T12:00:00Z",
     "value": null,
-    "currency": "EUR",
+    "currency": null,
     "cpv": [
-      "39131100",
-      "22852000",
-      "30199500",
-      "44617300",
-      "44617000",
-      "92000000",
-      "75000000",
-      "79000000",
-      "39131100",
-      "22852000",
-      "30199500",
-      "44617300",
-      "44617000",
-      "92000000",
-      "75000000",
-      "79000000"
+      "80500000"
     ],
     "status": "active",
-    "relevance": 30,
+    "relevance": 32,
     "matched": [
-      "CPV 30199500"
+      "portal",
+      "website",
+      "website support"
     ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/700218-2026",
-    "fetched_at": "2026-10-15T21:12:02.650993Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:695714-2026",
-    "id": "695714-2026",
-    "ocid": null,
-    "title": "Ireland – Miscellaneous business-related services – TG4 - Business Consultancy Services",
-    "buyer": "TG4",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-10-08T02:00:00Z",
-    "deadline": "2026-10-23T16:00:00Z",
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "79990000",
-      "79996000",
-      "72221000",
-      "79411100",
-      "79410000",
-      "79400000",
-      "79990000",
-      "79996000",
-      "72221000",
-      "79411100",
-      "79410000",
-      "79400000"
-    ],
-    "status": "active",
-    "relevance": 30,
-    "matched": [
-      "CPV 72221000"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/695714-2026",
-    "fetched_at": "2026-10-14T21:30:37.493226Z"
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565941",
+    "fetched_at": "2026-10-23T21:15:45.570024Z"
   },
   {
     "key": "Public Contracts Scotland:rls-1-OCT565666",
@@ -6351,6 +6307,137 @@
     "fetched_at": "2026-10-16T09:37:26.518048Z"
   },
   {
+    "key": "Public Contracts Scotland:rls-84-OCT565666",
+    "id": "rls-84-OCT565666",
+    "ocid": "ocds-r6ebe6-0000843221",
+    "title": "General Building and Repair Works Framework",
+    "buyer": "North Ayrshire Council",
+    "description": "North Ayrshire Council (NAC) invites tenders for the provision of a General Building and Repair Works Framework. The framework will be split into 10 Lots: Lot 1 â Joinery Lot 2 - Door Entry Lot 3 â Electrical Lot 4 â Plumbing Lot 5 â Drainage Lot 6 â Plastering Lot 7 â Building Lot 8 â Roofing Lot 9 - Timber and Dampness Lot 10 â Fencing Bidders may submit tenders for a single Lot or multiple Lots. The framework will be ranked, and it is anticipated that up to 5 contractors will be appointed to each Lot. Notwithstanding this, NAC reserves the right to appoint a greater number of contractors to any Lot at its sole discretion, where it deems this appropriate and beneficial to the operation of the framework. There are no guaranteed volumes of business.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-01T00:00:00Z",
+    "deadline": "2026-10-29T12:00:00Z",
+    "value": 3960000.0,
+    "currency": "GBP",
+    "cpv": [
+      "03419000",
+      "03419100",
+      "31500000",
+      "31625100",
+      "32550000",
+      "32570000",
+      "33141640",
+      "34928200",
+      "34928210",
+      "34928220",
+      "35120000",
+      "35121700",
+      "35123000",
+      "35125300",
+      "41110000",
+      "44112400",
+      "44163110",
+      "44163111",
+      "44163112",
+      "44220000",
+      "44221300",
+      "44411000",
+      "45111240",
+      "45112000",
+      "45200000",
+      "45210000",
+      "45211310",
+      "45232450",
+      "45232451",
+      "45232452",
+      "45232453",
+      "45247112",
+      "45260000",
+      "45261100",
+      "45261200",
+      "45261210",
+      "45261211",
+      "45261212",
+      "45261300",
+      "45261410",
+      "45261900",
+      "45261910",
+      "45261920",
+      "45262300",
+      "45262330",
+      "45262500",
+      "45262511",
+      "45262520",
+      "45262522",
+      "45262690",
+      "45310000",
+      "45311000",
+      "45311100",
+      "45311200",
+      "45312000",
+      "45312100",
+      "45312200",
+      "45312300",
+      "45316000",
+      "45316100",
+      "45317000",
+      "45330000",
+      "45332000",
+      "45332200",
+      "45332300",
+      "45332400",
+      "45340000",
+      "45342000",
+      "45400000",
+      "45410000",
+      "45420000",
+      "45421000",
+      "45421111",
+      "45421112",
+      "45421130",
+      "45421131",
+      "45421132",
+      "45421141",
+      "45421148",
+      "45421151",
+      "45421152",
+      "45421153",
+      "45421160",
+      "45422000",
+      "45422100",
+      "45432110",
+      "45432113",
+      "45432114",
+      "45440000",
+      "45450000",
+      "45453000",
+      "45453100",
+      "50610000",
+      "50700000",
+      "50710000",
+      "50711000",
+      "50720000",
+      "50721000",
+      "64200000",
+      "65130000",
+      "71314100",
+      "71630000",
+      "90400000",
+      "90470000",
+      "90480000",
+      "90640000",
+      "90641000"
+    ],
+    "status": "active",
+    "relevance": 30,
+    "matched": [
+      "CPV 32550000",
+      "CPV 32570000"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565666",
+    "fetched_at": "2026-10-23T21:15:49.620915Z"
+  },
+  {
     "key": "eTenders Ireland / TED:692747-2026",
     "id": "692747-2026",
     "ocid": null,
@@ -6470,7 +6557,32 @@
       "CPV 72224000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/728928-2026",
-    "fetched_at": "2026-10-22T21:33:13.477687Z"
+    "fetched_at": "2026-10-23T21:15:50.825104Z"
+  },
+  {
+    "key": "eTenders Ireland / TED:736793-2026",
+    "id": "736793-2026",
+    "ocid": null,
+    "title": "Ireland – Project management consultancy services – 10046 - Fuel Tank Consultancy Inspections",
+    "buyer": "Iarnród Eireann-Irish Rail",
+    "description": "Active Irish public procurement notice published through TED/eTenders.",
+    "source": "eTenders Ireland / TED",
+    "country": "Ireland",
+    "published_at": "2026-10-23T02:00:00Z",
+    "deadline": "2026-11-13T16:00:00Z",
+    "value": null,
+    "currency": "EUR",
+    "cpv": [
+      "72224000",
+      "72224000"
+    ],
+    "status": "active",
+    "relevance": 30,
+    "matched": [
+      "CPV 72224000"
+    ],
+    "url": "https://ted.europa.eu/en/notice/-/detail/736793-2026",
+    "fetched_at": "2026-10-23T21:15:50.819431Z"
   },
   {
     "key": "Find a Tender:097651-2026",
@@ -6555,6 +6667,34 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT566767",
     "fetched_at": "2026-10-16T09:37:14.000820Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-25-OCT566767",
+    "id": "rls-25-OCT566767",
+    "ocid": "ocds-r6ebe6-0000845818",
+    "title": "Provision of Vehicle Telematics, CCTV and Tachograph Solutions 2026 (Re Tender) Aberdeenshire Council",
+    "buyer": "Aberdeenshire Council",
+    "description": "Aberdeenshire Council require a vehicle management and tracking system, including CCTV and Tachograph services to cover vehicles within their fleet to be installed by Aberdeenshire Council staff",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-15T00:00:00Z",
+    "deadline": "2026-11-16T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "32441300",
+      "44316400",
+      "48000000",
+      "64226000"
+    ],
+    "status": "active",
+    "relevance": 30,
+    "matched": [
+      "CPV 32441300",
+      "CPV 48000000"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT566767",
+    "fetched_at": "2026-10-23T21:15:45.566778Z"
   },
   {
     "key": "Poland / TED:712538-2026",
@@ -6763,6 +6903,31 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT566581",
     "fetched_at": "2026-10-16T09:37:14.002172Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-36-OCT566581",
+    "id": "rls-36-OCT566581",
+    "ocid": "ocds-r6ebe6-0000845512",
+    "title": "Libraries Scotland eNewspaper and eMagazine",
+    "buyer": "Scottish Library and Information Council",
+    "description": "The aim of this tender is to provide a single national eMagazines and eNewpapers service to all thirty-two public library services for access by their members. Scottish Library and Information Council (SLIC) is seeking a vendor that can supply eMagazines and eNewspapers to all thirty-two public library services.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-13T00:00:00Z",
+    "deadline": "2026-11-13T12:00:00Z",
+    "value": 1600000.0,
+    "currency": "GBP",
+    "cpv": [
+      "48160000",
+      "92511000"
+    ],
+    "status": "active",
+    "relevance": 25,
+    "matched": [
+      "CPV 48160000"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT566581",
+    "fetched_at": "2026-10-23T21:15:45.567986Z"
   },
   {
     "key": "Find a Tender:093954-2026",
@@ -7149,6 +7314,86 @@
     "fetched_at": "2026-10-16T09:37:14.004250Z"
   },
   {
+    "key": "Public Contracts Scotland:rls-59-OCT565959",
+    "id": "rls-59-OCT565959",
+    "ocid": "ocds-r6ebe6-0000844805",
+    "title": "Asset Tracking System",
+    "buyer": "NHS Borders",
+    "description": "NHS Borders is seeking competitive tenders from suitably experienced suppliers for an asset tracking system. The requirement supports a programme to improve the control, traceability and efficient management of clinical and selected non-clinical equipment, replacing fragmented manual records with sustainable digital tracking and reporting.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-05T00:00:00Z",
+    "deadline": "2026-11-16T12:00:00Z",
+    "value": 116000.0,
+    "currency": "GBP",
+    "cpv": [
+      "48422000"
+    ],
+    "status": "active",
+    "relevance": 25,
+    "matched": [
+      "CPV 48422000"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565959",
+    "fetched_at": "2026-10-23T21:15:45.569809Z"
+  },
+  {
+    "key": "Find a Tender:100646-2026",
+    "id": "100646-2026",
+    "ocid": "ocds-h6vhtk-078f5f",
+    "title": "Social Housing Emerging Disrupters 6 (SHED 6)",
+    "buyer": "Procurement for Housing Ltd (t/a PfH Scotland)",
+    "description": "Established in 2004, Procurement for Housing (PfH) is a national procurement consortium dedicated to the social housing sector and supported by the National Housing Federation (NHF), Chartered Institute of Housing (CIH) and HouseMark. Collectively our Members manage more than 90% of UK’ social housing stock, with PfH helping them to achieve efficiency savings using a wide range of services including framework agreements, dynamic purchasing systems, spend analyses, strategy reviews, consolidated billing and comprehensive reporting. PfH is a contracting authority under section 2 of the Procurement Act 2023 and a centralised procurement authority under section 1(4) of that Act. Please refer to www.pfh.co.uk for additional information. PfH is administered by Inprova Limited and is headquartered in the North West of England with over 20 years of expertise and experience offering a complete procurement solutions package across outsourcing, technology and consultancy. By integrating procurement services and technology, Inprova operates as a delivery partner, supporting business performance improvement for the public sector.",
+    "source": "Find a Tender",
+    "country": "United Kingdom",
+    "published_at": "2026-10-23T14:25:57Z",
+    "deadline": "2026-11-17T12:00:00Z",
+    "value": 250000000.0,
+    "currency": "GBP",
+    "cpv": [
+      "71300000",
+      "72300000",
+      "79421000",
+      "79900000",
+      "79993000"
+    ],
+    "status": "active",
+    "relevance": 25,
+    "matched": [
+      "CPV 72300000"
+    ],
+    "url": "https://www.find-tender.service.gov.uk/Notice/100646-2026",
+    "fetched_at": "2026-10-23T21:15:39.207755Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-1-OCT567302",
+    "id": "rls-1-OCT567302",
+    "ocid": "ocds-r6ebe6-0000846526",
+    "title": "Social Housing Emerging Disrupters 6 (SHED 6)",
+    "buyer": "Procurement for Housing Ltd (t/a PfH Scotland)",
+    "description": "Established in 2004, Procurement for Housing (PfH) is a national procurement consortium dedicated to the social housing sector and supported by the National Housing Federation (NHF), Chartered Institute of Housing (CIH) and HouseMark. Collectively our Members manage more than 90% of UKâ social housing stock, with PfH helping them to achieve efficiency savings using a wide range of services including framework agreements, dynamic purchasing systems, spend analyses, strategy reviews, consolidated billing and comprehensive reporting. PfH is a contracting authority under section 2 of the Procurement Act 2023 and a centralised procurement authority under section 1(4) of that Act. Please refer to www.pfh.co.uk for additional information. PfH is administered by Inprova Limited and is headquartered in the North West of England with over 20 years of expertise and experience offering a complete procurement solutions package across outsourcing, technology and consultancy. By integrating procurement services and technology, Inprova operates as a delivery partner, supporting business performance improvement for the public sector.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-23T00:00:00Z",
+    "deadline": "2026-11-17T12:00:00Z",
+    "value": 250000000.0,
+    "currency": "GBP",
+    "cpv": [
+      "71300000",
+      "72300000",
+      "79421000",
+      "79900000",
+      "79993000"
+    ],
+    "status": "active",
+    "relevance": 25,
+    "matched": [
+      "CPV 72300000"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT567302",
+    "fetched_at": "2026-10-23T21:15:45.565110Z"
+  },
+  {
     "key": "Find a Tender:099661-2026",
     "id": "099661-2026",
     "ocid": "ocds-h6vhtk-078d41",
@@ -7171,32 +7416,32 @@
       "CPV 72416000"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/099661-2026",
-    "fetched_at": "2026-10-22T21:23:56.392979Z"
+    "fetched_at": "2026-10-23T21:15:39.208711Z"
   },
   {
-    "key": "eTenders Ireland / TED:732260-2026",
-    "id": "732260-2026",
-    "ocid": null,
-    "title": "Ireland – Installation services (except software) – daa Artificial Plant Tender",
-    "buyer": "daa plc",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-10-22T02:00:00Z",
-    "deadline": "2026-10-23T11:00:00Z",
+    "key": "Public Contracts Scotland:rls-8-OCT567116",
+    "id": "rls-8-OCT567116",
+    "ocid": "ocds-r6ebe6-0000846262",
+    "title": "Scottish Approach to Change Evaluation and Learning Partner",
+    "buyer": "Healthcare Improvement Scotland",
+    "description": "We are seeking to commission a suitably qualified and experienced provider to design and deliver a robust, independent evaluation of the Scottish Approach to Change. The evaluation should provide objective challenge, learning, reflection and assurance regarding the implementation and impact of the programme, including the extent to which it continues to embody its core principles of openness, collaboration and responsiveness to system feedback.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-21T00:00:00Z",
+    "deadline": "2026-11-25T12:00:00Z",
     "value": null,
-    "currency": "EUR",
+    "currency": null,
     "cpv": [
-      "51000000",
-      "51000000"
+      "72416000",
+      "73200000"
     ],
     "status": "active",
-    "relevance": 13,
+    "relevance": 25,
     "matched": [
-      "software"
+      "CPV 72416000"
     ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/732260-2026",
-    "fetched_at": "2026-10-22T21:33:13.472420Z"
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT567116",
+    "fetched_at": "2026-10-23T21:15:45.565588Z"
   },
   {
     "key": "Public Contracts Scotland:rls-1-OCT565862",
@@ -8082,6 +8327,80 @@
     "fetched_at": "2026-10-16T09:37:26.517459Z"
   },
   {
+    "key": "Public Contracts Scotland:rls-31-OCT566707",
+    "id": "rls-31-OCT566707",
+    "ocid": "ocds-r6ebe6-0000845776",
+    "title": "Environmental Monitoring System for Collections (Updated 15 Oct 2026)",
+    "buyer": "National Museums Scotland",
+    "description": "The National Museums Scotland (NMS) wishes to engage a contractor (âContractorâ) to provide an environmental monitoring system. NMS is seeking a suitably qualified Contractor to provide an environmental monitoring system which will replace the current system. The Contractor should have experience in supplying and installing necessary hardware and software to facilitate the implementation of an environmental monitoring system, whilst providing ongoing maintenance and technical support when required.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-15T00:00:00Z",
+    "deadline": "2026-11-02T12:00:00Z",
+    "value": 100000.0,
+    "currency": "GBP",
+    "cpv": [
+      "92521000",
+      "92521200"
+    ],
+    "status": "active",
+    "relevance": 13,
+    "matched": [
+      "software"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT566707",
+    "fetched_at": "2026-10-23T21:15:49.617898Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-75-OCT565862",
+    "id": "rls-75-OCT565862",
+    "ocid": "ocds-r6ebe6-0000844215",
+    "title": "In-House Design Support and Development",
+    "buyer": "CalMac Ferries Limited",
+    "description": "CFLâ¯requiresâ¯a partner with proven experience in: - Working with client in-house design resource to develop and plan impactful ideas and concepts. - Working with client in-house marketing team to develop appropriate multichannel campaigns and content. - Working with key third parties, including media buyer, film production company, marcomms agency, in-house Insight and Digital teams, brand partners, social media influencers, and content creators. The partner willâ¯be requiredâ¯to work on a variety of projects throughout the year for assets used across the website, social media, paid media and more, however exact projects are yet to beâ¯determined, and, in most cases, direction is already determined.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-02T00:00:00Z",
+    "deadline": "2026-11-02T12:00:00Z",
+    "value": 150000.0,
+    "currency": "GBP",
+    "cpv": [
+      "79933000"
+    ],
+    "status": "active",
+    "relevance": 13,
+    "matched": [
+      "website"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565862",
+    "fetched_at": "2026-10-23T21:15:49.620274Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-77-OCT565847",
+    "id": "rls-77-OCT565847",
+    "ocid": "ocds-r6ebe6-0000844675",
+    "title": "Environmental Monitoring System for Collections",
+    "buyer": "National Museums Scotland",
+    "description": "The National Museums Scotland (NMS) wishes to engage a contractor (âContractorâ) to provide an environmental monitoring system. NMS is seeking a suitably qualified Contractor to provide an environmental monitoring system which will replace the current system. The Contractor should have experience in supplying and installing necessary hardware and software to facilitate the implementation of an environmental monitoring system, whilst providing ongoing maintenance and technical support when required.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-02T00:00:00Z",
+    "deadline": "2026-11-02T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "92521000",
+      "92521200"
+    ],
+    "status": "active",
+    "relevance": 13,
+    "matched": [
+      "software"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565847",
+    "fetched_at": "2026-10-23T21:15:49.620398Z"
+  },
+  {
     "key": "Find a Tender:099063-2026",
     "id": "099063-2026",
     "ocid": "ocds-h6vhtk-078bf8",
@@ -8104,5 +8423,79 @@
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/099063-2026",
     "fetched_at": "2026-10-22T21:23:56.394419Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-13-OCT567010",
+    "id": "rls-13-OCT567010",
+    "ocid": "ocds-r6ebe6-0000845990",
+    "title": "C002218 Slit-lamp Simulator and all associated parts and software",
+    "buyer": "The Common Services Agency (more commonly known as Public Services Delivery Scotland) (PSD Scotland)",
+    "description": "Slit-lamp Simulator and all associated parts and software",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-20T00:00:00Z",
+    "deadline": "2026-11-20T13:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "33100000"
+    ],
+    "status": "active",
+    "relevance": 13,
+    "matched": [
+      "software"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT567010",
+    "fetched_at": "2026-10-23T21:15:45.565988Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-12-OCT567084",
+    "id": "rls-12-OCT567084",
+    "ocid": "ocds-r6ebe6-0000846267",
+    "title": "Integrated Nature Network, Climate Adaptation and Blue-Green Infrastructure Opportunity Mapping",
+    "buyer": "Loch Lomond & The Trossachs National Park Authority",
+    "description": "To analyse and synthesise existing evidence to identify spatial opportunities for nature networks, climate adaptation including natural flood management, and blue-green infrastructure across the National Park",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-21T00:00:00Z",
+    "deadline": "2026-11-16T10:00:00Z",
+    "value": 50000.0,
+    "currency": "GBP",
+    "cpv": [
+      "71621000"
+    ],
+    "status": "active",
+    "relevance": 12,
+    "matched": [
+      "infrastructure",
+      "network"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT567084",
+    "fetched_at": "2026-10-23T21:15:49.616683Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-5-OCT567236",
+    "id": "rls-5-OCT567236",
+    "ocid": "ocds-r6ebe6-0000846453",
+    "title": "Digital Design and Build of new Local Development and Land Use Plan",
+    "buyer": "Loch Lomond & The Trossachs National Park Authority",
+    "description": "To analyse and synthesise existing evidence to identify spatial opportunities for nature networks, climate adaptation including natural flood management, and blue-green infrastructure across the National Park",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-23T00:00:00Z",
+    "deadline": "2026-11-23T10:00:00Z",
+    "value": 58333.0,
+    "currency": "GBP",
+    "cpv": [
+      "71621000"
+    ],
+    "status": "active",
+    "relevance": 12,
+    "matched": [
+      "infrastructure",
+      "network"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT567236",
+    "fetched_at": "2026-10-23T21:15:49.616275Z"
   }
 ]
