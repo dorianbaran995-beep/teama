@@ -645,7 +645,7 @@
       "aplikacji"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/732777-2026",
-    "fetched_at": "2026-10-29T12:44:20.960429Z"
+    "fetched_at": "2026-10-29T23:12:56.073857Z"
   },
   {
     "key": "eTenders Ireland / TED:708409-2026",
@@ -723,7 +723,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/735396-2026",
-    "fetched_at": "2026-10-29T12:43:55.961711Z"
+    "fetched_at": "2026-10-29T23:12:32.724713Z"
   },
   {
     "key": "eTenders Ireland / TED:743660-2026",
@@ -758,7 +758,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/743660-2026",
-    "fetched_at": "2026-10-29T12:43:55.956595Z"
+    "fetched_at": "2026-10-29T23:12:32.719492Z"
   },
   {
     "key": "eTenders Ireland / TED:706914-2026",
@@ -1088,36 +1088,7 @@
       "network"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/751505-2026",
-    "fetched_at": "2026-10-29T12:43:55.952219Z"
-  },
-  {
-    "key": "Poland / TED:701174-2026",
-    "id": "701174-2026",
-    "ocid": null,
-    "title": "Poland – Local area network – Rozbudowa i dostosowanie sieci",
-    "buyer": "Wielkopolski Oddział Wojewódzki Narodowego Funduszu Zdrowia",
-    "description": "Active Polish public procurement notice published through TED.",
-    "source": "Poland / TED",
-    "country": "Poland",
-    "published_at": "2026-10-12T02:00:00Z",
-    "deadline": "2026-10-29T22:59:59Z",
-    "value": null,
-    "currency": "PLN",
-    "cpv": [
-      "32410000",
-      "32420000",
-      "32410000",
-      "32420000"
-    ],
-    "status": "active",
-    "relevance": 46,
-    "matched": [
-      "CPV 32410000",
-      "CPV 32420000",
-      "network"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/701174-2026",
-    "fetched_at": "2026-10-19T10:47:42.492838Z"
+    "fetched_at": "2026-10-29T23:12:32.714937Z"
   },
   {
     "key": "eTenders Ireland / TED:734297-2026",
@@ -1154,7 +1125,7 @@
       "CPV 72320000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/734297-2026",
-    "fetched_at": "2026-10-29T12:43:55.961340Z"
+    "fetched_at": "2026-10-29T23:12:32.724351Z"
   },
   {
     "key": "Find a Tender:102252-2026",
@@ -1185,7 +1156,7 @@
       "CPV 48600000"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/102252-2026",
-    "fetched_at": "2026-10-29T12:43:26.514628Z"
+    "fetched_at": "2026-10-29T23:12:03.786692Z"
   },
   {
     "key": "Poland / TED:715186-2026",
@@ -1302,57 +1273,6 @@
     "fetched_at": "2026-09-30T11:03:05.365177Z"
   },
   {
-    "key": "Find a Tender:101112-2026",
-    "id": "101112-2026",
-    "ocid": "ocds-h6vhtk-07905a",
-    "title": "Schools Microsoft Enterprise Licensing Agreement",
-    "buyer": "Newcastle City Council",
-    "description": "Newcastle City Council (NCC) is seeking the renewal of its current Microsoft Licencing Agreement for schools. NCC is seeking a new agreement with a single vendor to replace the existing expiring agreement. Further competition will run via the CCS framework RM6068 Lot 3, via the OPEN tendering portal.",
-    "source": "Find a Tender",
-    "country": "United Kingdom",
-    "published_at": "2026-10-26T14:55:55Z",
-    "deadline": "2026-11-19T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "72000000"
-    ],
-    "status": "active",
-    "relevance": 31,
-    "matched": [
-      "CPV 72000000",
-      "portal"
-    ],
-    "url": "https://www.find-tender.service.gov.uk/Notice/101112-2026",
-    "fetched_at": "2026-10-29T12:43:26.517066Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:741544-2026",
-    "id": "741544-2026",
-    "ocid": null,
-    "title": "Ireland – Office and computing machinery, equipment and supplies except furniture and software packages – Provision of Stationery, Office Supplies and Related Consumables and or Cleaning Supplies",
-    "buyer": "Empower CLG",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-10-27T01:00:00Z",
-    "deadline": "2026-10-29T16:00:00Z",
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "30000000",
-      "30000000"
-    ],
-    "status": "active",
-    "relevance": 43,
-    "matched": [
-      "CPV 30000000",
-      "software"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/741544-2026",
-    "fetched_at": "2026-10-29T12:43:55.956158Z"
-  },
-  {
     "key": "Poland / TED:706780-2026",
     "id": "706780-2026",
     "ocid": null,
@@ -1401,7 +1321,7 @@
       "CPV 30199230"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/734168-2026",
-    "fetched_at": "2026-10-29T12:44:20.943983Z"
+    "fetched_at": "2026-10-29T23:12:56.056637Z"
   },
   {
     "key": "eTenders Ireland / TED:737479-2026",
@@ -1437,7 +1357,7 @@
       "ict"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/737479-2026",
-    "fetched_at": "2026-10-29T12:43:55.959267Z"
+    "fetched_at": "2026-10-29T23:12:32.722204Z"
   },
   {
     "key": "eTenders Ireland / TED:737260-2026",
@@ -1463,7 +1383,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/737260-2026",
-    "fetched_at": "2026-10-29T12:43:55.959166Z"
+    "fetched_at": "2026-10-29T23:12:32.722084Z"
   },
   {
     "key": "eTenders Ireland / TED:728304-2026",
@@ -1491,7 +1411,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/728304-2026",
-    "fetched_at": "2026-10-29T12:43:55.968169Z"
+    "fetched_at": "2026-10-29T23:12:32.731430Z"
   },
   {
     "key": "Find a Tender:096255-2026",
@@ -2001,7 +1921,7 @@
       "digital service"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT566533",
-    "fetched_at": "2026-10-29T12:43:40.826214Z"
+    "fetched_at": "2026-10-29T23:12:18.764077Z"
   },
   {
     "key": "Poland / TED:698698-2026",
@@ -2221,6 +2141,33 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT567030",
     "fetched_at": "2026-10-29T12:43:54.165151Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-32-OCT567030",
+    "id": "rls-32-OCT567030",
+    "ocid": "ocds-r6ebe6-0000846178",
+    "title": "PURCH2961 Provision of a Study to Assess Climate-Related Risk Interdependencies Between Critical Infrastructure Systems",
+    "buyer": "University of Glasgow",
+    "description": "PURCH2961 Provision of a Study to Assess Climate-Related Risk Interdependencies Between Critical Infrastructure Systems Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the âContact Usâ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-20T00:00:00Z",
+    "deadline": "2026-11-03T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "73210000"
+    ],
+    "status": "active",
+    "relevance": 38,
+    "matched": [
+      "infrastructure",
+      "portal",
+      "website",
+      "website support"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT567030",
+    "fetched_at": "2026-10-29T23:12:30.954753Z"
   },
   {
     "key": "Find a Tender:093955-2026",
@@ -2844,7 +2791,7 @@
       "user experience"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565958",
-    "fetched_at": "2026-10-29T12:43:40.828307Z"
+    "fetched_at": "2026-10-29T23:12:18.766235Z"
   },
   {
     "key": "Find a Tender:102124-2026",
@@ -2874,7 +2821,7 @@
       "integration"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/102124-2026",
-    "fetched_at": "2026-10-29T12:43:26.514728Z"
+    "fetched_at": "2026-10-29T23:12:03.786795Z"
   },
   {
     "key": "Find a Tender:101965-2026",
@@ -2901,7 +2848,7 @@
       "integration"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/101965-2026",
-    "fetched_at": "2026-10-29T12:43:26.515601Z"
+    "fetched_at": "2026-10-29T23:12:03.787695Z"
   },
   {
     "key": "eTenders Ireland / TED:731629-2026",
@@ -2930,7 +2877,7 @@
       "CPV 32570000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/731629-2026",
-    "fetched_at": "2026-10-29T12:43:55.965156Z"
+    "fetched_at": "2026-10-29T23:12:32.728172Z"
   },
   {
     "key": "Find a Tender:096433-2026",
@@ -3658,7 +3605,7 @@
       "CPV 48931000"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT566576",
-    "fetched_at": "2026-10-29T12:43:40.825933Z"
+    "fetched_at": "2026-10-29T23:12:18.763788Z"
   },
   {
     "key": "Find a Tender:093862-2026",
@@ -4282,7 +4229,7 @@
       "website support"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565941",
-    "fetched_at": "2026-10-29T12:43:40.828460Z"
+    "fetched_at": "2026-10-29T23:12:18.766394Z"
   },
   {
     "key": "Find a Tender:100956-2026",
@@ -4464,7 +4411,32 @@
       "website support"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT567360",
-    "fetched_at": "2026-10-29T12:43:40.821735Z"
+    "fetched_at": "2026-10-29T23:12:18.759465Z"
+  },
+  {
+    "key": "Find a Tender:101112-2026",
+    "id": "101112-2026",
+    "ocid": "ocds-h6vhtk-07905a",
+    "title": "Schools Microsoft Enterprise Licensing Agreement",
+    "buyer": "Newcastle City Council",
+    "description": "Newcastle City Council (NCC) is seeking the renewal of its current Microsoft Licencing Agreement for schools. NCC is seeking a new agreement with a single vendor to replace the existing expiring agreement. Further competition will run via the CCS framework RM6068 Lot 3, via the OPEN tendering portal.",
+    "source": "Find a Tender",
+    "country": "United Kingdom",
+    "published_at": "2026-10-26T14:55:55Z",
+    "deadline": "2026-11-19T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "72000000"
+    ],
+    "status": "active",
+    "relevance": 31,
+    "matched": [
+      "CPV 72000000",
+      "portal"
+    ],
+    "url": "https://www.find-tender.service.gov.uk/Notice/101112-2026",
+    "fetched_at": "2026-10-29T12:43:26.517066Z"
   },
   {
     "key": "eTenders Ireland / TED:692747-2026",
@@ -4611,7 +4583,7 @@
       "CPV 72224000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/736793-2026",
-    "fetched_at": "2026-10-29T12:43:55.961467Z"
+    "fetched_at": "2026-10-29T23:12:32.724485Z"
   },
   {
     "key": "eTenders Ireland / TED:745108-2026",
@@ -4656,7 +4628,7 @@
       "CPV 72224000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/745108-2026",
-    "fetched_at": "2026-10-29T12:43:55.956353Z"
+    "fetched_at": "2026-10-29T23:12:32.719252Z"
   },
   {
     "key": "Find a Tender:097651-2026",
@@ -4964,7 +4936,7 @@
       "CPV 48000000"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT566767",
-    "fetched_at": "2026-10-29T12:43:40.824165Z"
+    "fetched_at": "2026-10-29T23:12:18.761951Z"
   },
   {
     "key": "Poland / TED:712538-2026",
@@ -5372,7 +5344,7 @@
       "CPV 48160000"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT566581",
-    "fetched_at": "2026-10-29T12:43:40.825750Z"
+    "fetched_at": "2026-10-29T23:12:18.763595Z"
   },
   {
     "key": "Find a Tender:093954-2026",
@@ -6020,7 +5992,7 @@
       "CPV 48422000"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565959",
-    "fetched_at": "2026-10-29T12:43:40.828170Z"
+    "fetched_at": "2026-10-29T23:12:18.766080Z"
   },
   {
     "key": "Public Contracts Scotland:rls-8-OCT567484",
@@ -6045,6 +6017,30 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT567484",
     "fetched_at": "2026-10-29T12:43:54.163652Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-11-OCT567484",
+    "id": "rls-11-OCT567484",
+    "ocid": "ocds-r6ebe6-0000846275",
+    "title": "Skills, Curriculum and Learner Pathway Consultancy Services (Skills for Glasgow Phase 1)",
+    "buyer": "Glasgow Kelvin College",
+    "description": "GKC, acting on behalf of the Glasgow Colleges Leadership Group (GCLG), is seeking to appoint an experienced consultancy organisation to support delivery of Phase 1 of the Skills for Glasgow programme. The programme seeks to strengthen the alignment of college curriculum and learner pathways with current and future economic, social, employer and learner needs across Glasgow and the wider Glasgow City Region.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-27T00:00:00Z",
+    "deadline": "2026-11-16T12:00:00Z",
+    "value": 96000.0,
+    "currency": "GBP",
+    "cpv": [
+      "72224000"
+    ],
+    "status": "active",
+    "relevance": 25,
+    "matched": [
+      "CPV 72224000"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT567484",
+    "fetched_at": "2026-10-29T23:12:30.953232Z"
   },
   {
     "key": "Find a Tender:100646-2026",
@@ -6296,7 +6292,7 @@
       "CPV 72300000"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT567302",
-    "fetched_at": "2026-10-29T12:43:40.822015Z"
+    "fetched_at": "2026-10-29T23:12:18.759747Z"
   },
   {
     "key": "Find a Tender:099661-2026",
@@ -6521,7 +6517,7 @@
       "CPV 72416000"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT567116",
-    "fetched_at": "2026-10-29T12:43:40.822627Z"
+    "fetched_at": "2026-10-29T23:12:18.760368Z"
   },
   {
     "key": "Public Contracts Scotland:rls-1-OCT565862",
@@ -7925,6 +7921,80 @@
     "fetched_at": "2026-10-29T12:43:54.169526Z"
   },
   {
+    "key": "Public Contracts Scotland:rls-46-OCT566707",
+    "id": "rls-46-OCT566707",
+    "ocid": "ocds-r6ebe6-0000845776",
+    "title": "Environmental Monitoring System for Collections (Updated 15 Oct 2026)",
+    "buyer": "National Museums Scotland",
+    "description": "The National Museums Scotland (NMS) wishes to engage a contractor (âContractorâ) to provide an environmental monitoring system. NMS is seeking a suitably qualified Contractor to provide an environmental monitoring system which will replace the current system. The Contractor should have experience in supplying and installing necessary hardware and software to facilitate the implementation of an environmental monitoring system, whilst providing ongoing maintenance and technical support when required.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-15T00:00:00Z",
+    "deadline": "2026-11-02T12:00:00Z",
+    "value": 100000.0,
+    "currency": "GBP",
+    "cpv": [
+      "92521000",
+      "92521200"
+    ],
+    "status": "active",
+    "relevance": 13,
+    "matched": [
+      "software"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT566707",
+    "fetched_at": "2026-10-29T23:12:30.955857Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-90-OCT565862",
+    "id": "rls-90-OCT565862",
+    "ocid": "ocds-r6ebe6-0000844215",
+    "title": "In-House Design Support and Development",
+    "buyer": "CalMac Ferries Limited",
+    "description": "CFLâ¯requiresâ¯a partner with proven experience in: - Working with client in-house design resource to develop and plan impactful ideas and concepts. - Working with client in-house marketing team to develop appropriate multichannel campaigns and content. - Working with key third parties, including media buyer, film production company, marcomms agency, in-house Insight and Digital teams, brand partners, social media influencers, and content creators. The partner willâ¯be requiredâ¯to work on a variety of projects throughout the year for assets used across the website, social media, paid media and more, however exact projects are yet to beâ¯determined, and, in most cases, direction is already determined.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-02T00:00:00Z",
+    "deadline": "2026-11-02T12:00:00Z",
+    "value": 150000.0,
+    "currency": "GBP",
+    "cpv": [
+      "79933000"
+    ],
+    "status": "active",
+    "relevance": 13,
+    "matched": [
+      "website"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565862",
+    "fetched_at": "2026-10-29T23:12:30.959045Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-92-OCT565847",
+    "id": "rls-92-OCT565847",
+    "ocid": "ocds-r6ebe6-0000844675",
+    "title": "Environmental Monitoring System for Collections",
+    "buyer": "National Museums Scotland",
+    "description": "The National Museums Scotland (NMS) wishes to engage a contractor (âContractorâ) to provide an environmental monitoring system. NMS is seeking a suitably qualified Contractor to provide an environmental monitoring system which will replace the current system. The Contractor should have experience in supplying and installing necessary hardware and software to facilitate the implementation of an environmental monitoring system, whilst providing ongoing maintenance and technical support when required.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-02T00:00:00Z",
+    "deadline": "2026-11-02T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "92521000",
+      "92521200"
+    ],
+    "status": "active",
+    "relevance": 13,
+    "matched": [
+      "software"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565847",
+    "fetched_at": "2026-10-29T23:12:30.959232Z"
+  },
+  {
     "key": "Find a Tender:099063-2026",
     "id": "099063-2026",
     "ocid": "ocds-h6vhtk-078bf8",
@@ -8138,7 +8208,7 @@
       "software"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT567010",
-    "fetched_at": "2026-10-29T12:43:40.823126Z"
+    "fetched_at": "2026-10-29T23:12:18.760878Z"
   },
   {
     "key": "Find a Tender:101999-2026",
@@ -8162,7 +8232,7 @@
       "software"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/101999-2026",
-    "fetched_at": "2026-10-29T12:43:26.514952Z"
+    "fetched_at": "2026-10-29T23:12:03.787025Z"
   },
   {
     "key": "Public Contracts Scotland:rls-1-OCT567551",
@@ -8234,7 +8304,7 @@
       "software"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT567551",
-    "fetched_at": "2026-10-29T12:43:40.820420Z"
+    "fetched_at": "2026-10-29T23:12:18.758111Z"
   },
   {
     "key": "Public Contracts Scotland:rls-12-OCT567084",
@@ -8412,6 +8482,31 @@
     "fetched_at": "2026-10-29T12:43:54.164671Z"
   },
   {
+    "key": "Public Contracts Scotland:rls-27-OCT567084",
+    "id": "rls-27-OCT567084",
+    "ocid": "ocds-r6ebe6-0000846267",
+    "title": "Integrated Nature Network, Climate Adaptation and Blue-Green Infrastructure Opportunity Mapping",
+    "buyer": "Loch Lomond & The Trossachs National Park Authority",
+    "description": "To analyse and synthesise existing evidence to identify spatial opportunities for nature networks, climate adaptation including natural flood management, and blue-green infrastructure across the National Park",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-21T00:00:00Z",
+    "deadline": "2026-11-16T10:00:00Z",
+    "value": 50000.0,
+    "currency": "GBP",
+    "cpv": [
+      "71621000"
+    ],
+    "status": "active",
+    "relevance": 12,
+    "matched": [
+      "infrastructure",
+      "network"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT567084",
+    "fetched_at": "2026-10-29T23:12:30.954265Z"
+  },
+  {
     "key": "Public Contracts Scotland:rls-5-OCT567236",
     "id": "rls-5-OCT567236",
     "ocid": "ocds-r6ebe6-0000846453",
@@ -8585,5 +8680,30 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT567236",
     "fetched_at": "2026-10-29T12:43:54.164163Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-20-OCT567236",
+    "id": "rls-20-OCT567236",
+    "ocid": "ocds-r6ebe6-0000846453",
+    "title": "Digital Design and Build of new Local Development and Land Use Plan",
+    "buyer": "Loch Lomond & The Trossachs National Park Authority",
+    "description": "To analyse and synthesise existing evidence to identify spatial opportunities for nature networks, climate adaptation including natural flood management, and blue-green infrastructure across the National Park",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-23T00:00:00Z",
+    "deadline": "2026-11-23T10:00:00Z",
+    "value": 58333.0,
+    "currency": "GBP",
+    "cpv": [
+      "71621000"
+    ],
+    "status": "active",
+    "relevance": 12,
+    "matched": [
+      "infrastructure",
+      "network"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT567236",
+    "fetched_at": "2026-10-29T23:12:30.953755Z"
   }
 ]
