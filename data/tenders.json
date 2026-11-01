@@ -37,7 +37,7 @@
       "website hosting"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/103226-2026",
-    "fetched_at": "2026-10-31T22:23:06.613174Z"
+    "fetched_at": "2026-11-01T13:01:24.031543Z"
   },
   {
     "key": "eTenders Ireland / TED:720768-2026",
@@ -110,41 +110,7 @@
       "software"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/103079-2026",
-    "fetched_at": "2026-10-31T22:23:06.613760Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-3-OCT567732",
-    "id": "rls-3-OCT567732",
-    "ocid": "ocds-r6ebe6-0000843545",
-    "title": "Provision of a Multi-Authority Employability, Case Management and Employer Relationship Management Solution: Integrated Management Information System for Employability and Skills across the Edinburgh and South East Scotland City Regional Deal Area",
-    "buyer": "Capital City Partnership",
-    "description": "Capital City Partnership is seeking to appoint a supplier to provide, implement, host, support, maintain and develop a regional Software as a Service Customer Relationship Management and Management Information System. The solution will support employability, skills and related community-based service delivery across multiple organisations and local authority areas within the Edinburgh and South East Scotland region.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-30T00:00:00Z",
-    "deadline": "2027-01-11T12:00:00Z",
-    "value": 1250000.0,
-    "currency": "GBP",
-    "cpv": [
-      "48445000",
-      "72250000",
-      "72260000",
-      "72267100",
-      "72268000",
-      "72416000"
-    ],
-    "status": "active",
-    "relevance": 64,
-    "matched": [
-      "CPV 48445000",
-      "CPV 72250000",
-      "CPV 72260000",
-      "CPV 72267100",
-      "case management",
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT567732",
-    "fetched_at": "2026-10-31T22:23:18.197019Z"
+    "fetched_at": "2026-11-01T13:01:24.032034Z"
   },
   {
     "key": "eTenders Ireland / TED:755937-2026",
@@ -177,7 +143,7 @@
       "website development"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/755937-2026",
-    "fetched_at": "2026-10-31T22:23:30.163938Z"
+    "fetched_at": "2026-11-01T13:01:38.706917Z"
   },
   {
     "key": "Find a Tender:089252-2026",
@@ -640,6 +606,40 @@
     "fetched_at": "2026-10-15T21:12:02.651502Z"
   },
   {
+    "key": "Public Contracts Scotland:rls-3-OCT567732",
+    "id": "rls-3-OCT567732",
+    "ocid": "ocds-r6ebe6-0000843545",
+    "title": "Provision of a Multi-Authority Employability, Case Management and Employer Relationship Management Solution: Integrated Management Information System for Employability and Skills across the Edinburgh and South East Scotland City Regional Deal Area",
+    "buyer": "Capital City Partnership",
+    "description": "Capital City Partnership is seeking to appoint a supplier to provide, implement, host, support, maintain and develop a regional Software as a Service Customer Relationship Management and Management Information System. The solution will support employability, skills and related community-based service delivery across multiple organisations and local authority areas within the Edinburgh and South East Scotland region.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-10-30T00:00:00Z",
+    "deadline": "2027-01-11T12:00:00Z",
+    "value": 1250000.0,
+    "currency": "GBP",
+    "cpv": [
+      "48445000",
+      "72250000",
+      "72260000",
+      "72267100",
+      "72268000",
+      "72416000"
+    ],
+    "status": "active",
+    "relevance": 64,
+    "matched": [
+      "CPV 48445000",
+      "CPV 72250000",
+      "CPV 72260000",
+      "CPV 72267100",
+      "case management",
+      "software"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT567732",
+    "fetched_at": "2026-10-31T22:23:18.197019Z"
+  },
+  {
     "key": "Public Contracts Scotland:rls-1-OCT567732",
     "id": "rls-1-OCT567732",
     "ocid": "ocds-r6ebe6-0000843545",
@@ -857,7 +857,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/735396-2026",
-    "fetched_at": "2026-10-31T22:23:30.177971Z"
+    "fetched_at": "2026-11-01T13:01:38.717146Z"
   },
   {
     "key": "eTenders Ireland / TED:743660-2026",
@@ -892,7 +892,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/743660-2026",
-    "fetched_at": "2026-10-31T22:23:30.172880Z"
+    "fetched_at": "2026-11-01T13:01:38.713236Z"
   },
   {
     "key": "eTenders Ireland / TED:753203-2026",
@@ -940,7 +940,7 @@
       "information technology"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/753203-2026",
-    "fetched_at": "2026-10-31T22:23:30.164637Z"
+    "fetched_at": "2026-11-01T13:01:38.706533Z"
   },
   {
     "key": "eTenders Ireland / TED:706914-2026",
@@ -1039,7 +1039,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/755875-2026",
-    "fetched_at": "2026-10-31T22:23:30.162888Z"
+    "fetched_at": "2026-11-01T13:01:38.705372Z"
   },
   {
     "key": "Poland / TED:729265-2026",
@@ -1227,7 +1227,7 @@
       "network"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/751505-2026",
-    "fetched_at": "2026-10-31T22:23:30.168480Z"
+    "fetched_at": "2026-11-01T13:01:38.709792Z"
   },
   {
     "key": "eTenders Ireland / TED:734297-2026",
@@ -1264,7 +1264,7 @@
       "CPV 72320000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/734297-2026",
-    "fetched_at": "2026-10-31T22:23:30.177813Z"
+    "fetched_at": "2026-11-01T13:01:38.717026Z"
   },
   {
     "key": "eTenders Ireland / TED:754153-2026",
@@ -1350,7 +1350,7 @@
       "CPV 30214000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/754153-2026",
-    "fetched_at": "2026-10-31T22:23:30.165183Z"
+    "fetched_at": "2026-11-01T13:01:38.706851Z"
   },
   {
     "key": "Poland / TED:753423-2026",
@@ -1395,7 +1395,7 @@
       "CPV 30237450"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/753423-2026",
-    "fetched_at": "2026-10-31T22:23:33.056125Z"
+    "fetched_at": "2026-11-01T13:01:40.287470Z"
   },
   {
     "key": "Find a Tender:102252-2026",
@@ -1477,7 +1477,7 @@
       "CPV 72320000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/754069-2026",
-    "fetched_at": "2026-10-31T22:23:33.055289Z"
+    "fetched_at": "2026-11-01T13:01:40.286808Z"
   },
   {
     "key": "Poland / TED:715186-2026",
@@ -1627,7 +1627,7 @@
       "ict"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/737479-2026",
-    "fetched_at": "2026-10-31T22:23:30.174937Z"
+    "fetched_at": "2026-11-01T13:01:38.714820Z"
   },
   {
     "key": "eTenders Ireland / TED:737260-2026",
@@ -1653,7 +1653,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/737260-2026",
-    "fetched_at": "2026-10-31T22:23:30.175513Z"
+    "fetched_at": "2026-11-01T13:01:38.715251Z"
   },
   {
     "key": "eTenders Ireland / TED:728304-2026",
@@ -4895,7 +4895,7 @@
       "website support"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/103248-2026",
-    "fetched_at": "2026-10-31T22:23:06.612735Z"
+    "fetched_at": "2026-11-01T13:01:24.031181Z"
   },
   {
     "key": "Public Contracts Scotland:rls-2-OCT567767",
@@ -5128,7 +5128,7 @@
       "CPV 72514100"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/753644-2026",
-    "fetched_at": "2026-10-31T22:23:30.165337Z"
+    "fetched_at": "2026-11-01T13:01:38.707881Z"
   },
   {
     "key": "eTenders Ireland / TED:736793-2026",
@@ -5153,7 +5153,7 @@
       "CPV 72224000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/736793-2026",
-    "fetched_at": "2026-10-31T22:23:30.177317Z"
+    "fetched_at": "2026-11-01T13:01:38.716641Z"
   },
   {
     "key": "eTenders Ireland / TED:745108-2026",
@@ -5198,7 +5198,7 @@
       "CPV 72224000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/745108-2026",
-    "fetched_at": "2026-10-31T22:23:30.172488Z"
+    "fetched_at": "2026-11-01T13:01:38.712946Z"
   },
   {
     "key": "Find a Tender:097651-2026",
@@ -5587,7 +5587,7 @@
       "CPV 72413000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/756046-2026",
-    "fetched_at": "2026-10-31T22:23:30.166086Z"
+    "fetched_at": "2026-11-01T13:01:38.707765Z"
   },
   {
     "key": "Poland / TED:712538-2026",
@@ -5674,7 +5674,7 @@
       "CPV 48000000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/753725-2026",
-    "fetched_at": "2026-10-31T22:23:33.054309Z"
+    "fetched_at": "2026-11-01T13:01:40.286048Z"
   },
   {
     "key": "Find a Tender:096471-2026",
