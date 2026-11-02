@@ -79,40 +79,6 @@
     "fetched_at": "2026-10-25T21:35:54.530862Z"
   },
   {
-    "key": "Find a Tender:103079-2026",
-    "id": "103079-2026",
-    "ocid": "ocds-h6vhtk-0777dd",
-    "title": "Provision of a Multi-Authority Employability, Case Management and Employer Relationship Management Solution: Integrated Management Information System for Employability and Skills across the Edinburgh and South East Scotland City Regional Deal Area",
-    "buyer": "Capital City Partnership",
-    "description": "Capital City Partnership is seeking to appoint a supplier to provide, implement, host, support, maintain and develop a regional Software as a Service Customer Relationship Management and Management Information System. The solution will support employability, skills and related community-based service delivery across multiple organisations and local authority areas within the Edinburgh and South East Scotland region.",
-    "source": "Find a Tender",
-    "country": "United Kingdom",
-    "published_at": "2026-10-30T11:06:54Z",
-    "deadline": "2027-01-11T12:00:00Z",
-    "value": 1250000.0,
-    "currency": "GBP",
-    "cpv": [
-      "48445000",
-      "72250000",
-      "72260000",
-      "72267100",
-      "72268000",
-      "72416000"
-    ],
-    "status": "active",
-    "relevance": 64,
-    "matched": [
-      "CPV 48445000",
-      "CPV 72250000",
-      "CPV 72260000",
-      "CPV 72267100",
-      "case management",
-      "software"
-    ],
-    "url": "https://www.find-tender.service.gov.uk/Notice/103079-2026",
-    "fetched_at": "2026-11-01T22:39:59.845038Z"
-  },
-  {
     "key": "eTenders Ireland / TED:755937-2026",
     "id": "755937-2026",
     "ocid": null,
@@ -143,415 +109,7 @@
       "website development"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/755937-2026",
-    "fetched_at": "2026-11-01T22:40:14.872792Z"
-  },
-  {
-    "key": "Find a Tender:089252-2026",
-    "id": "089252-2026",
-    "ocid": "ocds-h6vhtk-05eb91",
-    "title": "SPS-02319 Prisoner Records 2 (PR2) – Technical Change",
-    "buyer": "Scottish Prison Service",
-    "description": "SPS is undertaking a strategic technology modernisation project to migrate the PR2 system from a legacy Oracle Forms and Reports platform, operating on an Oracle database, to a modern, modular, opensource technology stack deployed within a secure Cloud environment. This project shall include the migration and on-going support and maintenance for the duration of the Contract Term. The Contract Term shall be 7 years (not including implementation which shall be limited to a maximum of 18 months) with the option to extend by up to an additional 6 years.",
-    "source": "Find a Tender",
-    "country": "United Kingdom",
-    "published_at": "2026-09-21T13:54:57Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "48000000",
-      "48900000",
-      "72000000",
-      "72200000",
-      "72222300"
-    ],
-    "status": "active",
-    "relevance": 70,
-    "matched": [
-      "CPV 48000000",
-      "CPV 48900000",
-      "CPV 72000000",
-      "CPV 72200000",
-      "cloud",
-      "database",
-      "support and maintenance"
-    ],
-    "url": "https://www.find-tender.service.gov.uk/Notice/089252-2026",
-    "fetched_at": "2026-09-24T09:49:06.809137Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-4-SEP564928",
-    "id": "rls-4-SEP564928",
-    "ocid": "ocds-r6ebe6-0000843517",
-    "title": "SPS-02319 Prisoner Records 2 (PR2) â Technical Change",
-    "buyer": "Scottish Prison Service",
-    "description": "SPS is undertaking a strategic technology modernisation project to migrate the PR2 system from a legacy Oracle Forms and Reports platform, operating on an Oracle database, to a modern, modular, opensource technology stack deployed within a secure Cloud environment. This project shall include the migration and on-going support and maintenance for the duration of the Contract Term. The Contract Term shall be 7 years (not including implementation which shall be limited to a maximum of 18 months) with the option to extend by up to an additional 6 years.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-21T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "48000000",
-      "48900000",
-      "72000000",
-      "72200000",
-      "72222300"
-    ],
-    "status": "active",
-    "relevance": 70,
-    "matched": [
-      "CPV 48000000",
-      "CPV 48900000",
-      "CPV 72000000",
-      "CPV 72200000",
-      "cloud",
-      "database",
-      "support and maintenance"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564928",
-    "fetched_at": "2026-09-22T09:47:59.859793Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-6-SEP564928",
-    "id": "rls-6-SEP564928",
-    "ocid": "ocds-r6ebe6-0000843517",
-    "title": "SPS-02319 Prisoner Records 2 (PR2) â Technical Change",
-    "buyer": "Scottish Prison Service",
-    "description": "SPS is undertaking a strategic technology modernisation project to migrate the PR2 system from a legacy Oracle Forms and Reports platform, operating on an Oracle database, to a modern, modular, opensource technology stack deployed within a secure Cloud environment. This project shall include the migration and on-going support and maintenance for the duration of the Contract Term. The Contract Term shall be 7 years (not including implementation which shall be limited to a maximum of 18 months) with the option to extend by up to an additional 6 years.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-21T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "48000000",
-      "48900000",
-      "72000000",
-      "72200000",
-      "72222300"
-    ],
-    "status": "active",
-    "relevance": 70,
-    "matched": [
-      "CPV 48000000",
-      "CPV 48900000",
-      "CPV 72000000",
-      "CPV 72200000",
-      "cloud",
-      "database",
-      "support and maintenance"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564928",
-    "fetched_at": "2026-09-22T21:09:05.542508Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-7-SEP564928",
-    "id": "rls-7-SEP564928",
-    "ocid": "ocds-r6ebe6-0000843517",
-    "title": "SPS-02319 Prisoner Records 2 (PR2) â Technical Change",
-    "buyer": "Scottish Prison Service",
-    "description": "SPS is undertaking a strategic technology modernisation project to migrate the PR2 system from a legacy Oracle Forms and Reports platform, operating on an Oracle database, to a modern, modular, opensource technology stack deployed within a secure Cloud environment. This project shall include the migration and on-going support and maintenance for the duration of the Contract Term. The Contract Term shall be 7 years (not including implementation which shall be limited to a maximum of 18 months) with the option to extend by up to an additional 6 years.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-21T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "48000000",
-      "48900000",
-      "72000000",
-      "72200000",
-      "72222300"
-    ],
-    "status": "active",
-    "relevance": 70,
-    "matched": [
-      "CPV 48000000",
-      "CPV 48900000",
-      "CPV 72000000",
-      "CPV 72200000",
-      "cloud",
-      "database",
-      "support and maintenance"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564928",
-    "fetched_at": "2026-09-23T09:51:37.014541Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-8-SEP564928",
-    "id": "rls-8-SEP564928",
-    "ocid": "ocds-r6ebe6-0000843517",
-    "title": "SPS-02319 Prisoner Records 2 (PR2) â Technical Change",
-    "buyer": "Scottish Prison Service",
-    "description": "SPS is undertaking a strategic technology modernisation project to migrate the PR2 system from a legacy Oracle Forms and Reports platform, operating on an Oracle database, to a modern, modular, opensource technology stack deployed within a secure Cloud environment. This project shall include the migration and on-going support and maintenance for the duration of the Contract Term. The Contract Term shall be 7 years (not including implementation which shall be limited to a maximum of 18 months) with the option to extend by up to an additional 6 years.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-21T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "48000000",
-      "48900000",
-      "72000000",
-      "72200000",
-      "72222300"
-    ],
-    "status": "active",
-    "relevance": 70,
-    "matched": [
-      "CPV 48000000",
-      "CPV 48900000",
-      "CPV 72000000",
-      "CPV 72200000",
-      "cloud",
-      "database",
-      "support and maintenance"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564928",
-    "fetched_at": "2026-09-23T21:23:01.522341Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-9-SEP564928",
-    "id": "rls-9-SEP564928",
-    "ocid": "ocds-r6ebe6-0000843517",
-    "title": "SPS-02319 Prisoner Records 2 (PR2) â Technical Change",
-    "buyer": "Scottish Prison Service",
-    "description": "SPS is undertaking a strategic technology modernisation project to migrate the PR2 system from a legacy Oracle Forms and Reports platform, operating on an Oracle database, to a modern, modular, opensource technology stack deployed within a secure Cloud environment. This project shall include the migration and on-going support and maintenance for the duration of the Contract Term. The Contract Term shall be 7 years (not including implementation which shall be limited to a maximum of 18 months) with the option to extend by up to an additional 6 years.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-21T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "48000000",
-      "48900000",
-      "72000000",
-      "72200000",
-      "72222300"
-    ],
-    "status": "active",
-    "relevance": 70,
-    "matched": [
-      "CPV 48000000",
-      "CPV 48900000",
-      "CPV 72000000",
-      "CPV 72200000",
-      "cloud",
-      "database",
-      "support and maintenance"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564928",
-    "fetched_at": "2026-09-24T21:24:14.837934Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-11-SEP564928",
-    "id": "rls-11-SEP564928",
-    "ocid": "ocds-r6ebe6-0000843517",
-    "title": "SPS-02319 Prisoner Records 2 (PR2) â Technical Change",
-    "buyer": "Scottish Prison Service",
-    "description": "SPS is undertaking a strategic technology modernisation project to migrate the PR2 system from a legacy Oracle Forms and Reports platform, operating on an Oracle database, to a modern, modular, opensource technology stack deployed within a secure Cloud environment. This project shall include the migration and on-going support and maintenance for the duration of the Contract Term. The Contract Term shall be 7 years (not including implementation which shall be limited to a maximum of 18 months) with the option to extend by up to an additional 6 years.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-21T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "48000000",
-      "48900000",
-      "72000000",
-      "72200000",
-      "72222300"
-    ],
-    "status": "active",
-    "relevance": 70,
-    "matched": [
-      "CPV 48000000",
-      "CPV 48900000",
-      "CPV 72000000",
-      "CPV 72200000",
-      "cloud",
-      "database",
-      "support and maintenance"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564928",
-    "fetched_at": "2026-09-25T10:06:20.630284Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-15-SEP564928",
-    "id": "rls-15-SEP564928",
-    "ocid": "ocds-r6ebe6-0000843517",
-    "title": "SPS-02319 Prisoner Records 2 (PR2) â Technical Change",
-    "buyer": "Scottish Prison Service",
-    "description": "SPS is undertaking a strategic technology modernisation project to migrate the PR2 system from a legacy Oracle Forms and Reports platform, operating on an Oracle database, to a modern, modular, opensource technology stack deployed within a secure Cloud environment. This project shall include the migration and on-going support and maintenance for the duration of the Contract Term. The Contract Term shall be 7 years (not including implementation which shall be limited to a maximum of 18 months) with the option to extend by up to an additional 6 years.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-21T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "48000000",
-      "48900000",
-      "72000000",
-      "72200000",
-      "72222300"
-    ],
-    "status": "active",
-    "relevance": 70,
-    "matched": [
-      "CPV 48000000",
-      "CPV 48900000",
-      "CPV 72000000",
-      "CPV 72200000",
-      "cloud",
-      "database",
-      "support and maintenance"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564928",
-    "fetched_at": "2026-09-27T21:12:35.831737Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-16-SEP564928",
-    "id": "rls-16-SEP564928",
-    "ocid": "ocds-r6ebe6-0000843517",
-    "title": "SPS-02319 Prisoner Records 2 (PR2) â Technical Change",
-    "buyer": "Scottish Prison Service",
-    "description": "SPS is undertaking a strategic technology modernisation project to migrate the PR2 system from a legacy Oracle Forms and Reports platform, operating on an Oracle database, to a modern, modular, opensource technology stack deployed within a secure Cloud environment. This project shall include the migration and on-going support and maintenance for the duration of the Contract Term. The Contract Term shall be 7 years (not including implementation which shall be limited to a maximum of 18 months) with the option to extend by up to an additional 6 years.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-21T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "48000000",
-      "48900000",
-      "72000000",
-      "72200000",
-      "72222300"
-    ],
-    "status": "active",
-    "relevance": 70,
-    "matched": [
-      "CPV 48000000",
-      "CPV 48900000",
-      "CPV 72000000",
-      "CPV 72200000",
-      "cloud",
-      "database",
-      "support and maintenance"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564928",
-    "fetched_at": "2026-09-28T11:36:24.895523Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-17-SEP564928",
-    "id": "rls-17-SEP564928",
-    "ocid": "ocds-r6ebe6-0000843517",
-    "title": "SPS-02319 Prisoner Records 2 (PR2) â Technical Change",
-    "buyer": "Scottish Prison Service",
-    "description": "SPS is undertaking a strategic technology modernisation project to migrate the PR2 system from a legacy Oracle Forms and Reports platform, operating on an Oracle database, to a modern, modular, opensource technology stack deployed within a secure Cloud environment. This project shall include the migration and on-going support and maintenance for the duration of the Contract Term. The Contract Term shall be 7 years (not including implementation which shall be limited to a maximum of 18 months) with the option to extend by up to an additional 6 years.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-21T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "48000000",
-      "48900000",
-      "72000000",
-      "72200000",
-      "72222300"
-    ],
-    "status": "active",
-    "relevance": 70,
-    "matched": [
-      "CPV 48000000",
-      "CPV 48900000",
-      "CPV 72000000",
-      "CPV 72200000",
-      "cloud",
-      "database",
-      "support and maintenance"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564928",
-    "fetched_at": "2026-09-29T11:14:53.673659Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-21-SEP564928",
-    "id": "rls-21-SEP564928",
-    "ocid": "ocds-r6ebe6-0000843517",
-    "title": "SPS-02319 Prisoner Records 2 (PR2) â Technical Change",
-    "buyer": "Scottish Prison Service",
-    "description": "SPS is undertaking a strategic technology modernisation project to migrate the PR2 system from a legacy Oracle Forms and Reports platform, operating on an Oracle database, to a modern, modular, opensource technology stack deployed within a secure Cloud environment. This project shall include the migration and on-going support and maintenance for the duration of the Contract Term. The Contract Term shall be 7 years (not including implementation which shall be limited to a maximum of 18 months) with the option to extend by up to an additional 6 years.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-21T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "48000000",
-      "48900000",
-      "72000000",
-      "72200000",
-      "72222300"
-    ],
-    "status": "active",
-    "relevance": 70,
-    "matched": [
-      "CPV 48000000",
-      "CPV 48900000",
-      "CPV 72000000",
-      "CPV 72200000",
-      "cloud",
-      "database",
-      "support and maintenance"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564928",
-    "fetched_at": "2026-09-30T11:03:05.367405Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-26-SEP564928",
-    "id": "rls-26-SEP564928",
-    "ocid": "ocds-r6ebe6-0000843517",
-    "title": "SPS-02319 Prisoner Records 2 (PR2) â Technical Change",
-    "buyer": "Scottish Prison Service",
-    "description": "SPS is undertaking a strategic technology modernisation project to migrate the PR2 system from a legacy Oracle Forms and Reports platform, operating on an Oracle database, to a modern, modular, opensource technology stack deployed within a secure Cloud environment. This project shall include the migration and on-going support and maintenance for the duration of the Contract Term. The Contract Term shall be 7 years (not including implementation which shall be limited to a maximum of 18 months) with the option to extend by up to an additional 6 years.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-09-21T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "48000000",
-      "48900000",
-      "72000000",
-      "72200000",
-      "72222300"
-    ],
-    "status": "active",
-    "relevance": 70,
-    "matched": [
-      "CPV 48000000",
-      "CPV 48900000",
-      "CPV 72000000",
-      "CPV 72200000",
-      "cloud",
-      "database",
-      "support and maintenance"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP564928",
-    "fetched_at": "2026-09-30T22:06:45.526444Z"
+    "fetched_at": "2026-11-02T15:23:38.924563Z"
   },
   {
     "key": "eTenders Ireland / TED:695163-2026",
@@ -604,6 +162,40 @@
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/695163-2026",
     "fetched_at": "2026-10-15T21:12:02.651502Z"
+  },
+  {
+    "key": "Find a Tender:103079-2026",
+    "id": "103079-2026",
+    "ocid": "ocds-h6vhtk-0777dd",
+    "title": "Provision of a Multi-Authority Employability, Case Management and Employer Relationship Management Solution: Integrated Management Information System for Employability and Skills across the Edinburgh and South East Scotland City Regional Deal Area",
+    "buyer": "Capital City Partnership",
+    "description": "Capital City Partnership is seeking to appoint a supplier to provide, implement, host, support, maintain and develop a regional Software as a Service Customer Relationship Management and Management Information System. The solution will support employability, skills and related community-based service delivery across multiple organisations and local authority areas within the Edinburgh and South East Scotland region.",
+    "source": "Find a Tender",
+    "country": "United Kingdom",
+    "published_at": "2026-10-30T11:06:54Z",
+    "deadline": "2027-01-11T12:00:00Z",
+    "value": 1250000.0,
+    "currency": "GBP",
+    "cpv": [
+      "48445000",
+      "72250000",
+      "72260000",
+      "72267100",
+      "72268000",
+      "72416000"
+    ],
+    "status": "active",
+    "relevance": 64,
+    "matched": [
+      "CPV 48445000",
+      "CPV 72250000",
+      "CPV 72260000",
+      "CPV 72267100",
+      "case management",
+      "software"
+    ],
+    "url": "https://www.find-tender.service.gov.uk/Notice/103079-2026",
+    "fetched_at": "2026-11-01T22:39:59.845038Z"
   },
   {
     "key": "Public Contracts Scotland:rls-3-OCT567732",
@@ -857,7 +449,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/735396-2026",
-    "fetched_at": "2026-11-01T22:40:14.885792Z"
+    "fetched_at": "2026-11-02T15:23:38.936966Z"
   },
   {
     "key": "eTenders Ireland / TED:743660-2026",
@@ -892,7 +484,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/743660-2026",
-    "fetched_at": "2026-11-01T22:40:14.880696Z"
+    "fetched_at": "2026-11-02T15:23:38.932004Z"
   },
   {
     "key": "eTenders Ireland / TED:753203-2026",
@@ -940,7 +532,7 @@
       "information technology"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/753203-2026",
-    "fetched_at": "2026-11-01T22:40:14.872611Z"
+    "fetched_at": "2026-11-02T15:23:38.924068Z"
   },
   {
     "key": "eTenders Ireland / TED:706914-2026",
@@ -1039,7 +631,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/755875-2026",
-    "fetched_at": "2026-11-01T22:40:14.871253Z"
+    "fetched_at": "2026-11-02T15:23:38.922638Z"
   },
   {
     "key": "Poland / TED:729265-2026",
@@ -1176,6 +768,105 @@
     "fetched_at": "2026-10-28T23:04:13.906376Z"
   },
   {
+    "key": "eTenders Ireland / TED:759254-2026",
+    "id": "759254-2026",
+    "ocid": null,
+    "title": "Ireland – IT services: consulting, software development, Internet and support – Invitation to tender for chief information officer advisory services",
+    "buyer": "Bord Bia (Irish Food Board)",
+    "description": "Active Irish public procurement notice published through TED/eTenders.",
+    "source": "eTenders Ireland / TED",
+    "country": "Ireland",
+    "published_at": "2026-11-02T01:00:00Z",
+    "deadline": "2026-11-12T12:00:00Z",
+    "value": null,
+    "currency": "EUR",
+    "cpv": [
+      "72000000",
+      "72220000",
+      "72000000",
+      "72220000"
+    ],
+    "status": "active",
+    "relevance": 53,
+    "matched": [
+      "CPV 72000000",
+      "CPV 72220000",
+      "software"
+    ],
+    "url": "https://ted.europa.eu/en/notice/-/detail/759254-2026",
+    "fetched_at": "2026-11-02T15:23:38.920911Z"
+  },
+  {
+    "key": "eTenders Ireland / TED:756814-2026",
+    "id": "756814-2026",
+    "ocid": null,
+    "title": "Ireland – Software package and information systems – Performance Development Software",
+    "buyer": "Irish Blood Transfusion Service",
+    "description": "Active Irish public procurement notice published through TED/eTenders.",
+    "source": "eTenders Ireland / TED",
+    "country": "Ireland",
+    "published_at": "2026-11-02T01:00:00Z",
+    "deadline": "2026-11-13T13:30:00Z",
+    "value": null,
+    "currency": "EUR",
+    "cpv": [
+      "48000000",
+      "48900000",
+      "48000000",
+      "48900000"
+    ],
+    "status": "active",
+    "relevance": 53,
+    "matched": [
+      "CPV 48000000",
+      "CPV 48900000",
+      "software"
+    ],
+    "url": "https://ted.europa.eu/en/notice/-/detail/756814-2026",
+    "fetched_at": "2026-11-02T15:23:38.922173Z"
+  },
+  {
+    "key": "eTenders Ireland / TED:756744-2026",
+    "id": "756744-2026",
+    "ocid": null,
+    "title": "Ireland – Investigation and security services – Provision of a Case Management and Reporting Solution and Related Services",
+    "buyer": "Fiosrú - Office of the Police Ombudsman",
+    "description": "Active Irish public procurement notice published through TED/eTenders.",
+    "source": "eTenders Ireland / TED",
+    "country": "Ireland",
+    "published_at": "2026-11-02T01:00:00Z",
+    "deadline": "2026-11-13T12:00:00Z",
+    "value": null,
+    "currency": "EUR",
+    "cpv": [
+      "79700000",
+      "79720000",
+      "72000000",
+      "72230000",
+      "72250000",
+      "72240000",
+      "48612000",
+      "79700000",
+      "79720000",
+      "72000000",
+      "72230000",
+      "72250000",
+      "72240000",
+      "48612000"
+    ],
+    "status": "active",
+    "relevance": 51,
+    "matched": [
+      "CPV 72000000",
+      "CPV 72230000",
+      "CPV 72240000",
+      "CPV 72250000",
+      "case management"
+    ],
+    "url": "https://ted.europa.eu/en/notice/-/detail/756744-2026",
+    "fetched_at": "2026-11-02T15:23:38.918730Z"
+  },
+  {
     "key": "eTenders Ireland / TED:751505-2026",
     "id": "751505-2026",
     "ocid": null,
@@ -1227,7 +918,7 @@
       "network"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/751505-2026",
-    "fetched_at": "2026-11-01T22:40:14.876399Z"
+    "fetched_at": "2026-11-02T15:23:38.928174Z"
   },
   {
     "key": "eTenders Ireland / TED:734297-2026",
@@ -1264,7 +955,7 @@
       "CPV 72320000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/734297-2026",
-    "fetched_at": "2026-11-01T22:40:14.885443Z"
+    "fetched_at": "2026-11-02T15:23:38.936790Z"
   },
   {
     "key": "eTenders Ireland / TED:754153-2026",
@@ -1350,7 +1041,7 @@
       "CPV 30214000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/754153-2026",
-    "fetched_at": "2026-11-01T22:40:14.873034Z"
+    "fetched_at": "2026-11-02T15:23:38.924479Z"
   },
   {
     "key": "Poland / TED:753423-2026",
@@ -1395,7 +1086,7 @@
       "CPV 30237450"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/753423-2026",
-    "fetched_at": "2026-11-01T22:40:16.864333Z"
+    "fetched_at": "2026-11-02T15:23:44.403123Z"
   },
   {
     "key": "Find a Tender:102252-2026",
@@ -1477,7 +1168,7 @@
       "CPV 72320000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/754069-2026",
-    "fetched_at": "2026-11-01T22:40:16.863491Z"
+    "fetched_at": "2026-11-02T15:23:44.408732Z"
   },
   {
     "key": "Poland / TED:715186-2026",
@@ -1627,7 +1318,38 @@
       "ict"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/737479-2026",
-    "fetched_at": "2026-11-01T22:40:14.883363Z"
+    "fetched_at": "2026-11-02T15:23:38.933941Z"
+  },
+  {
+    "key": "eTenders Ireland / TED:757791-2026",
+    "id": "757791-2026",
+    "ocid": null,
+    "title": "Ireland – E-learning services – P21287 Enterprise Digital Learning Content Provider",
+    "buyer": "daa plc",
+    "description": "Active Irish public procurement notice published through TED/eTenders.",
+    "source": "eTenders Ireland / TED",
+    "country": "Ireland",
+    "published_at": "2026-11-02T01:00:00Z",
+    "deadline": "2026-11-12T12:00:00Z",
+    "value": null,
+    "currency": "EUR",
+    "cpv": [
+      "80420000",
+      "80000000",
+      "48931000",
+      "80500000",
+      "80420000",
+      "80000000",
+      "48931000",
+      "80500000"
+    ],
+    "status": "active",
+    "relevance": 30,
+    "matched": [
+      "CPV 48931000"
+    ],
+    "url": "https://ted.europa.eu/en/notice/-/detail/757791-2026",
+    "fetched_at": "2026-11-02T15:23:38.918118Z"
   },
   {
     "key": "eTenders Ireland / TED:737260-2026",
@@ -1653,7 +1375,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/737260-2026",
-    "fetched_at": "2026-11-01T22:40:14.883257Z"
+    "fetched_at": "2026-11-02T15:23:38.934481Z"
   },
   {
     "key": "eTenders Ireland / TED:728304-2026",
@@ -4949,62 +4671,6 @@
     "fetched_at": "2026-10-29T12:43:26.517066Z"
   },
   {
-    "key": "eTenders Ireland / TED:692747-2026",
-    "id": "692747-2026",
-    "ocid": null,
-    "title": "Ireland – World wide web (www) site design services – Open Competition for the Brokensong Web Page creation 543",
-    "buyer": "Maynooth University",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-10-07T02:00:00Z",
-    "deadline": "2026-11-02T11:00:00Z",
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "72413000",
-      "72413000"
-    ],
-    "status": "active",
-    "relevance": 30,
-    "matched": [
-      "CPV 72413000"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/692747-2026",
-    "fetched_at": "2026-10-13T12:35:06.045934Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:713556-2026",
-    "id": "713556-2026",
-    "ocid": null,
-    "title": "Ireland – Bus maintenance services – Provision of Equipment Installation Support Works",
-    "buyer": "National Transport Authority_1149",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-10-15T02:00:00Z",
-    "deadline": "2026-11-02T11:00:00Z",
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "50113200",
-      "45255400",
-      "32413100",
-      "31224400",
-      "50113200",
-      "45255400",
-      "32413100",
-      "31224400"
-    ],
-    "status": "active",
-    "relevance": 30,
-    "matched": [
-      "CPV 32413100"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/713556-2026",
-    "fetched_at": "2026-10-21T21:38:09.220374Z"
-  },
-  {
     "key": "Poland / TED:734168-2026",
     "id": "734168-2026",
     "ocid": null,
@@ -5128,7 +4794,7 @@
       "CPV 72514100"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/753644-2026",
-    "fetched_at": "2026-11-01T22:40:14.873702Z"
+    "fetched_at": "2026-11-02T15:23:38.925773Z"
   },
   {
     "key": "eTenders Ireland / TED:736793-2026",
@@ -5153,7 +4819,7 @@
       "CPV 72224000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/736793-2026",
-    "fetched_at": "2026-11-01T22:40:14.885572Z"
+    "fetched_at": "2026-11-02T15:23:38.936286Z"
   },
   {
     "key": "eTenders Ireland / TED:745108-2026",
@@ -5198,7 +4864,7 @@
       "CPV 72224000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/745108-2026",
-    "fetched_at": "2026-11-01T22:40:14.880465Z"
+    "fetched_at": "2026-11-02T15:23:38.931606Z"
   },
   {
     "key": "Find a Tender:097651-2026",
@@ -5587,94 +5253,7 @@
       "CPV 72413000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/756046-2026",
-    "fetched_at": "2026-11-01T22:40:14.873484Z"
-  },
-  {
-    "key": "Poland / TED:712538-2026",
-    "id": "712538-2026",
-    "ocid": null,
-    "title": "Poland – Laundry-collection services – KOMPLEKSOWA USŁUGA NAJMU I SERWISOWANIA ODZIEŻY ROBOCZEJ ORAZ NAJMU I SERWISU SZAFEK NA CZYSTĄ I BRUDNĄ ODZIEŻ DLA PRACOWNIKÓW ZOO WROCŁAW SP. Z O.O.",
-    "buyer": "ZOO WROCŁAW Sp. z o.o.",
-    "description": "Active Polish public procurement notice published through TED.",
-    "source": "Poland / TED",
-    "country": "Poland",
-    "published_at": "2026-10-15T02:00:00Z",
-    "deadline": "2026-11-02T14:00:00Z",
-    "value": null,
-    "currency": "PLN",
-    "cpv": [
-      "98311000",
-      "50830000",
-      "48000000",
-      "35113400",
-      "98311000",
-      "50830000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 48000000"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/712538-2026",
-    "fetched_at": "2026-10-22T21:33:38.175296Z"
-  },
-  {
-    "key": "Poland / TED:715638-2026",
-    "id": "715638-2026",
-    "ocid": null,
-    "title": "Poland – Laundry-collection services – KOMPLEKSOWA USŁUGA NAJMU I SERWISOWANIA ODZIEŻY ROBOCZEJ ORAZ NAJMU I SERWISU SZAFEK NA CZYSTĄ I BRUDNĄ ODZIEŻ DLA PRACOWNIKÓW ZOO WROCŁAW SP. Z O.O.",
-    "buyer": "ZOO WROCŁAW Sp. z o.o.",
-    "description": "Active Polish public procurement notice published through TED.",
-    "source": "Poland / TED",
-    "country": "Poland",
-    "published_at": "2026-10-16T02:00:00Z",
-    "deadline": "2026-11-02T14:00:00Z",
-    "value": null,
-    "currency": "PLN",
-    "cpv": [
-      "98311000",
-      "50830000",
-      "48000000",
-      "35113400",
-      "98311000",
-      "50830000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 48000000"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/715638-2026",
-    "fetched_at": "2026-10-22T21:33:38.155339Z"
-  },
-  {
-    "key": "Poland / TED:753725-2026",
-    "id": "753725-2026",
-    "ocid": null,
-    "title": "Poland – Laundry-collection services – KOMPLEKSOWA USŁUGA NAJMU I SERWISOWANIA ODZIEŻY ROBOCZEJ ORAZ NAJMU I SERWISU SZAFEK NA CZYSTĄ I BRUDNĄ ODZIEŻ DLA PRACOWNIKÓW ZOO WROCŁAW SP. Z O.O.",
-    "buyer": "ZOO WROCŁAW Sp. z o.o.",
-    "description": "Active Polish public procurement notice published through TED.",
-    "source": "Poland / TED",
-    "country": "Poland",
-    "published_at": "2026-10-30T01:00:00Z",
-    "deadline": "2026-11-02T14:00:00Z",
-    "value": null,
-    "currency": "PLN",
-    "cpv": [
-      "98311000",
-      "50830000",
-      "48000000",
-      "35113400",
-      "98311000",
-      "50830000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 48000000"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/753725-2026",
-    "fetched_at": "2026-11-01T22:40:16.862520Z"
+    "fetched_at": "2026-11-02T15:23:38.925626Z"
   },
   {
     "key": "Find a Tender:096471-2026",
@@ -7377,1555 +6956,6 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT567116",
     "fetched_at": "2026-10-31T22:23:18.199825Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-1-OCT565862",
-    "id": "rls-1-OCT565862",
-    "ocid": "ocds-r6ebe6-0000844215",
-    "title": "In-House Design Support and Development",
-    "buyer": "CalMac Ferries Limited",
-    "description": "CFLâ¯requiresâ¯a partner with proven experience in: - Working with client in-house design resource to develop and plan impactful ideas and concepts. - Working with client in-house marketing team to develop appropriate multichannel campaigns and content. - Working with key third parties, including media buyer, film production company, marcomms agency, in-house Insight and Digital teams, brand partners, social media influencers, and content creators. The partner willâ¯be requiredâ¯to work on a variety of projects throughout the year for assets used across the website, social media, paid media and more, however exact projects are yet to beâ¯determined, and, in most cases, direction is already determined.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-02T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": 150000.0,
-    "currency": "GBP",
-    "cpv": [
-      "79933000"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "website"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565862",
-    "fetched_at": "2026-10-04T21:10:04.181877Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-3-OCT565847",
-    "id": "rls-3-OCT565847",
-    "ocid": "ocds-r6ebe6-0000844675",
-    "title": "Environmental Monitoring System for Collections",
-    "buyer": "National Museums Scotland",
-    "description": "The National Museums Scotland (NMS) wishes to engage a contractor (âContractorâ) to provide an environmental monitoring system. NMS is seeking a suitably qualified Contractor to provide an environmental monitoring system which will replace the current system. The Contractor should have experience in supplying and installing necessary hardware and software to facilitate the implementation of an environmental monitoring system, whilst providing ongoing maintenance and technical support when required.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-02T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "92521000",
-      "92521200"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565847",
-    "fetched_at": "2026-10-04T21:10:04.182085Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-3-OCT565862",
-    "id": "rls-3-OCT565862",
-    "ocid": "ocds-r6ebe6-0000844215",
-    "title": "In-House Design Support and Development",
-    "buyer": "CalMac Ferries Limited",
-    "description": "CFLâ¯requiresâ¯a partner with proven experience in: - Working with client in-house design resource to develop and plan impactful ideas and concepts. - Working with client in-house marketing team to develop appropriate multichannel campaigns and content. - Working with key third parties, including media buyer, film production company, marcomms agency, in-house Insight and Digital teams, brand partners, social media influencers, and content creators. The partner willâ¯be requiredâ¯to work on a variety of projects throughout the year for assets used across the website, social media, paid media and more, however exact projects are yet to beâ¯determined, and, in most cases, direction is already determined.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-02T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": 150000.0,
-    "currency": "GBP",
-    "cpv": [
-      "79933000"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "website"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565862",
-    "fetched_at": "2026-10-05T12:10:32.629638Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-5-OCT565847",
-    "id": "rls-5-OCT565847",
-    "ocid": "ocds-r6ebe6-0000844675",
-    "title": "Environmental Monitoring System for Collections",
-    "buyer": "National Museums Scotland",
-    "description": "The National Museums Scotland (NMS) wishes to engage a contractor (âContractorâ) to provide an environmental monitoring system. NMS is seeking a suitably qualified Contractor to provide an environmental monitoring system which will replace the current system. The Contractor should have experience in supplying and installing necessary hardware and software to facilitate the implementation of an environmental monitoring system, whilst providing ongoing maintenance and technical support when required.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-02T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "92521000",
-      "92521200"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565847",
-    "fetched_at": "2026-10-05T12:10:32.629773Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-6-OCT565862",
-    "id": "rls-6-OCT565862",
-    "ocid": "ocds-r6ebe6-0000844215",
-    "title": "In-House Design Support and Development",
-    "buyer": "CalMac Ferries Limited",
-    "description": "CFLâ¯requiresâ¯a partner with proven experience in: - Working with client in-house design resource to develop and plan impactful ideas and concepts. - Working with client in-house marketing team to develop appropriate multichannel campaigns and content. - Working with key third parties, including media buyer, film production company, marcomms agency, in-house Insight and Digital teams, brand partners, social media influencers, and content creators. The partner willâ¯be requiredâ¯to work on a variety of projects throughout the year for assets used across the website, social media, paid media and more, however exact projects are yet to beâ¯determined, and, in most cases, direction is already determined.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-02T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": 150000.0,
-    "currency": "GBP",
-    "cpv": [
-      "79933000"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "website"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565862",
-    "fetched_at": "2026-10-05T23:56:33.051137Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-8-OCT565847",
-    "id": "rls-8-OCT565847",
-    "ocid": "ocds-r6ebe6-0000844675",
-    "title": "Environmental Monitoring System for Collections",
-    "buyer": "National Museums Scotland",
-    "description": "The National Museums Scotland (NMS) wishes to engage a contractor (âContractorâ) to provide an environmental monitoring system. NMS is seeking a suitably qualified Contractor to provide an environmental monitoring system which will replace the current system. The Contractor should have experience in supplying and installing necessary hardware and software to facilitate the implementation of an environmental monitoring system, whilst providing ongoing maintenance and technical support when required.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-02T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "92521000",
-      "92521200"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565847",
-    "fetched_at": "2026-10-05T23:56:33.051349Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-9-OCT565862",
-    "id": "rls-9-OCT565862",
-    "ocid": "ocds-r6ebe6-0000844215",
-    "title": "In-House Design Support and Development",
-    "buyer": "CalMac Ferries Limited",
-    "description": "CFLâ¯requiresâ¯a partner with proven experience in: - Working with client in-house design resource to develop and plan impactful ideas and concepts. - Working with client in-house marketing team to develop appropriate multichannel campaigns and content. - Working with key third parties, including media buyer, film production company, marcomms agency, in-house Insight and Digital teams, brand partners, social media influencers, and content creators. The partner willâ¯be requiredâ¯to work on a variety of projects throughout the year for assets used across the website, social media, paid media and more, however exact projects are yet to beâ¯determined, and, in most cases, direction is already determined.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-02T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": 150000.0,
-    "currency": "GBP",
-    "cpv": [
-      "79933000"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "website"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565862",
-    "fetched_at": "2026-10-06T11:54:28.804679Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-11-OCT565847",
-    "id": "rls-11-OCT565847",
-    "ocid": "ocds-r6ebe6-0000844675",
-    "title": "Environmental Monitoring System for Collections",
-    "buyer": "National Museums Scotland",
-    "description": "The National Museums Scotland (NMS) wishes to engage a contractor (âContractorâ) to provide an environmental monitoring system. NMS is seeking a suitably qualified Contractor to provide an environmental monitoring system which will replace the current system. The Contractor should have experience in supplying and installing necessary hardware and software to facilitate the implementation of an environmental monitoring system, whilst providing ongoing maintenance and technical support when required.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-02T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "92521000",
-      "92521200"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565847",
-    "fetched_at": "2026-10-06T11:54:28.804854Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-10-OCT565862",
-    "id": "rls-10-OCT565862",
-    "ocid": "ocds-r6ebe6-0000844215",
-    "title": "In-House Design Support and Development",
-    "buyer": "CalMac Ferries Limited",
-    "description": "CFLâ¯requiresâ¯a partner with proven experience in: - Working with client in-house design resource to develop and plan impactful ideas and concepts. - Working with client in-house marketing team to develop appropriate multichannel campaigns and content. - Working with key third parties, including media buyer, film production company, marcomms agency, in-house Insight and Digital teams, brand partners, social media influencers, and content creators. The partner willâ¯be requiredâ¯to work on a variety of projects throughout the year for assets used across the website, social media, paid media and more, however exact projects are yet to beâ¯determined, and, in most cases, direction is already determined.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-02T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": 150000.0,
-    "currency": "GBP",
-    "cpv": [
-      "79933000"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "website"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565862",
-    "fetched_at": "2026-10-07T11:39:36.757879Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-12-OCT565847",
-    "id": "rls-12-OCT565847",
-    "ocid": "ocds-r6ebe6-0000844675",
-    "title": "Environmental Monitoring System for Collections",
-    "buyer": "National Museums Scotland",
-    "description": "The National Museums Scotland (NMS) wishes to engage a contractor (âContractorâ) to provide an environmental monitoring system. NMS is seeking a suitably qualified Contractor to provide an environmental monitoring system which will replace the current system. The Contractor should have experience in supplying and installing necessary hardware and software to facilitate the implementation of an environmental monitoring system, whilst providing ongoing maintenance and technical support when required.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-02T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "92521000",
-      "92521200"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565847",
-    "fetched_at": "2026-10-07T11:39:36.758058Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-15-OCT565862",
-    "id": "rls-15-OCT565862",
-    "ocid": "ocds-r6ebe6-0000844215",
-    "title": "In-House Design Support and Development",
-    "buyer": "CalMac Ferries Limited",
-    "description": "CFLâ¯requiresâ¯a partner with proven experience in: - Working with client in-house design resource to develop and plan impactful ideas and concepts. - Working with client in-house marketing team to develop appropriate multichannel campaigns and content. - Working with key third parties, including media buyer, film production company, marcomms agency, in-house Insight and Digital teams, brand partners, social media influencers, and content creators. The partner willâ¯be requiredâ¯to work on a variety of projects throughout the year for assets used across the website, social media, paid media and more, however exact projects are yet to beâ¯determined, and, in most cases, direction is already determined.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-02T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": 150000.0,
-    "currency": "GBP",
-    "cpv": [
-      "79933000"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "website"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565862",
-    "fetched_at": "2026-10-07T22:58:13.581628Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-17-OCT565847",
-    "id": "rls-17-OCT565847",
-    "ocid": "ocds-r6ebe6-0000844675",
-    "title": "Environmental Monitoring System for Collections",
-    "buyer": "National Museums Scotland",
-    "description": "The National Museums Scotland (NMS) wishes to engage a contractor (âContractorâ) to provide an environmental monitoring system. NMS is seeking a suitably qualified Contractor to provide an environmental monitoring system which will replace the current system. The Contractor should have experience in supplying and installing necessary hardware and software to facilitate the implementation of an environmental monitoring system, whilst providing ongoing maintenance and technical support when required.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-02T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "92521000",
-      "92521200"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565847",
-    "fetched_at": "2026-10-07T22:58:13.581821Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-18-OCT565862",
-    "id": "rls-18-OCT565862",
-    "ocid": "ocds-r6ebe6-0000844215",
-    "title": "In-House Design Support and Development",
-    "buyer": "CalMac Ferries Limited",
-    "description": "CFLâ¯requiresâ¯a partner with proven experience in: - Working with client in-house design resource to develop and plan impactful ideas and concepts. - Working with client in-house marketing team to develop appropriate multichannel campaigns and content. - Working with key third parties, including media buyer, film production company, marcomms agency, in-house Insight and Digital teams, brand partners, social media influencers, and content creators. The partner willâ¯be requiredâ¯to work on a variety of projects throughout the year for assets used across the website, social media, paid media and more, however exact projects are yet to beâ¯determined, and, in most cases, direction is already determined.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-02T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": 150000.0,
-    "currency": "GBP",
-    "cpv": [
-      "79933000"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "website"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565862",
-    "fetched_at": "2026-10-08T11:54:08.194529Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-20-OCT565847",
-    "id": "rls-20-OCT565847",
-    "ocid": "ocds-r6ebe6-0000844675",
-    "title": "Environmental Monitoring System for Collections",
-    "buyer": "National Museums Scotland",
-    "description": "The National Museums Scotland (NMS) wishes to engage a contractor (âContractorâ) to provide an environmental monitoring system. NMS is seeking a suitably qualified Contractor to provide an environmental monitoring system which will replace the current system. The Contractor should have experience in supplying and installing necessary hardware and software to facilitate the implementation of an environmental monitoring system, whilst providing ongoing maintenance and technical support when required.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-02T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "92521000",
-      "92521200"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565847",
-    "fetched_at": "2026-10-08T11:54:08.194695Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-22-OCT565862",
-    "id": "rls-22-OCT565862",
-    "ocid": "ocds-r6ebe6-0000844215",
-    "title": "In-House Design Support and Development",
-    "buyer": "CalMac Ferries Limited",
-    "description": "CFLâ¯requiresâ¯a partner with proven experience in: - Working with client in-house design resource to develop and plan impactful ideas and concepts. - Working with client in-house marketing team to develop appropriate multichannel campaigns and content. - Working with key third parties, including media buyer, film production company, marcomms agency, in-house Insight and Digital teams, brand partners, social media influencers, and content creators. The partner willâ¯be requiredâ¯to work on a variety of projects throughout the year for assets used across the website, social media, paid media and more, however exact projects are yet to beâ¯determined, and, in most cases, direction is already determined.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-02T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": 150000.0,
-    "currency": "GBP",
-    "cpv": [
-      "79933000"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "website"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565862",
-    "fetched_at": "2026-10-08T23:11:21.163102Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-24-OCT565847",
-    "id": "rls-24-OCT565847",
-    "ocid": "ocds-r6ebe6-0000844675",
-    "title": "Environmental Monitoring System for Collections",
-    "buyer": "National Museums Scotland",
-    "description": "The National Museums Scotland (NMS) wishes to engage a contractor (âContractorâ) to provide an environmental monitoring system. NMS is seeking a suitably qualified Contractor to provide an environmental monitoring system which will replace the current system. The Contractor should have experience in supplying and installing necessary hardware and software to facilitate the implementation of an environmental monitoring system, whilst providing ongoing maintenance and technical support when required.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-02T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "92521000",
-      "92521200"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565847",
-    "fetched_at": "2026-10-08T23:11:21.163262Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-27-OCT565862",
-    "id": "rls-27-OCT565862",
-    "ocid": "ocds-r6ebe6-0000844215",
-    "title": "In-House Design Support and Development",
-    "buyer": "CalMac Ferries Limited",
-    "description": "CFLâ¯requiresâ¯a partner with proven experience in: - Working with client in-house design resource to develop and plan impactful ideas and concepts. - Working with client in-house marketing team to develop appropriate multichannel campaigns and content. - Working with key third parties, including media buyer, film production company, marcomms agency, in-house Insight and Digital teams, brand partners, social media influencers, and content creators. The partner willâ¯be requiredâ¯to work on a variety of projects throughout the year for assets used across the website, social media, paid media and more, however exact projects are yet to beâ¯determined, and, in most cases, direction is already determined.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-02T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": 150000.0,
-    "currency": "GBP",
-    "cpv": [
-      "79933000"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "website"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565862",
-    "fetched_at": "2026-10-09T11:45:57.348041Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-29-OCT565847",
-    "id": "rls-29-OCT565847",
-    "ocid": "ocds-r6ebe6-0000844675",
-    "title": "Environmental Monitoring System for Collections",
-    "buyer": "National Museums Scotland",
-    "description": "The National Museums Scotland (NMS) wishes to engage a contractor (âContractorâ) to provide an environmental monitoring system. NMS is seeking a suitably qualified Contractor to provide an environmental monitoring system which will replace the current system. The Contractor should have experience in supplying and installing necessary hardware and software to facilitate the implementation of an environmental monitoring system, whilst providing ongoing maintenance and technical support when required.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-02T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "92521000",
-      "92521200"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565847",
-    "fetched_at": "2026-10-09T11:45:57.348207Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-29-OCT565862",
-    "id": "rls-29-OCT565862",
-    "ocid": "ocds-r6ebe6-0000844215",
-    "title": "In-House Design Support and Development",
-    "buyer": "CalMac Ferries Limited",
-    "description": "CFLâ¯requiresâ¯a partner with proven experience in: - Working with client in-house design resource to develop and plan impactful ideas and concepts. - Working with client in-house marketing team to develop appropriate multichannel campaigns and content. - Working with key third parties, including media buyer, film production company, marcomms agency, in-house Insight and Digital teams, brand partners, social media influencers, and content creators. The partner willâ¯be requiredâ¯to work on a variety of projects throughout the year for assets used across the website, social media, paid media and more, however exact projects are yet to beâ¯determined, and, in most cases, direction is already determined.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-02T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": 150000.0,
-    "currency": "GBP",
-    "cpv": [
-      "79933000"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "website"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565862",
-    "fetched_at": "2026-10-11T21:44:03.113997Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-31-OCT565847",
-    "id": "rls-31-OCT565847",
-    "ocid": "ocds-r6ebe6-0000844675",
-    "title": "Environmental Monitoring System for Collections",
-    "buyer": "National Museums Scotland",
-    "description": "The National Museums Scotland (NMS) wishes to engage a contractor (âContractorâ) to provide an environmental monitoring system. NMS is seeking a suitably qualified Contractor to provide an environmental monitoring system which will replace the current system. The Contractor should have experience in supplying and installing necessary hardware and software to facilitate the implementation of an environmental monitoring system, whilst providing ongoing maintenance and technical support when required.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-02T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "92521000",
-      "92521200"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565847",
-    "fetched_at": "2026-10-11T21:44:03.114164Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-31-OCT565862",
-    "id": "rls-31-OCT565862",
-    "ocid": "ocds-r6ebe6-0000844215",
-    "title": "In-House Design Support and Development",
-    "buyer": "CalMac Ferries Limited",
-    "description": "CFLâ¯requiresâ¯a partner with proven experience in: - Working with client in-house design resource to develop and plan impactful ideas and concepts. - Working with client in-house marketing team to develop appropriate multichannel campaigns and content. - Working with key third parties, including media buyer, film production company, marcomms agency, in-house Insight and Digital teams, brand partners, social media influencers, and content creators. The partner willâ¯be requiredâ¯to work on a variety of projects throughout the year for assets used across the website, social media, paid media and more, however exact projects are yet to beâ¯determined, and, in most cases, direction is already determined.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-02T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": 150000.0,
-    "currency": "GBP",
-    "cpv": [
-      "79933000"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "website"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565862",
-    "fetched_at": "2026-10-12T12:59:46.792351Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-33-OCT565847",
-    "id": "rls-33-OCT565847",
-    "ocid": "ocds-r6ebe6-0000844675",
-    "title": "Environmental Monitoring System for Collections",
-    "buyer": "National Museums Scotland",
-    "description": "The National Museums Scotland (NMS) wishes to engage a contractor (âContractorâ) to provide an environmental monitoring system. NMS is seeking a suitably qualified Contractor to provide an environmental monitoring system which will replace the current system. The Contractor should have experience in supplying and installing necessary hardware and software to facilitate the implementation of an environmental monitoring system, whilst providing ongoing maintenance and technical support when required.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-02T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "92521000",
-      "92521200"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565847",
-    "fetched_at": "2026-10-12T12:59:46.792521Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-35-OCT565862",
-    "id": "rls-35-OCT565862",
-    "ocid": "ocds-r6ebe6-0000844215",
-    "title": "In-House Design Support and Development",
-    "buyer": "CalMac Ferries Limited",
-    "description": "CFLâ¯requiresâ¯a partner with proven experience in: - Working with client in-house design resource to develop and plan impactful ideas and concepts. - Working with client in-house marketing team to develop appropriate multichannel campaigns and content. - Working with key third parties, including media buyer, film production company, marcomms agency, in-house Insight and Digital teams, brand partners, social media influencers, and content creators. The partner willâ¯be requiredâ¯to work on a variety of projects throughout the year for assets used across the website, social media, paid media and more, however exact projects are yet to beâ¯determined, and, in most cases, direction is already determined.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-02T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": 150000.0,
-    "currency": "GBP",
-    "cpv": [
-      "79933000"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "website"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565862",
-    "fetched_at": "2026-10-13T00:27:54.262326Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-37-OCT565847",
-    "id": "rls-37-OCT565847",
-    "ocid": "ocds-r6ebe6-0000844675",
-    "title": "Environmental Monitoring System for Collections",
-    "buyer": "National Museums Scotland",
-    "description": "The National Museums Scotland (NMS) wishes to engage a contractor (âContractorâ) to provide an environmental monitoring system. NMS is seeking a suitably qualified Contractor to provide an environmental monitoring system which will replace the current system. The Contractor should have experience in supplying and installing necessary hardware and software to facilitate the implementation of an environmental monitoring system, whilst providing ongoing maintenance and technical support when required.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-02T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "92521000",
-      "92521200"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565847",
-    "fetched_at": "2026-10-13T00:27:54.262447Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-39-OCT565862",
-    "id": "rls-39-OCT565862",
-    "ocid": "ocds-r6ebe6-0000844215",
-    "title": "In-House Design Support and Development",
-    "buyer": "CalMac Ferries Limited",
-    "description": "CFLâ¯requiresâ¯a partner with proven experience in: - Working with client in-house design resource to develop and plan impactful ideas and concepts. - Working with client in-house marketing team to develop appropriate multichannel campaigns and content. - Working with key third parties, including media buyer, film production company, marcomms agency, in-house Insight and Digital teams, brand partners, social media influencers, and content creators. The partner willâ¯be requiredâ¯to work on a variety of projects throughout the year for assets used across the website, social media, paid media and more, however exact projects are yet to beâ¯determined, and, in most cases, direction is already determined.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-02T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": 150000.0,
-    "currency": "GBP",
-    "cpv": [
-      "79933000"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "website"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565862",
-    "fetched_at": "2026-10-13T22:31:47.019361Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-41-OCT565847",
-    "id": "rls-41-OCT565847",
-    "ocid": "ocds-r6ebe6-0000844675",
-    "title": "Environmental Monitoring System for Collections",
-    "buyer": "National Museums Scotland",
-    "description": "The National Museums Scotland (NMS) wishes to engage a contractor (âContractorâ) to provide an environmental monitoring system. NMS is seeking a suitably qualified Contractor to provide an environmental monitoring system which will replace the current system. The Contractor should have experience in supplying and installing necessary hardware and software to facilitate the implementation of an environmental monitoring system, whilst providing ongoing maintenance and technical support when required.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-02T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "92521000",
-      "92521200"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565847",
-    "fetched_at": "2026-10-13T22:31:47.019531Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-40-OCT565862",
-    "id": "rls-40-OCT565862",
-    "ocid": "ocds-r6ebe6-0000844215",
-    "title": "In-House Design Support and Development",
-    "buyer": "CalMac Ferries Limited",
-    "description": "CFLâ¯requiresâ¯a partner with proven experience in: - Working with client in-house design resource to develop and plan impactful ideas and concepts. - Working with client in-house marketing team to develop appropriate multichannel campaigns and content. - Working with key third parties, including media buyer, film production company, marcomms agency, in-house Insight and Digital teams, brand partners, social media influencers, and content creators. The partner willâ¯be requiredâ¯to work on a variety of projects throughout the year for assets used across the website, social media, paid media and more, however exact projects are yet to beâ¯determined, and, in most cases, direction is already determined.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-02T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": 150000.0,
-    "currency": "GBP",
-    "cpv": [
-      "79933000"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "website"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565862",
-    "fetched_at": "2026-10-14T10:01:18.710432Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-42-OCT565847",
-    "id": "rls-42-OCT565847",
-    "ocid": "ocds-r6ebe6-0000844675",
-    "title": "Environmental Monitoring System for Collections",
-    "buyer": "National Museums Scotland",
-    "description": "The National Museums Scotland (NMS) wishes to engage a contractor (âContractorâ) to provide an environmental monitoring system. NMS is seeking a suitably qualified Contractor to provide an environmental monitoring system which will replace the current system. The Contractor should have experience in supplying and installing necessary hardware and software to facilitate the implementation of an environmental monitoring system, whilst providing ongoing maintenance and technical support when required.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-02T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "92521000",
-      "92521200"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565847",
-    "fetched_at": "2026-10-14T10:01:18.710598Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-42-OCT565862",
-    "id": "rls-42-OCT565862",
-    "ocid": "ocds-r6ebe6-0000844215",
-    "title": "In-House Design Support and Development",
-    "buyer": "CalMac Ferries Limited",
-    "description": "CFLâ¯requiresâ¯a partner with proven experience in: - Working with client in-house design resource to develop and plan impactful ideas and concepts. - Working with client in-house marketing team to develop appropriate multichannel campaigns and content. - Working with key third parties, including media buyer, film production company, marcomms agency, in-house Insight and Digital teams, brand partners, social media influencers, and content creators. The partner willâ¯be requiredâ¯to work on a variety of projects throughout the year for assets used across the website, social media, paid media and more, however exact projects are yet to beâ¯determined, and, in most cases, direction is already determined.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-02T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": 150000.0,
-    "currency": "GBP",
-    "cpv": [
-      "79933000"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "website"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565862",
-    "fetched_at": "2026-10-14T21:30:35.574000Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-44-OCT565847",
-    "id": "rls-44-OCT565847",
-    "ocid": "ocds-r6ebe6-0000844675",
-    "title": "Environmental Monitoring System for Collections",
-    "buyer": "National Museums Scotland",
-    "description": "The National Museums Scotland (NMS) wishes to engage a contractor (âContractorâ) to provide an environmental monitoring system. NMS is seeking a suitably qualified Contractor to provide an environmental monitoring system which will replace the current system. The Contractor should have experience in supplying and installing necessary hardware and software to facilitate the implementation of an environmental monitoring system, whilst providing ongoing maintenance and technical support when required.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-02T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "92521000",
-      "92521200"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565847",
-    "fetched_at": "2026-10-14T21:30:35.574140Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-1-OCT566707",
-    "id": "rls-1-OCT566707",
-    "ocid": "ocds-r6ebe6-0000845776",
-    "title": "Environmental Monitoring System for Collections (Updated 15 Oct 2026)",
-    "buyer": "National Museums Scotland",
-    "description": "The National Museums Scotland (NMS) wishes to engage a contractor (âContractorâ) to provide an environmental monitoring system. NMS is seeking a suitably qualified Contractor to provide an environmental monitoring system which will replace the current system. The Contractor should have experience in supplying and installing necessary hardware and software to facilitate the implementation of an environmental monitoring system, whilst providing ongoing maintenance and technical support when required.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-15T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": 100000.0,
-    "currency": "GBP",
-    "cpv": [
-      "92521000",
-      "92521200"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT566707",
-    "fetched_at": "2026-10-15T09:43:57.056890Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-45-OCT565862",
-    "id": "rls-45-OCT565862",
-    "ocid": "ocds-r6ebe6-0000844215",
-    "title": "In-House Design Support and Development",
-    "buyer": "CalMac Ferries Limited",
-    "description": "CFLâ¯requiresâ¯a partner with proven experience in: - Working with client in-house design resource to develop and plan impactful ideas and concepts. - Working with client in-house marketing team to develop appropriate multichannel campaigns and content. - Working with key third parties, including media buyer, film production company, marcomms agency, in-house Insight and Digital teams, brand partners, social media influencers, and content creators. The partner willâ¯be requiredâ¯to work on a variety of projects throughout the year for assets used across the website, social media, paid media and more, however exact projects are yet to beâ¯determined, and, in most cases, direction is already determined.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-02T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": 150000.0,
-    "currency": "GBP",
-    "cpv": [
-      "79933000"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "website"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565862",
-    "fetched_at": "2026-10-15T09:43:57.060121Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-47-OCT565847",
-    "id": "rls-47-OCT565847",
-    "ocid": "ocds-r6ebe6-0000844675",
-    "title": "Environmental Monitoring System for Collections",
-    "buyer": "National Museums Scotland",
-    "description": "The National Museums Scotland (NMS) wishes to engage a contractor (âContractorâ) to provide an environmental monitoring system. NMS is seeking a suitably qualified Contractor to provide an environmental monitoring system which will replace the current system. The Contractor should have experience in supplying and installing necessary hardware and software to facilitate the implementation of an environmental monitoring system, whilst providing ongoing maintenance and technical support when required.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-02T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "92521000",
-      "92521200"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565847",
-    "fetched_at": "2026-10-15T09:43:57.060293Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-4-OCT566707",
-    "id": "rls-4-OCT566707",
-    "ocid": "ocds-r6ebe6-0000845776",
-    "title": "Environmental Monitoring System for Collections (Updated 15 Oct 2026)",
-    "buyer": "National Museums Scotland",
-    "description": "The National Museums Scotland (NMS) wishes to engage a contractor (âContractorâ) to provide an environmental monitoring system. NMS is seeking a suitably qualified Contractor to provide an environmental monitoring system which will replace the current system. The Contractor should have experience in supplying and installing necessary hardware and software to facilitate the implementation of an environmental monitoring system, whilst providing ongoing maintenance and technical support when required.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-15T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": 100000.0,
-    "currency": "GBP",
-    "cpv": [
-      "92521000",
-      "92521200"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT566707",
-    "fetched_at": "2026-10-16T09:37:26.514722Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-48-OCT565862",
-    "id": "rls-48-OCT565862",
-    "ocid": "ocds-r6ebe6-0000844215",
-    "title": "In-House Design Support and Development",
-    "buyer": "CalMac Ferries Limited",
-    "description": "CFLâ¯requiresâ¯a partner with proven experience in: - Working with client in-house design resource to develop and plan impactful ideas and concepts. - Working with client in-house marketing team to develop appropriate multichannel campaigns and content. - Working with key third parties, including media buyer, film production company, marcomms agency, in-house Insight and Digital teams, brand partners, social media influencers, and content creators. The partner willâ¯be requiredâ¯to work on a variety of projects throughout the year for assets used across the website, social media, paid media and more, however exact projects are yet to beâ¯determined, and, in most cases, direction is already determined.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-02T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": 150000.0,
-    "currency": "GBP",
-    "cpv": [
-      "79933000"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "website"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565862",
-    "fetched_at": "2026-10-16T09:37:26.517323Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-50-OCT565847",
-    "id": "rls-50-OCT565847",
-    "ocid": "ocds-r6ebe6-0000844675",
-    "title": "Environmental Monitoring System for Collections",
-    "buyer": "National Museums Scotland",
-    "description": "The National Museums Scotland (NMS) wishes to engage a contractor (âContractorâ) to provide an environmental monitoring system. NMS is seeking a suitably qualified Contractor to provide an environmental monitoring system which will replace the current system. The Contractor should have experience in supplying and installing necessary hardware and software to facilitate the implementation of an environmental monitoring system, whilst providing ongoing maintenance and technical support when required.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-02T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "92521000",
-      "92521200"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565847",
-    "fetched_at": "2026-10-16T09:37:26.517459Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-31-OCT566707",
-    "id": "rls-31-OCT566707",
-    "ocid": "ocds-r6ebe6-0000845776",
-    "title": "Environmental Monitoring System for Collections (Updated 15 Oct 2026)",
-    "buyer": "National Museums Scotland",
-    "description": "The National Museums Scotland (NMS) wishes to engage a contractor (âContractorâ) to provide an environmental monitoring system. NMS is seeking a suitably qualified Contractor to provide an environmental monitoring system which will replace the current system. The Contractor should have experience in supplying and installing necessary hardware and software to facilitate the implementation of an environmental monitoring system, whilst providing ongoing maintenance and technical support when required.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-15T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": 100000.0,
-    "currency": "GBP",
-    "cpv": [
-      "92521000",
-      "92521200"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT566707",
-    "fetched_at": "2026-10-25T21:35:52.066022Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-75-OCT565862",
-    "id": "rls-75-OCT565862",
-    "ocid": "ocds-r6ebe6-0000844215",
-    "title": "In-House Design Support and Development",
-    "buyer": "CalMac Ferries Limited",
-    "description": "CFLâ¯requiresâ¯a partner with proven experience in: - Working with client in-house design resource to develop and plan impactful ideas and concepts. - Working with client in-house marketing team to develop appropriate multichannel campaigns and content. - Working with key third parties, including media buyer, film production company, marcomms agency, in-house Insight and Digital teams, brand partners, social media influencers, and content creators. The partner willâ¯be requiredâ¯to work on a variety of projects throughout the year for assets used across the website, social media, paid media and more, however exact projects are yet to beâ¯determined, and, in most cases, direction is already determined.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-02T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": 150000.0,
-    "currency": "GBP",
-    "cpv": [
-      "79933000"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "website"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565862",
-    "fetched_at": "2026-10-25T21:35:52.068571Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-77-OCT565847",
-    "id": "rls-77-OCT565847",
-    "ocid": "ocds-r6ebe6-0000844675",
-    "title": "Environmental Monitoring System for Collections",
-    "buyer": "National Museums Scotland",
-    "description": "The National Museums Scotland (NMS) wishes to engage a contractor (âContractorâ) to provide an environmental monitoring system. NMS is seeking a suitably qualified Contractor to provide an environmental monitoring system which will replace the current system. The Contractor should have experience in supplying and installing necessary hardware and software to facilitate the implementation of an environmental monitoring system, whilst providing ongoing maintenance and technical support when required.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-02T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "92521000",
-      "92521200"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565847",
-    "fetched_at": "2026-10-25T21:35:52.068700Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-33-OCT566707",
-    "id": "rls-33-OCT566707",
-    "ocid": "ocds-r6ebe6-0000845776",
-    "title": "Environmental Monitoring System for Collections (Updated 15 Oct 2026)",
-    "buyer": "National Museums Scotland",
-    "description": "The National Museums Scotland (NMS) wishes to engage a contractor (âContractorâ) to provide an environmental monitoring system. NMS is seeking a suitably qualified Contractor to provide an environmental monitoring system which will replace the current system. The Contractor should have experience in supplying and installing necessary hardware and software to facilitate the implementation of an environmental monitoring system, whilst providing ongoing maintenance and technical support when required.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-15T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": 100000.0,
-    "currency": "GBP",
-    "cpv": [
-      "92521000",
-      "92521200"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT566707",
-    "fetched_at": "2026-10-26T23:04:54.486408Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-77-OCT565862",
-    "id": "rls-77-OCT565862",
-    "ocid": "ocds-r6ebe6-0000844215",
-    "title": "In-House Design Support and Development",
-    "buyer": "CalMac Ferries Limited",
-    "description": "CFLâ¯requiresâ¯a partner with proven experience in: - Working with client in-house design resource to develop and plan impactful ideas and concepts. - Working with client in-house marketing team to develop appropriate multichannel campaigns and content. - Working with key third parties, including media buyer, film production company, marcomms agency, in-house Insight and Digital teams, brand partners, social media influencers, and content creators. The partner willâ¯be requiredâ¯to work on a variety of projects throughout the year for assets used across the website, social media, paid media and more, however exact projects are yet to beâ¯determined, and, in most cases, direction is already determined.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-02T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": 150000.0,
-    "currency": "GBP",
-    "cpv": [
-      "79933000"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "website"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565862",
-    "fetched_at": "2026-10-26T23:04:54.489677Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-79-OCT565847",
-    "id": "rls-79-OCT565847",
-    "ocid": "ocds-r6ebe6-0000844675",
-    "title": "Environmental Monitoring System for Collections",
-    "buyer": "National Museums Scotland",
-    "description": "The National Museums Scotland (NMS) wishes to engage a contractor (âContractorâ) to provide an environmental monitoring system. NMS is seeking a suitably qualified Contractor to provide an environmental monitoring system which will replace the current system. The Contractor should have experience in supplying and installing necessary hardware and software to facilitate the implementation of an environmental monitoring system, whilst providing ongoing maintenance and technical support when required.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-02T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "92521000",
-      "92521200"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565847",
-    "fetched_at": "2026-10-26T23:04:54.489854Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-34-OCT566707",
-    "id": "rls-34-OCT566707",
-    "ocid": "ocds-r6ebe6-0000845776",
-    "title": "Environmental Monitoring System for Collections (Updated 15 Oct 2026)",
-    "buyer": "National Museums Scotland",
-    "description": "The National Museums Scotland (NMS) wishes to engage a contractor (âContractorâ) to provide an environmental monitoring system. NMS is seeking a suitably qualified Contractor to provide an environmental monitoring system which will replace the current system. The Contractor should have experience in supplying and installing necessary hardware and software to facilitate the implementation of an environmental monitoring system, whilst providing ongoing maintenance and technical support when required.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-15T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": 100000.0,
-    "currency": "GBP",
-    "cpv": [
-      "92521000",
-      "92521200"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT566707",
-    "fetched_at": "2026-10-27T11:55:58.052664Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-78-OCT565862",
-    "id": "rls-78-OCT565862",
-    "ocid": "ocds-r6ebe6-0000844215",
-    "title": "In-House Design Support and Development",
-    "buyer": "CalMac Ferries Limited",
-    "description": "CFLâ¯requiresâ¯a partner with proven experience in: - Working with client in-house design resource to develop and plan impactful ideas and concepts. - Working with client in-house marketing team to develop appropriate multichannel campaigns and content. - Working with key third parties, including media buyer, film production company, marcomms agency, in-house Insight and Digital teams, brand partners, social media influencers, and content creators. The partner willâ¯be requiredâ¯to work on a variety of projects throughout the year for assets used across the website, social media, paid media and more, however exact projects are yet to beâ¯determined, and, in most cases, direction is already determined.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-02T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": 150000.0,
-    "currency": "GBP",
-    "cpv": [
-      "79933000"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "website"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565862",
-    "fetched_at": "2026-10-27T11:55:58.055780Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-80-OCT565847",
-    "id": "rls-80-OCT565847",
-    "ocid": "ocds-r6ebe6-0000844675",
-    "title": "Environmental Monitoring System for Collections",
-    "buyer": "National Museums Scotland",
-    "description": "The National Museums Scotland (NMS) wishes to engage a contractor (âContractorâ) to provide an environmental monitoring system. NMS is seeking a suitably qualified Contractor to provide an environmental monitoring system which will replace the current system. The Contractor should have experience in supplying and installing necessary hardware and software to facilitate the implementation of an environmental monitoring system, whilst providing ongoing maintenance and technical support when required.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-02T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "92521000",
-      "92521200"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565847",
-    "fetched_at": "2026-10-27T11:55:58.055968Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-38-OCT566707",
-    "id": "rls-38-OCT566707",
-    "ocid": "ocds-r6ebe6-0000845776",
-    "title": "Environmental Monitoring System for Collections (Updated 15 Oct 2026)",
-    "buyer": "National Museums Scotland",
-    "description": "The National Museums Scotland (NMS) wishes to engage a contractor (âContractorâ) to provide an environmental monitoring system. NMS is seeking a suitably qualified Contractor to provide an environmental monitoring system which will replace the current system. The Contractor should have experience in supplying and installing necessary hardware and software to facilitate the implementation of an environmental monitoring system, whilst providing ongoing maintenance and technical support when required.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-15T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": 100000.0,
-    "currency": "GBP",
-    "cpv": [
-      "92521000",
-      "92521200"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT566707",
-    "fetched_at": "2026-10-27T22:54:21.292076Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-82-OCT565862",
-    "id": "rls-82-OCT565862",
-    "ocid": "ocds-r6ebe6-0000844215",
-    "title": "In-House Design Support and Development",
-    "buyer": "CalMac Ferries Limited",
-    "description": "CFLâ¯requiresâ¯a partner with proven experience in: - Working with client in-house design resource to develop and plan impactful ideas and concepts. - Working with client in-house marketing team to develop appropriate multichannel campaigns and content. - Working with key third parties, including media buyer, film production company, marcomms agency, in-house Insight and Digital teams, brand partners, social media influencers, and content creators. The partner willâ¯be requiredâ¯to work on a variety of projects throughout the year for assets used across the website, social media, paid media and more, however exact projects are yet to beâ¯determined, and, in most cases, direction is already determined.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-02T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": 150000.0,
-    "currency": "GBP",
-    "cpv": [
-      "79933000"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "website"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565862",
-    "fetched_at": "2026-10-27T22:54:21.294416Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-84-OCT565847",
-    "id": "rls-84-OCT565847",
-    "ocid": "ocds-r6ebe6-0000844675",
-    "title": "Environmental Monitoring System for Collections",
-    "buyer": "National Museums Scotland",
-    "description": "The National Museums Scotland (NMS) wishes to engage a contractor (âContractorâ) to provide an environmental monitoring system. NMS is seeking a suitably qualified Contractor to provide an environmental monitoring system which will replace the current system. The Contractor should have experience in supplying and installing necessary hardware and software to facilitate the implementation of an environmental monitoring system, whilst providing ongoing maintenance and technical support when required.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-02T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "92521000",
-      "92521200"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565847",
-    "fetched_at": "2026-10-27T22:54:21.294540Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-39-OCT566707",
-    "id": "rls-39-OCT566707",
-    "ocid": "ocds-r6ebe6-0000845776",
-    "title": "Environmental Monitoring System for Collections (Updated 15 Oct 2026)",
-    "buyer": "National Museums Scotland",
-    "description": "The National Museums Scotland (NMS) wishes to engage a contractor (âContractorâ) to provide an environmental monitoring system. NMS is seeking a suitably qualified Contractor to provide an environmental monitoring system which will replace the current system. The Contractor should have experience in supplying and installing necessary hardware and software to facilitate the implementation of an environmental monitoring system, whilst providing ongoing maintenance and technical support when required.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-15T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": 100000.0,
-    "currency": "GBP",
-    "cpv": [
-      "92521000",
-      "92521200"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT566707",
-    "fetched_at": "2026-10-28T12:33:28.973497Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-83-OCT565862",
-    "id": "rls-83-OCT565862",
-    "ocid": "ocds-r6ebe6-0000844215",
-    "title": "In-House Design Support and Development",
-    "buyer": "CalMac Ferries Limited",
-    "description": "CFLâ¯requiresâ¯a partner with proven experience in: - Working with client in-house design resource to develop and plan impactful ideas and concepts. - Working with client in-house marketing team to develop appropriate multichannel campaigns and content. - Working with key third parties, including media buyer, film production company, marcomms agency, in-house Insight and Digital teams, brand partners, social media influencers, and content creators. The partner willâ¯be requiredâ¯to work on a variety of projects throughout the year for assets used across the website, social media, paid media and more, however exact projects are yet to beâ¯determined, and, in most cases, direction is already determined.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-02T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": 150000.0,
-    "currency": "GBP",
-    "cpv": [
-      "79933000"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "website"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565862",
-    "fetched_at": "2026-10-28T12:33:28.976671Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-85-OCT565847",
-    "id": "rls-85-OCT565847",
-    "ocid": "ocds-r6ebe6-0000844675",
-    "title": "Environmental Monitoring System for Collections",
-    "buyer": "National Museums Scotland",
-    "description": "The National Museums Scotland (NMS) wishes to engage a contractor (âContractorâ) to provide an environmental monitoring system. NMS is seeking a suitably qualified Contractor to provide an environmental monitoring system which will replace the current system. The Contractor should have experience in supplying and installing necessary hardware and software to facilitate the implementation of an environmental monitoring system, whilst providing ongoing maintenance and technical support when required.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-02T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "92521000",
-      "92521200"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565847",
-    "fetched_at": "2026-10-28T12:33:28.976858Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-42-OCT566707",
-    "id": "rls-42-OCT566707",
-    "ocid": "ocds-r6ebe6-0000845776",
-    "title": "Environmental Monitoring System for Collections (Updated 15 Oct 2026)",
-    "buyer": "National Museums Scotland",
-    "description": "The National Museums Scotland (NMS) wishes to engage a contractor (âContractorâ) to provide an environmental monitoring system. NMS is seeking a suitably qualified Contractor to provide an environmental monitoring system which will replace the current system. The Contractor should have experience in supplying and installing necessary hardware and software to facilitate the implementation of an environmental monitoring system, whilst providing ongoing maintenance and technical support when required.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-15T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": 100000.0,
-    "currency": "GBP",
-    "cpv": [
-      "92521000",
-      "92521200"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT566707",
-    "fetched_at": "2026-10-28T23:04:12.184470Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-86-OCT565862",
-    "id": "rls-86-OCT565862",
-    "ocid": "ocds-r6ebe6-0000844215",
-    "title": "In-House Design Support and Development",
-    "buyer": "CalMac Ferries Limited",
-    "description": "CFLâ¯requiresâ¯a partner with proven experience in: - Working with client in-house design resource to develop and plan impactful ideas and concepts. - Working with client in-house marketing team to develop appropriate multichannel campaigns and content. - Working with key third parties, including media buyer, film production company, marcomms agency, in-house Insight and Digital teams, brand partners, social media influencers, and content creators. The partner willâ¯be requiredâ¯to work on a variety of projects throughout the year for assets used across the website, social media, paid media and more, however exact projects are yet to beâ¯determined, and, in most cases, direction is already determined.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-02T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": 150000.0,
-    "currency": "GBP",
-    "cpv": [
-      "79933000"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "website"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565862",
-    "fetched_at": "2026-10-28T23:04:12.187638Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-88-OCT565847",
-    "id": "rls-88-OCT565847",
-    "ocid": "ocds-r6ebe6-0000844675",
-    "title": "Environmental Monitoring System for Collections",
-    "buyer": "National Museums Scotland",
-    "description": "The National Museums Scotland (NMS) wishes to engage a contractor (âContractorâ) to provide an environmental monitoring system. NMS is seeking a suitably qualified Contractor to provide an environmental monitoring system which will replace the current system. The Contractor should have experience in supplying and installing necessary hardware and software to facilitate the implementation of an environmental monitoring system, whilst providing ongoing maintenance and technical support when required.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-02T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "92521000",
-      "92521200"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565847",
-    "fetched_at": "2026-10-28T23:04:12.187807Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-43-OCT566707",
-    "id": "rls-43-OCT566707",
-    "ocid": "ocds-r6ebe6-0000845776",
-    "title": "Environmental Monitoring System for Collections (Updated 15 Oct 2026)",
-    "buyer": "National Museums Scotland",
-    "description": "The National Museums Scotland (NMS) wishes to engage a contractor (âContractorâ) to provide an environmental monitoring system. NMS is seeking a suitably qualified Contractor to provide an environmental monitoring system which will replace the current system. The Contractor should have experience in supplying and installing necessary hardware and software to facilitate the implementation of an environmental monitoring system, whilst providing ongoing maintenance and technical support when required.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-15T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": 100000.0,
-    "currency": "GBP",
-    "cpv": [
-      "92521000",
-      "92521200"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT566707",
-    "fetched_at": "2026-10-29T12:43:54.166233Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-87-OCT565862",
-    "id": "rls-87-OCT565862",
-    "ocid": "ocds-r6ebe6-0000844215",
-    "title": "In-House Design Support and Development",
-    "buyer": "CalMac Ferries Limited",
-    "description": "CFLâ¯requiresâ¯a partner with proven experience in: - Working with client in-house design resource to develop and plan impactful ideas and concepts. - Working with client in-house marketing team to develop appropriate multichannel campaigns and content. - Working with key third parties, including media buyer, film production company, marcomms agency, in-house Insight and Digital teams, brand partners, social media influencers, and content creators. The partner willâ¯be requiredâ¯to work on a variety of projects throughout the year for assets used across the website, social media, paid media and more, however exact projects are yet to beâ¯determined, and, in most cases, direction is already determined.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-02T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": 150000.0,
-    "currency": "GBP",
-    "cpv": [
-      "79933000"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "website"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565862",
-    "fetched_at": "2026-10-29T12:43:54.169360Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-89-OCT565847",
-    "id": "rls-89-OCT565847",
-    "ocid": "ocds-r6ebe6-0000844675",
-    "title": "Environmental Monitoring System for Collections",
-    "buyer": "National Museums Scotland",
-    "description": "The National Museums Scotland (NMS) wishes to engage a contractor (âContractorâ) to provide an environmental monitoring system. NMS is seeking a suitably qualified Contractor to provide an environmental monitoring system which will replace the current system. The Contractor should have experience in supplying and installing necessary hardware and software to facilitate the implementation of an environmental monitoring system, whilst providing ongoing maintenance and technical support when required.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-02T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "92521000",
-      "92521200"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565847",
-    "fetched_at": "2026-10-29T12:43:54.169526Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-46-OCT566707",
-    "id": "rls-46-OCT566707",
-    "ocid": "ocds-r6ebe6-0000845776",
-    "title": "Environmental Monitoring System for Collections (Updated 15 Oct 2026)",
-    "buyer": "National Museums Scotland",
-    "description": "The National Museums Scotland (NMS) wishes to engage a contractor (âContractorâ) to provide an environmental monitoring system. NMS is seeking a suitably qualified Contractor to provide an environmental monitoring system which will replace the current system. The Contractor should have experience in supplying and installing necessary hardware and software to facilitate the implementation of an environmental monitoring system, whilst providing ongoing maintenance and technical support when required.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-15T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": 100000.0,
-    "currency": "GBP",
-    "cpv": [
-      "92521000",
-      "92521200"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT566707",
-    "fetched_at": "2026-10-30T12:35:18.280221Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-90-OCT565862",
-    "id": "rls-90-OCT565862",
-    "ocid": "ocds-r6ebe6-0000844215",
-    "title": "In-House Design Support and Development",
-    "buyer": "CalMac Ferries Limited",
-    "description": "CFLâ¯requiresâ¯a partner with proven experience in: - Working with client in-house design resource to develop and plan impactful ideas and concepts. - Working with client in-house marketing team to develop appropriate multichannel campaigns and content. - Working with key third parties, including media buyer, film production company, marcomms agency, in-house Insight and Digital teams, brand partners, social media influencers, and content creators. The partner willâ¯be requiredâ¯to work on a variety of projects throughout the year for assets used across the website, social media, paid media and more, however exact projects are yet to beâ¯determined, and, in most cases, direction is already determined.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-02T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": 150000.0,
-    "currency": "GBP",
-    "cpv": [
-      "79933000"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "website"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565862",
-    "fetched_at": "2026-10-30T12:35:18.283372Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-92-OCT565847",
-    "id": "rls-92-OCT565847",
-    "ocid": "ocds-r6ebe6-0000844675",
-    "title": "Environmental Monitoring System for Collections",
-    "buyer": "National Museums Scotland",
-    "description": "The National Museums Scotland (NMS) wishes to engage a contractor (âContractorâ) to provide an environmental monitoring system. NMS is seeking a suitably qualified Contractor to provide an environmental monitoring system which will replace the current system. The Contractor should have experience in supplying and installing necessary hardware and software to facilitate the implementation of an environmental monitoring system, whilst providing ongoing maintenance and technical support when required.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-02T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "92521000",
-      "92521200"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565847",
-    "fetched_at": "2026-10-30T12:35:18.283541Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-48-OCT566707",
-    "id": "rls-48-OCT566707",
-    "ocid": "ocds-r6ebe6-0000845776",
-    "title": "Environmental Monitoring System for Collections (Updated 15 Oct 2026)",
-    "buyer": "National Museums Scotland",
-    "description": "The National Museums Scotland (NMS) wishes to engage a contractor (âContractorâ) to provide an environmental monitoring system. NMS is seeking a suitably qualified Contractor to provide an environmental monitoring system which will replace the current system. The Contractor should have experience in supplying and installing necessary hardware and software to facilitate the implementation of an environmental monitoring system, whilst providing ongoing maintenance and technical support when required.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-15T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": 100000.0,
-    "currency": "GBP",
-    "cpv": [
-      "92521000",
-      "92521200"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT566707",
-    "fetched_at": "2026-10-31T22:23:29.154936Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-92-OCT565862",
-    "id": "rls-92-OCT565862",
-    "ocid": "ocds-r6ebe6-0000844215",
-    "title": "In-House Design Support and Development",
-    "buyer": "CalMac Ferries Limited",
-    "description": "CFLâ¯requiresâ¯a partner with proven experience in: - Working with client in-house design resource to develop and plan impactful ideas and concepts. - Working with client in-house marketing team to develop appropriate multichannel campaigns and content. - Working with key third parties, including media buyer, film production company, marcomms agency, in-house Insight and Digital teams, brand partners, social media influencers, and content creators. The partner willâ¯be requiredâ¯to work on a variety of projects throughout the year for assets used across the website, social media, paid media and more, however exact projects are yet to beâ¯determined, and, in most cases, direction is already determined.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-02T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": 150000.0,
-    "currency": "GBP",
-    "cpv": [
-      "79933000"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "website"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565862",
-    "fetched_at": "2026-10-31T22:23:29.158062Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-94-OCT565847",
-    "id": "rls-94-OCT565847",
-    "ocid": "ocds-r6ebe6-0000844675",
-    "title": "Environmental Monitoring System for Collections",
-    "buyer": "National Museums Scotland",
-    "description": "The National Museums Scotland (NMS) wishes to engage a contractor (âContractorâ) to provide an environmental monitoring system. NMS is seeking a suitably qualified Contractor to provide an environmental monitoring system which will replace the current system. The Contractor should have experience in supplying and installing necessary hardware and software to facilitate the implementation of an environmental monitoring system, whilst providing ongoing maintenance and technical support when required.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-02T00:00:00Z",
-    "deadline": "2026-11-02T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "92521000",
-      "92521200"
-    ],
-    "status": "active",
-    "relevance": 13,
-    "matched": [
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565847",
-    "fetched_at": "2026-10-31T22:23:29.158230Z"
   },
   {
     "key": "Find a Tender:099063-2026",
