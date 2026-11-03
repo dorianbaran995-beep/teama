@@ -109,7 +109,7 @@
       "website development"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/755937-2026",
-    "fetched_at": "2026-11-02T15:23:38.924563Z"
+    "fetched_at": "2026-11-03T01:29:35.615674Z"
   },
   {
     "key": "eTenders Ireland / TED:695163-2026",
@@ -484,7 +484,62 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/743660-2026",
-    "fetched_at": "2026-11-02T15:23:38.932004Z"
+    "fetched_at": "2026-11-03T01:29:35.623152Z"
+  },
+  {
+    "key": "eTenders Ireland / TED:760966-2026",
+    "id": "760966-2026",
+    "ocid": null,
+    "title": "Ireland – Records management – The Provision of Work Planning Software Application [642]",
+    "buyer": "Commission for Regulation of Utilities",
+    "description": "Active Irish public procurement notice published through TED/eTenders.",
+    "source": "eTenders Ireland / TED",
+    "country": "Ireland",
+    "published_at": "2026-11-03T01:00:00Z",
+    "deadline": "2026-11-16T17:00:00Z",
+    "value": null,
+    "currency": "EUR",
+    "cpv": [
+      "79996100",
+      "79420000",
+      "48311100",
+      "48311000",
+      "48333000",
+      "48783000",
+      "48613000",
+      "48445000",
+      "70331100",
+      "66517300",
+      "79411000",
+      "72510000",
+      "79410000",
+      "79400000",
+      "79996100",
+      "79420000",
+      "48311100",
+      "48311000",
+      "48333000",
+      "48783000",
+      "48613000",
+      "48445000",
+      "70331100",
+      "66517300",
+      "79411000",
+      "72510000",
+      "79410000",
+      "79400000"
+    ],
+    "status": "active",
+    "relevance": 58,
+    "matched": [
+      "CPV 48311000",
+      "CPV 48311100",
+      "CPV 48333000",
+      "CPV 48783000",
+      "software"
+    ],
+    "url": "https://ted.europa.eu/en/notice/-/detail/760966-2026",
+    "fetched_at": "2026-11-03T01:29:35.606542Z"
   },
   {
     "key": "eTenders Ireland / TED:753203-2026",
@@ -532,7 +587,7 @@
       "information technology"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/753203-2026",
-    "fetched_at": "2026-11-02T15:23:38.924068Z"
+    "fetched_at": "2026-11-03T01:29:35.615495Z"
   },
   {
     "key": "eTenders Ireland / TED:706914-2026",
@@ -631,7 +686,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/755875-2026",
-    "fetched_at": "2026-11-02T15:23:38.922638Z"
+    "fetched_at": "2026-11-03T01:29:35.614177Z"
   },
   {
     "key": "Poland / TED:729265-2026",
@@ -794,7 +849,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/759254-2026",
-    "fetched_at": "2026-11-02T15:23:38.920911Z"
+    "fetched_at": "2026-11-03T01:29:35.612581Z"
   },
   {
     "key": "eTenders Ireland / TED:756814-2026",
@@ -823,7 +878,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/756814-2026",
-    "fetched_at": "2026-11-02T15:23:38.922173Z"
+    "fetched_at": "2026-11-03T01:29:35.612376Z"
   },
   {
     "key": "eTenders Ireland / TED:756744-2026",
@@ -864,7 +919,7 @@
       "case management"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/756744-2026",
-    "fetched_at": "2026-11-02T15:23:38.918730Z"
+    "fetched_at": "2026-11-03T01:29:35.609956Z"
   },
   {
     "key": "eTenders Ireland / TED:751505-2026",
@@ -918,7 +973,7 @@
       "network"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/751505-2026",
-    "fetched_at": "2026-11-02T15:23:38.928174Z"
+    "fetched_at": "2026-11-03T01:29:35.619214Z"
   },
   {
     "key": "eTenders Ireland / TED:734297-2026",
@@ -1041,7 +1096,7 @@
       "CPV 30214000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/754153-2026",
-    "fetched_at": "2026-11-02T15:23:38.924479Z"
+    "fetched_at": "2026-11-03T01:29:35.615923Z"
   },
   {
     "key": "Poland / TED:753423-2026",
@@ -1168,7 +1223,7 @@
       "CPV 72320000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/754069-2026",
-    "fetched_at": "2026-11-02T15:23:44.408732Z"
+    "fetched_at": "2026-11-03T01:29:45.840045Z"
   },
   {
     "key": "Poland / TED:715186-2026",
@@ -1318,7 +1373,7 @@
       "ict"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/737479-2026",
-    "fetched_at": "2026-11-02T15:23:38.933941Z"
+    "fetched_at": "2026-11-03T01:29:35.625821Z"
   },
   {
     "key": "eTenders Ireland / TED:757791-2026",
@@ -1349,7 +1404,7 @@
       "CPV 48931000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/757791-2026",
-    "fetched_at": "2026-11-02T15:23:38.918118Z"
+    "fetched_at": "2026-11-03T01:29:35.609174Z"
   },
   {
     "key": "eTenders Ireland / TED:737260-2026",
@@ -1375,7 +1430,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/737260-2026",
-    "fetched_at": "2026-11-02T15:23:38.934481Z"
+    "fetched_at": "2026-11-03T01:29:35.625719Z"
   },
   {
     "key": "eTenders Ireland / TED:728304-2026",
@@ -1948,36 +2003,6 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT566533",
     "fetched_at": "2026-10-31T22:23:18.203493Z"
-  },
-  {
-    "key": "Poland / TED:698698-2026",
-    "id": "698698-2026",
-    "ocid": null,
-    "title": "Poland – Transmission apparatus for radiotelephony, radiotelegraphy, radio broadcasting and television – Dostawa i wdrożenie systemu analogowej sieci radiokomunikacyjnej",
-    "buyer": "Górnośląskie Centrum Medyczne im. prof. Leszka Gieca Śląskiego Uniwersytetu Medycznego w Katowicach",
-    "description": "Active Polish public procurement notice published through TED.",
-    "source": "Poland / TED",
-    "country": "Poland",
-    "published_at": "2026-10-09T02:00:00Z",
-    "deadline": "2026-11-02T22:59:00Z",
-    "value": null,
-    "currency": "PLN",
-    "cpv": [
-      "32200000",
-      "32523000",
-      "32412000",
-      "32200000",
-      "32412000",
-      "32523000"
-    ],
-    "status": "active",
-    "relevance": 40,
-    "matched": [
-      "CPV 32412000",
-      "CPV 32523000"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/698698-2026",
-    "fetched_at": "2026-10-15T21:12:22.626873Z"
   },
   {
     "key": "Public Contracts Scotland:rls-17-OCT567030",
@@ -4671,31 +4696,6 @@
     "fetched_at": "2026-10-29T12:43:26.517066Z"
   },
   {
-    "key": "Poland / TED:734168-2026",
-    "id": "734168-2026",
-    "ocid": null,
-    "title": "Poland – Envelopes – Dostawa materiałów biurowych i papierniczych Zad. 1 - Koperty z kolorowym nadrukiem",
-    "buyer": "Górnośląskie Centrum Medyczne im. prof. Leszka Gieca Śląskiego Uniwersytetu Medycznego w Katowicach",
-    "description": "Active Polish public procurement notice published through TED.",
-    "source": "Poland / TED",
-    "country": "Poland",
-    "published_at": "2026-10-23T02:00:00Z",
-    "deadline": "2026-11-02T22:59:00Z",
-    "value": null,
-    "currency": "PLN",
-    "cpv": [
-      "30199230",
-      "30199230"
-    ],
-    "status": "active",
-    "relevance": 30,
-    "matched": [
-      "CPV 30199230"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/734168-2026",
-    "fetched_at": "2026-10-29T23:12:56.056637Z"
-  },
-  {
     "key": "eTenders Ireland / TED:700750-2026",
     "id": "700750-2026",
     "ocid": null,
@@ -4794,7 +4794,7 @@
       "CPV 72514100"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/753644-2026",
-    "fetched_at": "2026-11-02T15:23:38.925773Z"
+    "fetched_at": "2026-11-03T01:29:35.616594Z"
   },
   {
     "key": "eTenders Ireland / TED:736793-2026",
@@ -4864,7 +4864,7 @@
       "CPV 72224000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/745108-2026",
-    "fetched_at": "2026-11-02T15:23:38.931606Z"
+    "fetched_at": "2026-11-03T01:29:35.622922Z"
   },
   {
     "key": "Find a Tender:097651-2026",
@@ -5253,7 +5253,32 @@
       "CPV 72413000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/756046-2026",
-    "fetched_at": "2026-11-02T15:23:38.925626Z"
+    "fetched_at": "2026-11-03T01:29:35.616374Z"
+  },
+  {
+    "key": "Find a Tender:103846-2026",
+    "id": "103846-2026",
+    "ocid": "ocds-h6vhtk-0795d5",
+    "title": "Town Marketing, Promotions and Business Support Consultant",
+    "buyer": "Market Drayton Town Council",
+    "description": "The Town Council invites suitably qualified and experienced consultants or organisations to submit a tender for the provision of Town Marketing, Promotions and Business Support Services. The successful contractor will work closely with the Town Council to promote the town, support local businesses, increase visitor numbers, and deliver a small programme of community events and marketing activities. The contract is intended to provide a proactive, creative and community-focused service that enhances the town's profile, increases visitor numbers and supports economic growth. ________________________________________ The appointed consultant will: • Promote the town as a destination for shopping, leisure and tourism. • Support and engage local businesses. • Deliver community events that increase footfall. • Develop engaging marketing content across digital platforms. • Maintain an up-to-date programme of town news and events on the Make it Market Drayton Website, supported by Town Council Admin. • Work collaboratively with the Town Council and Shropshire Council's Economic Development Team and Visit Shropshire.",
+    "source": "Find a Tender",
+    "country": "United Kingdom",
+    "published_at": "2026-11-02T15:27:25Z",
+    "deadline": "2026-11-27T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "79000000"
+    ],
+    "status": "active",
+    "relevance": 26,
+    "matched": [
+      "digital platform",
+      "website"
+    ],
+    "url": "https://www.find-tender.service.gov.uk/Notice/103846-2026",
+    "fetched_at": "2026-11-03T01:29:24.475588Z"
   },
   {
     "key": "Find a Tender:096471-2026",
@@ -6956,6 +6981,30 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT567116",
     "fetched_at": "2026-10-31T22:23:18.199825Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-1-NOV567903",
+    "id": "rls-1-NOV567903",
+    "ocid": "ocds-r6ebe6-0000847310",
+    "title": "Provision of IT Disaster Recovery plan",
+    "buyer": "Cairngorms National Park Authority",
+    "description": "The Park Authority is seeking specialist support to review and strengthen the alignment between Business Continuity (BC) and IT Disaster Recovery (ITDR) arrangements.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-02T00:00:00Z",
+    "deadline": "2026-12-04T10:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "72000000"
+    ],
+    "status": "active",
+    "relevance": 25,
+    "matched": [
+      "CPV 72000000"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV567903",
+    "fetched_at": "2026-11-03T01:29:34.142094Z"
   },
   {
     "key": "Find a Tender:099063-2026",
