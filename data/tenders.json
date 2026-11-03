@@ -109,7 +109,7 @@
       "website development"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/755937-2026",
-    "fetched_at": "2026-11-03T13:57:11.035097Z"
+    "fetched_at": "2026-11-03T23:55:57.924422Z"
   },
   {
     "key": "eTenders Ireland / TED:695163-2026",
@@ -162,6 +162,42 @@
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/695163-2026",
     "fetched_at": "2026-10-15T21:12:02.651502Z"
+  },
+  {
+    "key": "eTenders Ireland / TED:764456-2026",
+    "id": "764456-2026",
+    "ocid": null,
+    "title": "Ireland – Computer network services – ICT Network Support Services for Tailte Éireann",
+    "buyer": "Tailte Éireann",
+    "description": "Active Irish public procurement notice published through TED/eTenders.",
+    "source": "eTenders Ireland / TED",
+    "country": "Ireland",
+    "published_at": "2026-11-04T01:00:00Z",
+    "deadline": "2026-11-30T13:00:00Z",
+    "value": null,
+    "currency": "EUR",
+    "cpv": [
+      "72700000",
+      "72000000",
+      "72710000",
+      "72720000",
+      "72700000",
+      "72000000",
+      "72710000",
+      "72720000"
+    ],
+    "status": "active",
+    "relevance": 64,
+    "matched": [
+      "CPV 72000000",
+      "CPV 72700000",
+      "CPV 72710000",
+      "CPV 72720000",
+      "ict",
+      "network"
+    ],
+    "url": "https://ted.europa.eu/en/notice/-/detail/764456-2026",
+    "fetched_at": "2026-11-03T23:55:57.913086Z"
   },
   {
     "key": "Find a Tender:103079-2026",
@@ -539,7 +575,42 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/760966-2026",
-    "fetched_at": "2026-11-03T13:57:11.027500Z"
+    "fetched_at": "2026-11-03T23:55:57.914497Z"
+  },
+  {
+    "key": "eTenders Ireland / TED:766849-2026",
+    "id": "766849-2026",
+    "ocid": null,
+    "title": "Ireland – Computer-related services – Single Party Framework Agreement for the supply of Atlassian Cloud Services and Associated Products",
+    "buyer": "Gambling Regulatory Authority of Ireland",
+    "description": "Active Irish public procurement notice published through TED/eTenders.",
+    "source": "eTenders Ireland / TED",
+    "country": "Ireland",
+    "published_at": "2026-11-04T01:00:00Z",
+    "deadline": "2026-11-19T12:00:00Z",
+    "value": null,
+    "currency": "EUR",
+    "cpv": [
+      "72500000",
+      "72600000",
+      "72260000",
+      "72250000",
+      "72500000",
+      "72600000",
+      "72260000",
+      "72250000"
+    ],
+    "status": "active",
+    "relevance": 58,
+    "matched": [
+      "CPV 72250000",
+      "CPV 72260000",
+      "CPV 72500000",
+      "CPV 72600000",
+      "cloud"
+    ],
+    "url": "https://ted.europa.eu/en/notice/-/detail/766849-2026",
+    "fetched_at": "2026-11-03T23:55:57.909693Z"
   },
   {
     "key": "eTenders Ireland / TED:753203-2026",
@@ -587,7 +658,46 @@
       "information technology"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/753203-2026",
-    "fetched_at": "2026-11-03T13:57:11.034952Z"
+    "fetched_at": "2026-11-03T23:55:57.923898Z"
+  },
+  {
+    "key": "eTenders Ireland / TED:766413-2026",
+    "id": "766413-2026",
+    "ocid": null,
+    "title": "Ireland – IT services: consulting, software development, Internet and support – Tender No 20 SIEM-SOC Solution 2026",
+    "buyer": "The Irish Air Navigation Service",
+    "description": "Active Irish public procurement notice published through TED/eTenders.",
+    "source": "eTenders Ireland / TED",
+    "country": "Ireland",
+    "published_at": "2026-11-04T01:00:00Z",
+    "deadline": "2026-12-01T12:00:00Z",
+    "value": null,
+    "currency": "EUR",
+    "cpv": [
+      "72000000",
+      "72300000",
+      "72700000",
+      "72600000",
+      "72500000",
+      "72800000",
+      "72000000",
+      "72300000",
+      "72700000",
+      "72600000",
+      "72500000",
+      "72800000"
+    ],
+    "status": "active",
+    "relevance": 58,
+    "matched": [
+      "CPV 72000000",
+      "CPV 72300000",
+      "CPV 72600000",
+      "CPV 72700000",
+      "software"
+    ],
+    "url": "https://ted.europa.eu/en/notice/-/detail/766413-2026",
+    "fetched_at": "2026-11-03T23:55:57.910897Z"
   },
   {
     "key": "eTenders Ireland / TED:706914-2026",
@@ -686,7 +796,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/755875-2026",
-    "fetched_at": "2026-11-03T13:57:11.033627Z"
+    "fetched_at": "2026-11-03T23:55:57.922487Z"
   },
   {
     "key": "Poland / TED:729265-2026",
@@ -849,7 +959,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/759254-2026",
-    "fetched_at": "2026-11-03T13:57:11.032749Z"
+    "fetched_at": "2026-11-03T23:55:57.920769Z"
   },
   {
     "key": "eTenders Ireland / TED:756814-2026",
@@ -878,7 +988,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/756814-2026",
-    "fetched_at": "2026-11-03T13:57:11.032588Z"
+    "fetched_at": "2026-11-03T23:55:57.921994Z"
   },
   {
     "key": "eTenders Ireland / TED:756744-2026",
@@ -919,7 +1029,48 @@
       "case management"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/756744-2026",
-    "fetched_at": "2026-11-03T13:57:11.030720Z"
+    "fetched_at": "2026-11-03T23:55:57.918627Z"
+  },
+  {
+    "key": "eTenders Ireland / TED:766932-2026",
+    "id": "766932-2026",
+    "ocid": null,
+    "title": "Ireland – Investigation and security services – Provision of a Case Management and Reporting Solution and Related Services",
+    "buyer": "Fiosrú - Office of the Police Ombudsman",
+    "description": "Active Irish public procurement notice published through TED/eTenders.",
+    "source": "eTenders Ireland / TED",
+    "country": "Ireland",
+    "published_at": "2026-11-04T01:00:00Z",
+    "deadline": "2026-11-13T12:00:00Z",
+    "value": null,
+    "currency": "EUR",
+    "cpv": [
+      "79700000",
+      "79720000",
+      "72000000",
+      "72230000",
+      "72250000",
+      "72240000",
+      "48612000",
+      "79700000",
+      "79720000",
+      "72000000",
+      "72230000",
+      "72250000",
+      "72240000",
+      "48612000"
+    ],
+    "status": "active",
+    "relevance": 51,
+    "matched": [
+      "CPV 72000000",
+      "CPV 72230000",
+      "CPV 72240000",
+      "CPV 72250000",
+      "case management"
+    ],
+    "url": "https://ted.europa.eu/en/notice/-/detail/766932-2026",
+    "fetched_at": "2026-11-03T23:55:57.913874Z"
   },
   {
     "key": "eTenders Ireland / TED:751505-2026",
@@ -973,7 +1124,7 @@
       "network"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/751505-2026",
-    "fetched_at": "2026-11-03T13:57:11.037870Z"
+    "fetched_at": "2026-11-03T23:55:57.928102Z"
   },
   {
     "key": "eTenders Ireland / TED:734297-2026",
@@ -1096,7 +1247,7 @@
       "CPV 30214000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/754153-2026",
-    "fetched_at": "2026-11-03T13:57:11.035283Z"
+    "fetched_at": "2026-11-03T23:55:57.924336Z"
   },
   {
     "key": "Poland / TED:753423-2026",
@@ -1141,7 +1292,7 @@
       "CPV 30237450"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/753423-2026",
-    "fetched_at": "2026-11-03T13:57:17.933865Z"
+    "fetched_at": "2026-11-03T23:56:09.030167Z"
   },
   {
     "key": "Find a Tender:102252-2026",
@@ -1223,7 +1374,7 @@
       "CPV 72320000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/754069-2026",
-    "fetched_at": "2026-11-03T13:57:18.875164Z"
+    "fetched_at": "2026-11-03T23:56:09.035743Z"
   },
   {
     "key": "Poland / TED:715186-2026",
@@ -1404,7 +1555,7 @@
       "CPV 48931000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/757791-2026",
-    "fetched_at": "2026-11-03T13:57:11.030277Z"
+    "fetched_at": "2026-11-03T23:55:57.918045Z"
   },
   {
     "key": "eTenders Ireland / TED:737260-2026",
@@ -2003,6 +2154,99 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT566533",
     "fetched_at": "2026-10-31T22:23:18.203493Z"
+  },
+  {
+    "key": "eTenders Ireland / TED:765108-2026",
+    "id": "765108-2026",
+    "ocid": null,
+    "title": "Ireland – Recreational, cultural and sporting services – Contract for Education and Outreach Programme Management Services",
+    "buyer": "Department of Culture Communications Sport",
+    "description": "Active Irish public procurement notice published through TED/eTenders.",
+    "source": "eTenders Ireland / TED",
+    "country": "Ireland",
+    "published_at": "2026-11-04T01:00:00Z",
+    "deadline": "2026-11-20T12:00:00Z",
+    "value": null,
+    "currency": "EUR",
+    "cpv": [
+      "92000000",
+      "75124000",
+      "79994000",
+      "75000000",
+      "75100000",
+      "79995000",
+      "92500000",
+      "92510000",
+      "92511000",
+      "72221000",
+      "72224000",
+      "79411000",
+      "73000000",
+      "73220000",
+      "73200000",
+      "79410000",
+      "79400000",
+      "73210000",
+      "79951000",
+      "79952000",
+      "79952100",
+      "79956000",
+      "92000000",
+      "75124000",
+      "79994000",
+      "75000000",
+      "75100000",
+      "79995000",
+      "92500000",
+      "92510000",
+      "92511000",
+      "72221000",
+      "72224000",
+      "79411000",
+      "73000000",
+      "73220000",
+      "73200000",
+      "79410000",
+      "79400000",
+      "73210000",
+      "79951000",
+      "79952000",
+      "79952100",
+      "79956000"
+    ],
+    "status": "active",
+    "relevance": 40,
+    "matched": [
+      "CPV 72221000",
+      "CPV 72224000"
+    ],
+    "url": "https://ted.europa.eu/en/notice/-/detail/765108-2026",
+    "fetched_at": "2026-11-03T23:55:57.912340Z"
+  },
+  {
+    "key": "Find a Tender:104444-2026",
+    "id": "104444-2026",
+    "ocid": "ocds-h6vhtk-07971d",
+    "title": "EMMS Cyber Security SME Support Programme",
+    "buyer": "Lincolnshire County Council",
+    "description": "Industrial Cyber Security pilot programme aimed at improving cyber resilience readiness within SME manufacturing businesses.",
+    "source": "Find a Tender",
+    "country": "United Kingdom",
+    "published_at": "2026-11-03T18:50:26Z",
+    "deadline": "2026-11-18T09:00:00Z",
+    "value": 65000.0,
+    "currency": "GBP",
+    "cpv": [
+      "72800000"
+    ],
+    "status": "active",
+    "relevance": 38,
+    "matched": [
+      "CPV 72800000",
+      "cyber security"
+    ],
+    "url": "https://www.find-tender.service.gov.uk/Notice/104444-2026",
+    "fetched_at": "2026-11-03T23:55:48.159040Z"
   },
   {
     "key": "Find a Tender:093955-2026",
@@ -2653,6 +2897,36 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565958",
     "fetched_at": "2026-10-31T22:23:18.205607Z"
+  },
+  {
+    "key": "eTenders Ireland / TED:766177-2026",
+    "id": "766177-2026",
+    "ocid": null,
+    "title": "Ireland – Network routers – A Service Provider to provide the Supply and Support of the ESB IP Network Hardware for Ireland and UK in pursuant of a contract.",
+    "buyer": "Electricity Supply Board ( ESB )",
+    "description": "Active Irish public procurement notice published through TED/eTenders.",
+    "source": "eTenders Ireland / TED",
+    "country": "Ireland",
+    "published_at": "2026-11-04T01:00:00Z",
+    "deadline": "2026-11-16T12:00:00Z",
+    "value": null,
+    "currency": "EUR",
+    "cpv": [
+      "32413100",
+      "31214100",
+      "44316400",
+      "32413100",
+      "31214100",
+      "44316400"
+    ],
+    "status": "active",
+    "relevance": 36,
+    "matched": [
+      "CPV 32413100",
+      "network"
+    ],
+    "url": "https://ted.europa.eu/en/notice/-/detail/766177-2026",
+    "fetched_at": "2026-11-03T23:55:57.912679Z"
   },
   {
     "key": "Find a Tender:102124-2026",
@@ -4551,7 +4825,7 @@
       "CPV 72514100"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/753644-2026",
-    "fetched_at": "2026-11-03T13:57:11.035807Z"
+    "fetched_at": "2026-11-03T23:55:57.925673Z"
   },
   {
     "key": "eTenders Ireland / TED:736793-2026",
@@ -5010,7 +5284,7 @@
       "CPV 72413000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/756046-2026",
-    "fetched_at": "2026-11-03T13:57:11.035627Z"
+    "fetched_at": "2026-11-03T23:55:57.925519Z"
   },
   {
     "key": "Find a Tender:103846-2026",
@@ -5035,7 +5309,7 @@
       "website"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/103846-2026",
-    "fetched_at": "2026-11-03T13:56:59.902473Z"
+    "fetched_at": "2026-11-03T23:55:48.160759Z"
   },
   {
     "key": "Find a Tender:096471-2026",
@@ -6786,6 +7060,30 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV567903",
     "fetched_at": "2026-11-03T13:57:09.705790Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-6-NOV567903",
+    "id": "rls-6-NOV567903",
+    "ocid": "ocds-r6ebe6-0000847310",
+    "title": "Provision of IT Disaster Recovery plan",
+    "buyer": "Cairngorms National Park Authority",
+    "description": "The Park Authority is seeking specialist support to review and strengthen the alignment between Business Continuity (BC) and IT Disaster Recovery (ITDR) arrangements.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-02T00:00:00Z",
+    "deadline": "2026-12-04T10:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "72000000"
+    ],
+    "status": "active",
+    "relevance": 25,
+    "matched": [
+      "CPV 72000000"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV567903",
+    "fetched_at": "2026-11-03T23:55:57.146315Z"
   },
   {
     "key": "Find a Tender:099063-2026",
