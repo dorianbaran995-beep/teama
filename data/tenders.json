@@ -109,59 +109,7 @@
       "website development"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/755937-2026",
-    "fetched_at": "2026-11-05T00:15:59.150296Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:695163-2026",
-    "id": "695163-2026",
-    "ocid": null,
-    "title": "Ireland – IT services: consulting, software development, Internet and support – Web applications maintenance support and Development Services",
-    "buyer": "Teagasc - the Agriculture and Food Development Authority",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-10-08T02:00:00Z",
-    "deadline": "2026-11-05T13:00:00Z",
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "72000000",
-      "72200000",
-      "72500000",
-      "72211000",
-      "72212000",
-      "72212100",
-      "72000000",
-      "72000000",
-      "72000000",
-      "72200000",
-      "72500000",
-      "72211000",
-      "72212000",
-      "72212100",
-      "72200000",
-      "72500000",
-      "72211000",
-      "72212000",
-      "72212100",
-      "72200000",
-      "72500000",
-      "72211000",
-      "72212000",
-      "72212100"
-    ],
-    "status": "active",
-    "relevance": 64,
-    "matched": [
-      "CPV 72000000",
-      "CPV 72200000",
-      "CPV 72211000",
-      "CPV 72500000",
-      "software",
-      "web application"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/695163-2026",
-    "fetched_at": "2026-10-15T21:12:02.651502Z"
+    "fetched_at": "2026-11-05T14:26:43.814593Z"
   },
   {
     "key": "eTenders Ireland / TED:764456-2026",
@@ -197,7 +145,7 @@
       "network"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/764456-2026",
-    "fetched_at": "2026-11-05T00:15:59.138761Z"
+    "fetched_at": "2026-11-05T14:26:43.803060Z"
   },
   {
     "key": "Find a Tender:104619-2026",
@@ -235,11 +183,11 @@
       "digital service"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/104619-2026",
-    "fetched_at": "2026-11-05T00:15:46.834875Z"
+    "fetched_at": "2026-11-05T14:26:28.557847Z"
   },
   {
-    "key": "Public Contracts Scotland:rls-4-NOV568059",
-    "id": "rls-4-NOV568059",
+    "key": "Public Contracts Scotland:rls-5-NOV568059",
+    "id": "rls-5-NOV568059",
     "ocid": "ocds-r6ebe6-0000846370",
     "title": "Digital Connectivity Programme - 1gb Broadband Install and Service Delivery",
     "buyer": "North Lanarkshire Council",
@@ -273,7 +221,7 @@
       "digital service"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568059",
-    "fetched_at": "2026-11-05T00:15:54.361597Z"
+    "fetched_at": "2026-11-05T14:26:37.309948Z"
   },
   {
     "key": "Find a Tender:103079-2026",
@@ -651,7 +599,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/760966-2026",
-    "fetched_at": "2026-11-05T00:15:59.140447Z"
+    "fetched_at": "2026-11-05T14:26:43.804747Z"
   },
   {
     "key": "eTenders Ireland / TED:766849-2026",
@@ -686,7 +634,7 @@
       "cloud"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/766849-2026",
-    "fetched_at": "2026-11-05T00:15:59.135724Z"
+    "fetched_at": "2026-11-05T14:26:43.800068Z"
   },
   {
     "key": "eTenders Ireland / TED:753203-2026",
@@ -734,7 +682,7 @@
       "information technology"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/753203-2026",
-    "fetched_at": "2026-11-05T00:15:59.150109Z"
+    "fetched_at": "2026-11-05T14:26:43.814071Z"
   },
   {
     "key": "eTenders Ireland / TED:766413-2026",
@@ -773,7 +721,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/766413-2026",
-    "fetched_at": "2026-11-05T00:15:59.136496Z"
+    "fetched_at": "2026-11-05T14:26:43.800822Z"
   },
   {
     "key": "eTenders Ireland / TED:706914-2026",
@@ -872,7 +820,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/755875-2026",
-    "fetched_at": "2026-11-05T00:15:59.148371Z"
+    "fetched_at": "2026-11-05T14:26:43.812693Z"
   },
   {
     "key": "Poland / TED:729265-2026",
@@ -1035,7 +983,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/759254-2026",
-    "fetched_at": "2026-11-05T00:15:59.147185Z"
+    "fetched_at": "2026-11-05T14:26:43.811518Z"
   },
   {
     "key": "eTenders Ireland / TED:756814-2026",
@@ -1064,7 +1012,69 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/756814-2026",
-    "fetched_at": "2026-11-05T00:15:59.146968Z"
+    "fetched_at": "2026-11-05T14:26:43.811319Z"
+  },
+  {
+    "key": "Find a Tender:105246-2026",
+    "id": "105246-2026",
+    "ocid": "ocds-h6vhtk-07b55c",
+    "title": "Supply and Support of Integrated Workplace Management System",
+    "buyer": "North Ayrshire Council",
+    "description": "North Ayrshire Council (NAC) is seeking to procure a cloud-hosted Integrated Workplace Management System (IWMS) to replace its existing Computer Aided Facilities Management (CAFM) solution. The new solution will provide a single, integrated platform to support the management of the Council's operational property portfolio, encompassing asset management, maintenance management, statutory compliance, financial monitoring, reporting and governance.",
+    "source": "Find a Tender",
+    "country": "United Kingdom",
+    "published_at": "2026-11-05T14:08:39Z",
+    "deadline": "2026-12-07T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "72250000",
+      "72263000",
+      "72267100",
+      "72268000"
+    ],
+    "status": "active",
+    "relevance": 53,
+    "matched": [
+      "CPV 72250000",
+      "CPV 72263000",
+      "CPV 72267100",
+      "CPV 72268000",
+      "cloud"
+    ],
+    "url": "https://www.find-tender.service.gov.uk/Notice/105246-2026",
+    "fetched_at": "2026-11-05T14:26:28.556352Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-1-NOV568180",
+    "id": "rls-1-NOV568180",
+    "ocid": "ocds-r6ebe6-0000847479",
+    "title": "Supply and Support of Integrated Workplace Management System",
+    "buyer": "North Ayrshire Council",
+    "description": "North Ayrshire Council (NAC) is seeking to procure a cloud-hosted Integrated Workplace Management System (IWMS) to replace its existing Computer Aided Facilities Management (CAFM) solution. The new solution will provide a single, integrated platform to support the management of the Council's operational property portfolio, encompassing asset management, maintenance management, statutory compliance, financial monitoring, reporting and governance.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-05T00:00:00Z",
+    "deadline": "2026-12-07T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "72250000",
+      "72263000",
+      "72267100",
+      "72268000"
+    ],
+    "status": "active",
+    "relevance": 53,
+    "matched": [
+      "CPV 72250000",
+      "CPV 72263000",
+      "CPV 72267100",
+      "CPV 72268000",
+      "cloud"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568180",
+    "fetched_at": "2026-11-05T14:26:37.309419Z"
   },
   {
     "key": "eTenders Ireland / TED:756744-2026",
@@ -1105,7 +1115,7 @@
       "case management"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/756744-2026",
-    "fetched_at": "2026-11-05T00:15:59.144540Z"
+    "fetched_at": "2026-11-05T14:26:43.808866Z"
   },
   {
     "key": "eTenders Ireland / TED:766932-2026",
@@ -1146,7 +1156,7 @@
       "case management"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/766932-2026",
-    "fetched_at": "2026-11-05T00:15:59.139772Z"
+    "fetched_at": "2026-11-05T14:26:43.804069Z"
   },
   {
     "key": "eTenders Ireland / TED:751505-2026",
@@ -1201,6 +1211,44 @@
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/751505-2026",
     "fetched_at": "2026-11-04T14:11:22.588127Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-4-NOV568059",
+    "id": "rls-4-NOV568059",
+    "ocid": "ocds-r6ebe6-0000846370",
+    "title": "Digital Connectivity Programme - 1gb Broadband Install and Service Delivery",
+    "buyer": "North Lanarkshire Council",
+    "description": "North Lanarkshire Council (the âCouncilâ) is undertaking a major digital transformation programme to deliver gigabit capable broadband connectivity to approximately 37,000 Council owned social housing properties across the authority area. The programme is a core component of the Councilâs Digital Connectivity Masterplan and supports wider strategic ambitions including but not limited to: -Inclusive growth, -Tackling digital exclusion, -Improving access to public and digital services, and -Enabling technology enabled living within Council homes The programme reinforces the Councilâs commitment to ensuring that tenants are not disadvantaged by a lack of access to high-quality full-fibre connectivity and recognises that reliable digital connectivity is now an essential utility, underpinning access to employment, education, healthcare, welfare services and community participation.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-04T00:00:00Z",
+    "deadline": "2026-12-08T12:00:00Z",
+    "value": 85450527.0,
+    "currency": "GBP",
+    "cpv": [
+      "32412100",
+      "32412110",
+      "32571000",
+      "45314000",
+      "45314320",
+      "50332000",
+      "64200000",
+      "64227000",
+      "72400000",
+      "72411000",
+      "72420000"
+    ],
+    "status": "active",
+    "relevance": 51,
+    "matched": [
+      "CPV 32412100",
+      "CPV 32412110",
+      "CPV 32571000",
+      "CPV 72400000",
+      "digital service"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568059",
+    "fetched_at": "2026-11-05T00:15:54.361597Z"
   },
   {
     "key": "Public Contracts Scotland:rls-1-NOV568059",
@@ -1361,7 +1409,7 @@
       "CPV 30214000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/754153-2026",
-    "fetched_at": "2026-11-05T00:15:59.150551Z"
+    "fetched_at": "2026-11-05T14:26:43.814507Z"
   },
   {
     "key": "Poland / TED:753423-2026",
@@ -1406,7 +1454,7 @@
       "CPV 30237450"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/753423-2026",
-    "fetched_at": "2026-11-05T00:16:16.652079Z"
+    "fetched_at": "2026-11-05T14:27:08.904218Z"
   },
   {
     "key": "eTenders Ireland / TED:767769-2026",
@@ -1451,7 +1499,7 @@
       "CPV 72224000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/767769-2026",
-    "fetched_at": "2026-11-05T00:15:59.134684Z"
+    "fetched_at": "2026-11-05T14:26:43.799453Z"
   },
   {
     "key": "Find a Tender:102252-2026",
@@ -1533,7 +1581,7 @@
       "CPV 72320000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/754069-2026",
-    "fetched_at": "2026-11-05T00:16:16.651293Z"
+    "fetched_at": "2026-11-05T14:27:08.903480Z"
   },
   {
     "key": "Poland / TED:767583-2026",
@@ -1575,7 +1623,7 @@
       "CPV 48820000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/767583-2026",
-    "fetched_at": "2026-11-05T00:16:02.294142Z"
+    "fetched_at": "2026-11-05T14:26:50.257052Z"
   },
   {
     "key": "Poland / TED:715186-2026",
@@ -1756,7 +1804,7 @@
       "CPV 48931000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/757791-2026",
-    "fetched_at": "2026-11-05T00:15:59.143960Z"
+    "fetched_at": "2026-11-05T14:26:43.808306Z"
   },
   {
     "key": "eTenders Ireland / TED:737260-2026",
@@ -2422,7 +2470,7 @@
       "CPV 72224000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/765108-2026",
-    "fetched_at": "2026-11-05T00:15:59.137332Z"
+    "fetched_at": "2026-11-05T14:26:43.802631Z"
   },
   {
     "key": "Find a Tender:104444-2026",
@@ -2447,7 +2495,7 @@
       "cyber security"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/104444-2026",
-    "fetched_at": "2026-11-05T00:15:46.835480Z"
+    "fetched_at": "2026-11-05T14:26:28.558438Z"
   },
   {
     "key": "Public Contracts Scotland:rls-5-NOV568116",
@@ -2475,6 +2523,33 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568116",
     "fetched_at": "2026-11-05T00:15:57.596456Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-10-NOV568116",
+    "id": "rls-10-NOV568116",
+    "ocid": "ocds-r6ebe6-0000847619",
+    "title": "PURCH3035 Provision of Digital Two-Way Radio Communications System and Infrastructure",
+    "buyer": "University of Glasgow",
+    "description": "PURCH3035 Provision of Digital Two-Way Radio Communications System and Infrastructure Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the âContact Usâ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-04T00:00:00Z",
+    "deadline": "2026-11-25T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "32344210"
+    ],
+    "status": "active",
+    "relevance": 38,
+    "matched": [
+      "infrastructure",
+      "portal",
+      "website",
+      "website support"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568116",
+    "fetched_at": "2026-11-05T14:26:41.887170Z"
   },
   {
     "key": "Find a Tender:093955-2026",
@@ -3154,7 +3229,7 @@
       "network"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/766177-2026",
-    "fetched_at": "2026-11-05T00:15:59.137658Z"
+    "fetched_at": "2026-11-05T14:26:43.802974Z"
   },
   {
     "key": "Find a Tender:102124-2026",
@@ -3994,656 +4069,6 @@
     "fetched_at": "2026-10-31T22:23:18.203209Z"
   },
   {
-    "key": "Find a Tender:093862-2026",
-    "id": "093862-2026",
-    "ocid": "ocds-h6vhtk-0780da",
-    "title": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP)",
-    "buyer": "University of Glasgow",
-    "description": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP) Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the ‘Contact Us’ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
-    "source": "Find a Tender",
-    "country": "United Kingdom",
-    "published_at": "2026-10-05T13:13:47Z",
-    "deadline": "2026-11-05T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "80500000"
-    ],
-    "status": "active",
-    "relevance": 32,
-    "matched": [
-      "portal",
-      "website",
-      "website support"
-    ],
-    "url": "https://www.find-tender.service.gov.uk/Notice/093862-2026",
-    "fetched_at": "2026-10-08T11:53:17.970897Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-3-OCT565941",
-    "id": "rls-3-OCT565941",
-    "ocid": "ocds-r6ebe6-0000844772",
-    "title": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP)",
-    "buyer": "University of Glasgow",
-    "description": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP) Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the âContact Usâ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-05T00:00:00Z",
-    "deadline": "2026-11-05T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "80500000"
-    ],
-    "status": "active",
-    "relevance": 32,
-    "matched": [
-      "portal",
-      "website",
-      "website support"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565941",
-    "fetched_at": "2026-10-05T23:56:29.482991Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-4-OCT565941",
-    "id": "rls-4-OCT565941",
-    "ocid": "ocds-r6ebe6-0000844772",
-    "title": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP)",
-    "buyer": "University of Glasgow",
-    "description": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP) Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the âContact Usâ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-05T00:00:00Z",
-    "deadline": "2026-11-05T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "80500000"
-    ],
-    "status": "active",
-    "relevance": 32,
-    "matched": [
-      "portal",
-      "website",
-      "website support"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565941",
-    "fetched_at": "2026-10-06T11:54:19.250954Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-5-OCT565941",
-    "id": "rls-5-OCT565941",
-    "ocid": "ocds-r6ebe6-0000844772",
-    "title": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP)",
-    "buyer": "University of Glasgow",
-    "description": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP) Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the âContact Usâ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-05T00:00:00Z",
-    "deadline": "2026-11-05T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "80500000"
-    ],
-    "status": "active",
-    "relevance": 32,
-    "matched": [
-      "portal",
-      "website",
-      "website support"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565941",
-    "fetched_at": "2026-10-07T11:39:25.557150Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-6-OCT565941",
-    "id": "rls-6-OCT565941",
-    "ocid": "ocds-r6ebe6-0000844772",
-    "title": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP)",
-    "buyer": "University of Glasgow",
-    "description": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP) Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the âContact Usâ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-05T00:00:00Z",
-    "deadline": "2026-11-05T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "80500000"
-    ],
-    "status": "active",
-    "relevance": 32,
-    "matched": [
-      "portal",
-      "website",
-      "website support"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565941",
-    "fetched_at": "2026-10-07T22:58:04.453344Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-8-OCT565941",
-    "id": "rls-8-OCT565941",
-    "ocid": "ocds-r6ebe6-0000844772",
-    "title": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP)",
-    "buyer": "University of Glasgow",
-    "description": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP) Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the âContact Usâ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-05T00:00:00Z",
-    "deadline": "2026-11-05T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "80500000"
-    ],
-    "status": "active",
-    "relevance": 32,
-    "matched": [
-      "portal",
-      "website",
-      "website support"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565941",
-    "fetched_at": "2026-10-08T11:53:53.937040Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-11-OCT565941",
-    "id": "rls-11-OCT565941",
-    "ocid": "ocds-r6ebe6-0000844772",
-    "title": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP)",
-    "buyer": "University of Glasgow",
-    "description": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP) Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the âContact Usâ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-05T00:00:00Z",
-    "deadline": "2026-11-05T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "80500000"
-    ],
-    "status": "active",
-    "relevance": 32,
-    "matched": [
-      "portal",
-      "website",
-      "website support"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565941",
-    "fetched_at": "2026-10-08T23:11:15.805470Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-14-OCT565941",
-    "id": "rls-14-OCT565941",
-    "ocid": "ocds-r6ebe6-0000844772",
-    "title": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP)",
-    "buyer": "University of Glasgow",
-    "description": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP) Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the âContact Usâ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-05T00:00:00Z",
-    "deadline": "2026-11-05T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "80500000"
-    ],
-    "status": "active",
-    "relevance": 32,
-    "matched": [
-      "portal",
-      "website",
-      "website support"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565941",
-    "fetched_at": "2026-10-09T11:45:50.521784Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-16-OCT565941",
-    "id": "rls-16-OCT565941",
-    "ocid": "ocds-r6ebe6-0000844772",
-    "title": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP)",
-    "buyer": "University of Glasgow",
-    "description": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP) Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the âContact Usâ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-05T00:00:00Z",
-    "deadline": "2026-11-05T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "80500000"
-    ],
-    "status": "active",
-    "relevance": 32,
-    "matched": [
-      "portal",
-      "website",
-      "website support"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565941",
-    "fetched_at": "2026-10-11T21:43:56.920816Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-19-OCT565941",
-    "id": "rls-19-OCT565941",
-    "ocid": "ocds-r6ebe6-0000844772",
-    "title": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP)",
-    "buyer": "University of Glasgow",
-    "description": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP) Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the âContact Usâ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-05T00:00:00Z",
-    "deadline": "2026-11-05T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "80500000"
-    ],
-    "status": "active",
-    "relevance": 32,
-    "matched": [
-      "portal",
-      "website",
-      "website support"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565941",
-    "fetched_at": "2026-10-12T12:59:20.602615Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-23-OCT565941",
-    "id": "rls-23-OCT565941",
-    "ocid": "ocds-r6ebe6-0000844772",
-    "title": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP)",
-    "buyer": "University of Glasgow",
-    "description": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP) Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the âContact Usâ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-05T00:00:00Z",
-    "deadline": "2026-11-05T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "80500000"
-    ],
-    "status": "active",
-    "relevance": 32,
-    "matched": [
-      "portal",
-      "website",
-      "website support"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565941",
-    "fetched_at": "2026-10-13T00:27:45.198201Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-26-OCT565941",
-    "id": "rls-26-OCT565941",
-    "ocid": "ocds-r6ebe6-0000844772",
-    "title": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP)",
-    "buyer": "University of Glasgow",
-    "description": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP) Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the âContact Usâ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-05T00:00:00Z",
-    "deadline": "2026-11-05T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "80500000"
-    ],
-    "status": "active",
-    "relevance": 32,
-    "matched": [
-      "portal",
-      "website",
-      "website support"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565941",
-    "fetched_at": "2026-10-14T10:01:10.673495Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-31-OCT565941",
-    "id": "rls-31-OCT565941",
-    "ocid": "ocds-r6ebe6-0000844772",
-    "title": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP)",
-    "buyer": "University of Glasgow",
-    "description": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP) Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the âContact Usâ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-05T00:00:00Z",
-    "deadline": "2026-11-05T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "80500000"
-    ],
-    "status": "active",
-    "relevance": 32,
-    "matched": [
-      "portal",
-      "website",
-      "website support"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565941",
-    "fetched_at": "2026-10-14T21:30:26.527062Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-33-OCT565941",
-    "id": "rls-33-OCT565941",
-    "ocid": "ocds-r6ebe6-0000844772",
-    "title": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP)",
-    "buyer": "University of Glasgow",
-    "description": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP) Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the âContact Usâ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-05T00:00:00Z",
-    "deadline": "2026-11-05T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "80500000"
-    ],
-    "status": "active",
-    "relevance": 32,
-    "matched": [
-      "portal",
-      "website",
-      "website support"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565941",
-    "fetched_at": "2026-10-30T12:35:06.238693Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-37-OCT565941",
-    "id": "rls-37-OCT565941",
-    "ocid": "ocds-r6ebe6-0000844772",
-    "title": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP)",
-    "buyer": "University of Glasgow",
-    "description": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP) Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the âContact Usâ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-05T00:00:00Z",
-    "deadline": "2026-11-05T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "80500000"
-    ],
-    "status": "active",
-    "relevance": 32,
-    "matched": [
-      "portal",
-      "website",
-      "website support"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565941",
-    "fetched_at": "2026-10-15T21:11:54.151539Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-40-OCT565941",
-    "id": "rls-40-OCT565941",
-    "ocid": "ocds-r6ebe6-0000844772",
-    "title": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP)",
-    "buyer": "University of Glasgow",
-    "description": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP) Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the âContact Usâ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-05T00:00:00Z",
-    "deadline": "2026-11-05T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "80500000"
-    ],
-    "status": "active",
-    "relevance": 32,
-    "matched": [
-      "portal",
-      "website",
-      "website support"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565941",
-    "fetched_at": "2026-10-16T09:37:14.004498Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-61-OCT565941",
-    "id": "rls-61-OCT565941",
-    "ocid": "ocds-r6ebe6-0000844772",
-    "title": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP)",
-    "buyer": "University of Glasgow",
-    "description": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP) Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the âContact Usâ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-05T00:00:00Z",
-    "deadline": "2026-11-05T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "80500000"
-    ],
-    "status": "active",
-    "relevance": 32,
-    "matched": [
-      "portal",
-      "website",
-      "website support"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565941",
-    "fetched_at": "2026-10-23T21:15:45.570024Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-62-OCT565941",
-    "id": "rls-62-OCT565941",
-    "ocid": "ocds-r6ebe6-0000844772",
-    "title": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP)",
-    "buyer": "University of Glasgow",
-    "description": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP) Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the âContact Usâ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-05T00:00:00Z",
-    "deadline": "2026-11-05T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "80500000"
-    ],
-    "status": "active",
-    "relevance": 32,
-    "matched": [
-      "portal",
-      "website",
-      "website support"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565941",
-    "fetched_at": "2026-10-25T21:35:40.526628Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-64-OCT565941",
-    "id": "rls-64-OCT565941",
-    "ocid": "ocds-r6ebe6-0000844772",
-    "title": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP)",
-    "buyer": "University of Glasgow",
-    "description": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP) Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the âContact Usâ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-05T00:00:00Z",
-    "deadline": "2026-11-05T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "80500000"
-    ],
-    "status": "active",
-    "relevance": 32,
-    "matched": [
-      "portal",
-      "website",
-      "website support"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565941",
-    "fetched_at": "2026-10-26T12:40:08.918318Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-67-OCT565941",
-    "id": "rls-67-OCT565941",
-    "ocid": "ocds-r6ebe6-0000844772",
-    "title": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP)",
-    "buyer": "University of Glasgow",
-    "description": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP) Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the âContact Usâ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-05T00:00:00Z",
-    "deadline": "2026-11-05T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "80500000"
-    ],
-    "status": "active",
-    "relevance": 32,
-    "matched": [
-      "portal",
-      "website",
-      "website support"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565941",
-    "fetched_at": "2026-10-27T11:55:46.209294Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-71-OCT565941",
-    "id": "rls-71-OCT565941",
-    "ocid": "ocds-r6ebe6-0000844772",
-    "title": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP)",
-    "buyer": "University of Glasgow",
-    "description": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP) Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the âContact Usâ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-05T00:00:00Z",
-    "deadline": "2026-11-05T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "80500000"
-    ],
-    "status": "active",
-    "relevance": 32,
-    "matched": [
-      "portal",
-      "website",
-      "website support"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565941",
-    "fetched_at": "2026-10-27T22:54:05.082875Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-73-OCT565941",
-    "id": "rls-73-OCT565941",
-    "ocid": "ocds-r6ebe6-0000844772",
-    "title": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP)",
-    "buyer": "University of Glasgow",
-    "description": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP) Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the âContact Usâ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-05T00:00:00Z",
-    "deadline": "2026-11-05T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "80500000"
-    ],
-    "status": "active",
-    "relevance": 32,
-    "matched": [
-      "portal",
-      "website",
-      "website support"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565941",
-    "fetched_at": "2026-10-28T12:33:13.802118Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-74-OCT565941",
-    "id": "rls-74-OCT565941",
-    "ocid": "ocds-r6ebe6-0000844772",
-    "title": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP)",
-    "buyer": "University of Glasgow",
-    "description": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP) Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the âContact Usâ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-05T00:00:00Z",
-    "deadline": "2026-11-05T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "80500000"
-    ],
-    "status": "active",
-    "relevance": 32,
-    "matched": [
-      "portal",
-      "website",
-      "website support"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565941",
-    "fetched_at": "2026-10-28T23:04:00.578750Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-77-OCT565941",
-    "id": "rls-77-OCT565941",
-    "ocid": "ocds-r6ebe6-0000844772",
-    "title": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP)",
-    "buyer": "University of Glasgow",
-    "description": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP) Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the âContact Usâ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-05T00:00:00Z",
-    "deadline": "2026-11-05T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "80500000"
-    ],
-    "status": "active",
-    "relevance": 32,
-    "matched": [
-      "portal",
-      "website",
-      "website support"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565941",
-    "fetched_at": "2026-10-29T23:12:18.766394Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-81-OCT565941",
-    "id": "rls-81-OCT565941",
-    "ocid": "ocds-r6ebe6-0000844772",
-    "title": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP)",
-    "buyer": "University of Glasgow",
-    "description": "PURCH3060 Framework for the Provision of Strategic Leaders Programme (SLP) Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the âContact Usâ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-05T00:00:00Z",
-    "deadline": "2026-11-05T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "80500000"
-    ],
-    "status": "active",
-    "relevance": 32,
-    "matched": [
-      "portal",
-      "website",
-      "website support"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565941",
-    "fetched_at": "2026-10-31T22:23:18.205760Z"
-  },
-  {
     "key": "Find a Tender:100956-2026",
     "id": "100956-2026",
     "ocid": "ocds-h6vhtk-079002",
@@ -5053,7 +4478,7 @@
       "CPV 72514100"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/753644-2026",
-    "fetched_at": "2026-11-05T00:15:59.151234Z"
+    "fetched_at": "2026-11-05T14:26:43.815549Z"
   },
   {
     "key": "eTenders Ireland / TED:736793-2026",
@@ -5512,7 +4937,7 @@
       "CPV 72413000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/756046-2026",
-    "fetched_at": "2026-11-05T00:15:59.150992Z"
+    "fetched_at": "2026-11-05T14:26:43.815323Z"
   },
   {
     "key": "Find a Tender:103846-2026",
@@ -5537,7 +4962,7 @@
       "website"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/103846-2026",
-    "fetched_at": "2026-11-05T00:15:46.837187Z"
+    "fetched_at": "2026-11-05T14:26:28.560125Z"
   },
   {
     "key": "Find a Tender:096471-2026",
@@ -7360,6 +6785,30 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV567903",
     "fetched_at": "2026-11-05T00:15:57.597213Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-17-NOV567903",
+    "id": "rls-17-NOV567903",
+    "ocid": "ocds-r6ebe6-0000847310",
+    "title": "Provision of IT Disaster Recovery plan",
+    "buyer": "Cairngorms National Park Authority",
+    "description": "The Park Authority is seeking specialist support to review and strengthen the alignment between Business Continuity (BC) and IT Disaster Recovery (ITDR) arrangements.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-02T00:00:00Z",
+    "deadline": "2026-12-04T10:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "72000000"
+    ],
+    "status": "active",
+    "relevance": 25,
+    "matched": [
+      "CPV 72000000"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV567903",
+    "fetched_at": "2026-11-05T14:26:41.887903Z"
   },
   {
     "key": "Find a Tender:099063-2026",
