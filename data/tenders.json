@@ -145,7 +145,7 @@
       "network"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/764456-2026",
-    "fetched_at": "2026-11-05T14:26:43.803060Z"
+    "fetched_at": "2026-11-06T00:00:40.081665Z"
   },
   {
     "key": "Find a Tender:104619-2026",
@@ -183,11 +183,11 @@
       "digital service"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/104619-2026",
-    "fetched_at": "2026-11-05T14:26:28.557847Z"
+    "fetched_at": "2026-11-06T00:00:04.759904Z"
   },
   {
-    "key": "Public Contracts Scotland:rls-5-NOV568059",
-    "id": "rls-5-NOV568059",
+    "key": "Public Contracts Scotland:rls-6-NOV568059",
+    "id": "rls-6-NOV568059",
     "ocid": "ocds-r6ebe6-0000846370",
     "title": "Digital Connectivity Programme - 1gb Broadband Install and Service Delivery",
     "buyer": "North Lanarkshire Council",
@@ -221,7 +221,7 @@
       "digital service"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568059",
-    "fetched_at": "2026-11-05T14:26:37.309948Z"
+    "fetched_at": "2026-11-06T00:00:31.047442Z"
   },
   {
     "key": "Find a Tender:103079-2026",
@@ -599,7 +599,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/760966-2026",
-    "fetched_at": "2026-11-05T14:26:43.804747Z"
+    "fetched_at": "2026-11-06T00:00:40.082531Z"
   },
   {
     "key": "eTenders Ireland / TED:766849-2026",
@@ -634,7 +634,7 @@
       "cloud"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/766849-2026",
-    "fetched_at": "2026-11-05T14:26:43.800068Z"
+    "fetched_at": "2026-11-06T00:00:40.077954Z"
   },
   {
     "key": "eTenders Ireland / TED:753203-2026",
@@ -721,7 +721,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/766413-2026",
-    "fetched_at": "2026-11-05T14:26:43.800822Z"
+    "fetched_at": "2026-11-06T00:00:40.078675Z"
   },
   {
     "key": "eTenders Ireland / TED:706914-2026",
@@ -820,7 +820,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/755875-2026",
-    "fetched_at": "2026-11-05T14:26:43.812693Z"
+    "fetched_at": "2026-11-06T00:00:40.094508Z"
   },
   {
     "key": "Poland / TED:729265-2026",
@@ -983,7 +983,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/759254-2026",
-    "fetched_at": "2026-11-05T14:26:43.811518Z"
+    "fetched_at": "2026-11-06T00:00:40.092500Z"
   },
   {
     "key": "eTenders Ireland / TED:756814-2026",
@@ -1012,7 +1012,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/756814-2026",
-    "fetched_at": "2026-11-05T14:26:43.811319Z"
+    "fetched_at": "2026-11-06T00:00:40.094004Z"
   },
   {
     "key": "Find a Tender:105246-2026",
@@ -1043,7 +1043,7 @@
       "cloud"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/105246-2026",
-    "fetched_at": "2026-11-05T14:26:28.556352Z"
+    "fetched_at": "2026-11-06T00:00:04.758356Z"
   },
   {
     "key": "Public Contracts Scotland:rls-1-NOV568180",
@@ -1075,6 +1075,37 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568180",
     "fetched_at": "2026-11-05T14:26:37.309419Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-2-NOV568180",
+    "id": "rls-2-NOV568180",
+    "ocid": "ocds-r6ebe6-0000847479",
+    "title": "Supply and Support of Integrated Workplace Management System",
+    "buyer": "North Ayrshire Council",
+    "description": "North Ayrshire Council (NAC) is seeking to procure a cloud-hosted Integrated Workplace Management System (IWMS) to replace its existing Computer Aided Facilities Management (CAFM) solution. The new solution will provide a single, integrated platform to support the management of the Council's operational property portfolio, encompassing asset management, maintenance management, statutory compliance, financial monitoring, reporting and governance.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-05T00:00:00Z",
+    "deadline": "2026-12-07T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "72250000",
+      "72263000",
+      "72267100",
+      "72268000"
+    ],
+    "status": "active",
+    "relevance": 53,
+    "matched": [
+      "CPV 72250000",
+      "CPV 72263000",
+      "CPV 72267100",
+      "CPV 72268000",
+      "cloud"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568180",
+    "fetched_at": "2026-11-06T00:00:31.046872Z"
   },
   {
     "key": "eTenders Ireland / TED:756744-2026",
@@ -1115,7 +1146,7 @@
       "case management"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/756744-2026",
-    "fetched_at": "2026-11-05T14:26:43.808866Z"
+    "fetched_at": "2026-11-06T00:00:40.089162Z"
   },
   {
     "key": "eTenders Ireland / TED:766932-2026",
@@ -1156,7 +1187,7 @@
       "case management"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/766932-2026",
-    "fetched_at": "2026-11-05T14:26:43.804069Z"
+    "fetched_at": "2026-11-06T00:00:40.081408Z"
   },
   {
     "key": "eTenders Ireland / TED:751505-2026",
@@ -1211,6 +1242,44 @@
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/751505-2026",
     "fetched_at": "2026-11-04T14:11:22.588127Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-5-NOV568059",
+    "id": "rls-5-NOV568059",
+    "ocid": "ocds-r6ebe6-0000846370",
+    "title": "Digital Connectivity Programme - 1gb Broadband Install and Service Delivery",
+    "buyer": "North Lanarkshire Council",
+    "description": "North Lanarkshire Council (the âCouncilâ) is undertaking a major digital transformation programme to deliver gigabit capable broadband connectivity to approximately 37,000 Council owned social housing properties across the authority area. The programme is a core component of the Councilâs Digital Connectivity Masterplan and supports wider strategic ambitions including but not limited to: -Inclusive growth, -Tackling digital exclusion, -Improving access to public and digital services, and -Enabling technology enabled living within Council homes The programme reinforces the Councilâs commitment to ensuring that tenants are not disadvantaged by a lack of access to high-quality full-fibre connectivity and recognises that reliable digital connectivity is now an essential utility, underpinning access to employment, education, healthcare, welfare services and community participation.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-04T00:00:00Z",
+    "deadline": "2026-12-08T12:00:00Z",
+    "value": 85450527.0,
+    "currency": "GBP",
+    "cpv": [
+      "32412100",
+      "32412110",
+      "32571000",
+      "45314000",
+      "45314320",
+      "50332000",
+      "64200000",
+      "64227000",
+      "72400000",
+      "72411000",
+      "72420000"
+    ],
+    "status": "active",
+    "relevance": 51,
+    "matched": [
+      "CPV 32412100",
+      "CPV 32412110",
+      "CPV 32571000",
+      "CPV 72400000",
+      "digital service"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568059",
+    "fetched_at": "2026-11-05T14:26:37.309948Z"
   },
   {
     "key": "Public Contracts Scotland:rls-4-NOV568059",
@@ -1499,7 +1568,7 @@
       "CPV 72224000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/767769-2026",
-    "fetched_at": "2026-11-05T14:26:43.799453Z"
+    "fetched_at": "2026-11-06T00:00:40.076951Z"
   },
   {
     "key": "Find a Tender:102252-2026",
@@ -1623,7 +1692,7 @@
       "CPV 48820000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/767583-2026",
-    "fetched_at": "2026-11-05T14:26:50.257052Z"
+    "fetched_at": "2026-11-06T00:00:49.043315Z"
   },
   {
     "key": "Poland / TED:715186-2026",
@@ -1804,7 +1873,7 @@
       "CPV 48931000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/757791-2026",
-    "fetched_at": "2026-11-05T14:26:43.808306Z"
+    "fetched_at": "2026-11-06T00:00:40.088130Z"
   },
   {
     "key": "eTenders Ireland / TED:737260-2026",
@@ -1859,6 +1928,40 @@
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/728304-2026",
     "fetched_at": "2026-10-29T23:12:32.731430Z"
+  },
+  {
+    "key": "eTenders Ireland / TED:772936-2026",
+    "id": "772936-2026",
+    "ocid": null,
+    "title": "Ireland – IT services: consulting, software development, Internet and support – Provision of Social Media Management Platform",
+    "buyer": "Tusla Child and Family Agency",
+    "description": "Active Irish public procurement notice published through TED/eTenders.",
+    "source": "eTenders Ireland / TED",
+    "country": "Ireland",
+    "published_at": "2026-11-06T01:00:00Z",
+    "deadline": "2026-11-26T12:00:00Z",
+    "value": null,
+    "currency": "EUR",
+    "cpv": [
+      "72000000",
+      "79340000",
+      "92400000",
+      "79310000",
+      "79315000",
+      "72000000",
+      "79340000",
+      "92400000",
+      "79310000",
+      "79315000"
+    ],
+    "status": "active",
+    "relevance": 43,
+    "matched": [
+      "CPV 72000000",
+      "software"
+    ],
+    "url": "https://ted.europa.eu/en/notice/-/detail/772936-2026",
+    "fetched_at": "2026-11-06T00:00:40.072835Z"
   },
   {
     "key": "Find a Tender:096255-2026",
@@ -2470,7 +2573,7 @@
       "CPV 72224000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/765108-2026",
-    "fetched_at": "2026-11-05T14:26:43.802631Z"
+    "fetched_at": "2026-11-06T00:00:40.080446Z"
   },
   {
     "key": "Find a Tender:104444-2026",
@@ -2495,7 +2598,7 @@
       "cyber security"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/104444-2026",
-    "fetched_at": "2026-11-05T14:26:28.558438Z"
+    "fetched_at": "2026-11-06T00:00:04.760499Z"
   },
   {
     "key": "Public Contracts Scotland:rls-5-NOV568116",
@@ -2550,6 +2653,33 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568116",
     "fetched_at": "2026-11-05T14:26:41.887170Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-13-NOV568116",
+    "id": "rls-13-NOV568116",
+    "ocid": "ocds-r6ebe6-0000847619",
+    "title": "PURCH3035 Provision of Digital Two-Way Radio Communications System and Infrastructure",
+    "buyer": "University of Glasgow",
+    "description": "PURCH3035 Provision of Digital Two-Way Radio Communications System and Infrastructure Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the âContact Usâ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-04T00:00:00Z",
+    "deadline": "2026-11-25T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "32344210"
+    ],
+    "status": "active",
+    "relevance": 38,
+    "matched": [
+      "infrastructure",
+      "portal",
+      "website",
+      "website support"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568116",
+    "fetched_at": "2026-11-06T00:00:38.486085Z"
   },
   {
     "key": "Find a Tender:093955-2026",
@@ -3229,7 +3359,7 @@
       "network"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/766177-2026",
-    "fetched_at": "2026-11-05T14:26:43.802974Z"
+    "fetched_at": "2026-11-06T00:00:40.080785Z"
   },
   {
     "key": "Find a Tender:102124-2026",
@@ -4380,35 +4510,6 @@
     "fetched_at": "2026-10-29T12:43:26.517066Z"
   },
   {
-    "key": "eTenders Ireland / TED:700750-2026",
-    "id": "700750-2026",
-    "ocid": null,
-    "title": "Ireland – Business and management consultancy services – Data Protection Consultancy Services",
-    "buyer": "Léargas - The Exchange Bureau",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-10-12T02:00:00Z",
-    "deadline": "2026-11-05T16:00:00Z",
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "79410000",
-      "79411000",
-      "72322000",
-      "79410000",
-      "79411000",
-      "72322000"
-    ],
-    "status": "active",
-    "relevance": 30,
-    "matched": [
-      "CPV 72322000"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/700750-2026",
-    "fetched_at": "2026-10-16T09:37:29.179121Z"
-  },
-  {
     "key": "eTenders Ireland / TED:728928-2026",
     "id": "728928-2026",
     "ocid": null,
@@ -4913,6 +5014,49 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT566767",
     "fetched_at": "2026-10-31T22:23:18.201416Z"
+  },
+  {
+    "key": "eTenders Ireland / TED:773028-2026",
+    "id": "773028-2026",
+    "ocid": null,
+    "title": "Ireland – Financial consultancy services – Provision of Underwriting Services for Local Authority Lending Schemes",
+    "buyer": "Housing and Sustainable Communities Agency",
+    "description": "Active Irish public procurement notice published through TED/eTenders.",
+    "source": "eTenders Ireland / TED",
+    "country": "Ireland",
+    "published_at": "2026-11-06T01:00:00Z",
+    "deadline": "2026-11-25T15:00:00Z",
+    "value": null,
+    "currency": "EUR",
+    "cpv": [
+      "66171000",
+      "66519600",
+      "72221000",
+      "79200000",
+      "79210000",
+      "79211000",
+      "79212000",
+      "79212100",
+      "79212500",
+      "79412000",
+      "66171000",
+      "66519600",
+      "72221000",
+      "79200000",
+      "79210000",
+      "79211000",
+      "79212000",
+      "79212100",
+      "79212500",
+      "79412000"
+    ],
+    "status": "active",
+    "relevance": 30,
+    "matched": [
+      "CPV 72221000"
+    ],
+    "url": "https://ted.europa.eu/en/notice/-/detail/773028-2026",
+    "fetched_at": "2026-11-06T00:00:40.073556Z"
   },
   {
     "key": "eTenders Ireland / TED:756046-2026",
@@ -6809,6 +6953,30 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV567903",
     "fetched_at": "2026-11-05T14:26:41.887903Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-20-NOV567903",
+    "id": "rls-20-NOV567903",
+    "ocid": "ocds-r6ebe6-0000847310",
+    "title": "Provision of IT Disaster Recovery plan",
+    "buyer": "Cairngorms National Park Authority",
+    "description": "The Park Authority is seeking specialist support to review and strengthen the alignment between Business Continuity (BC) and IT Disaster Recovery (ITDR) arrangements.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-02T00:00:00Z",
+    "deadline": "2026-12-04T10:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "72000000"
+    ],
+    "status": "active",
+    "relevance": 25,
+    "matched": [
+      "CPV 72000000"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV567903",
+    "fetched_at": "2026-11-06T00:00:38.487616Z"
   },
   {
     "key": "Find a Tender:099063-2026",
