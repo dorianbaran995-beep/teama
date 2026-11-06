@@ -145,7 +145,7 @@
       "network"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/764456-2026",
-    "fetched_at": "2026-11-06T14:03:13.001248Z"
+    "fetched_at": "2026-11-06T23:41:31.695060Z"
   },
   {
     "key": "Find a Tender:104619-2026",
@@ -183,7 +183,7 @@
       "digital service"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/104619-2026",
-    "fetched_at": "2026-11-06T14:02:45.504244Z"
+    "fetched_at": "2026-11-06T23:41:04.034421Z"
   },
   {
     "key": "Public Contracts Scotland:rls-9-NOV568059",
@@ -221,7 +221,7 @@
       "digital service"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568059",
-    "fetched_at": "2026-11-06T14:03:05.121293Z"
+    "fetched_at": "2026-11-06T23:41:23.579444Z"
   },
   {
     "key": "Find a Tender:103079-2026",
@@ -599,7 +599,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/760966-2026",
-    "fetched_at": "2026-11-06T14:03:13.002924Z"
+    "fetched_at": "2026-11-06T23:41:31.695739Z"
   },
   {
     "key": "eTenders Ireland / TED:766849-2026",
@@ -634,7 +634,7 @@
       "cloud"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/766849-2026",
-    "fetched_at": "2026-11-06T14:03:12.998315Z"
+    "fetched_at": "2026-11-06T23:41:31.692166Z"
   },
   {
     "key": "eTenders Ireland / TED:753203-2026",
@@ -721,7 +721,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/766413-2026",
-    "fetched_at": "2026-11-06T14:03:12.999041Z"
+    "fetched_at": "2026-11-06T23:41:31.692721Z"
   },
   {
     "key": "eTenders Ireland / TED:706914-2026",
@@ -767,34 +767,6 @@
     "fetched_at": "2026-10-20T21:36:35.933538Z"
   },
   {
-    "key": "eTenders Ireland / TED:659176-2026",
-    "id": "659176-2026",
-    "ocid": null,
-    "title": "Belgium, Latvia, Germany, France, Romania, Denmark, Spain, Italy, Ireland, Luxembourg, Slovakia, Hungary, Malta, Netherlands, Greece, Austria, Slovenia, Estonia, Portugal – IT services: consulting, software development, Internet and support – Development, Implementation, Maintenance and Operation of financial IT Systems",
-    "buyer": "European Commission, DG BUDG - Budget EP - European Parliament European External Action Service (EEAS) The General Secretariat of the Council of the European Union Agence Exécutive du Conseil Européen de la Recherche European Innovation Council and SMEs Executive Agency (EISMEA) European Research Executive Agency (REA) Health and Digital Executive Agency (HaDEA) Agency for Support for BEREC (BEREC Office) Authority for Anti-Money Laundering and Countering the Financing of Terrorism Circular Bio-based Europe Joint Undertaking Community Plant Variety Office Europe's Rail Joint Undertaking European Cybersecurity Industrial, Technology and Research Competence Centre European Defence Agency European Environment Agency (EEA) European Fisheries Control Agency (EFCA) European Food Safety Authority European Foundation for the Improvement of Living and Working Conditions European High-Performance Computing Joint Undertaking European Labour Authority (ELA) European Public Prosecutor’s Office European Schools European Securities and Markets Authority European Union Agency For Law Enforcement Training European Union Agency for Asylum European Union Agency for Criminal Justice Cooperation (Eurojust) European Union Agency for Cybersecurity (ENISA) European Union Agency for Fundamental Rights European Union Agency for Law Enforcement Cooperation European Union Agency for Railways European Union Agency for the Cooperation of Energy Regulators European Union Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice (eu-LISA) European Union Drugs Agency Global Health EDCTP3 Joint Undertaking Innovative Health Initiative Joint Undertaking (IHI JU) Single Resolution Board (SRB) Committee of the Regions of the European Union European Economic and Social Committee",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-09-24T02:00:00Z",
-    "deadline": "2026-11-06T22:59:59Z",
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "72000000",
-      "72000000",
-      "72000000"
-    ],
-    "status": "active",
-    "relevance": 54,
-    "matched": [
-      "CPV 72000000",
-      "it system",
-      "software"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/659176-2026",
-    "fetched_at": "2026-09-30T22:06:51.922814Z"
-  },
-  {
     "key": "eTenders Ireland / TED:755875-2026",
     "id": "755875-2026",
     "ocid": null,
@@ -820,112 +792,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/755875-2026",
-    "fetched_at": "2026-11-06T14:03:13.010890Z"
-  },
-  {
-    "key": "Poland / TED:729265-2026",
-    "id": "729265-2026",
-    "ocid": null,
-    "title": "Poland – Miscellaneous computer equipment – Dostawa sprzętu komputerowego oraz urządzeń multimedialnych na potrzeby wyposażenia pracowni szkolnych w Zespole Szkół Nr 2 im. H. Kołłątaja w Myszkowie, ul. Pułaskiego 70, 42-300 Myszków",
-    "buyer": "Powiat Myszkowski reprezentowany przez Zarząd Powiatu w Myszkowie",
-    "description": "Active Polish public procurement notice published through TED.",
-    "source": "Poland / TED",
-    "country": "Poland",
-    "published_at": "2026-10-21T02:00:00Z",
-    "deadline": "2026-11-06T22:59:59Z",
-    "value": null,
-    "currency": "PLN",
-    "cpv": [
-      "30236000",
-      "30231300",
-      "30214000",
-      "32342100",
-      "30232100",
-      "30236000",
-      "30231300",
-      "30214000",
-      "32342100",
-      "30232100"
-    ],
-    "status": "active",
-    "relevance": 53,
-    "matched": [
-      "CPV 30214000",
-      "CPV 30231300",
-      "CPV 30232100",
-      "CPV 30236000"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/729265-2026",
-    "fetched_at": "2026-10-27T22:54:40.977354Z"
-  },
-  {
-    "key": "Poland / TED:729251-2026",
-    "id": "729251-2026",
-    "ocid": null,
-    "title": "Poland – Teaching equipment – Dostawa pomocy dydaktycznych, w ramach projektu „Zielona transformacja w toruńskich przedszkolach”.",
-    "buyer": "Gmina Miasta Toruń działająca przez Toruńskie Centrum Usług Wspólnych",
-    "description": "Active Polish public procurement notice published through TED.",
-    "source": "Poland / TED",
-    "country": "Poland",
-    "published_at": "2026-10-21T02:00:00Z",
-    "deadline": "2026-11-06T22:59:59Z",
-    "value": null,
-    "currency": "PLN",
-    "cpv": [
-      "39162100",
-      "38510000",
-      "48190000",
-      "37524100",
-      "37524000",
-      "37524200",
-      "39142000",
-      "14212400",
-      "48000000",
-      "30195910",
-      "44211500",
-      "37520000",
-      "39161000",
-      "39162100",
-      "39162100",
-      "39162100",
-      "38510000",
-      "48190000",
-      "37524100",
-      "37524000",
-      "37524200",
-      "39142000",
-      "14212400",
-      "48000000",
-      "30195910",
-      "44211500",
-      "38510000",
-      "48190000",
-      "37524100",
-      "37524000",
-      "37524200",
-      "48000000",
-      "44211500",
-      "38510000",
-      "48190000",
-      "37524100",
-      "37524000",
-      "37524200",
-      "48000000",
-      "44211500",
-      "37520000",
-      "14212400",
-      "39161000",
-      "30195910"
-    ],
-    "status": "active",
-    "relevance": 53,
-    "matched": [
-      "CPV 30195910",
-      "CPV 48000000",
-      "CPV 48190000"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/729251-2026",
-    "fetched_at": "2026-10-27T22:54:42.899724Z"
+    "fetched_at": "2026-11-06T23:41:31.701942Z"
   },
   {
     "key": "eTenders Ireland / TED:725963-2026",
@@ -983,7 +850,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/759254-2026",
-    "fetched_at": "2026-11-06T14:03:13.009714Z"
+    "fetched_at": "2026-11-06T23:41:31.700623Z"
   },
   {
     "key": "eTenders Ireland / TED:756814-2026",
@@ -1012,7 +879,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/756814-2026",
-    "fetched_at": "2026-11-06T14:03:13.009501Z"
+    "fetched_at": "2026-11-06T23:41:31.701569Z"
   },
   {
     "key": "Find a Tender:105246-2026",
@@ -1043,7 +910,7 @@
       "cloud"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/105246-2026",
-    "fetched_at": "2026-11-06T14:02:45.502775Z"
+    "fetched_at": "2026-11-06T23:41:04.033277Z"
   },
   {
     "key": "Public Contracts Scotland:rls-1-NOV568180",
@@ -1136,7 +1003,7 @@
       "cloud"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568180",
-    "fetched_at": "2026-11-06T14:03:05.120793Z"
+    "fetched_at": "2026-11-06T23:41:23.579018Z"
   },
   {
     "key": "eTenders Ireland / TED:756744-2026",
@@ -1177,7 +1044,7 @@
       "case management"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/756744-2026",
-    "fetched_at": "2026-11-06T14:03:13.007091Z"
+    "fetched_at": "2026-11-06T23:41:31.698976Z"
   },
   {
     "key": "eTenders Ireland / TED:766932-2026",
@@ -1218,7 +1085,7 @@
       "case management"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/766932-2026",
-    "fetched_at": "2026-11-06T14:03:13.002250Z"
+    "fetched_at": "2026-11-06T23:41:31.694859Z"
   },
   {
     "key": "eTenders Ireland / TED:751505-2026",
@@ -1637,7 +1504,7 @@
       "CPV 72224000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/767769-2026",
-    "fetched_at": "2026-11-06T14:03:12.997715Z"
+    "fetched_at": "2026-11-06T23:41:31.691625Z"
   },
   {
     "key": "Find a Tender:102252-2026",
@@ -1761,7 +1628,7 @@
       "CPV 48820000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/767583-2026",
-    "fetched_at": "2026-11-06T14:03:22.410976Z"
+    "fetched_at": "2026-11-06T23:41:44.546301Z"
   },
   {
     "key": "Poland / TED:715186-2026",
@@ -1902,7 +1769,34 @@
       "integration"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568226",
-    "fetched_at": "2026-11-06T14:03:05.120426Z"
+    "fetched_at": "2026-11-06T23:41:23.578744Z"
+  },
+  {
+    "key": "Find a Tender:105513-2026",
+    "id": "105513-2026",
+    "ocid": "ocds-h6vhtk-06d7f3",
+    "title": "Replacement of Corporate Telephony and Contact Centre Environment",
+    "buyer": "Link Group",
+    "description": "Link Group is seeking to appoint a suitably qualified supplier to provide, implement and support a modern, secure and resilient corporate telephony and Contact Centre as a Service (CCaaS) solution. The contract will include cloud telephony, omnichannel contact handling, intelligent routing, workforce management, call recording, quality management, reporting and analytics, PCI-compliant payment handling, integration capabilities, migration, implementation, training and ongoing support. The solution will support customer-facing and colleague-facing services across Link Group and will be delivered through a phased approach.",
+    "source": "Find a Tender",
+    "country": "United Kingdom",
+    "published_at": "2026-11-06T09:22:39Z",
+    "deadline": "2026-11-23T12:00:00Z",
+    "value": 1500000.0,
+    "currency": "GBP",
+    "cpv": [
+      "32500000",
+      "64210000"
+    ],
+    "status": "active",
+    "relevance": 44,
+    "matched": [
+      "CPV 32500000",
+      "cloud",
+      "integration"
+    ],
+    "url": "https://www.find-tender.service.gov.uk/Notice/105513-2026",
+    "fetched_at": "2026-11-06T23:41:04.032682Z"
   },
   {
     "key": "eTenders Ireland / TED:737479-2026",
@@ -1969,7 +1863,7 @@
       "CPV 48931000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/757791-2026",
-    "fetched_at": "2026-11-06T14:03:13.006533Z"
+    "fetched_at": "2026-11-06T23:41:31.698551Z"
   },
   {
     "key": "eTenders Ireland / TED:737260-2026",
@@ -2057,7 +1951,34 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/772936-2026",
-    "fetched_at": "2026-11-06T14:03:12.993256Z"
+    "fetched_at": "2026-11-06T23:41:31.688213Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-4-NOV568283",
+    "id": "rls-4-NOV568283",
+    "ocid": "ocds-r6ebe6-0000847844",
+    "title": "Computerised Maintenance Management System (CMMS) / Computer-Aided Facility Management System (CAFM)",
+    "buyer": "NHS Grampian",
+    "description": "NHS Grampian is undertaking this procurement for the provision, implementation, configuration, licensing, hosting, support, maintenance and ongoing enhancement of a Computerised Maintenance Management System (CMMS/CAFM) Solution. The NHS Grampian Maintenance & Technical Services (MaTS) Department is responsible for the management and maintenance of a diverse estate throughout Aberdeen City, Aberdeenshire and Moray, ranging from small healthcare facilities to large acute hospital sites. The Authority requires a CMMS/CAFM Solution capable of supporting the effective administration and control of assets, maintenance activities, compliance activities, contractor activities, reporting requirements and associated operational, governance and assurance processes. This procurement seeks to secure a suitably qualified and experienced Provider capable of delivering a configurable, scalable and sustainable CMMS/CAFM Solution that supports NHS Grampian's operational and strategic requirements. The Solution shall support the Authority in maintaining statutory and regulatory compliance whilst enabling the effective planning, scheduling, delivery, monitoring and recording of maintenance and compliance activities throughout the Estate.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-06T00:00:00Z",
+    "deadline": "2026-12-04T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "48000000",
+      "48421000"
+    ],
+    "status": "active",
+    "relevance": 43,
+    "matched": [
+      "CPV 48000000",
+      "CPV 48421000",
+      "hosting"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568283",
+    "fetched_at": "2026-11-06T23:41:29.695181Z"
   },
   {
     "key": "Find a Tender:096255-2026",
@@ -2669,7 +2590,7 @@
       "CPV 72224000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/765108-2026",
-    "fetched_at": "2026-11-06T14:03:12.999836Z"
+    "fetched_at": "2026-11-06T23:41:31.694115Z"
   },
   {
     "key": "Find a Tender:104444-2026",
@@ -2803,6 +2724,33 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568116",
     "fetched_at": "2026-11-06T14:03:11.085349Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-23-NOV568116",
+    "id": "rls-23-NOV568116",
+    "ocid": "ocds-r6ebe6-0000847619",
+    "title": "PURCH3035 Provision of Digital Two-Way Radio Communications System and Infrastructure",
+    "buyer": "University of Glasgow",
+    "description": "PURCH3035 Provision of Digital Two-Way Radio Communications System and Infrastructure Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the âContact Usâ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-04T00:00:00Z",
+    "deadline": "2026-11-25T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "32344210"
+    ],
+    "status": "active",
+    "relevance": 38,
+    "matched": [
+      "infrastructure",
+      "portal",
+      "website",
+      "website support"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568116",
+    "fetched_at": "2026-11-06T23:41:29.696413Z"
   },
   {
     "key": "Find a Tender:093955-2026",
@@ -3482,7 +3430,7 @@
       "network"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/766177-2026",
-    "fetched_at": "2026-11-06T14:03:13.000162Z"
+    "fetched_at": "2026-11-06T23:41:31.694387Z"
   },
   {
     "key": "Find a Tender:102124-2026",
@@ -3540,6 +3488,33 @@
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/101965-2026",
     "fetched_at": "2026-10-30T22:53:52.772923Z"
+  },
+  {
+    "key": "Find a Tender:105838-2026",
+    "id": "105838-2026",
+    "ocid": "ocds-h6vhtk-07b6cb",
+    "title": "Retail Data Management, Analytics and Automation",
+    "buyer": "London Luton Airport Operations Limited",
+    "description": "London Luton Airport Operations Limited (“LLA”) is voluntarily advertising this opportunity through Find a Tender solely to enhance the profile and visibility of the opportunity. LLA does not consider to be subject to the Procurement Act 2023 and publication of this notice does not constitute an acceptance that the Procurement Act 2023 applies to LLA or to this procurement. This tender is for an automated, scalable sales and analytics solution for Duty Free and terminal retail, integrating with multiple POS systems to provide accurate reporting and actionable insights.",
+    "source": "Find a Tender",
+    "country": "United Kingdom",
+    "published_at": "2026-11-06T15:17:51Z",
+    "deadline": "2027-01-08T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "48000000",
+      "72000000"
+    ],
+    "status": "active",
+    "relevance": 36,
+    "matched": [
+      "CPV 48000000",
+      "CPV 72000000",
+      "automation"
+    ],
+    "url": "https://www.find-tender.service.gov.uk/Notice/105838-2026",
+    "fetched_at": "2026-11-06T23:41:04.031975Z"
   },
   {
     "key": "Find a Tender:096433-2026",
@@ -5179,7 +5154,7 @@
       "CPV 72221000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/773028-2026",
-    "fetched_at": "2026-11-06T14:03:12.994090Z"
+    "fetched_at": "2026-11-06T23:41:31.688748Z"
   },
   {
     "key": "eTenders Ireland / TED:756046-2026",
@@ -7124,6 +7099,30 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV567903",
     "fetched_at": "2026-11-06T14:03:11.086069Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-30-NOV567903",
+    "id": "rls-30-NOV567903",
+    "ocid": "ocds-r6ebe6-0000847310",
+    "title": "Provision of IT Disaster Recovery plan",
+    "buyer": "Cairngorms National Park Authority",
+    "description": "The Park Authority is seeking specialist support to review and strengthen the alignment between Business Continuity (BC) and IT Disaster Recovery (ITDR) arrangements.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-02T00:00:00Z",
+    "deadline": "2026-12-04T10:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "72000000"
+    ],
+    "status": "active",
+    "relevance": 25,
+    "matched": [
+      "CPV 72000000"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV567903",
+    "fetched_at": "2026-11-06T23:41:29.696986Z"
   },
   {
     "key": "Find a Tender:099063-2026",
