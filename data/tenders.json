@@ -145,45 +145,7 @@
       "network"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/764456-2026",
-    "fetched_at": "2026-11-06T23:41:31.695060Z"
-  },
-  {
-    "key": "Find a Tender:104619-2026",
-    "id": "104619-2026",
-    "ocid": "ocds-h6vhtk-067f24",
-    "title": "Digital Connectivity Programme - 1gb Broadband Install and Service Delivery",
-    "buyer": "North Lanarkshire Council",
-    "description": "North Lanarkshire Council (the “Council”) is undertaking a major digital transformation programme to deliver gigabit capable broadband connectivity to approximately 37,000 Council owned social housing properties across the authority area. The programme is a core component of the Council’s Digital Connectivity Masterplan and supports wider strategic ambitions including but not limited to: -Inclusive growth, -Tackling digital exclusion, -Improving access to public and digital services, and -Enabling technology enabled living within Council homes The programme reinforces the Council’s commitment to ensuring that tenants are not disadvantaged by a lack of access to high-quality full-fibre connectivity and recognises that reliable digital connectivity is now an essential utility, underpinning access to employment, education, healthcare, welfare services and community participation.",
-    "source": "Find a Tender",
-    "country": "United Kingdom",
-    "published_at": "2026-11-04T12:16:36Z",
-    "deadline": "2026-12-08T12:00:00Z",
-    "value": 85450527.0,
-    "currency": "GBP",
-    "cpv": [
-      "32412100",
-      "32412110",
-      "32571000",
-      "45314000",
-      "45314320",
-      "50332000",
-      "64200000",
-      "64227000",
-      "72400000",
-      "72411000",
-      "72420000"
-    ],
-    "status": "active",
-    "relevance": 51,
-    "matched": [
-      "CPV 32412100",
-      "CPV 32412110",
-      "CPV 32571000",
-      "CPV 72400000",
-      "digital service"
-    ],
-    "url": "https://www.find-tender.service.gov.uk/Notice/104619-2026",
-    "fetched_at": "2026-11-06T23:41:04.034421Z"
+    "fetched_at": "2026-11-07T12:47:11.918286Z"
   },
   {
     "key": "Public Contracts Scotland:rls-9-NOV568059",
@@ -221,7 +183,7 @@
       "digital service"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568059",
-    "fetched_at": "2026-11-06T23:41:23.579444Z"
+    "fetched_at": "2026-11-07T12:47:06.818517Z"
   },
   {
     "key": "Find a Tender:103079-2026",
@@ -599,7 +561,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/760966-2026",
-    "fetched_at": "2026-11-06T23:41:31.695739Z"
+    "fetched_at": "2026-11-07T12:47:11.919591Z"
   },
   {
     "key": "eTenders Ireland / TED:766849-2026",
@@ -634,7 +596,7 @@
       "cloud"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/766849-2026",
-    "fetched_at": "2026-11-06T23:41:31.692166Z"
+    "fetched_at": "2026-11-07T12:47:11.916044Z"
   },
   {
     "key": "eTenders Ireland / TED:753203-2026",
@@ -721,7 +683,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/766413-2026",
-    "fetched_at": "2026-11-06T23:41:31.692721Z"
+    "fetched_at": "2026-11-07T12:47:11.916578Z"
   },
   {
     "key": "eTenders Ireland / TED:706914-2026",
@@ -792,7 +754,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/755875-2026",
-    "fetched_at": "2026-11-06T23:41:31.701942Z"
+    "fetched_at": "2026-11-07T12:47:11.925692Z"
   },
   {
     "key": "eTenders Ireland / TED:725963-2026",
@@ -850,7 +812,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/759254-2026",
-    "fetched_at": "2026-11-06T23:41:31.700623Z"
+    "fetched_at": "2026-11-07T12:47:11.924777Z"
   },
   {
     "key": "eTenders Ireland / TED:756814-2026",
@@ -879,7 +841,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/756814-2026",
-    "fetched_at": "2026-11-06T23:41:31.701569Z"
+    "fetched_at": "2026-11-07T12:47:11.924602Z"
   },
   {
     "key": "Find a Tender:105246-2026",
@@ -910,7 +872,7 @@
       "cloud"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/105246-2026",
-    "fetched_at": "2026-11-06T23:41:04.033277Z"
+    "fetched_at": "2026-11-07T12:46:49.813894Z"
   },
   {
     "key": "Public Contracts Scotland:rls-1-NOV568180",
@@ -1003,7 +965,7 @@
       "cloud"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568180",
-    "fetched_at": "2026-11-06T23:41:23.579018Z"
+    "fetched_at": "2026-11-07T12:47:06.818106Z"
   },
   {
     "key": "eTenders Ireland / TED:756744-2026",
@@ -1044,7 +1006,7 @@
       "case management"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/756744-2026",
-    "fetched_at": "2026-11-06T23:41:31.698976Z"
+    "fetched_at": "2026-11-07T12:47:11.922748Z"
   },
   {
     "key": "eTenders Ireland / TED:766932-2026",
@@ -1085,7 +1047,7 @@
       "case management"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/766932-2026",
-    "fetched_at": "2026-11-06T23:41:31.694859Z"
+    "fetched_at": "2026-11-07T12:47:11.919085Z"
   },
   {
     "key": "eTenders Ireland / TED:751505-2026",
@@ -1140,6 +1102,44 @@
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/751505-2026",
     "fetched_at": "2026-11-04T14:11:22.588127Z"
+  },
+  {
+    "key": "Find a Tender:104619-2026",
+    "id": "104619-2026",
+    "ocid": "ocds-h6vhtk-067f24",
+    "title": "Digital Connectivity Programme - 1gb Broadband Install and Service Delivery",
+    "buyer": "North Lanarkshire Council",
+    "description": "North Lanarkshire Council (the “Council”) is undertaking a major digital transformation programme to deliver gigabit capable broadband connectivity to approximately 37,000 Council owned social housing properties across the authority area. The programme is a core component of the Council’s Digital Connectivity Masterplan and supports wider strategic ambitions including but not limited to: -Inclusive growth, -Tackling digital exclusion, -Improving access to public and digital services, and -Enabling technology enabled living within Council homes The programme reinforces the Council’s commitment to ensuring that tenants are not disadvantaged by a lack of access to high-quality full-fibre connectivity and recognises that reliable digital connectivity is now an essential utility, underpinning access to employment, education, healthcare, welfare services and community participation.",
+    "source": "Find a Tender",
+    "country": "United Kingdom",
+    "published_at": "2026-11-04T12:16:36Z",
+    "deadline": "2026-12-08T12:00:00Z",
+    "value": 85450527.0,
+    "currency": "GBP",
+    "cpv": [
+      "32412100",
+      "32412110",
+      "32571000",
+      "45314000",
+      "45314320",
+      "50332000",
+      "64200000",
+      "64227000",
+      "72400000",
+      "72411000",
+      "72420000"
+    ],
+    "status": "active",
+    "relevance": 51,
+    "matched": [
+      "CPV 32412100",
+      "CPV 32412110",
+      "CPV 32571000",
+      "CPV 72400000",
+      "digital service"
+    ],
+    "url": "https://www.find-tender.service.gov.uk/Notice/104619-2026",
+    "fetched_at": "2026-11-06T23:41:04.034421Z"
   },
   {
     "key": "Public Contracts Scotland:rls-6-NOV568059",
@@ -1504,7 +1504,7 @@
       "CPV 72224000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/767769-2026",
-    "fetched_at": "2026-11-06T23:41:31.691625Z"
+    "fetched_at": "2026-11-07T12:47:11.915547Z"
   },
   {
     "key": "Find a Tender:102252-2026",
@@ -1628,7 +1628,7 @@
       "CPV 48820000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/767583-2026",
-    "fetched_at": "2026-11-06T23:41:44.546301Z"
+    "fetched_at": "2026-11-07T12:47:20.411690Z"
   },
   {
     "key": "Poland / TED:715186-2026",
@@ -1769,7 +1769,7 @@
       "integration"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568226",
-    "fetched_at": "2026-11-06T23:41:23.578744Z"
+    "fetched_at": "2026-11-07T12:47:06.817833Z"
   },
   {
     "key": "Find a Tender:105513-2026",
@@ -1796,7 +1796,7 @@
       "integration"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/105513-2026",
-    "fetched_at": "2026-11-06T23:41:04.032682Z"
+    "fetched_at": "2026-11-07T12:46:49.813310Z"
   },
   {
     "key": "eTenders Ireland / TED:737479-2026",
@@ -1863,7 +1863,7 @@
       "CPV 48931000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/757791-2026",
-    "fetched_at": "2026-11-06T23:41:31.698551Z"
+    "fetched_at": "2026-11-07T12:47:11.922319Z"
   },
   {
     "key": "eTenders Ireland / TED:737260-2026",
@@ -1951,7 +1951,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/772936-2026",
-    "fetched_at": "2026-11-06T23:41:31.688213Z"
+    "fetched_at": "2026-11-07T12:47:11.911830Z"
   },
   {
     "key": "Public Contracts Scotland:rls-4-NOV568283",
@@ -1978,7 +1978,7 @@
       "hosting"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568283",
-    "fetched_at": "2026-11-06T23:41:29.695181Z"
+    "fetched_at": "2026-11-07T12:47:11.075693Z"
   },
   {
     "key": "Find a Tender:096255-2026",
@@ -2590,7 +2590,7 @@
       "CPV 72224000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/765108-2026",
-    "fetched_at": "2026-11-06T23:41:31.694115Z"
+    "fetched_at": "2026-11-07T12:47:11.917176Z"
   },
   {
     "key": "Find a Tender:104444-2026",
@@ -2750,7 +2750,7 @@
       "website support"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568116",
-    "fetched_at": "2026-11-06T23:41:29.696413Z"
+    "fetched_at": "2026-11-07T12:47:11.076908Z"
   },
   {
     "key": "Find a Tender:093955-2026",
@@ -3430,7 +3430,7 @@
       "network"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/766177-2026",
-    "fetched_at": "2026-11-06T23:41:31.694387Z"
+    "fetched_at": "2026-11-07T12:47:11.917433Z"
   },
   {
     "key": "Find a Tender:102124-2026",
@@ -3514,7 +3514,7 @@
       "automation"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/105838-2026",
-    "fetched_at": "2026-11-06T23:41:04.031975Z"
+    "fetched_at": "2026-11-07T12:46:49.812626Z"
   },
   {
     "key": "Find a Tender:096433-2026",
@@ -5154,7 +5154,7 @@
       "CPV 72221000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/773028-2026",
-    "fetched_at": "2026-11-06T23:41:31.688748Z"
+    "fetched_at": "2026-11-07T12:47:11.912772Z"
   },
   {
     "key": "eTenders Ireland / TED:756046-2026",
@@ -7122,7 +7122,7 @@
       "CPV 72000000"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV567903",
-    "fetched_at": "2026-11-06T23:41:29.696986Z"
+    "fetched_at": "2026-11-07T12:47:11.077468Z"
   },
   {
     "key": "Find a Tender:099063-2026",
