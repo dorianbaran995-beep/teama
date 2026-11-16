@@ -105,7 +105,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/795601-2026",
-    "fetched_at": "2026-11-15T23:21:59.821885Z"
+    "fetched_at": "2026-11-16T15:27:19.393525Z"
   },
   {
     "key": "eTenders Ireland / TED:796272-2026",
@@ -149,7 +149,7 @@
       "website"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/796272-2026",
-    "fetched_at": "2026-11-15T23:21:59.823330Z"
+    "fetched_at": "2026-11-16T15:27:19.395102Z"
   },
   {
     "key": "eTenders Ireland / TED:791282-2026",
@@ -192,7 +192,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/791282-2026",
-    "fetched_at": "2026-11-15T23:21:59.825180Z"
+    "fetched_at": "2026-11-16T15:27:19.396897Z"
   },
   {
     "key": "eTenders Ireland / TED:764456-2026",
@@ -231,8 +231,8 @@
     "fetched_at": "2026-11-10T14:40:49.571318Z"
   },
   {
-    "key": "Public Contracts Scotland:rls-34-NOV568059",
-    "id": "rls-34-NOV568059",
+    "key": "Public Contracts Scotland:rls-39-NOV568059",
+    "id": "rls-39-NOV568059",
     "ocid": "ocds-r6ebe6-0000846370",
     "title": "Digital Connectivity Programme - 1gb Broadband Install and Service Delivery",
     "buyer": "North Lanarkshire Council",
@@ -266,7 +266,7 @@
       "digital service"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568059",
-    "fetched_at": "2026-11-15T23:21:46.005053Z"
+    "fetched_at": "2026-11-16T15:27:08.962797Z"
   },
   {
     "key": "eTenders Ireland / TED:781832-2026",
@@ -302,7 +302,7 @@
       "support and maintenance"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/781832-2026",
-    "fetched_at": "2026-11-15T23:21:59.831121Z"
+    "fetched_at": "2026-11-16T15:27:19.403302Z"
   },
   {
     "key": "Find a Tender:103079-2026",
@@ -526,7 +526,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/780338-2026",
-    "fetched_at": "2026-11-15T23:21:59.831865Z"
+    "fetched_at": "2026-11-16T15:27:19.403399Z"
   },
   {
     "key": "eTenders Ireland / TED:766849-2026",
@@ -646,7 +646,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/791448-2026",
-    "fetched_at": "2026-11-15T23:21:59.824123Z"
+    "fetched_at": "2026-11-16T15:27:19.395901Z"
   },
   {
     "key": "eTenders Ireland / TED:785473-2026",
@@ -681,7 +681,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/785473-2026",
-    "fetched_at": "2026-11-15T23:21:59.829522Z"
+    "fetched_at": "2026-11-16T15:27:19.400879Z"
   },
   {
     "key": "eTenders Ireland / TED:766413-2026",
@@ -757,7 +757,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/791015-2026",
-    "fetched_at": "2026-11-15T23:22:02.751546Z"
+    "fetched_at": "2026-11-16T15:27:24.721957Z"
   },
   {
     "key": "Poland / TED:794557-2026",
@@ -794,7 +794,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/794557-2026",
-    "fetched_at": "2026-11-15T23:22:02.746310Z"
+    "fetched_at": "2026-11-16T15:27:24.716298Z"
   },
   {
     "key": "eTenders Ireland / TED:706914-2026",
@@ -864,7 +864,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/793287-2026",
-    "fetched_at": "2026-11-15T23:21:59.822956Z"
+    "fetched_at": "2026-11-16T15:27:19.394175Z"
   },
   {
     "key": "eTenders Ireland / TED:791412-2026",
@@ -891,7 +891,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/791412-2026",
-    "fetched_at": "2026-11-15T23:21:59.825467Z"
+    "fetched_at": "2026-11-16T15:27:19.397197Z"
   },
   {
     "key": "eTenders Ireland / TED:755875-2026",
@@ -950,7 +950,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/790499-2026",
-    "fetched_at": "2026-11-15T23:21:59.824477Z"
+    "fetched_at": "2026-11-16T15:27:19.396262Z"
   },
   {
     "key": "Find a Tender:105246-2026",
@@ -1387,6 +1387,37 @@
     "fetched_at": "2026-11-15T23:21:46.004718Z"
   },
   {
+    "key": "Public Contracts Scotland:rls-35-NOV568180",
+    "id": "rls-35-NOV568180",
+    "ocid": "ocds-r6ebe6-0000847479",
+    "title": "Supply and Support of Integrated Workplace Management System",
+    "buyer": "North Ayrshire Council",
+    "description": "North Ayrshire Council (NAC) is seeking to procure a cloud-hosted Integrated Workplace Management System (IWMS) to replace its existing Computer Aided Facilities Management (CAFM) solution. The new solution will provide a single, integrated platform to support the management of the Council's operational property portfolio, encompassing asset management, maintenance management, statutory compliance, financial monitoring, reporting and governance.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-05T00:00:00Z",
+    "deadline": "2026-12-07T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "72250000",
+      "72263000",
+      "72267100",
+      "72268000"
+    ],
+    "status": "active",
+    "relevance": 53,
+    "matched": [
+      "CPV 72250000",
+      "CPV 72263000",
+      "CPV 72267100",
+      "CPV 72268000",
+      "cloud"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568180",
+    "fetched_at": "2026-11-16T15:27:08.962446Z"
+  },
+  {
     "key": "eTenders Ireland / TED:751505-2026",
     "id": "751505-2026",
     "ocid": null,
@@ -1492,7 +1523,45 @@
       "network"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/795944-2026",
-    "fetched_at": "2026-11-15T23:21:59.822073Z"
+    "fetched_at": "2026-11-16T15:27:19.393703Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-34-NOV568059",
+    "id": "rls-34-NOV568059",
+    "ocid": "ocds-r6ebe6-0000846370",
+    "title": "Digital Connectivity Programme - 1gb Broadband Install and Service Delivery",
+    "buyer": "North Lanarkshire Council",
+    "description": "North Lanarkshire Council (the âCouncilâ) is undertaking a major digital transformation programme to deliver gigabit capable broadband connectivity to approximately 37,000 Council owned social housing properties across the authority area. The programme is a core component of the Councilâs Digital Connectivity Masterplan and supports wider strategic ambitions including but not limited to: -Inclusive growth, -Tackling digital exclusion, -Improving access to public and digital services, and -Enabling technology enabled living within Council homes The programme reinforces the Councilâs commitment to ensuring that tenants are not disadvantaged by a lack of access to high-quality full-fibre connectivity and recognises that reliable digital connectivity is now an essential utility, underpinning access to employment, education, healthcare, welfare services and community participation.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-04T00:00:00Z",
+    "deadline": "2026-12-08T12:00:00Z",
+    "value": 85450527.0,
+    "currency": "GBP",
+    "cpv": [
+      "32412100",
+      "32412110",
+      "32571000",
+      "45314000",
+      "45314320",
+      "50332000",
+      "64200000",
+      "64227000",
+      "72400000",
+      "72411000",
+      "72420000"
+    ],
+    "status": "active",
+    "relevance": 51,
+    "matched": [
+      "CPV 32412100",
+      "CPV 32412110",
+      "CPV 32571000",
+      "CPV 72400000",
+      "digital service"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568059",
+    "fetched_at": "2026-11-15T23:21:46.005053Z"
   },
   {
     "key": "Public Contracts Scotland:rls-30-NOV568059",
@@ -2065,6 +2134,96 @@
     "fetched_at": "2026-11-04T14:11:15.773049Z"
   },
   {
+    "key": "Find a Tender:108333-2026",
+    "id": "108333-2026",
+    "ocid": "ocds-h6vhtk-06b40e",
+    "title": "General Office Supplies 2027",
+    "buyer": "Scottish Government",
+    "description": "This Framework Agreement is for the provision of General Office Supplies, including Stationery, Office Paper, Electronic Office Supplies (EOS), Catering Goods and Consumables, Janitorial and Hygiene products to the Scottish public sector. The Framework Agreement will be available for use by the Scottish Ministers (including Agencies), Scottish Non-Departmental Public Bodies, offices in the Scottish Administration which are not ministerial offices, cross-border public authorities within the meaning of section 88(5) of the Scotland Act 1998, The Office for the Secretary of State for Scotland, the Scottish Parliamentary Corporate Body, councils constituted under section 2 of the Local Government etc. (Scotland) Act 1994, bodies registered as social landlords under the Housing (Scotland) Act 2001, Scottish health boards or special health boards, Student Loans Company Limited, the Commissioner of Northern Lighthouse operating as the Northern Lighthouse Board, Scottish Futures Trust, Equality and Human Rights Commission, Business Stream Ltd, the Business Gateway National Unit at the Convention of Scottish Local Authorities, further or higher education institutions being fundable bodies within the meaning of section 6 of the further and Higher Education (Scotland) Act 2005, any public body established by or under the Scotland Act 1998 or any Act of the Scottish Parliament, any association of or formed by one or more of the foregoing, bodies financed wholly or mainly by one or more of the foregoing, bodies subject to management supervision by one or more of the foregoing and bodies more than half of the board of directors or members of which, or, in the case of a group of individuals, more than half of those individuals, being appointed by one or more of the foregoing. In addition to the contracting authorities listed, the framework agreement will be available to charities entered on the Scottish Charity Register and voluntary organisations entered on the Membership Database of the Scottish Council for Voluntary Organisations. Information about agencies of the Scottish Ministers, Scottish Non-Departmental Public Bodies and offices in the Scottish Administration which are not ministerial offices are listed at https://www.gov.scot/publications/national-public-bodies-directory/ Overview of the governance structure of public procurement for Scotland, including the Publi",
+    "source": "Find a Tender",
+    "country": "United Kingdom",
+    "published_at": "2026-11-16T10:29:20Z",
+    "deadline": "2026-12-17T12:00:00Z",
+    "value": 38000000.0,
+    "currency": "GBP",
+    "cpv": [
+      "18114000",
+      "18142000",
+      "18143000",
+      "18424300",
+      "18830000",
+      "30100000",
+      "30124300",
+      "30125100",
+      "30192000",
+      "30192113",
+      "30192700",
+      "33711430",
+      "33735100",
+      "33771100",
+      "35113400",
+      "35113410",
+      "39222000",
+      "39830000"
+    ],
+    "status": "active",
+    "relevance": 51,
+    "matched": [
+      "CPV 30100000",
+      "CPV 30124300",
+      "CPV 30125100",
+      "CPV 30192000",
+      "database"
+    ],
+    "url": "https://www.find-tender.service.gov.uk/Notice/108333-2026",
+    "fetched_at": "2026-11-16T15:26:48.644822Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-5-NOV568832",
+    "id": "rls-5-NOV568832",
+    "ocid": "ocds-r6ebe6-0000834532",
+    "title": "General Office Supplies 2027",
+    "buyer": "Scottish Government",
+    "description": "This Framework Agreement is for the provision of General Office Supplies, including Stationery, Office Paper, Electronic Office Supplies (EOS), Catering Goods and Consumables, Janitorial and Hygiene products to the Scottish public sector. The Framework Agreement will be available for use by the Scottish Ministers (including Agencies), Scottish Non-Departmental Public Bodies, offices in the Scottish Administration which are not ministerial offices, cross-border public authorities within the meaning of section 88(5) of the Scotland Act 1998, The Office for the Secretary of State for Scotland, the Scottish Parliamentary Corporate Body, councils constituted under section 2 of the Local Government etc. (Scotland) Act 1994, bodies registered as social landlords under the Housing (Scotland) Act 2001, Scottish health boards or special health boards, Student Loans Company Limited, the Commissioner of Northern Lighthouse operating as the Northern Lighthouse Board, Scottish Futures Trust, Equality and Human Rights Commission, Business Stream Ltd, the Business Gateway National Unit at the Convention of Scottish Local Authorities, further or higher education institutions being fundable bodies within the meaning of section 6 of the further and Higher Education (Scotland) Act 2005, any public body established by or under the Scotland Act 1998 or any Act of the Scottish Parliament, any association of or formed by one or more of the foregoing, bodies financed wholly or mainly by one or more of the foregoing, bodies subject to management supervision by one or more of the foregoing and bodies more than half of the board of directors or members of which, or, in the case of a group of individuals, more than half of those individuals, being appointed by one or more of the foregoing. In addition to the contracting authorities listed, the framework agreement will be available to charities entered on the Scottish Charity Register and voluntary organisations entered on the Membership Database of the Scottish Council for Voluntary Organisations. Information about agencies of the Scottish Ministers, Scottish Non-Departmental Public Bodies and offices in the Scottish Administration which are not ministerial offices are listed at https://www.gov.scot/publications/national-public-bodies-directory/ Overview of the governance structure of public procurement for Scotland, including the Publi",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-16T00:00:00Z",
+    "deadline": "2026-12-17T12:00:00Z",
+    "value": 38000000.0,
+    "currency": "GBP",
+    "cpv": [
+      "18114000",
+      "18142000",
+      "18143000",
+      "18424300",
+      "18830000",
+      "30100000",
+      "30124300",
+      "30125100",
+      "30192000",
+      "30192113",
+      "30192700",
+      "33711430",
+      "33735100",
+      "33771100",
+      "35113400",
+      "35113410",
+      "39222000",
+      "39830000"
+    ],
+    "status": "active",
+    "relevance": 51,
+    "matched": [
+      "CPV 30100000",
+      "CPV 30124300",
+      "CPV 30125100",
+      "CPV 30192000",
+      "database"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568832",
+    "fetched_at": "2026-11-16T15:27:08.959987Z"
+  },
+  {
     "key": "eTenders Ireland / TED:781729-2026",
     "id": "781729-2026",
     "ocid": null,
@@ -2092,93 +2251,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/781729-2026",
-    "fetched_at": "2026-11-15T23:21:59.831061Z"
-  },
-  {
-    "key": "eTenders Ireland / TED:754153-2026",
-    "id": "754153-2026",
-    "ocid": null,
-    "title": "Ireland – Medical equipments, pharmaceuticals and personal care products – Single Supplier Framework Agreement for the Supply of Life Sciences Equipment and Associated Services for Waterford Training Centre",
-    "buyer": "Waterford and Wexford Education and Training Board_110494",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-10-30T01:00:00Z",
-    "deadline": "2026-11-16T12:00:00Z",
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "33000000",
-      "33600000",
-      "31600000",
-      "38800000",
-      "42000000",
-      "39162000",
-      "30214000",
-      "42993000",
-      "33792000",
-      "33000000",
-      "33000000",
-      "33000000",
-      "33000000",
-      "33000000",
-      "33000000",
-      "33600000",
-      "31600000",
-      "38800000",
-      "42000000",
-      "39162000",
-      "30214000",
-      "42993000",
-      "33792000",
-      "33600000",
-      "31600000",
-      "38800000",
-      "42000000",
-      "39162000",
-      "30214000",
-      "42993000",
-      "33792000",
-      "33600000",
-      "31600000",
-      "38800000",
-      "42000000",
-      "39162000",
-      "30214000",
-      "42993000",
-      "33792000",
-      "33600000",
-      "31600000",
-      "38800000",
-      "42000000",
-      "39162000",
-      "30214000",
-      "42993000",
-      "33792000",
-      "33600000",
-      "31600000",
-      "38800000",
-      "42000000",
-      "39162000",
-      "30214000",
-      "42993000",
-      "33792000",
-      "33600000",
-      "31600000",
-      "38800000",
-      "42000000",
-      "39162000",
-      "30214000",
-      "42993000",
-      "33792000"
-    ],
-    "status": "active",
-    "relevance": 45,
-    "matched": [
-      "CPV 30214000"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/754153-2026",
-    "fetched_at": "2026-11-05T14:26:43.814507Z"
+    "fetched_at": "2026-11-16T15:27:19.403557Z"
   },
   {
     "key": "Poland / TED:753423-2026",
@@ -2425,7 +2498,7 @@
       "CPV 72200000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/786333-2026",
-    "fetched_at": "2026-11-15T23:21:59.827381Z"
+    "fetched_at": "2026-11-16T15:27:19.399721Z"
   },
   {
     "key": "Poland / TED:715186-2026",
@@ -2818,7 +2891,7 @@
       "CPV 72212931"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/783873-2026",
-    "fetched_at": "2026-11-15T23:21:59.828181Z"
+    "fetched_at": "2026-11-16T15:27:19.400045Z"
   },
   {
     "key": "Public Contracts Scotland:rls-8-NOV568387",
@@ -3205,6 +3278,70 @@
     "fetched_at": "2026-11-15T23:21:46.004094Z"
   },
   {
+    "key": "Public Contracts Scotland:rls-26-NOV568387",
+    "id": "rls-26-NOV568387",
+    "ocid": "ocds-r6ebe6-0000847959",
+    "title": "Computerised Maintenance Management System (CMMS) / Computer-Aided Facility Management System (CAFM)",
+    "buyer": "NHS Grampian",
+    "description": "The NHS Grampian Maintenance & Technical Services (MaTS) Department is responsible for the management and maintenance of a diverse estate throughout Aberdeen City, Aberdeenshire and Moray, ranging from small healthcare facilities to large acute hospital sites. The Authority requires a CMMS/CAFM Solution capable of supporting the effective administration and control of assets, maintenance activities, compliance activities, contractor activities, reporting requirements and associated operational, governance and assurance processes.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-09T00:00:00Z",
+    "deadline": "2026-12-09T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "48420000",
+      "48421000",
+      "72000000",
+      "72212420",
+      "72212421",
+      "72514000"
+    ],
+    "status": "active",
+    "relevance": 45,
+    "matched": [
+      "CPV 48420000",
+      "CPV 48421000",
+      "CPV 72000000",
+      "CPV 72212420"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568387",
+    "fetched_at": "2026-11-16T15:27:08.961731Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-27-NOV568379",
+    "id": "rls-27-NOV568379",
+    "ocid": "ocds-r6ebe6-0000847937",
+    "title": "Computerised Maintenance Management System (CMMS) / Computer-Aided Facility Management System (CAFM)",
+    "buyer": "NHS Grampian",
+    "description": "The NHS Grampian Maintenance & Technical Services (MaTS) Department is responsible for the management and maintenance of a diverse estate throughout Aberdeen City, Aberdeenshire and Moray, ranging from small healthcare facilities to large acute hospital sites. The Authority requires a CMMS/CAFM Solution capable of supporting the effective administration and control of assets, maintenance activities, compliance activities, contractor activities, reporting requirements and associated operational, governance and assurance processes.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-09T00:00:00Z",
+    "deadline": "2026-12-09T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "48420000",
+      "48421000",
+      "72000000",
+      "72212420",
+      "72212421",
+      "72514000"
+    ],
+    "status": "active",
+    "relevance": 45,
+    "matched": [
+      "CPV 48420000",
+      "CPV 48421000",
+      "CPV 72000000",
+      "CPV 72212420"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568379",
+    "fetched_at": "2026-11-16T15:27:08.961798Z"
+  },
+  {
     "key": "Find a Tender:108199-2026",
     "id": "108199-2026",
     "ocid": "ocds-h6vhtk-07bc24",
@@ -3256,7 +3393,7 @@
       "CPV 72224000"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/108199-2026",
-    "fetched_at": "2026-11-15T23:21:18.561547Z"
+    "fetched_at": "2026-11-16T15:26:48.645095Z"
   },
   {
     "key": "Public Contracts Scotland:rls-1-NOV568810",
@@ -3311,6 +3448,60 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568810",
     "fetched_at": "2026-11-15T23:21:46.002558Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-6-NOV568810",
+    "id": "rls-6-NOV568810",
+    "ocid": "ocds-r6ebe6-0000847553",
+    "title": "Glasgow Business Growth Framework - Phase 4",
+    "buyer": "Glasgow City Council",
+    "description": "Glasgow City Council (the Council) requires a framework of suppliers to deliver a range of business growth consultancy services to eligible organisations across the city to aide a sustainable growth agenda and improve business start-up and survival rates. As the organisations accessing support via this Framework have different needs, the services provided must be offered flexibly. This includes, but is not limited to, face to face, digitally, by phone and one to one at suitable times and locations. The Framework is made up of 10 Lots as detailed below and aligned to the specialist area of business support to be provided. Please note funding is currently confirmed for the first two years of the Framework. This therefore represents the estimated minimum total Framework value. Should funding equal to this initial value be subsequently secured this will be used to deliver years three and four respectively and aligns with the higher maximum value noted in II.1.5 Lot 1- Business Structuring, Business Governance, Legal & IP Lot 2 - Business Growth, Sustainable Growth and Productivity Lot 3 - Upskilling, Leadership & Resource Lot 4 - Financial readiness & Planning Lot 5 - Design & System Processing Lot 6 - Sales and Digital Marketing Lot 7 - Preparing for Global Growth Lot 8 - Digital Transformation Lot 9 - Sustainable & Net Zero Support Lot 10 - Business Acceleration",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-13T00:00:00Z",
+    "deadline": "2026-12-15T12:00:00Z",
+    "value": 3800000.0,
+    "currency": "GBP",
+    "cpv": [
+      "66170000",
+      "66171000",
+      "66519310",
+      "71314300",
+      "72212481",
+      "72220000",
+      "72221000",
+      "72224000",
+      "72242000",
+      "72413000",
+      "73000000",
+      "73220000",
+      "79340000",
+      "79342000",
+      "79400000",
+      "79410000",
+      "79411000",
+      "79411100",
+      "79412000",
+      "79413000",
+      "79414000",
+      "79415200",
+      "79418000",
+      "79421200",
+      "79822500",
+      "79930000",
+      "79933000",
+      "90713000"
+    ],
+    "status": "active",
+    "relevance": 45,
+    "matched": [
+      "CPV 72212481",
+      "CPV 72220000",
+      "CPV 72221000",
+      "CPV 72224000"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568810",
+    "fetched_at": "2026-11-16T15:27:08.960216Z"
   },
   {
     "key": "Public Contracts Scotland:rls-3-NOV568226",
@@ -3635,6 +3826,33 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568226",
     "fetched_at": "2026-11-15T23:21:46.004509Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-33-NOV568226",
+    "id": "rls-33-NOV568226",
+    "ocid": "ocds-r6ebe6-0000838193",
+    "title": "Replacement of Corporate Telephony and Contact Centre Environment",
+    "buyer": "Link Group",
+    "description": "Link Group is seeking to appoint a suitably qualified supplier to provide, implement and support a modern, secure and resilient corporate telephony and Contact Centre as a Service (CCaaS) solution. The contract will include cloud telephony, omnichannel contact handling, intelligent routing, workforce management, call recording, quality management, reporting and analytics, PCI-compliant payment handling, integration capabilities, migration, implementation, training and ongoing support. The solution will support customer-facing and colleague-facing services across Link Group and will be delivered through a phased approach.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-06T00:00:00Z",
+    "deadline": "2026-11-23T12:00:00Z",
+    "value": 1500000.0,
+    "currency": "GBP",
+    "cpv": [
+      "32500000",
+      "64210000"
+    ],
+    "status": "active",
+    "relevance": 44,
+    "matched": [
+      "CPV 32500000",
+      "cloud",
+      "integration"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568226",
+    "fetched_at": "2026-11-16T15:27:08.962230Z"
   },
   {
     "key": "eTenders Ireland / TED:728304-2026",
@@ -3996,6 +4214,33 @@
     "fetched_at": "2026-11-15T23:21:58.784696Z"
   },
   {
+    "key": "Public Contracts Scotland:rls-36-NOV568283",
+    "id": "rls-36-NOV568283",
+    "ocid": "ocds-r6ebe6-0000847844",
+    "title": "Computerised Maintenance Management System (CMMS) / Computer-Aided Facility Management System (CAFM)",
+    "buyer": "NHS Grampian",
+    "description": "NHS Grampian is undertaking this procurement for the provision, implementation, configuration, licensing, hosting, support, maintenance and ongoing enhancement of a Computerised Maintenance Management System (CMMS/CAFM) Solution. The NHS Grampian Maintenance & Technical Services (MaTS) Department is responsible for the management and maintenance of a diverse estate throughout Aberdeen City, Aberdeenshire and Moray, ranging from small healthcare facilities to large acute hospital sites. The Authority requires a CMMS/CAFM Solution capable of supporting the effective administration and control of assets, maintenance activities, compliance activities, contractor activities, reporting requirements and associated operational, governance and assurance processes. This procurement seeks to secure a suitably qualified and experienced Provider capable of delivering a configurable, scalable and sustainable CMMS/CAFM Solution that supports NHS Grampian's operational and strategic requirements. The Solution shall support the Authority in maintaining statutory and regulatory compliance whilst enabling the effective planning, scheduling, delivery, monitoring and recording of maintenance and compliance activities throughout the Estate.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-06T00:00:00Z",
+    "deadline": "2026-12-04T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "48000000",
+      "48421000"
+    ],
+    "status": "active",
+    "relevance": 43,
+    "matched": [
+      "CPV 48000000",
+      "CPV 48421000",
+      "hosting"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568283",
+    "fetched_at": "2026-11-16T15:27:18.188880Z"
+  },
+  {
     "key": "Find a Tender:106518-2026",
     "id": "106518-2026",
     "ocid": "ocds-h6vhtk-07b83e",
@@ -4239,6 +4484,33 @@
     "fetched_at": "2026-11-15T23:21:46.003822Z"
   },
   {
+    "key": "Public Contracts Scotland:rls-23-NOV568429",
+    "id": "rls-23-NOV568429",
+    "ocid": "ocds-r6ebe6-0000848003",
+    "title": "CE-215-25 - Supply, Implementation and Ongoing Support of a Leisure Management System",
+    "buyer": "South Ayrshire Council",
+    "description": "South Ayrshire Council (the Council) has a requirement for the supply, delivery and ongoing support of an integrated leisure management software system.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-10T00:00:00Z",
+    "deadline": "2026-12-18T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "48000000",
+      "72222300"
+    ],
+    "status": "active",
+    "relevance": 43,
+    "matched": [
+      "CPV 48000000",
+      "CPV 72222300",
+      "software"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568429",
+    "fetched_at": "2026-11-16T15:27:08.961521Z"
+  },
+  {
     "key": "eTenders Ireland / TED:765108-2026",
     "id": "765108-2026",
     "ocid": null,
@@ -4352,7 +4624,7 @@
       "CPV 72221000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/781632-2026",
-    "fetched_at": "2026-11-15T23:21:59.830135Z"
+    "fetched_at": "2026-11-16T15:27:19.402122Z"
   },
   {
     "key": "eTenders Ireland / TED:789206-2026",
@@ -4381,7 +4653,7 @@
       "CPV 72311100"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/789206-2026",
-    "fetched_at": "2026-11-15T23:21:59.826415Z"
+    "fetched_at": "2026-11-16T15:27:19.398252Z"
   },
   {
     "key": "Find a Tender:104444-2026",
@@ -4812,6 +5084,33 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568116",
     "fetched_at": "2026-11-15T23:21:58.785704Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-55-NOV568116",
+    "id": "rls-55-NOV568116",
+    "ocid": "ocds-r6ebe6-0000847619",
+    "title": "PURCH3035 Provision of Digital Two-Way Radio Communications System and Infrastructure",
+    "buyer": "University of Glasgow",
+    "description": "PURCH3035 Provision of Digital Two-Way Radio Communications System and Infrastructure Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the âContact Usâ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-04T00:00:00Z",
+    "deadline": "2026-11-25T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "32344210"
+    ],
+    "status": "active",
+    "relevance": 38,
+    "matched": [
+      "infrastructure",
+      "portal",
+      "website",
+      "website support"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568116",
+    "fetched_at": "2026-11-16T15:27:18.189909Z"
   },
   {
     "key": "Find a Tender:093955-2026",
@@ -5464,36 +5763,6 @@
     "fetched_at": "2026-10-31T22:23:18.205607Z"
   },
   {
-    "key": "eTenders Ireland / TED:766177-2026",
-    "id": "766177-2026",
-    "ocid": null,
-    "title": "Ireland – Network routers – A Service Provider to provide the Supply and Support of the ESB IP Network Hardware for Ireland and UK in pursuant of a contract.",
-    "buyer": "Electricity Supply Board ( ESB )",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-11-04T01:00:00Z",
-    "deadline": "2026-11-16T12:00:00Z",
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "32413100",
-      "31214100",
-      "44316400",
-      "32413100",
-      "31214100",
-      "44316400"
-    ],
-    "status": "active",
-    "relevance": 36,
-    "matched": [
-      "CPV 32413100",
-      "network"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/766177-2026",
-    "fetched_at": "2026-11-10T14:40:49.570185Z"
-  },
-  {
     "key": "Find a Tender:102124-2026",
     "id": "102124-2026",
     "ocid": "ocds-h6vhtk-079284",
@@ -5840,6 +6109,39 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568480",
     "fetched_at": "2026-11-15T23:21:46.003687Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-21-NOV568480",
+    "id": "rls-21-NOV568480",
+    "ocid": "ocds-r6ebe6-0000839985",
+    "title": "Mobile Voice and Data Services",
+    "buyer": "Scottish Government",
+    "description": "Mobile Voice and Data Services",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-10T00:00:00Z",
+    "deadline": "2026-12-17T12:00:00Z",
+    "value": 50000000.0,
+    "currency": "GBP",
+    "cpv": [
+      "31712112",
+      "32250000",
+      "32429000",
+      "32510000",
+      "32520000",
+      "64212000",
+      "64216110",
+      "64227000"
+    ],
+    "status": "active",
+    "relevance": 35,
+    "matched": [
+      "CPV 32429000",
+      "CPV 32510000",
+      "CPV 32520000"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568480",
+    "fetched_at": "2026-11-16T15:27:08.961374Z"
   },
   {
     "key": "Find a Tender:096433-2026",
@@ -6933,370 +7235,6 @@
     "fetched_at": "2026-10-29T12:43:26.517066Z"
   },
   {
-    "key": "Find a Tender:097651-2026",
-    "id": "097651-2026",
-    "ocid": "ocds-h6vhtk-0788e8",
-    "title": "Provision of Vehicle Telematics, CCTV and Tachograph Solutions 2026 (Re Tender) Aberdeenshire Council",
-    "buyer": "Aberdeenshire Council",
-    "description": "Aberdeenshire Council require a vehicle management and tracking system, including CCTV and Tachograph services to cover vehicles within their fleet to be installed by Aberdeenshire Council staff",
-    "source": "Find a Tender",
-    "country": "United Kingdom",
-    "published_at": "2026-10-15T15:40:04Z",
-    "deadline": "2026-11-16T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "32441300",
-      "44316400",
-      "48000000",
-      "64226000"
-    ],
-    "status": "active",
-    "relevance": 30,
-    "matched": [
-      "CPV 32441300",
-      "CPV 48000000"
-    ],
-    "url": "https://www.find-tender.service.gov.uk/Notice/097651-2026",
-    "fetched_at": "2026-10-16T09:36:22.358400Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-1-OCT566767",
-    "id": "rls-1-OCT566767",
-    "ocid": "ocds-r6ebe6-0000845818",
-    "title": "Provision of Vehicle Telematics, CCTV and Tachograph Solutions 2026 (Re Tender) Aberdeenshire Council",
-    "buyer": "Aberdeenshire Council",
-    "description": "Aberdeenshire Council require a vehicle management and tracking system, including CCTV and Tachograph services to cover vehicles within their fleet to be installed by Aberdeenshire Council staff",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-15T00:00:00Z",
-    "deadline": "2026-11-16T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "32441300",
-      "44316400",
-      "48000000",
-      "64226000"
-    ],
-    "status": "active",
-    "relevance": 30,
-    "matched": [
-      "CPV 32441300",
-      "CPV 48000000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT566767",
-    "fetched_at": "2026-10-15T21:11:54.146804Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-4-OCT566767",
-    "id": "rls-4-OCT566767",
-    "ocid": "ocds-r6ebe6-0000845818",
-    "title": "Provision of Vehicle Telematics, CCTV and Tachograph Solutions 2026 (Re Tender) Aberdeenshire Council",
-    "buyer": "Aberdeenshire Council",
-    "description": "Aberdeenshire Council require a vehicle management and tracking system, including CCTV and Tachograph services to cover vehicles within their fleet to be installed by Aberdeenshire Council staff",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-15T00:00:00Z",
-    "deadline": "2026-11-16T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "32441300",
-      "44316400",
-      "48000000",
-      "64226000"
-    ],
-    "status": "active",
-    "relevance": 30,
-    "matched": [
-      "CPV 32441300",
-      "CPV 48000000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT566767",
-    "fetched_at": "2026-10-16T09:37:14.000820Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-25-OCT566767",
-    "id": "rls-25-OCT566767",
-    "ocid": "ocds-r6ebe6-0000845818",
-    "title": "Provision of Vehicle Telematics, CCTV and Tachograph Solutions 2026 (Re Tender) Aberdeenshire Council",
-    "buyer": "Aberdeenshire Council",
-    "description": "Aberdeenshire Council require a vehicle management and tracking system, including CCTV and Tachograph services to cover vehicles within their fleet to be installed by Aberdeenshire Council staff",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-15T00:00:00Z",
-    "deadline": "2026-11-16T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "32441300",
-      "44316400",
-      "48000000",
-      "64226000"
-    ],
-    "status": "active",
-    "relevance": 30,
-    "matched": [
-      "CPV 32441300",
-      "CPV 48000000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT566767",
-    "fetched_at": "2026-10-23T21:15:45.566778Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-26-OCT566767",
-    "id": "rls-26-OCT566767",
-    "ocid": "ocds-r6ebe6-0000845818",
-    "title": "Provision of Vehicle Telematics, CCTV and Tachograph Solutions 2026 (Re Tender) Aberdeenshire Council",
-    "buyer": "Aberdeenshire Council",
-    "description": "Aberdeenshire Council require a vehicle management and tracking system, including CCTV and Tachograph services to cover vehicles within their fleet to be installed by Aberdeenshire Council staff",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-15T00:00:00Z",
-    "deadline": "2026-11-16T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "32441300",
-      "44316400",
-      "48000000",
-      "64226000"
-    ],
-    "status": "active",
-    "relevance": 30,
-    "matched": [
-      "CPV 32441300",
-      "CPV 48000000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT566767",
-    "fetched_at": "2026-10-25T21:35:40.523429Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-28-OCT566767",
-    "id": "rls-28-OCT566767",
-    "ocid": "ocds-r6ebe6-0000845818",
-    "title": "Provision of Vehicle Telematics, CCTV and Tachograph Solutions 2026 (Re Tender) Aberdeenshire Council",
-    "buyer": "Aberdeenshire Council",
-    "description": "Aberdeenshire Council require a vehicle management and tracking system, including CCTV and Tachograph services to cover vehicles within their fleet to be installed by Aberdeenshire Council staff",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-15T00:00:00Z",
-    "deadline": "2026-11-16T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "32441300",
-      "44316400",
-      "48000000",
-      "64226000"
-    ],
-    "status": "active",
-    "relevance": 30,
-    "matched": [
-      "CPV 32441300",
-      "CPV 48000000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT566767",
-    "fetched_at": "2026-10-26T12:40:08.914014Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-31-OCT566767",
-    "id": "rls-31-OCT566767",
-    "ocid": "ocds-r6ebe6-0000845818",
-    "title": "Provision of Vehicle Telematics, CCTV and Tachograph Solutions 2026 (Re Tender) Aberdeenshire Council",
-    "buyer": "Aberdeenshire Council",
-    "description": "Aberdeenshire Council require a vehicle management and tracking system, including CCTV and Tachograph services to cover vehicles within their fleet to be installed by Aberdeenshire Council staff",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-15T00:00:00Z",
-    "deadline": "2026-11-16T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "32441300",
-      "44316400",
-      "48000000",
-      "64226000"
-    ],
-    "status": "active",
-    "relevance": 30,
-    "matched": [
-      "CPV 32441300",
-      "CPV 48000000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT566767",
-    "fetched_at": "2026-10-27T11:55:46.204979Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-35-OCT566767",
-    "id": "rls-35-OCT566767",
-    "ocid": "ocds-r6ebe6-0000845818",
-    "title": "Provision of Vehicle Telematics, CCTV and Tachograph Solutions 2026 (Re Tender) Aberdeenshire Council",
-    "buyer": "Aberdeenshire Council",
-    "description": "Aberdeenshire Council require a vehicle management and tracking system, including CCTV and Tachograph services to cover vehicles within their fleet to be installed by Aberdeenshire Council staff",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-15T00:00:00Z",
-    "deadline": "2026-11-16T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "32441300",
-      "44316400",
-      "48000000",
-      "64226000"
-    ],
-    "status": "active",
-    "relevance": 30,
-    "matched": [
-      "CPV 32441300",
-      "CPV 48000000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT566767",
-    "fetched_at": "2026-10-27T22:54:05.079851Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-37-OCT566767",
-    "id": "rls-37-OCT566767",
-    "ocid": "ocds-r6ebe6-0000845818",
-    "title": "Provision of Vehicle Telematics, CCTV and Tachograph Solutions 2026 (Re Tender) Aberdeenshire Council",
-    "buyer": "Aberdeenshire Council",
-    "description": "Aberdeenshire Council require a vehicle management and tracking system, including CCTV and Tachograph services to cover vehicles within their fleet to be installed by Aberdeenshire Council staff",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-15T00:00:00Z",
-    "deadline": "2026-11-16T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "32441300",
-      "44316400",
-      "48000000",
-      "64226000"
-    ],
-    "status": "active",
-    "relevance": 30,
-    "matched": [
-      "CPV 32441300",
-      "CPV 48000000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT566767",
-    "fetched_at": "2026-10-28T12:33:13.797780Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-38-OCT566767",
-    "id": "rls-38-OCT566767",
-    "ocid": "ocds-r6ebe6-0000845818",
-    "title": "Provision of Vehicle Telematics, CCTV and Tachograph Solutions 2026 (Re Tender) Aberdeenshire Council",
-    "buyer": "Aberdeenshire Council",
-    "description": "Aberdeenshire Council require a vehicle management and tracking system, including CCTV and Tachograph services to cover vehicles within their fleet to be installed by Aberdeenshire Council staff",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-15T00:00:00Z",
-    "deadline": "2026-11-16T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "32441300",
-      "44316400",
-      "48000000",
-      "64226000"
-    ],
-    "status": "active",
-    "relevance": 30,
-    "matched": [
-      "CPV 32441300",
-      "CPV 48000000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT566767",
-    "fetched_at": "2026-10-28T23:04:00.574281Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-41-OCT566767",
-    "id": "rls-41-OCT566767",
-    "ocid": "ocds-r6ebe6-0000845818",
-    "title": "Provision of Vehicle Telematics, CCTV and Tachograph Solutions 2026 (Re Tender) Aberdeenshire Council",
-    "buyer": "Aberdeenshire Council",
-    "description": "Aberdeenshire Council require a vehicle management and tracking system, including CCTV and Tachograph services to cover vehicles within their fleet to be installed by Aberdeenshire Council staff",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-15T00:00:00Z",
-    "deadline": "2026-11-16T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "32441300",
-      "44316400",
-      "48000000",
-      "64226000"
-    ],
-    "status": "active",
-    "relevance": 30,
-    "matched": [
-      "CPV 32441300",
-      "CPV 48000000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT566767",
-    "fetched_at": "2026-10-29T23:12:18.761951Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-43-OCT566767",
-    "id": "rls-43-OCT566767",
-    "ocid": "ocds-r6ebe6-0000845818",
-    "title": "Provision of Vehicle Telematics, CCTV and Tachograph Solutions 2026 (Re Tender) Aberdeenshire Council",
-    "buyer": "Aberdeenshire Council",
-    "description": "Aberdeenshire Council require a vehicle management and tracking system, including CCTV and Tachograph services to cover vehicles within their fleet to be installed by Aberdeenshire Council staff",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-15T00:00:00Z",
-    "deadline": "2026-11-16T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "32441300",
-      "44316400",
-      "48000000",
-      "64226000"
-    ],
-    "status": "active",
-    "relevance": 30,
-    "matched": [
-      "CPV 32441300",
-      "CPV 48000000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT566767",
-    "fetched_at": "2026-10-30T12:35:06.234421Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-45-OCT566767",
-    "id": "rls-45-OCT566767",
-    "ocid": "ocds-r6ebe6-0000845818",
-    "title": "Provision of Vehicle Telematics, CCTV and Tachograph Solutions 2026 (Re Tender) Aberdeenshire Council",
-    "buyer": "Aberdeenshire Council",
-    "description": "Aberdeenshire Council require a vehicle management and tracking system, including CCTV and Tachograph services to cover vehicles within their fleet to be installed by Aberdeenshire Council staff",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-15T00:00:00Z",
-    "deadline": "2026-11-16T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "32441300",
-      "44316400",
-      "48000000",
-      "64226000"
-    ],
-    "status": "active",
-    "relevance": 30,
-    "matched": [
-      "CPV 32441300",
-      "CPV 48000000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT566767",
-    "fetched_at": "2026-10-31T22:23:18.201416Z"
-  },
-  {
     "key": "eTenders Ireland / TED:783937-2026",
     "id": "783937-2026",
     "ocid": null,
@@ -7319,7 +7257,7 @@
       "CPV 30230000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/783937-2026",
-    "fetched_at": "2026-11-15T23:21:59.828802Z"
+    "fetched_at": "2026-11-16T15:27:19.400615Z"
   },
   {
     "key": "eTenders Ireland / TED:773028-2026",
@@ -7397,7 +7335,7 @@
       "CPV 72413000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/778856-2026",
-    "fetched_at": "2026-11-15T23:22:10.052884Z"
+    "fetched_at": "2026-11-16T15:27:35.325571Z"
   },
   {
     "key": "eTenders Ireland / TED:788237-2026",
@@ -7454,7 +7392,7 @@
       "CPV 32581110"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/788237-2026",
-    "fetched_at": "2026-11-15T23:21:59.827738Z"
+    "fetched_at": "2026-11-16T15:27:19.399528Z"
   },
   {
     "key": "eTenders Ireland / TED:756046-2026",
@@ -7505,750 +7443,6 @@
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/103846-2026",
     "fetched_at": "2026-11-05T14:26:28.560125Z"
-  },
-  {
-    "key": "Find a Tender:093954-2026",
-    "id": "093954-2026",
-    "ocid": "ocds-h6vhtk-078109",
-    "title": "Asset Tracking System",
-    "buyer": "NHS Borders",
-    "description": "NHS Borders is seeking competitive tenders from suitably experienced suppliers for an asset tracking system. The requirement supports a programme to improve the control, traceability and efficient management of clinical and selected non-clinical equipment, replacing fragmented manual records with sustainable digital tracking and reporting.",
-    "source": "Find a Tender",
-    "country": "United Kingdom",
-    "published_at": "2026-10-05T14:58:32Z",
-    "deadline": "2026-11-16T12:00:00Z",
-    "value": 116000.0,
-    "currency": "GBP",
-    "cpv": [
-      "48422000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 48422000"
-    ],
-    "url": "https://www.find-tender.service.gov.uk/Notice/093954-2026",
-    "fetched_at": "2026-10-08T11:53:17.970724Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-1-OCT565959",
-    "id": "rls-1-OCT565959",
-    "ocid": "ocds-r6ebe6-0000844805",
-    "title": "Asset Tracking System",
-    "buyer": "NHS Borders",
-    "description": "NHS Borders is seeking competitive tenders from suitably experienced suppliers for an asset tracking system. The requirement supports a programme to improve the control, traceability and efficient management of clinical and selected non-clinical equipment, replacing fragmented manual records with sustainable digital tracking and reporting.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-05T00:00:00Z",
-    "deadline": "2026-11-16T12:00:00Z",
-    "value": 116000.0,
-    "currency": "GBP",
-    "cpv": [
-      "48422000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 48422000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565959",
-    "fetched_at": "2026-10-05T23:56:29.482650Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-2-OCT565959",
-    "id": "rls-2-OCT565959",
-    "ocid": "ocds-r6ebe6-0000844805",
-    "title": "Asset Tracking System",
-    "buyer": "NHS Borders",
-    "description": "NHS Borders is seeking competitive tenders from suitably experienced suppliers for an asset tracking system. The requirement supports a programme to improve the control, traceability and efficient management of clinical and selected non-clinical equipment, replacing fragmented manual records with sustainable digital tracking and reporting.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-05T00:00:00Z",
-    "deadline": "2026-11-16T12:00:00Z",
-    "value": 116000.0,
-    "currency": "GBP",
-    "cpv": [
-      "48422000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 48422000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565959",
-    "fetched_at": "2026-10-06T11:54:19.250635Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-3-OCT565959",
-    "id": "rls-3-OCT565959",
-    "ocid": "ocds-r6ebe6-0000844805",
-    "title": "Asset Tracking System",
-    "buyer": "NHS Borders",
-    "description": "NHS Borders is seeking competitive tenders from suitably experienced suppliers for an asset tracking system. The requirement supports a programme to improve the control, traceability and efficient management of clinical and selected non-clinical equipment, replacing fragmented manual records with sustainable digital tracking and reporting.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-05T00:00:00Z",
-    "deadline": "2026-11-16T12:00:00Z",
-    "value": 116000.0,
-    "currency": "GBP",
-    "cpv": [
-      "48422000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 48422000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565959",
-    "fetched_at": "2026-10-07T11:39:25.556852Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-4-OCT565959",
-    "id": "rls-4-OCT565959",
-    "ocid": "ocds-r6ebe6-0000844805",
-    "title": "Asset Tracking System",
-    "buyer": "NHS Borders",
-    "description": "NHS Borders is seeking competitive tenders from suitably experienced suppliers for an asset tracking system. The requirement supports a programme to improve the control, traceability and efficient management of clinical and selected non-clinical equipment, replacing fragmented manual records with sustainable digital tracking and reporting.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-05T00:00:00Z",
-    "deadline": "2026-11-16T12:00:00Z",
-    "value": 116000.0,
-    "currency": "GBP",
-    "cpv": [
-      "48422000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 48422000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565959",
-    "fetched_at": "2026-10-07T22:58:04.453018Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-6-OCT565959",
-    "id": "rls-6-OCT565959",
-    "ocid": "ocds-r6ebe6-0000844805",
-    "title": "Asset Tracking System",
-    "buyer": "NHS Borders",
-    "description": "NHS Borders is seeking competitive tenders from suitably experienced suppliers for an asset tracking system. The requirement supports a programme to improve the control, traceability and efficient management of clinical and selected non-clinical equipment, replacing fragmented manual records with sustainable digital tracking and reporting.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-05T00:00:00Z",
-    "deadline": "2026-11-16T12:00:00Z",
-    "value": 116000.0,
-    "currency": "GBP",
-    "cpv": [
-      "48422000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 48422000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565959",
-    "fetched_at": "2026-10-08T11:53:53.936760Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-9-OCT565959",
-    "id": "rls-9-OCT565959",
-    "ocid": "ocds-r6ebe6-0000844805",
-    "title": "Asset Tracking System",
-    "buyer": "NHS Borders",
-    "description": "NHS Borders is seeking competitive tenders from suitably experienced suppliers for an asset tracking system. The requirement supports a programme to improve the control, traceability and efficient management of clinical and selected non-clinical equipment, replacing fragmented manual records with sustainable digital tracking and reporting.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-05T00:00:00Z",
-    "deadline": "2026-11-16T12:00:00Z",
-    "value": 116000.0,
-    "currency": "GBP",
-    "cpv": [
-      "48422000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 48422000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565959",
-    "fetched_at": "2026-10-08T23:11:15.805178Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-12-OCT565959",
-    "id": "rls-12-OCT565959",
-    "ocid": "ocds-r6ebe6-0000844805",
-    "title": "Asset Tracking System",
-    "buyer": "NHS Borders",
-    "description": "NHS Borders is seeking competitive tenders from suitably experienced suppliers for an asset tracking system. The requirement supports a programme to improve the control, traceability and efficient management of clinical and selected non-clinical equipment, replacing fragmented manual records with sustainable digital tracking and reporting.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-05T00:00:00Z",
-    "deadline": "2026-11-16T12:00:00Z",
-    "value": 116000.0,
-    "currency": "GBP",
-    "cpv": [
-      "48422000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 48422000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565959",
-    "fetched_at": "2026-10-09T11:45:50.521490Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-14-OCT565959",
-    "id": "rls-14-OCT565959",
-    "ocid": "ocds-r6ebe6-0000844805",
-    "title": "Asset Tracking System",
-    "buyer": "NHS Borders",
-    "description": "NHS Borders is seeking competitive tenders from suitably experienced suppliers for an asset tracking system. The requirement supports a programme to improve the control, traceability and efficient management of clinical and selected non-clinical equipment, replacing fragmented manual records with sustainable digital tracking and reporting.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-05T00:00:00Z",
-    "deadline": "2026-11-16T12:00:00Z",
-    "value": 116000.0,
-    "currency": "GBP",
-    "cpv": [
-      "48422000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 48422000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565959",
-    "fetched_at": "2026-10-11T21:43:56.920514Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-17-OCT565959",
-    "id": "rls-17-OCT565959",
-    "ocid": "ocds-r6ebe6-0000844805",
-    "title": "Asset Tracking System",
-    "buyer": "NHS Borders",
-    "description": "NHS Borders is seeking competitive tenders from suitably experienced suppliers for an asset tracking system. The requirement supports a programme to improve the control, traceability and efficient management of clinical and selected non-clinical equipment, replacing fragmented manual records with sustainable digital tracking and reporting.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-05T00:00:00Z",
-    "deadline": "2026-11-16T12:00:00Z",
-    "value": 116000.0,
-    "currency": "GBP",
-    "cpv": [
-      "48422000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 48422000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565959",
-    "fetched_at": "2026-10-12T12:59:20.602307Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-21-OCT565959",
-    "id": "rls-21-OCT565959",
-    "ocid": "ocds-r6ebe6-0000844805",
-    "title": "Asset Tracking System",
-    "buyer": "NHS Borders",
-    "description": "NHS Borders is seeking competitive tenders from suitably experienced suppliers for an asset tracking system. The requirement supports a programme to improve the control, traceability and efficient management of clinical and selected non-clinical equipment, replacing fragmented manual records with sustainable digital tracking and reporting.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-05T00:00:00Z",
-    "deadline": "2026-11-16T12:00:00Z",
-    "value": 116000.0,
-    "currency": "GBP",
-    "cpv": [
-      "48422000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 48422000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565959",
-    "fetched_at": "2026-10-13T00:27:45.197995Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-24-OCT565959",
-    "id": "rls-24-OCT565959",
-    "ocid": "ocds-r6ebe6-0000844805",
-    "title": "Asset Tracking System",
-    "buyer": "NHS Borders",
-    "description": "NHS Borders is seeking competitive tenders from suitably experienced suppliers for an asset tracking system. The requirement supports a programme to improve the control, traceability and efficient management of clinical and selected non-clinical equipment, replacing fragmented manual records with sustainable digital tracking and reporting.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-05T00:00:00Z",
-    "deadline": "2026-11-16T12:00:00Z",
-    "value": 116000.0,
-    "currency": "GBP",
-    "cpv": [
-      "48422000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 48422000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565959",
-    "fetched_at": "2026-10-14T10:01:10.673177Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-29-OCT565959",
-    "id": "rls-29-OCT565959",
-    "ocid": "ocds-r6ebe6-0000844805",
-    "title": "Asset Tracking System",
-    "buyer": "NHS Borders",
-    "description": "NHS Borders is seeking competitive tenders from suitably experienced suppliers for an asset tracking system. The requirement supports a programme to improve the control, traceability and efficient management of clinical and selected non-clinical equipment, replacing fragmented manual records with sustainable digital tracking and reporting.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-05T00:00:00Z",
-    "deadline": "2026-11-16T12:00:00Z",
-    "value": 116000.0,
-    "currency": "GBP",
-    "cpv": [
-      "48422000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 48422000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565959",
-    "fetched_at": "2026-10-14T21:30:26.526822Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-31-OCT565959",
-    "id": "rls-31-OCT565959",
-    "ocid": "ocds-r6ebe6-0000844805",
-    "title": "Asset Tracking System",
-    "buyer": "NHS Borders",
-    "description": "NHS Borders is seeking competitive tenders from suitably experienced suppliers for an asset tracking system. The requirement supports a programme to improve the control, traceability and efficient management of clinical and selected non-clinical equipment, replacing fragmented manual records with sustainable digital tracking and reporting.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-05T00:00:00Z",
-    "deadline": "2026-11-16T12:00:00Z",
-    "value": 116000.0,
-    "currency": "GBP",
-    "cpv": [
-      "48422000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 48422000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565959",
-    "fetched_at": "2026-10-30T12:35:06.238393Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-35-OCT565959",
-    "id": "rls-35-OCT565959",
-    "ocid": "ocds-r6ebe6-0000844805",
-    "title": "Asset Tracking System",
-    "buyer": "NHS Borders",
-    "description": "NHS Borders is seeking competitive tenders from suitably experienced suppliers for an asset tracking system. The requirement supports a programme to improve the control, traceability and efficient management of clinical and selected non-clinical equipment, replacing fragmented manual records with sustainable digital tracking and reporting.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-05T00:00:00Z",
-    "deadline": "2026-11-16T12:00:00Z",
-    "value": 116000.0,
-    "currency": "GBP",
-    "cpv": [
-      "48422000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 48422000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565959",
-    "fetched_at": "2026-10-15T21:11:54.151228Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-38-OCT565959",
-    "id": "rls-38-OCT565959",
-    "ocid": "ocds-r6ebe6-0000844805",
-    "title": "Asset Tracking System",
-    "buyer": "NHS Borders",
-    "description": "NHS Borders is seeking competitive tenders from suitably experienced suppliers for an asset tracking system. The requirement supports a programme to improve the control, traceability and efficient management of clinical and selected non-clinical equipment, replacing fragmented manual records with sustainable digital tracking and reporting.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-05T00:00:00Z",
-    "deadline": "2026-11-16T12:00:00Z",
-    "value": 116000.0,
-    "currency": "GBP",
-    "cpv": [
-      "48422000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 48422000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565959",
-    "fetched_at": "2026-10-16T09:37:14.004250Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-59-OCT565959",
-    "id": "rls-59-OCT565959",
-    "ocid": "ocds-r6ebe6-0000844805",
-    "title": "Asset Tracking System",
-    "buyer": "NHS Borders",
-    "description": "NHS Borders is seeking competitive tenders from suitably experienced suppliers for an asset tracking system. The requirement supports a programme to improve the control, traceability and efficient management of clinical and selected non-clinical equipment, replacing fragmented manual records with sustainable digital tracking and reporting.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-05T00:00:00Z",
-    "deadline": "2026-11-16T12:00:00Z",
-    "value": 116000.0,
-    "currency": "GBP",
-    "cpv": [
-      "48422000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 48422000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565959",
-    "fetched_at": "2026-10-23T21:15:45.569809Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-60-OCT565959",
-    "id": "rls-60-OCT565959",
-    "ocid": "ocds-r6ebe6-0000844805",
-    "title": "Asset Tracking System",
-    "buyer": "NHS Borders",
-    "description": "NHS Borders is seeking competitive tenders from suitably experienced suppliers for an asset tracking system. The requirement supports a programme to improve the control, traceability and efficient management of clinical and selected non-clinical equipment, replacing fragmented manual records with sustainable digital tracking and reporting.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-05T00:00:00Z",
-    "deadline": "2026-11-16T12:00:00Z",
-    "value": 116000.0,
-    "currency": "GBP",
-    "cpv": [
-      "48422000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 48422000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565959",
-    "fetched_at": "2026-10-25T21:35:40.526419Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-62-OCT565959",
-    "id": "rls-62-OCT565959",
-    "ocid": "ocds-r6ebe6-0000844805",
-    "title": "Asset Tracking System",
-    "buyer": "NHS Borders",
-    "description": "NHS Borders is seeking competitive tenders from suitably experienced suppliers for an asset tracking system. The requirement supports a programme to improve the control, traceability and efficient management of clinical and selected non-clinical equipment, replacing fragmented manual records with sustainable digital tracking and reporting.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-05T00:00:00Z",
-    "deadline": "2026-11-16T12:00:00Z",
-    "value": 116000.0,
-    "currency": "GBP",
-    "cpv": [
-      "48422000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 48422000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565959",
-    "fetched_at": "2026-10-26T12:40:08.918036Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-65-OCT565959",
-    "id": "rls-65-OCT565959",
-    "ocid": "ocds-r6ebe6-0000844805",
-    "title": "Asset Tracking System",
-    "buyer": "NHS Borders",
-    "description": "NHS Borders is seeking competitive tenders from suitably experienced suppliers for an asset tracking system. The requirement supports a programme to improve the control, traceability and efficient management of clinical and selected non-clinical equipment, replacing fragmented manual records with sustainable digital tracking and reporting.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-05T00:00:00Z",
-    "deadline": "2026-11-16T12:00:00Z",
-    "value": 116000.0,
-    "currency": "GBP",
-    "cpv": [
-      "48422000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 48422000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565959",
-    "fetched_at": "2026-10-27T11:55:46.209004Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-69-OCT565959",
-    "id": "rls-69-OCT565959",
-    "ocid": "ocds-r6ebe6-0000844805",
-    "title": "Asset Tracking System",
-    "buyer": "NHS Borders",
-    "description": "NHS Borders is seeking competitive tenders from suitably experienced suppliers for an asset tracking system. The requirement supports a programme to improve the control, traceability and efficient management of clinical and selected non-clinical equipment, replacing fragmented manual records with sustainable digital tracking and reporting.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-05T00:00:00Z",
-    "deadline": "2026-11-16T12:00:00Z",
-    "value": 116000.0,
-    "currency": "GBP",
-    "cpv": [
-      "48422000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 48422000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565959",
-    "fetched_at": "2026-10-27T22:54:05.082677Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-3-OCT567484",
-    "id": "rls-3-OCT567484",
-    "ocid": "ocds-r6ebe6-0000846275",
-    "title": "Skills, Curriculum and Learner Pathway Consultancy Services (Skills for Glasgow Phase 1)",
-    "buyer": "Glasgow Kelvin College",
-    "description": "GKC, acting on behalf of the Glasgow Colleges Leadership Group (GCLG), is seeking to appoint an experienced consultancy organisation to support delivery of Phase 1 of the Skills for Glasgow programme. The programme seeks to strengthen the alignment of college curriculum and learner pathways with current and future economic, social, employer and learner needs across Glasgow and the wider Glasgow City Region.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-27T00:00:00Z",
-    "deadline": "2026-11-16T12:00:00Z",
-    "value": 96000.0,
-    "currency": "GBP",
-    "cpv": [
-      "72224000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72224000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT567484",
-    "fetched_at": "2026-10-27T22:54:21.290159Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-71-OCT565959",
-    "id": "rls-71-OCT565959",
-    "ocid": "ocds-r6ebe6-0000844805",
-    "title": "Asset Tracking System",
-    "buyer": "NHS Borders",
-    "description": "NHS Borders is seeking competitive tenders from suitably experienced suppliers for an asset tracking system. The requirement supports a programme to improve the control, traceability and efficient management of clinical and selected non-clinical equipment, replacing fragmented manual records with sustainable digital tracking and reporting.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-05T00:00:00Z",
-    "deadline": "2026-11-16T12:00:00Z",
-    "value": 116000.0,
-    "currency": "GBP",
-    "cpv": [
-      "48422000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 48422000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565959",
-    "fetched_at": "2026-10-28T12:33:13.801815Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-4-OCT567484",
-    "id": "rls-4-OCT567484",
-    "ocid": "ocds-r6ebe6-0000846275",
-    "title": "Skills, Curriculum and Learner Pathway Consultancy Services (Skills for Glasgow Phase 1)",
-    "buyer": "Glasgow Kelvin College",
-    "description": "GKC, acting on behalf of the Glasgow Colleges Leadership Group (GCLG), is seeking to appoint an experienced consultancy organisation to support delivery of Phase 1 of the Skills for Glasgow programme. The programme seeks to strengthen the alignment of college curriculum and learner pathways with current and future economic, social, employer and learner needs across Glasgow and the wider Glasgow City Region.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-27T00:00:00Z",
-    "deadline": "2026-11-16T12:00:00Z",
-    "value": 96000.0,
-    "currency": "GBP",
-    "cpv": [
-      "72224000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72224000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT567484",
-    "fetched_at": "2026-10-28T12:33:28.970924Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-72-OCT565959",
-    "id": "rls-72-OCT565959",
-    "ocid": "ocds-r6ebe6-0000844805",
-    "title": "Asset Tracking System",
-    "buyer": "NHS Borders",
-    "description": "NHS Borders is seeking competitive tenders from suitably experienced suppliers for an asset tracking system. The requirement supports a programme to improve the control, traceability and efficient management of clinical and selected non-clinical equipment, replacing fragmented manual records with sustainable digital tracking and reporting.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-05T00:00:00Z",
-    "deadline": "2026-11-16T12:00:00Z",
-    "value": 116000.0,
-    "currency": "GBP",
-    "cpv": [
-      "48422000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 48422000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565959",
-    "fetched_at": "2026-10-28T23:04:00.578396Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-7-OCT567484",
-    "id": "rls-7-OCT567484",
-    "ocid": "ocds-r6ebe6-0000846275",
-    "title": "Skills, Curriculum and Learner Pathway Consultancy Services (Skills for Glasgow Phase 1)",
-    "buyer": "Glasgow Kelvin College",
-    "description": "GKC, acting on behalf of the Glasgow Colleges Leadership Group (GCLG), is seeking to appoint an experienced consultancy organisation to support delivery of Phase 1 of the Skills for Glasgow programme. The programme seeks to strengthen the alignment of college curriculum and learner pathways with current and future economic, social, employer and learner needs across Glasgow and the wider Glasgow City Region.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-27T00:00:00Z",
-    "deadline": "2026-11-16T12:00:00Z",
-    "value": 96000.0,
-    "currency": "GBP",
-    "cpv": [
-      "72224000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72224000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT567484",
-    "fetched_at": "2026-10-28T23:04:12.181859Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-75-OCT565959",
-    "id": "rls-75-OCT565959",
-    "ocid": "ocds-r6ebe6-0000844805",
-    "title": "Asset Tracking System",
-    "buyer": "NHS Borders",
-    "description": "NHS Borders is seeking competitive tenders from suitably experienced suppliers for an asset tracking system. The requirement supports a programme to improve the control, traceability and efficient management of clinical and selected non-clinical equipment, replacing fragmented manual records with sustainable digital tracking and reporting.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-05T00:00:00Z",
-    "deadline": "2026-11-16T12:00:00Z",
-    "value": 116000.0,
-    "currency": "GBP",
-    "cpv": [
-      "48422000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 48422000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565959",
-    "fetched_at": "2026-10-29T23:12:18.766080Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-8-OCT567484",
-    "id": "rls-8-OCT567484",
-    "ocid": "ocds-r6ebe6-0000846275",
-    "title": "Skills, Curriculum and Learner Pathway Consultancy Services (Skills for Glasgow Phase 1)",
-    "buyer": "Glasgow Kelvin College",
-    "description": "GKC, acting on behalf of the Glasgow Colleges Leadership Group (GCLG), is seeking to appoint an experienced consultancy organisation to support delivery of Phase 1 of the Skills for Glasgow programme. The programme seeks to strengthen the alignment of college curriculum and learner pathways with current and future economic, social, employer and learner needs across Glasgow and the wider Glasgow City Region.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-27T00:00:00Z",
-    "deadline": "2026-11-16T12:00:00Z",
-    "value": 96000.0,
-    "currency": "GBP",
-    "cpv": [
-      "72224000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72224000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT567484",
-    "fetched_at": "2026-10-29T12:43:54.163652Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-11-OCT567484",
-    "id": "rls-11-OCT567484",
-    "ocid": "ocds-r6ebe6-0000846275",
-    "title": "Skills, Curriculum and Learner Pathway Consultancy Services (Skills for Glasgow Phase 1)",
-    "buyer": "Glasgow Kelvin College",
-    "description": "GKC, acting on behalf of the Glasgow Colleges Leadership Group (GCLG), is seeking to appoint an experienced consultancy organisation to support delivery of Phase 1 of the Skills for Glasgow programme. The programme seeks to strengthen the alignment of college curriculum and learner pathways with current and future economic, social, employer and learner needs across Glasgow and the wider Glasgow City Region.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-27T00:00:00Z",
-    "deadline": "2026-11-16T12:00:00Z",
-    "value": 96000.0,
-    "currency": "GBP",
-    "cpv": [
-      "72224000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72224000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT567484",
-    "fetched_at": "2026-10-30T12:35:18.277628Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-79-OCT565959",
-    "id": "rls-79-OCT565959",
-    "ocid": "ocds-r6ebe6-0000844805",
-    "title": "Asset Tracking System",
-    "buyer": "NHS Borders",
-    "description": "NHS Borders is seeking competitive tenders from suitably experienced suppliers for an asset tracking system. The requirement supports a programme to improve the control, traceability and efficient management of clinical and selected non-clinical equipment, replacing fragmented manual records with sustainable digital tracking and reporting.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-05T00:00:00Z",
-    "deadline": "2026-11-16T12:00:00Z",
-    "value": 116000.0,
-    "currency": "GBP",
-    "cpv": [
-      "48422000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 48422000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT565959",
-    "fetched_at": "2026-10-31T22:23:18.205472Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-13-OCT567484",
-    "id": "rls-13-OCT567484",
-    "ocid": "ocds-r6ebe6-0000846275",
-    "title": "Skills, Curriculum and Learner Pathway Consultancy Services (Skills for Glasgow Phase 1)",
-    "buyer": "Glasgow Kelvin College",
-    "description": "GKC, acting on behalf of the Glasgow Colleges Leadership Group (GCLG), is seeking to appoint an experienced consultancy organisation to support delivery of Phase 1 of the Skills for Glasgow programme. The programme seeks to strengthen the alignment of college curriculum and learner pathways with current and future economic, social, employer and learner needs across Glasgow and the wider Glasgow City Region.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-27T00:00:00Z",
-    "deadline": "2026-11-16T12:00:00Z",
-    "value": 96000.0,
-    "currency": "GBP",
-    "cpv": [
-      "72224000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72224000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT567484",
-    "fetched_at": "2026-10-31T22:23:29.152406Z"
   },
   {
     "key": "Find a Tender:100646-2026",
@@ -9290,6 +8484,30 @@
     "fetched_at": "2026-11-15T23:21:58.786197Z"
   },
   {
+    "key": "Public Contracts Scotland:rls-62-NOV567903",
+    "id": "rls-62-NOV567903",
+    "ocid": "ocds-r6ebe6-0000847310",
+    "title": "Provision of IT Disaster Recovery plan",
+    "buyer": "Cairngorms National Park Authority",
+    "description": "The Park Authority is seeking specialist support to review and strengthen the alignment between Business Continuity (BC) and IT Disaster Recovery (ITDR) arrangements.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-02T00:00:00Z",
+    "deadline": "2026-12-04T10:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "72000000"
+    ],
+    "status": "active",
+    "relevance": 25,
+    "matched": [
+      "CPV 72000000"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV567903",
+    "fetched_at": "2026-11-16T15:27:18.190411Z"
+  },
+  {
     "key": "Find a Tender:106268-2026",
     "id": "106268-2026",
     "ocid": "ocds-h6vhtk-07b7a8",
@@ -9749,231 +8967,6 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT567551",
     "fetched_at": "2026-10-31T22:23:18.197628Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-12-OCT567084",
-    "id": "rls-12-OCT567084",
-    "ocid": "ocds-r6ebe6-0000846267",
-    "title": "Integrated Nature Network, Climate Adaptation and Blue-Green Infrastructure Opportunity Mapping",
-    "buyer": "Loch Lomond & The Trossachs National Park Authority",
-    "description": "To analyse and synthesise existing evidence to identify spatial opportunities for nature networks, climate adaptation including natural flood management, and blue-green infrastructure across the National Park",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-21T00:00:00Z",
-    "deadline": "2026-11-16T10:00:00Z",
-    "value": 50000.0,
-    "currency": "GBP",
-    "cpv": [
-      "71621000"
-    ],
-    "status": "active",
-    "relevance": 12,
-    "matched": [
-      "infrastructure",
-      "network"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT567084",
-    "fetched_at": "2026-10-25T21:35:52.064819Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-14-OCT567084",
-    "id": "rls-14-OCT567084",
-    "ocid": "ocds-r6ebe6-0000846267",
-    "title": "Integrated Nature Network, Climate Adaptation and Blue-Green Infrastructure Opportunity Mapping",
-    "buyer": "Loch Lomond & The Trossachs National Park Authority",
-    "description": "To analyse and synthesise existing evidence to identify spatial opportunities for nature networks, climate adaptation including natural flood management, and blue-green infrastructure across the National Park",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-21T00:00:00Z",
-    "deadline": "2026-11-16T10:00:00Z",
-    "value": 50000.0,
-    "currency": "GBP",
-    "cpv": [
-      "71621000"
-    ],
-    "status": "active",
-    "relevance": 12,
-    "matched": [
-      "infrastructure",
-      "network"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT567084",
-    "fetched_at": "2026-10-26T23:04:54.484774Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-15-OCT567084",
-    "id": "rls-15-OCT567084",
-    "ocid": "ocds-r6ebe6-0000846267",
-    "title": "Integrated Nature Network, Climate Adaptation and Blue-Green Infrastructure Opportunity Mapping",
-    "buyer": "Loch Lomond & The Trossachs National Park Authority",
-    "description": "To analyse and synthesise existing evidence to identify spatial opportunities for nature networks, climate adaptation including natural flood management, and blue-green infrastructure across the National Park",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-21T00:00:00Z",
-    "deadline": "2026-11-16T10:00:00Z",
-    "value": 50000.0,
-    "currency": "GBP",
-    "cpv": [
-      "71621000"
-    ],
-    "status": "active",
-    "relevance": 12,
-    "matched": [
-      "infrastructure",
-      "network"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT567084",
-    "fetched_at": "2026-10-27T11:55:58.051117Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-19-OCT567084",
-    "id": "rls-19-OCT567084",
-    "ocid": "ocds-r6ebe6-0000846267",
-    "title": "Integrated Nature Network, Climate Adaptation and Blue-Green Infrastructure Opportunity Mapping",
-    "buyer": "Loch Lomond & The Trossachs National Park Authority",
-    "description": "To analyse and synthesise existing evidence to identify spatial opportunities for nature networks, climate adaptation including natural flood management, and blue-green infrastructure across the National Park",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-21T00:00:00Z",
-    "deadline": "2026-11-16T10:00:00Z",
-    "value": 50000.0,
-    "currency": "GBP",
-    "cpv": [
-      "71621000"
-    ],
-    "status": "active",
-    "relevance": 12,
-    "matched": [
-      "infrastructure",
-      "network"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT567084",
-    "fetched_at": "2026-10-27T22:54:21.290901Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-20-OCT567084",
-    "id": "rls-20-OCT567084",
-    "ocid": "ocds-r6ebe6-0000846267",
-    "title": "Integrated Nature Network, Climate Adaptation and Blue-Green Infrastructure Opportunity Mapping",
-    "buyer": "Loch Lomond & The Trossachs National Park Authority",
-    "description": "To analyse and synthesise existing evidence to identify spatial opportunities for nature networks, climate adaptation including natural flood management, and blue-green infrastructure across the National Park",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-21T00:00:00Z",
-    "deadline": "2026-11-16T10:00:00Z",
-    "value": 50000.0,
-    "currency": "GBP",
-    "cpv": [
-      "71621000"
-    ],
-    "status": "active",
-    "relevance": 12,
-    "matched": [
-      "infrastructure",
-      "network"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT567084",
-    "fetched_at": "2026-10-28T12:33:28.971940Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-23-OCT567084",
-    "id": "rls-23-OCT567084",
-    "ocid": "ocds-r6ebe6-0000846267",
-    "title": "Integrated Nature Network, Climate Adaptation and Blue-Green Infrastructure Opportunity Mapping",
-    "buyer": "Loch Lomond & The Trossachs National Park Authority",
-    "description": "To analyse and synthesise existing evidence to identify spatial opportunities for nature networks, climate adaptation including natural flood management, and blue-green infrastructure across the National Park",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-21T00:00:00Z",
-    "deadline": "2026-11-16T10:00:00Z",
-    "value": 50000.0,
-    "currency": "GBP",
-    "cpv": [
-      "71621000"
-    ],
-    "status": "active",
-    "relevance": 12,
-    "matched": [
-      "infrastructure",
-      "network"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT567084",
-    "fetched_at": "2026-10-28T23:04:12.182883Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-24-OCT567084",
-    "id": "rls-24-OCT567084",
-    "ocid": "ocds-r6ebe6-0000846267",
-    "title": "Integrated Nature Network, Climate Adaptation and Blue-Green Infrastructure Opportunity Mapping",
-    "buyer": "Loch Lomond & The Trossachs National Park Authority",
-    "description": "To analyse and synthesise existing evidence to identify spatial opportunities for nature networks, climate adaptation including natural flood management, and blue-green infrastructure across the National Park",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-21T00:00:00Z",
-    "deadline": "2026-11-16T10:00:00Z",
-    "value": 50000.0,
-    "currency": "GBP",
-    "cpv": [
-      "71621000"
-    ],
-    "status": "active",
-    "relevance": 12,
-    "matched": [
-      "infrastructure",
-      "network"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT567084",
-    "fetched_at": "2026-10-29T12:43:54.164671Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-27-OCT567084",
-    "id": "rls-27-OCT567084",
-    "ocid": "ocds-r6ebe6-0000846267",
-    "title": "Integrated Nature Network, Climate Adaptation and Blue-Green Infrastructure Opportunity Mapping",
-    "buyer": "Loch Lomond & The Trossachs National Park Authority",
-    "description": "To analyse and synthesise existing evidence to identify spatial opportunities for nature networks, climate adaptation including natural flood management, and blue-green infrastructure across the National Park",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-21T00:00:00Z",
-    "deadline": "2026-11-16T10:00:00Z",
-    "value": 50000.0,
-    "currency": "GBP",
-    "cpv": [
-      "71621000"
-    ],
-    "status": "active",
-    "relevance": 12,
-    "matched": [
-      "infrastructure",
-      "network"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT567084",
-    "fetched_at": "2026-10-30T12:35:18.278640Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-29-OCT567084",
-    "id": "rls-29-OCT567084",
-    "ocid": "ocds-r6ebe6-0000846267",
-    "title": "Integrated Nature Network, Climate Adaptation and Blue-Green Infrastructure Opportunity Mapping",
-    "buyer": "Loch Lomond & The Trossachs National Park Authority",
-    "description": "To analyse and synthesise existing evidence to identify spatial opportunities for nature networks, climate adaptation including natural flood management, and blue-green infrastructure across the National Park",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-21T00:00:00Z",
-    "deadline": "2026-11-16T10:00:00Z",
-    "value": 50000.0,
-    "currency": "GBP",
-    "cpv": [
-      "71621000"
-    ],
-    "status": "active",
-    "relevance": 12,
-    "matched": [
-      "infrastructure",
-      "network"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT567084",
-    "fetched_at": "2026-10-31T22:23:29.153398Z"
   },
   {
     "key": "Public Contracts Scotland:rls-5-OCT567236",
