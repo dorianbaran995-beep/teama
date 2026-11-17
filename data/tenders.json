@@ -39,6 +39,64 @@
     "fetched_at": "2026-10-25T21:35:54.530862Z"
   },
   {
+    "key": "Find a Tender:108745-2026",
+    "id": "108745-2026",
+    "ocid": "ocds-h6vhtk-07bd50",
+    "title": "CeTPD Laboratory Information Management System",
+    "buyer": "University of Dundee",
+    "description": "The Centre for Targeted Protein Degradation (CeTPD) is an academic research center focused on translational chemical biology, currently housing ~60 researchers and technicians across disciplines and experience levels (undergraduate, post graduate students, post-docs, (senior) staff scientists, Principal Investigators). The requirement is a software solution, for all research staff, that provides Laboratory Information Management System (LIMs) capability. This broadly includes scientist electronic lab notebook (across disciplines), reagent inventory and management, compound inventory and management and ideally some capability for processed data databasing and rudimentary visualisation. We are seeking to procure a secure, cloud-based design and Laboratory Information Management System to support collaborative drug discovery workflows. The solution is expected to deliver; - An integrated platform for electronic lab notebooks, reagent inventory management, compound registration and management and ideally data visualisation. - The system must accommodate the needs of scientists in both chemical and biological sciences and their respective workflows. - The system must accommodate that Users may require access relevant to both chemical biological sciences workflows within the same user area. - Seamless integration with existing computational workflows - Seamless integration with third-party applications and/or databases - A secure, stable and scalable cloud deployment which Complies with the University and collaborator cybersecurity, information governance and GDPR requirements Meets with strict performance, reliability and governance standards Meets with the functional and non-functional requirements of the CeTPD (as outlined below) - Improved operational efficiency, regulatory compliance, and scalability to support future growth and evolving scientific needs",
+    "source": "Find a Tender",
+    "country": "United Kingdom",
+    "published_at": "2026-11-17T09:29:50Z",
+    "deadline": "2026-12-11T12:00:00Z",
+    "value": 250000.0,
+    "currency": "GBP",
+    "cpv": [
+      "72322000"
+    ],
+    "status": "active",
+    "relevance": 76,
+    "matched": [
+      "CPV 72322000",
+      "cloud",
+      "cybersecurity",
+      "database",
+      "integration",
+      "software"
+    ],
+    "url": "https://www.find-tender.service.gov.uk/Notice/108745-2026",
+    "fetched_at": "2026-11-17T15:47:56.397653Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-2-NOV568928",
+    "id": "rls-2-NOV568928",
+    "ocid": "ocds-r6ebe6-0000848549",
+    "title": "CeTPD Laboratory Information Management System",
+    "buyer": "University of Dundee",
+    "description": "The Centre for Targeted Protein Degradation (CeTPD) is an academic research center focused on translational chemical biology, currently housing ~60 researchers and technicians across disciplines and experience levels (undergraduate, post graduate students, post-docs, (senior) staff scientists, Principal Investigators). The requirement is a software solution, for all research staff, that provides Laboratory Information Management System (LIMs) capability. This broadly includes scientist electronic lab notebook (across disciplines), reagent inventory and management, compound inventory and management and ideally some capability for processed data databasing and rudimentary visualisation. We are seeking to procure a secure, cloud-based design and Laboratory Information Management System to support collaborative drug discovery workflows. The solution is expected to deliver; - An integrated platform for electronic lab notebooks, reagent inventory management, compound registration and management and ideally data visualisation. - The system must accommodate the needs of scientists in both chemical and biological sciences and their respective workflows. - The system must accommodate that Users may require access relevant to both chemical biological sciences workflows within the same user area. - Seamless integration with existing computational workflows - Seamless integration with third-party applications and/or databases - A secure, stable and scalable cloud deployment which Complies with the University and collaborator cybersecurity, information governance and GDPR requirements Meets with strict performance, reliability and governance standards Meets with the functional and non-functional requirements of the CeTPD (as outlined below) - Improved operational efficiency, regulatory compliance, and scalability to support future growth and evolving scientific needs",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-17T00:00:00Z",
+    "deadline": "2026-12-11T12:00:00Z",
+    "value": 250000.0,
+    "currency": "GBP",
+    "cpv": [
+      "72322000"
+    ],
+    "status": "active",
+    "relevance": 76,
+    "matched": [
+      "CPV 72322000",
+      "cloud",
+      "cybersecurity",
+      "database",
+      "integration",
+      "software"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568928",
+    "fetched_at": "2026-11-17T15:48:17.051439Z"
+  },
+  {
     "key": "eTenders Ireland / TED:755937-2026",
     "id": "755937-2026",
     "ocid": null,
@@ -105,7 +163,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/795601-2026",
-    "fetched_at": "2026-11-17T02:24:34.137818Z"
+    "fetched_at": "2026-11-17T15:48:28.934257Z"
   },
   {
     "key": "eTenders Ireland / TED:796272-2026",
@@ -149,7 +207,7 @@
       "website"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/796272-2026",
-    "fetched_at": "2026-11-17T02:24:34.140151Z"
+    "fetched_at": "2026-11-17T15:48:28.936602Z"
   },
   {
     "key": "eTenders Ireland / TED:791282-2026",
@@ -192,7 +250,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/791282-2026",
-    "fetched_at": "2026-11-17T02:24:34.142441Z"
+    "fetched_at": "2026-11-17T15:48:28.939478Z"
   },
   {
     "key": "eTenders Ireland / TED:764456-2026",
@@ -231,8 +289,8 @@
     "fetched_at": "2026-11-10T14:40:49.571318Z"
   },
   {
-    "key": "Public Contracts Scotland:rls-44-NOV568059",
-    "id": "rls-44-NOV568059",
+    "key": "Public Contracts Scotland:rls-46-NOV568059",
+    "id": "rls-46-NOV568059",
     "ocid": "ocds-r6ebe6-0000846370",
     "title": "Digital Connectivity Programme - 1gb Broadband Install and Service Delivery",
     "buyer": "North Lanarkshire Council",
@@ -266,7 +324,7 @@
       "digital service"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568059",
-    "fetched_at": "2026-11-17T02:24:22.247164Z"
+    "fetched_at": "2026-11-17T15:48:17.057493Z"
   },
   {
     "key": "eTenders Ireland / TED:781832-2026",
@@ -437,43 +495,6 @@
     "fetched_at": "2026-10-26T23:05:17.295134Z"
   },
   {
-    "key": "eTenders Ireland / TED:780338-2026",
-    "id": "780338-2026",
-    "ocid": null,
-    "title": "Ireland – Software implementation services – CORU Registrant Management System",
-    "buyer": "Health and Social Care Professionals Council",
-    "description": "Active Irish public procurement notice published through TED/eTenders.",
-    "source": "eTenders Ireland / TED",
-    "country": "Ireland",
-    "published_at": "2026-11-10T01:00:00Z",
-    "deadline": "2026-11-17T12:00:00Z",
-    "value": null,
-    "currency": "EUR",
-    "cpv": [
-      "72263000",
-      "48612000",
-      "72266000",
-      "72261000",
-      "72267000",
-      "72263000",
-      "48612000",
-      "72266000",
-      "72261000",
-      "72267000"
-    ],
-    "status": "active",
-    "relevance": 58,
-    "matched": [
-      "CPV 48612000",
-      "CPV 72261000",
-      "CPV 72263000",
-      "CPV 72266000",
-      "software"
-    ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/780338-2026",
-    "fetched_at": "2026-11-16T15:27:19.403399Z"
-  },
-  {
     "key": "eTenders Ireland / TED:766849-2026",
     "id": "766849-2026",
     "ocid": null,
@@ -591,7 +612,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/791448-2026",
-    "fetched_at": "2026-11-17T02:24:34.140710Z"
+    "fetched_at": "2026-11-17T15:48:28.937853Z"
   },
   {
     "key": "eTenders Ireland / TED:785473-2026",
@@ -626,7 +647,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/785473-2026",
-    "fetched_at": "2026-11-17T02:24:34.147766Z"
+    "fetched_at": "2026-11-17T15:48:28.946139Z"
   },
   {
     "key": "eTenders Ireland / TED:766413-2026",
@@ -702,7 +723,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/791015-2026",
-    "fetched_at": "2026-11-17T02:24:40.304715Z"
+    "fetched_at": "2026-11-17T15:48:37.667141Z"
   },
   {
     "key": "Poland / TED:794557-2026",
@@ -739,7 +760,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/794557-2026",
-    "fetched_at": "2026-11-16T15:27:24.716298Z"
+    "fetched_at": "2026-11-17T15:48:35.504722Z"
   },
   {
     "key": "eTenders Ireland / TED:706914-2026",
@@ -809,7 +830,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/793287-2026",
-    "fetched_at": "2026-11-17T02:24:34.139654Z"
+    "fetched_at": "2026-11-17T15:48:28.935988Z"
   },
   {
     "key": "eTenders Ireland / TED:791412-2026",
@@ -836,7 +857,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/791412-2026",
-    "fetched_at": "2026-11-17T02:24:34.142794Z"
+    "fetched_at": "2026-11-17T15:48:28.939944Z"
   },
   {
     "key": "eTenders Ireland / TED:755875-2026",
@@ -895,7 +916,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/790499-2026",
-    "fetched_at": "2026-11-17T02:24:34.141302Z"
+    "fetched_at": "2026-11-17T15:48:28.938381Z"
   },
   {
     "key": "Find a Tender:105246-2026",
@@ -1394,6 +1415,37 @@
     "fetched_at": "2026-11-17T02:24:22.246760Z"
   },
   {
+    "key": "Public Contracts Scotland:rls-42-NOV568180",
+    "id": "rls-42-NOV568180",
+    "ocid": "ocds-r6ebe6-0000847479",
+    "title": "Supply and Support of Integrated Workplace Management System",
+    "buyer": "North Ayrshire Council",
+    "description": "North Ayrshire Council (NAC) is seeking to procure a cloud-hosted Integrated Workplace Management System (IWMS) to replace its existing Computer Aided Facilities Management (CAFM) solution. The new solution will provide a single, integrated platform to support the management of the Council's operational property portfolio, encompassing asset management, maintenance management, statutory compliance, financial monitoring, reporting and governance.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-05T00:00:00Z",
+    "deadline": "2026-12-07T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "72250000",
+      "72263000",
+      "72267100",
+      "72268000"
+    ],
+    "status": "active",
+    "relevance": 53,
+    "matched": [
+      "CPV 72250000",
+      "CPV 72263000",
+      "CPV 72267100",
+      "CPV 72268000",
+      "cloud"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568180",
+    "fetched_at": "2026-11-17T15:48:17.057017Z"
+  },
+  {
     "key": "eTenders Ireland / TED:751505-2026",
     "id": "751505-2026",
     "ocid": null,
@@ -1499,7 +1551,45 @@
       "network"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/795944-2026",
-    "fetched_at": "2026-11-17T02:24:34.137982Z"
+    "fetched_at": "2026-11-17T15:48:28.934511Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-44-NOV568059",
+    "id": "rls-44-NOV568059",
+    "ocid": "ocds-r6ebe6-0000846370",
+    "title": "Digital Connectivity Programme - 1gb Broadband Install and Service Delivery",
+    "buyer": "North Lanarkshire Council",
+    "description": "North Lanarkshire Council (the âCouncilâ) is undertaking a major digital transformation programme to deliver gigabit capable broadband connectivity to approximately 37,000 Council owned social housing properties across the authority area. The programme is a core component of the Councilâs Digital Connectivity Masterplan and supports wider strategic ambitions including but not limited to: -Inclusive growth, -Tackling digital exclusion, -Improving access to public and digital services, and -Enabling technology enabled living within Council homes The programme reinforces the Councilâs commitment to ensuring that tenants are not disadvantaged by a lack of access to high-quality full-fibre connectivity and recognises that reliable digital connectivity is now an essential utility, underpinning access to employment, education, healthcare, welfare services and community participation.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-04T00:00:00Z",
+    "deadline": "2026-12-08T12:00:00Z",
+    "value": 85450527.0,
+    "currency": "GBP",
+    "cpv": [
+      "32412100",
+      "32412110",
+      "32571000",
+      "45314000",
+      "45314320",
+      "50332000",
+      "64200000",
+      "64227000",
+      "72400000",
+      "72411000",
+      "72420000"
+    ],
+    "status": "active",
+    "relevance": 51,
+    "matched": [
+      "CPV 32412100",
+      "CPV 32412110",
+      "CPV 32571000",
+      "CPV 72400000",
+      "digital service"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568059",
+    "fetched_at": "2026-11-17T02:24:22.247164Z"
   },
   {
     "key": "Public Contracts Scotland:rls-39-NOV568059",
@@ -2190,7 +2280,7 @@
       "database"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/108333-2026",
-    "fetched_at": "2026-11-17T02:24:00.261414Z"
+    "fetched_at": "2026-11-17T15:47:56.399921Z"
   },
   {
     "key": "Public Contracts Scotland:rls-5-NOV568832",
@@ -2281,6 +2371,51 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568832",
     "fetched_at": "2026-11-17T02:24:22.243961Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-12-NOV568832",
+    "id": "rls-12-NOV568832",
+    "ocid": "ocds-r6ebe6-0000834532",
+    "title": "General Office Supplies 2027",
+    "buyer": "Scottish Government",
+    "description": "This Framework Agreement is for the provision of General Office Supplies, including Stationery, Office Paper, Electronic Office Supplies (EOS), Catering Goods and Consumables, Janitorial and Hygiene products to the Scottish public sector. The Framework Agreement will be available for use by the Scottish Ministers (including Agencies), Scottish Non-Departmental Public Bodies, offices in the Scottish Administration which are not ministerial offices, cross-border public authorities within the meaning of section 88(5) of the Scotland Act 1998, The Office for the Secretary of State for Scotland, the Scottish Parliamentary Corporate Body, councils constituted under section 2 of the Local Government etc. (Scotland) Act 1994, bodies registered as social landlords under the Housing (Scotland) Act 2001, Scottish health boards or special health boards, Student Loans Company Limited, the Commissioner of Northern Lighthouse operating as the Northern Lighthouse Board, Scottish Futures Trust, Equality and Human Rights Commission, Business Stream Ltd, the Business Gateway National Unit at the Convention of Scottish Local Authorities, further or higher education institutions being fundable bodies within the meaning of section 6 of the further and Higher Education (Scotland) Act 2005, any public body established by or under the Scotland Act 1998 or any Act of the Scottish Parliament, any association of or formed by one or more of the foregoing, bodies financed wholly or mainly by one or more of the foregoing, bodies subject to management supervision by one or more of the foregoing and bodies more than half of the board of directors or members of which, or, in the case of a group of individuals, more than half of those individuals, being appointed by one or more of the foregoing. In addition to the contracting authorities listed, the framework agreement will be available to charities entered on the Scottish Charity Register and voluntary organisations entered on the Membership Database of the Scottish Council for Voluntary Organisations. Information about agencies of the Scottish Ministers, Scottish Non-Departmental Public Bodies and offices in the Scottish Administration which are not ministerial offices are listed at https://www.gov.scot/publications/national-public-bodies-directory/ Overview of the governance structure of public procurement for Scotland, including the Publi",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-16T00:00:00Z",
+    "deadline": "2026-12-17T12:00:00Z",
+    "value": 38000000.0,
+    "currency": "GBP",
+    "cpv": [
+      "18114000",
+      "18142000",
+      "18143000",
+      "18424300",
+      "18830000",
+      "30100000",
+      "30124300",
+      "30125100",
+      "30192000",
+      "30192113",
+      "30192700",
+      "33711430",
+      "33735100",
+      "33771100",
+      "35113400",
+      "35113410",
+      "39222000",
+      "39830000"
+    ],
+    "status": "active",
+    "relevance": 51,
+    "matched": [
+      "CPV 30100000",
+      "CPV 30124300",
+      "CPV 30125100",
+      "CPV 30192000",
+      "database"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568832",
+    "fetched_at": "2026-11-17T15:48:17.053553Z"
   },
   {
     "key": "eTenders Ireland / TED:781729-2026",
@@ -2509,7 +2644,7 @@
       "CPV 72260000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/796859-2026",
-    "fetched_at": "2026-11-17T02:24:36.963141Z"
+    "fetched_at": "2026-11-17T15:48:32.298207Z"
   },
   {
     "key": "eTenders Ireland / TED:786333-2026",
@@ -2542,7 +2677,7 @@
       "CPV 72200000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/786333-2026",
-    "fetched_at": "2026-11-17T02:24:34.145134Z"
+    "fetched_at": "2026-11-17T15:48:28.942867Z"
   },
   {
     "key": "Poland / TED:715186-2026",
@@ -2616,7 +2751,7 @@
       "CPV 48812000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/796775-2026",
-    "fetched_at": "2026-11-17T02:24:34.134963Z"
+    "fetched_at": "2026-11-17T15:48:28.930559Z"
   },
   {
     "key": "Find a Tender:106307-2026",
@@ -2973,7 +3108,7 @@
       "CPV 72212931"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/783873-2026",
-    "fetched_at": "2026-11-17T02:24:34.145926Z"
+    "fetched_at": "2026-11-17T15:48:28.944108Z"
   },
   {
     "key": "Public Contracts Scotland:rls-8-NOV568387",
@@ -3488,6 +3623,70 @@
     "fetched_at": "2026-11-17T02:24:22.246011Z"
   },
   {
+    "key": "Public Contracts Scotland:rls-33-NOV568387",
+    "id": "rls-33-NOV568387",
+    "ocid": "ocds-r6ebe6-0000847959",
+    "title": "Computerised Maintenance Management System (CMMS) / Computer-Aided Facility Management System (CAFM)",
+    "buyer": "NHS Grampian",
+    "description": "The NHS Grampian Maintenance & Technical Services (MaTS) Department is responsible for the management and maintenance of a diverse estate throughout Aberdeen City, Aberdeenshire and Moray, ranging from small healthcare facilities to large acute hospital sites. The Authority requires a CMMS/CAFM Solution capable of supporting the effective administration and control of assets, maintenance activities, compliance activities, contractor activities, reporting requirements and associated operational, governance and assurance processes.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-09T00:00:00Z",
+    "deadline": "2026-12-09T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "48420000",
+      "48421000",
+      "72000000",
+      "72212420",
+      "72212421",
+      "72514000"
+    ],
+    "status": "active",
+    "relevance": 45,
+    "matched": [
+      "CPV 48420000",
+      "CPV 48421000",
+      "CPV 72000000",
+      "CPV 72212420"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568387",
+    "fetched_at": "2026-11-17T15:48:17.055950Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-34-NOV568379",
+    "id": "rls-34-NOV568379",
+    "ocid": "ocds-r6ebe6-0000847937",
+    "title": "Computerised Maintenance Management System (CMMS) / Computer-Aided Facility Management System (CAFM)",
+    "buyer": "NHS Grampian",
+    "description": "The NHS Grampian Maintenance & Technical Services (MaTS) Department is responsible for the management and maintenance of a diverse estate throughout Aberdeen City, Aberdeenshire and Moray, ranging from small healthcare facilities to large acute hospital sites. The Authority requires a CMMS/CAFM Solution capable of supporting the effective administration and control of assets, maintenance activities, compliance activities, contractor activities, reporting requirements and associated operational, governance and assurance processes.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-09T00:00:00Z",
+    "deadline": "2026-12-09T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "48420000",
+      "48421000",
+      "72000000",
+      "72212420",
+      "72212421",
+      "72514000"
+    ],
+    "status": "active",
+    "relevance": 45,
+    "matched": [
+      "CPV 48420000",
+      "CPV 48421000",
+      "CPV 72000000",
+      "CPV 72212420"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568379",
+    "fetched_at": "2026-11-17T15:48:17.056078Z"
+  },
+  {
     "key": "Find a Tender:108199-2026",
     "id": "108199-2026",
     "ocid": "ocds-h6vhtk-07bc24",
@@ -3702,6 +3901,60 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568810",
     "fetched_at": "2026-11-17T02:24:22.244226Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-13-NOV568810",
+    "id": "rls-13-NOV568810",
+    "ocid": "ocds-r6ebe6-0000847553",
+    "title": "Glasgow Business Growth Framework - Phase 4",
+    "buyer": "Glasgow City Council",
+    "description": "Glasgow City Council (the Council) requires a framework of suppliers to deliver a range of business growth consultancy services to eligible organisations across the city to aide a sustainable growth agenda and improve business start-up and survival rates. As the organisations accessing support via this Framework have different needs, the services provided must be offered flexibly. This includes, but is not limited to, face to face, digitally, by phone and one to one at suitable times and locations. The Framework is made up of 10 Lots as detailed below and aligned to the specialist area of business support to be provided. Please note funding is currently confirmed for the first two years of the Framework. This therefore represents the estimated minimum total Framework value. Should funding equal to this initial value be subsequently secured this will be used to deliver years three and four respectively and aligns with the higher maximum value noted in II.1.5 Lot 1- Business Structuring, Business Governance, Legal & IP Lot 2 - Business Growth, Sustainable Growth and Productivity Lot 3 - Upskilling, Leadership & Resource Lot 4 - Financial readiness & Planning Lot 5 - Design & System Processing Lot 6 - Sales and Digital Marketing Lot 7 - Preparing for Global Growth Lot 8 - Digital Transformation Lot 9 - Sustainable & Net Zero Support Lot 10 - Business Acceleration",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-13T00:00:00Z",
+    "deadline": "2026-12-15T12:00:00Z",
+    "value": 3800000.0,
+    "currency": "GBP",
+    "cpv": [
+      "66170000",
+      "66171000",
+      "66519310",
+      "71314300",
+      "72212481",
+      "72220000",
+      "72221000",
+      "72224000",
+      "72242000",
+      "72413000",
+      "73000000",
+      "73220000",
+      "79340000",
+      "79342000",
+      "79400000",
+      "79410000",
+      "79411000",
+      "79411100",
+      "79412000",
+      "79413000",
+      "79414000",
+      "79415200",
+      "79418000",
+      "79421200",
+      "79822500",
+      "79930000",
+      "79933000",
+      "90713000"
+    ],
+    "status": "active",
+    "relevance": 45,
+    "matched": [
+      "CPV 72212481",
+      "CPV 72220000",
+      "CPV 72221000",
+      "CPV 72224000"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568810",
+    "fetched_at": "2026-11-17T15:48:17.053888Z"
   },
   {
     "key": "Public Contracts Scotland:rls-3-NOV568226",
@@ -4080,6 +4333,33 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568226",
     "fetched_at": "2026-11-17T02:24:22.246502Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-40-NOV568226",
+    "id": "rls-40-NOV568226",
+    "ocid": "ocds-r6ebe6-0000838193",
+    "title": "Replacement of Corporate Telephony and Contact Centre Environment",
+    "buyer": "Link Group",
+    "description": "Link Group is seeking to appoint a suitably qualified supplier to provide, implement and support a modern, secure and resilient corporate telephony and Contact Centre as a Service (CCaaS) solution. The contract will include cloud telephony, omnichannel contact handling, intelligent routing, workforce management, call recording, quality management, reporting and analytics, PCI-compliant payment handling, integration capabilities, migration, implementation, training and ongoing support. The solution will support customer-facing and colleague-facing services across Link Group and will be delivered through a phased approach.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-06T00:00:00Z",
+    "deadline": "2026-11-23T12:00:00Z",
+    "value": 1500000.0,
+    "currency": "GBP",
+    "cpv": [
+      "32500000",
+      "64210000"
+    ],
+    "status": "active",
+    "relevance": 44,
+    "matched": [
+      "CPV 32500000",
+      "cloud",
+      "integration"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568226",
+    "fetched_at": "2026-11-17T15:48:17.056666Z"
   },
   {
     "key": "eTenders Ireland / TED:728304-2026",
@@ -4495,6 +4775,33 @@
     "fetched_at": "2026-11-17T02:24:32.553672Z"
   },
   {
+    "key": "Public Contracts Scotland:rls-42-NOV568283",
+    "id": "rls-42-NOV568283",
+    "ocid": "ocds-r6ebe6-0000847844",
+    "title": "Computerised Maintenance Management System (CMMS) / Computer-Aided Facility Management System (CAFM)",
+    "buyer": "NHS Grampian",
+    "description": "NHS Grampian is undertaking this procurement for the provision, implementation, configuration, licensing, hosting, support, maintenance and ongoing enhancement of a Computerised Maintenance Management System (CMMS/CAFM) Solution. The NHS Grampian Maintenance & Technical Services (MaTS) Department is responsible for the management and maintenance of a diverse estate throughout Aberdeen City, Aberdeenshire and Moray, ranging from small healthcare facilities to large acute hospital sites. The Authority requires a CMMS/CAFM Solution capable of supporting the effective administration and control of assets, maintenance activities, compliance activities, contractor activities, reporting requirements and associated operational, governance and assurance processes. This procurement seeks to secure a suitably qualified and experienced Provider capable of delivering a configurable, scalable and sustainable CMMS/CAFM Solution that supports NHS Grampian's operational and strategic requirements. The Solution shall support the Authority in maintaining statutory and regulatory compliance whilst enabling the effective planning, scheduling, delivery, monitoring and recording of maintenance and compliance activities throughout the Estate.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-06T00:00:00Z",
+    "deadline": "2026-12-04T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "48000000",
+      "48421000"
+    ],
+    "status": "active",
+    "relevance": 43,
+    "matched": [
+      "CPV 48000000",
+      "CPV 48421000",
+      "hosting"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568283",
+    "fetched_at": "2026-11-17T15:48:28.102564Z"
+  },
+  {
     "key": "Find a Tender:106518-2026",
     "id": "106518-2026",
     "ocid": "ocds-h6vhtk-07b83e",
@@ -4792,6 +5099,33 @@
     "fetched_at": "2026-11-17T02:24:22.245687Z"
   },
   {
+    "key": "Public Contracts Scotland:rls-30-NOV568429",
+    "id": "rls-30-NOV568429",
+    "ocid": "ocds-r6ebe6-0000848003",
+    "title": "CE-215-25 - Supply, Implementation and Ongoing Support of a Leisure Management System",
+    "buyer": "South Ayrshire Council",
+    "description": "South Ayrshire Council (the Council) has a requirement for the supply, delivery and ongoing support of an integrated leisure management software system.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-10T00:00:00Z",
+    "deadline": "2026-12-18T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "48000000",
+      "72222300"
+    ],
+    "status": "active",
+    "relevance": 43,
+    "matched": [
+      "CPV 48000000",
+      "CPV 72222300",
+      "software"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568429",
+    "fetched_at": "2026-11-17T15:48:17.055636Z"
+  },
+  {
     "key": "eTenders Ireland / TED:765108-2026",
     "id": "765108-2026",
     "ocid": null,
@@ -4905,7 +5239,7 @@
       "CPV 72221000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/781632-2026",
-    "fetched_at": "2026-11-17T02:24:34.148945Z"
+    "fetched_at": "2026-11-17T15:48:28.947633Z"
   },
   {
     "key": "eTenders Ireland / TED:789206-2026",
@@ -4934,7 +5268,7 @@
       "CPV 72311100"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/789206-2026",
-    "fetched_at": "2026-11-17T02:24:34.143881Z"
+    "fetched_at": "2026-11-17T15:48:28.941359Z"
   },
   {
     "key": "Find a Tender:104444-2026",
@@ -5419,6 +5753,33 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568116",
     "fetched_at": "2026-11-17T02:24:32.554836Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-61-NOV568116",
+    "id": "rls-61-NOV568116",
+    "ocid": "ocds-r6ebe6-0000847619",
+    "title": "PURCH3035 Provision of Digital Two-Way Radio Communications System and Infrastructure",
+    "buyer": "University of Glasgow",
+    "description": "PURCH3035 Provision of Digital Two-Way Radio Communications System and Infrastructure Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the âContact Usâ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-04T00:00:00Z",
+    "deadline": "2026-11-25T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "32344210"
+    ],
+    "status": "active",
+    "relevance": 38,
+    "matched": [
+      "infrastructure",
+      "portal",
+      "website",
+      "website support"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568116",
+    "fetched_at": "2026-11-17T15:48:28.103928Z"
   },
   {
     "key": "Find a Tender:093955-2026",
@@ -6071,36 +6432,6 @@
     "fetched_at": "2026-10-31T22:23:18.205607Z"
   },
   {
-    "key": "Find a Tender:102124-2026",
-    "id": "102124-2026",
-    "ocid": "ocds-h6vhtk-079284",
-    "title": "L26057- T- YH Customer Journey and Conversion Rate Optimisation Services",
-    "buyer": "London Luton Airport Operations Limited",
-    "description": "Fully managed Customer Journey Optimisation Solution, which includes, but is not limited to: campaign ideation, design integration, campaign development, QA process, campaign launch, review of analytics to discover insights and further optimisations",
-    "source": "Find a Tender",
-    "country": "United Kingdom",
-    "published_at": "2026-10-28T14:09:44Z",
-    "deadline": "2026-11-17T12:00:00Z",
-    "value": null,
-    "currency": null,
-    "cpv": [
-      "48445000",
-      "48481000",
-      "79342311",
-      "79342320",
-      "79413000"
-    ],
-    "status": "active",
-    "relevance": 36,
-    "matched": [
-      "CPV 48445000",
-      "CPV 48481000",
-      "integration"
-    ],
-    "url": "https://www.find-tender.service.gov.uk/Notice/102124-2026",
-    "fetched_at": "2026-10-31T12:00:21.093203Z"
-  },
-  {
     "key": "Find a Tender:101965-2026",
     "id": "101965-2026",
     "ocid": "ocds-h6vhtk-079230",
@@ -6483,6 +6814,39 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568480",
     "fetched_at": "2026-11-17T02:24:22.245529Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-28-NOV568480",
+    "id": "rls-28-NOV568480",
+    "ocid": "ocds-r6ebe6-0000839985",
+    "title": "Mobile Voice and Data Services",
+    "buyer": "Scottish Government",
+    "description": "Mobile Voice and Data Services",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-10T00:00:00Z",
+    "deadline": "2026-12-17T12:00:00Z",
+    "value": 50000000.0,
+    "currency": "GBP",
+    "cpv": [
+      "31712112",
+      "32250000",
+      "32429000",
+      "32510000",
+      "32520000",
+      "64212000",
+      "64216110",
+      "64227000"
+    ],
+    "status": "active",
+    "relevance": 35,
+    "matched": [
+      "CPV 32429000",
+      "CPV 32510000",
+      "CPV 32520000"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568480",
+    "fetched_at": "2026-11-17T15:48:17.055445Z"
   },
   {
     "key": "Find a Tender:096433-2026",
@@ -7598,7 +7962,7 @@
       "CPV 30230000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/783937-2026",
-    "fetched_at": "2026-11-17T02:24:34.146900Z"
+    "fetched_at": "2026-11-17T15:48:28.945075Z"
   },
   {
     "key": "eTenders Ireland / TED:773028-2026",
@@ -7676,7 +8040,7 @@
       "CPV 72413000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/778856-2026",
-    "fetched_at": "2026-11-17T02:24:48.733199Z"
+    "fetched_at": "2026-11-17T15:48:48.913172Z"
   },
   {
     "key": "eTenders Ireland / TED:788237-2026",
@@ -7733,7 +8097,7 @@
       "CPV 32581110"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/788237-2026",
-    "fetched_at": "2026-11-17T02:24:34.145583Z"
+    "fetched_at": "2026-11-17T15:48:28.943439Z"
   },
   {
     "key": "eTenders Ireland / TED:756046-2026",
@@ -7784,314 +8148,6 @@
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/103846-2026",
     "fetched_at": "2026-11-05T14:26:28.560125Z"
-  },
-  {
-    "key": "Find a Tender:100646-2026",
-    "id": "100646-2026",
-    "ocid": "ocds-h6vhtk-078f5f",
-    "title": "Social Housing Emerging Disrupters 6 (SHED 6)",
-    "buyer": "Procurement for Housing Ltd (t/a PfH Scotland)",
-    "description": "Established in 2004, Procurement for Housing (PfH) is a national procurement consortium dedicated to the social housing sector and supported by the National Housing Federation (NHF), Chartered Institute of Housing (CIH) and HouseMark. Collectively our Members manage more than 90% of UK’ social housing stock, with PfH helping them to achieve efficiency savings using a wide range of services including framework agreements, dynamic purchasing systems, spend analyses, strategy reviews, consolidated billing and comprehensive reporting. PfH is a contracting authority under section 2 of the Procurement Act 2023 and a centralised procurement authority under section 1(4) of that Act. Please refer to www.pfh.co.uk for additional information. PfH is administered by Inprova Limited and is headquartered in the North West of England with over 20 years of expertise and experience offering a complete procurement solutions package across outsourcing, technology and consultancy. By integrating procurement services and technology, Inprova operates as a delivery partner, supporting business performance improvement for the public sector.",
-    "source": "Find a Tender",
-    "country": "United Kingdom",
-    "published_at": "2026-10-23T14:25:57Z",
-    "deadline": "2026-11-17T12:00:00Z",
-    "value": 250000000.0,
-    "currency": "GBP",
-    "cpv": [
-      "71300000",
-      "72300000",
-      "79421000",
-      "79900000",
-      "79993000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72300000"
-    ],
-    "url": "https://www.find-tender.service.gov.uk/Notice/100646-2026",
-    "fetched_at": "2026-10-26T12:39:54.695401Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-1-OCT567302",
-    "id": "rls-1-OCT567302",
-    "ocid": "ocds-r6ebe6-0000846526",
-    "title": "Social Housing Emerging Disrupters 6 (SHED 6)",
-    "buyer": "Procurement for Housing Ltd (t/a PfH Scotland)",
-    "description": "Established in 2004, Procurement for Housing (PfH) is a national procurement consortium dedicated to the social housing sector and supported by the National Housing Federation (NHF), Chartered Institute of Housing (CIH) and HouseMark. Collectively our Members manage more than 90% of UKâ social housing stock, with PfH helping them to achieve efficiency savings using a wide range of services including framework agreements, dynamic purchasing systems, spend analyses, strategy reviews, consolidated billing and comprehensive reporting. PfH is a contracting authority under section 2 of the Procurement Act 2023 and a centralised procurement authority under section 1(4) of that Act. Please refer to www.pfh.co.uk for additional information. PfH is administered by Inprova Limited and is headquartered in the North West of England with over 20 years of expertise and experience offering a complete procurement solutions package across outsourcing, technology and consultancy. By integrating procurement services and technology, Inprova operates as a delivery partner, supporting business performance improvement for the public sector.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-23T00:00:00Z",
-    "deadline": "2026-11-17T12:00:00Z",
-    "value": 250000000.0,
-    "currency": "GBP",
-    "cpv": [
-      "71300000",
-      "72300000",
-      "79421000",
-      "79900000",
-      "79993000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72300000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT567302",
-    "fetched_at": "2026-10-23T21:15:45.565110Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-2-OCT567302",
-    "id": "rls-2-OCT567302",
-    "ocid": "ocds-r6ebe6-0000846526",
-    "title": "Social Housing Emerging Disrupters 6 (SHED 6)",
-    "buyer": "Procurement for Housing Ltd (t/a PfH Scotland)",
-    "description": "Established in 2004, Procurement for Housing (PfH) is a national procurement consortium dedicated to the social housing sector and supported by the National Housing Federation (NHF), Chartered Institute of Housing (CIH) and HouseMark. Collectively our Members manage more than 90% of UKâ social housing stock, with PfH helping them to achieve efficiency savings using a wide range of services including framework agreements, dynamic purchasing systems, spend analyses, strategy reviews, consolidated billing and comprehensive reporting. PfH is a contracting authority under section 2 of the Procurement Act 2023 and a centralised procurement authority under section 1(4) of that Act. Please refer to www.pfh.co.uk for additional information. PfH is administered by Inprova Limited and is headquartered in the North West of England with over 20 years of expertise and experience offering a complete procurement solutions package across outsourcing, technology and consultancy. By integrating procurement services and technology, Inprova operates as a delivery partner, supporting business performance improvement for the public sector.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-23T00:00:00Z",
-    "deadline": "2026-11-17T12:00:00Z",
-    "value": 250000000.0,
-    "currency": "GBP",
-    "cpv": [
-      "71300000",
-      "72300000",
-      "79421000",
-      "79900000",
-      "79993000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72300000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT567302",
-    "fetched_at": "2026-10-25T21:35:40.521730Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-4-OCT567302",
-    "id": "rls-4-OCT567302",
-    "ocid": "ocds-r6ebe6-0000846526",
-    "title": "Social Housing Emerging Disrupters 6 (SHED 6)",
-    "buyer": "Procurement for Housing Ltd (t/a PfH Scotland)",
-    "description": "Established in 2004, Procurement for Housing (PfH) is a national procurement consortium dedicated to the social housing sector and supported by the National Housing Federation (NHF), Chartered Institute of Housing (CIH) and HouseMark. Collectively our Members manage more than 90% of UKâ social housing stock, with PfH helping them to achieve efficiency savings using a wide range of services including framework agreements, dynamic purchasing systems, spend analyses, strategy reviews, consolidated billing and comprehensive reporting. PfH is a contracting authority under section 2 of the Procurement Act 2023 and a centralised procurement authority under section 1(4) of that Act. Please refer to www.pfh.co.uk for additional information. PfH is administered by Inprova Limited and is headquartered in the North West of England with over 20 years of expertise and experience offering a complete procurement solutions package across outsourcing, technology and consultancy. By integrating procurement services and technology, Inprova operates as a delivery partner, supporting business performance improvement for the public sector.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-23T00:00:00Z",
-    "deadline": "2026-11-17T12:00:00Z",
-    "value": 250000000.0,
-    "currency": "GBP",
-    "cpv": [
-      "71300000",
-      "72300000",
-      "79421000",
-      "79900000",
-      "79993000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72300000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT567302",
-    "fetched_at": "2026-10-26T12:40:08.911839Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-7-OCT567302",
-    "id": "rls-7-OCT567302",
-    "ocid": "ocds-r6ebe6-0000846526",
-    "title": "Social Housing Emerging Disrupters 6 (SHED 6)",
-    "buyer": "Procurement for Housing Ltd (t/a PfH Scotland)",
-    "description": "Established in 2004, Procurement for Housing (PfH) is a national procurement consortium dedicated to the social housing sector and supported by the National Housing Federation (NHF), Chartered Institute of Housing (CIH) and HouseMark. Collectively our Members manage more than 90% of UKâ social housing stock, with PfH helping them to achieve efficiency savings using a wide range of services including framework agreements, dynamic purchasing systems, spend analyses, strategy reviews, consolidated billing and comprehensive reporting. PfH is a contracting authority under section 2 of the Procurement Act 2023 and a centralised procurement authority under section 1(4) of that Act. Please refer to www.pfh.co.uk for additional information. PfH is administered by Inprova Limited and is headquartered in the North West of England with over 20 years of expertise and experience offering a complete procurement solutions package across outsourcing, technology and consultancy. By integrating procurement services and technology, Inprova operates as a delivery partner, supporting business performance improvement for the public sector.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-23T00:00:00Z",
-    "deadline": "2026-11-17T12:00:00Z",
-    "value": 250000000.0,
-    "currency": "GBP",
-    "cpv": [
-      "71300000",
-      "72300000",
-      "79421000",
-      "79900000",
-      "79993000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72300000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT567302",
-    "fetched_at": "2026-10-27T11:55:46.202814Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-11-OCT567302",
-    "id": "rls-11-OCT567302",
-    "ocid": "ocds-r6ebe6-0000846526",
-    "title": "Social Housing Emerging Disrupters 6 (SHED 6)",
-    "buyer": "Procurement for Housing Ltd (t/a PfH Scotland)",
-    "description": "Established in 2004, Procurement for Housing (PfH) is a national procurement consortium dedicated to the social housing sector and supported by the National Housing Federation (NHF), Chartered Institute of Housing (CIH) and HouseMark. Collectively our Members manage more than 90% of UKâ social housing stock, with PfH helping them to achieve efficiency savings using a wide range of services including framework agreements, dynamic purchasing systems, spend analyses, strategy reviews, consolidated billing and comprehensive reporting. PfH is a contracting authority under section 2 of the Procurement Act 2023 and a centralised procurement authority under section 1(4) of that Act. Please refer to www.pfh.co.uk for additional information. PfH is administered by Inprova Limited and is headquartered in the North West of England with over 20 years of expertise and experience offering a complete procurement solutions package across outsourcing, technology and consultancy. By integrating procurement services and technology, Inprova operates as a delivery partner, supporting business performance improvement for the public sector.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-23T00:00:00Z",
-    "deadline": "2026-11-17T12:00:00Z",
-    "value": 250000000.0,
-    "currency": "GBP",
-    "cpv": [
-      "71300000",
-      "72300000",
-      "79421000",
-      "79900000",
-      "79993000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72300000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT567302",
-    "fetched_at": "2026-10-27T22:54:05.078350Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-13-OCT567302",
-    "id": "rls-13-OCT567302",
-    "ocid": "ocds-r6ebe6-0000846526",
-    "title": "Social Housing Emerging Disrupters 6 (SHED 6)",
-    "buyer": "Procurement for Housing Ltd (t/a PfH Scotland)",
-    "description": "Established in 2004, Procurement for Housing (PfH) is a national procurement consortium dedicated to the social housing sector and supported by the National Housing Federation (NHF), Chartered Institute of Housing (CIH) and HouseMark. Collectively our Members manage more than 90% of UKâ social housing stock, with PfH helping them to achieve efficiency savings using a wide range of services including framework agreements, dynamic purchasing systems, spend analyses, strategy reviews, consolidated billing and comprehensive reporting. PfH is a contracting authority under section 2 of the Procurement Act 2023 and a centralised procurement authority under section 1(4) of that Act. Please refer to www.pfh.co.uk for additional information. PfH is administered by Inprova Limited and is headquartered in the North West of England with over 20 years of expertise and experience offering a complete procurement solutions package across outsourcing, technology and consultancy. By integrating procurement services and technology, Inprova operates as a delivery partner, supporting business performance improvement for the public sector.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-23T00:00:00Z",
-    "deadline": "2026-11-17T12:00:00Z",
-    "value": 250000000.0,
-    "currency": "GBP",
-    "cpv": [
-      "71300000",
-      "72300000",
-      "79421000",
-      "79900000",
-      "79993000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72300000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT567302",
-    "fetched_at": "2026-10-28T12:33:13.795593Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-14-OCT567302",
-    "id": "rls-14-OCT567302",
-    "ocid": "ocds-r6ebe6-0000846526",
-    "title": "Social Housing Emerging Disrupters 6 (SHED 6)",
-    "buyer": "Procurement for Housing Ltd (t/a PfH Scotland)",
-    "description": "Established in 2004, Procurement for Housing (PfH) is a national procurement consortium dedicated to the social housing sector and supported by the National Housing Federation (NHF), Chartered Institute of Housing (CIH) and HouseMark. Collectively our Members manage more than 90% of UKâ social housing stock, with PfH helping them to achieve efficiency savings using a wide range of services including framework agreements, dynamic purchasing systems, spend analyses, strategy reviews, consolidated billing and comprehensive reporting. PfH is a contracting authority under section 2 of the Procurement Act 2023 and a centralised procurement authority under section 1(4) of that Act. Please refer to www.pfh.co.uk for additional information. PfH is administered by Inprova Limited and is headquartered in the North West of England with over 20 years of expertise and experience offering a complete procurement solutions package across outsourcing, technology and consultancy. By integrating procurement services and technology, Inprova operates as a delivery partner, supporting business performance improvement for the public sector.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-23T00:00:00Z",
-    "deadline": "2026-11-17T12:00:00Z",
-    "value": 250000000.0,
-    "currency": "GBP",
-    "cpv": [
-      "71300000",
-      "72300000",
-      "79421000",
-      "79900000",
-      "79993000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72300000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT567302",
-    "fetched_at": "2026-10-28T23:04:00.572113Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-17-OCT567302",
-    "id": "rls-17-OCT567302",
-    "ocid": "ocds-r6ebe6-0000846526",
-    "title": "Social Housing Emerging Disrupters 6 (SHED 6)",
-    "buyer": "Procurement for Housing Ltd (t/a PfH Scotland)",
-    "description": "Established in 2004, Procurement for Housing (PfH) is a national procurement consortium dedicated to the social housing sector and supported by the National Housing Federation (NHF), Chartered Institute of Housing (CIH) and HouseMark. Collectively our Members manage more than 90% of UKâ social housing stock, with PfH helping them to achieve efficiency savings using a wide range of services including framework agreements, dynamic purchasing systems, spend analyses, strategy reviews, consolidated billing and comprehensive reporting. PfH is a contracting authority under section 2 of the Procurement Act 2023 and a centralised procurement authority under section 1(4) of that Act. Please refer to www.pfh.co.uk for additional information. PfH is administered by Inprova Limited and is headquartered in the North West of England with over 20 years of expertise and experience offering a complete procurement solutions package across outsourcing, technology and consultancy. By integrating procurement services and technology, Inprova operates as a delivery partner, supporting business performance improvement for the public sector.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-23T00:00:00Z",
-    "deadline": "2026-11-17T12:00:00Z",
-    "value": 250000000.0,
-    "currency": "GBP",
-    "cpv": [
-      "71300000",
-      "72300000",
-      "79421000",
-      "79900000",
-      "79993000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72300000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT567302",
-    "fetched_at": "2026-10-29T23:12:18.759747Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-19-OCT567302",
-    "id": "rls-19-OCT567302",
-    "ocid": "ocds-r6ebe6-0000846526",
-    "title": "Social Housing Emerging Disrupters 6 (SHED 6)",
-    "buyer": "Procurement for Housing Ltd (t/a PfH Scotland)",
-    "description": "Established in 2004, Procurement for Housing (PfH) is a national procurement consortium dedicated to the social housing sector and supported by the National Housing Federation (NHF), Chartered Institute of Housing (CIH) and HouseMark. Collectively our Members manage more than 90% of UKâ social housing stock, with PfH helping them to achieve efficiency savings using a wide range of services including framework agreements, dynamic purchasing systems, spend analyses, strategy reviews, consolidated billing and comprehensive reporting. PfH is a contracting authority under section 2 of the Procurement Act 2023 and a centralised procurement authority under section 1(4) of that Act. Please refer to www.pfh.co.uk for additional information. PfH is administered by Inprova Limited and is headquartered in the North West of England with over 20 years of expertise and experience offering a complete procurement solutions package across outsourcing, technology and consultancy. By integrating procurement services and technology, Inprova operates as a delivery partner, supporting business performance improvement for the public sector.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-23T00:00:00Z",
-    "deadline": "2026-11-17T12:00:00Z",
-    "value": 250000000.0,
-    "currency": "GBP",
-    "cpv": [
-      "71300000",
-      "72300000",
-      "79421000",
-      "79900000",
-      "79993000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72300000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT567302",
-    "fetched_at": "2026-10-30T12:35:06.232283Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-21-OCT567302",
-    "id": "rls-21-OCT567302",
-    "ocid": "ocds-r6ebe6-0000846526",
-    "title": "Social Housing Emerging Disrupters 6 (SHED 6)",
-    "buyer": "Procurement for Housing Ltd (t/a PfH Scotland)",
-    "description": "Established in 2004, Procurement for Housing (PfH) is a national procurement consortium dedicated to the social housing sector and supported by the National Housing Federation (NHF), Chartered Institute of Housing (CIH) and HouseMark. Collectively our Members manage more than 90% of UKâ social housing stock, with PfH helping them to achieve efficiency savings using a wide range of services including framework agreements, dynamic purchasing systems, spend analyses, strategy reviews, consolidated billing and comprehensive reporting. PfH is a contracting authority under section 2 of the Procurement Act 2023 and a centralised procurement authority under section 1(4) of that Act. Please refer to www.pfh.co.uk for additional information. PfH is administered by Inprova Limited and is headquartered in the North West of England with over 20 years of expertise and experience offering a complete procurement solutions package across outsourcing, technology and consultancy. By integrating procurement services and technology, Inprova operates as a delivery partner, supporting business performance improvement for the public sector.",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-10-23T00:00:00Z",
-    "deadline": "2026-11-17T12:00:00Z",
-    "value": 250000000.0,
-    "currency": "GBP",
-    "cpv": [
-      "71300000",
-      "72300000",
-      "79421000",
-      "79900000",
-      "79993000"
-    ],
-    "status": "active",
-    "relevance": 25,
-    "matched": [
-      "CPV 72300000"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT567302",
-    "fetched_at": "2026-10-31T22:23:18.199225Z"
   },
   {
     "key": "Find a Tender:099661-2026",
@@ -8871,6 +8927,30 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV567903",
     "fetched_at": "2026-11-17T02:24:32.555402Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-68-NOV567903",
+    "id": "rls-68-NOV567903",
+    "ocid": "ocds-r6ebe6-0000847310",
+    "title": "Provision of IT Disaster Recovery plan",
+    "buyer": "Cairngorms National Park Authority",
+    "description": "The Park Authority is seeking specialist support to review and strengthen the alignment between Business Continuity (BC) and IT Disaster Recovery (ITDR) arrangements.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-02T00:00:00Z",
+    "deadline": "2026-12-04T10:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "72000000"
+    ],
+    "status": "active",
+    "relevance": 25,
+    "matched": [
+      "CPV 72000000"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV567903",
+    "fetched_at": "2026-11-17T15:48:28.104585Z"
   },
   {
     "key": "Find a Tender:106268-2026",
