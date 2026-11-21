@@ -1,16 +1,14 @@
 {
-  "updated_at": "2026-11-21T00:43:51.837606Z",
+  "updated_at": "2026-11-21T14:29:33.623096Z",
   "count": 400,
-  "fresh_count": 99,
+  "fresh_count": 101,
   "sources": {
-    "Find a Tender": 0,
+    "Find a Tender": 2,
     "Sell2Wales": 0,
     "Public Contracts Scotland": 31,
     "eTenders Ireland / TED": 64,
     "Poland / TED": 4
   },
-  "errors": [
-    "Find a Tender: ReadTimeout: HTTPSConnectionPool(host='www.find-tender.service.gov.uk', port=443): Read timed out. (read timeout=25)"
-  ],
-  "false_positive_removed": 12
+  "errors": [],
+  "false_positive_removed": 13
 }
