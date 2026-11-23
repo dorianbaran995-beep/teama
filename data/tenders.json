@@ -72,7 +72,7 @@
       "website development"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568997",
-    "fetched_at": "2026-11-22T14:25:00.649515Z"
+    "fetched_at": "2026-11-23T00:08:18.004104Z"
   },
   {
     "key": "Public Contracts Scotland:rls-18-NOV568928",
@@ -101,7 +101,7 @@
       "software"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568928",
-    "fetched_at": "2026-11-22T14:24:50.175344Z"
+    "fetched_at": "2026-11-23T00:08:03.910852Z"
   },
   {
     "key": "Public Contracts Scotland:rls-18-NOV568997",
@@ -549,7 +549,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/795601-2026",
-    "fetched_at": "2026-11-22T14:25:01.807097Z"
+    "fetched_at": "2026-11-23T00:08:18.933601Z"
   },
   {
     "key": "eTenders Ireland / TED:796272-2026",
@@ -623,7 +623,7 @@
       "ict"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/805578-2026",
-    "fetched_at": "2026-11-22T14:25:07.780884Z"
+    "fetched_at": "2026-11-23T00:08:26.736985Z"
   },
   {
     "key": "eTenders Ireland / TED:764456-2026",
@@ -697,7 +697,7 @@
       "digital service"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568059",
-    "fetched_at": "2026-11-22T14:24:50.179817Z"
+    "fetched_at": "2026-11-23T00:08:03.916958Z"
   },
   {
     "key": "eTenders Ireland / TED:781832-2026",
@@ -939,7 +939,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/803112-2026",
-    "fetched_at": "2026-11-22T14:25:01.803886Z"
+    "fetched_at": "2026-11-23T00:08:18.928564Z"
   },
   {
     "key": "eTenders Ireland / TED:766413-2026",
@@ -1015,7 +1015,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/791015-2026",
-    "fetched_at": "2026-11-22T14:25:22.242253Z"
+    "fetched_at": "2026-11-23T00:08:38.661258Z"
   },
   {
     "key": "Poland / TED:794557-2026",
@@ -1052,7 +1052,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/794557-2026",
-    "fetched_at": "2026-11-22T14:25:21.252764Z"
+    "fetched_at": "2026-11-23T00:08:38.652882Z"
   },
   {
     "key": "eTenders Ireland / TED:706914-2026",
@@ -1127,7 +1127,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/810127-2026",
-    "fetched_at": "2026-11-22T14:25:01.798528Z"
+    "fetched_at": "2026-11-23T00:08:18.920087Z"
   },
   {
     "key": "eTenders Ireland / TED:802020-2026",
@@ -1163,7 +1163,322 @@
       "CPV 30213300"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/802020-2026",
-    "fetched_at": "2026-11-22T14:25:01.803012Z"
+    "fetched_at": "2026-11-23T00:08:18.926740Z"
+  },
+  {
+    "key": "eTenders Ireland / TED:814242-2026",
+    "id": "814242-2026",
+    "ocid": null,
+    "title": "Ireland – IT services: consulting, software development, Internet and support – TR6170-Provision of an IT Multi Party Framework Agreement for Delivery and Strategy",
+    "buyer": "Electricity Supply Board ( ESB )",
+    "description": "Active Irish public procurement notice published through TED/eTenders.",
+    "source": "eTenders Ireland / TED",
+    "country": "Ireland",
+    "published_at": "2026-11-23T01:00:00Z",
+    "deadline": "2026-12-10T12:00:00Z",
+    "value": null,
+    "currency": "EUR",
+    "cpv": [
+      "72000000",
+      "72100000",
+      "72200000",
+      "72300000",
+      "72400000",
+      "72500000",
+      "72600000",
+      "72700000",
+      "72800000",
+      "72900000",
+      "72220000",
+      "72240000",
+      "72250000",
+      "72260000",
+      "72251000",
+      "72252000",
+      "72253000",
+      "72253100",
+      "72253200",
+      "72254000",
+      "72254100",
+      "72261000",
+      "72262000",
+      "72263000",
+      "72264000",
+      "72265000",
+      "72266000",
+      "72267000",
+      "72267100",
+      "72267200",
+      "72268000",
+      "72310000",
+      "72320000",
+      "72330000",
+      "72410000",
+      "72420000",
+      "72510000",
+      "72540000",
+      "72590000",
+      "72591000",
+      "72511000",
+      "72512000",
+      "72513000",
+      "72514000",
+      "72610000",
+      "72611000",
+      "72810000",
+      "72820000",
+      "72910000",
+      "72421000",
+      "72422000",
+      "72322000",
+      "72321000",
+      "72311200",
+      "72315000",
+      "72315100",
+      "72315200",
+      "72317000",
+      "72246000",
+      "72222000",
+      "72221000",
+      "72222100",
+      "72222200",
+      "72222300",
+      "72223000",
+      "72224000",
+      "72224100",
+      "72224200",
+      "72225000",
+      "72226000",
+      "72227000",
+      "72228000",
+      "72000000",
+      "72000000",
+      "72000000",
+      "72100000",
+      "72200000",
+      "72300000",
+      "72400000",
+      "72500000",
+      "72600000",
+      "72700000",
+      "72800000",
+      "72900000",
+      "72220000",
+      "72240000",
+      "72250000",
+      "72260000",
+      "72251000",
+      "72252000",
+      "72253000",
+      "72253100",
+      "72253200",
+      "72254000",
+      "72254100",
+      "72261000",
+      "72262000",
+      "72263000",
+      "72264000",
+      "72265000",
+      "72266000",
+      "72267000",
+      "72267100",
+      "72267200",
+      "72268000",
+      "72310000",
+      "72320000",
+      "72330000",
+      "72410000",
+      "72420000",
+      "72510000",
+      "72540000",
+      "72590000",
+      "72591000",
+      "72511000",
+      "72512000",
+      "72513000",
+      "72514000",
+      "72610000",
+      "72611000",
+      "72810000",
+      "72820000",
+      "72910000",
+      "72421000",
+      "72422000",
+      "72322000",
+      "72321000",
+      "72311200",
+      "72315000",
+      "72315100",
+      "72315200",
+      "72317000",
+      "72246000",
+      "72222000",
+      "72221000",
+      "72222100",
+      "72222200",
+      "72222300",
+      "72223000",
+      "72224000",
+      "72224100",
+      "72224200",
+      "72225000",
+      "72226000",
+      "72227000",
+      "72228000",
+      "72100000",
+      "72200000",
+      "72300000",
+      "72400000",
+      "72500000",
+      "72600000",
+      "72700000",
+      "72800000",
+      "72900000",
+      "72220000",
+      "72240000",
+      "72250000",
+      "72260000",
+      "72251000",
+      "72252000",
+      "72253000",
+      "72253100",
+      "72253200",
+      "72254000",
+      "72254100",
+      "72261000",
+      "72262000",
+      "72263000",
+      "72264000",
+      "72265000",
+      "72266000",
+      "72267000",
+      "72267100",
+      "72267200",
+      "72268000",
+      "72310000",
+      "72320000",
+      "72330000",
+      "72410000",
+      "72420000",
+      "72510000",
+      "72540000",
+      "72590000",
+      "72591000",
+      "72511000",
+      "72512000",
+      "72513000",
+      "72514000",
+      "72610000",
+      "72611000",
+      "72810000",
+      "72820000",
+      "72910000",
+      "72421000",
+      "72422000",
+      "72322000",
+      "72321000",
+      "72311200",
+      "72315000",
+      "72315100",
+      "72315200",
+      "72317000",
+      "72246000",
+      "72222000",
+      "72221000",
+      "72222100",
+      "72222200",
+      "72222300",
+      "72223000",
+      "72224000",
+      "72224100",
+      "72224200",
+      "72225000",
+      "72226000",
+      "72227000",
+      "72228000",
+      "72100000",
+      "72200000",
+      "72300000",
+      "72400000",
+      "72500000",
+      "72600000",
+      "72700000",
+      "72800000",
+      "72900000",
+      "72220000",
+      "72240000",
+      "72250000",
+      "72260000",
+      "72251000",
+      "72252000",
+      "72253000",
+      "72253100",
+      "72253200",
+      "72254000",
+      "72254100",
+      "72261000",
+      "72262000",
+      "72263000",
+      "72264000",
+      "72265000",
+      "72266000",
+      "72267000",
+      "72267100",
+      "72267200",
+      "72268000",
+      "72310000",
+      "72320000",
+      "72330000",
+      "72410000",
+      "72420000",
+      "72510000",
+      "72540000",
+      "72590000",
+      "72591000",
+      "72511000",
+      "72512000",
+      "72513000",
+      "72514000",
+      "72610000",
+      "72611000",
+      "72810000",
+      "72820000",
+      "72910000",
+      "72421000",
+      "72422000",
+      "72322000",
+      "72321000",
+      "72311200",
+      "72315000",
+      "72315100",
+      "72315200",
+      "72317000",
+      "72246000",
+      "72222000",
+      "72221000",
+      "72222100",
+      "72222200",
+      "72222300",
+      "72223000",
+      "72224000",
+      "72224100",
+      "72224200",
+      "72225000",
+      "72226000",
+      "72227000",
+      "72228000"
+    ],
+    "status": "active",
+    "relevance": 58,
+    "matched": [
+      "CPV 72000000",
+      "CPV 72100000",
+      "CPV 72200000",
+      "CPV 72300000",
+      "software"
+    ],
+    "url": "https://ted.europa.eu/en/notice/-/detail/814242-2026",
+    "fetched_at": "2026-11-23T00:08:18.914830Z"
   },
   {
     "key": "eTenders Ireland / TED:800169-2026",
@@ -1195,7 +1510,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/800169-2026",
-    "fetched_at": "2026-11-22T14:25:01.802306Z"
+    "fetched_at": "2026-11-23T00:08:18.925743Z"
   },
   {
     "key": "eTenders Ireland / TED:807168-2026",
@@ -1234,7 +1549,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/807168-2026",
-    "fetched_at": "2026-11-22T14:25:01.800121Z"
+    "fetched_at": "2026-11-23T00:08:18.921697Z"
   },
   {
     "key": "eTenders Ireland / TED:791282-2026",
@@ -2106,7 +2421,7 @@
       "cloud"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568180",
-    "fetched_at": "2026-11-22T14:24:50.179468Z"
+    "fetched_at": "2026-11-23T00:08:03.916460Z"
   },
   {
     "key": "eTenders Ireland / TED:806273-2026",
@@ -2138,7 +2453,7 @@
       "network"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/806273-2026",
-    "fetched_at": "2026-11-22T14:25:01.800483Z"
+    "fetched_at": "2026-11-23T00:08:18.923098Z"
   },
   {
     "key": "eTenders Ireland / TED:795944-2026",
@@ -2192,7 +2507,7 @@
       "network"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/795944-2026",
-    "fetched_at": "2026-11-22T14:25:01.807227Z"
+    "fetched_at": "2026-11-23T00:08:18.933870Z"
   },
   {
     "key": "Public Contracts Scotland:rls-60-NOV568059",
@@ -3637,7 +3952,7 @@
       "database"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568832",
-    "fetched_at": "2026-11-22T14:24:50.176932Z"
+    "fetched_at": "2026-11-23T00:08:03.912961Z"
   },
   {
     "key": "Poland / TED:767583-2026",
@@ -3709,7 +4024,7 @@
       "CPV 72260000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/796859-2026",
-    "fetched_at": "2026-11-22T14:25:16.908324Z"
+    "fetched_at": "2026-11-23T00:08:36.314085Z"
   },
   {
     "key": "eTenders Ireland / TED:786333-2026",
@@ -3816,7 +4131,7 @@
       "CPV 48812000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/796775-2026",
-    "fetched_at": "2026-11-22T14:25:01.804727Z"
+    "fetched_at": "2026-11-23T00:08:18.930006Z"
   },
   {
     "key": "Find a Tender:106307-2026",
@@ -5165,7 +5480,7 @@
       "CPV 72212420"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568387",
-    "fetched_at": "2026-11-22T14:24:50.178717Z"
+    "fetched_at": "2026-11-23T00:08:03.915389Z"
   },
   {
     "key": "Public Contracts Scotland:rls-50-NOV568379",
@@ -5197,7 +5512,7 @@
       "CPV 72212420"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568379",
-    "fetched_at": "2026-11-22T14:24:50.178790Z"
+    "fetched_at": "2026-11-23T00:08:03.915515Z"
   },
   {
     "key": "Find a Tender:108199-2026",
@@ -5845,7 +6160,7 @@
       "CPV 72224000"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568810",
-    "fetched_at": "2026-11-22T14:24:50.177166Z"
+    "fetched_at": "2026-11-23T00:08:03.913289Z"
   },
   {
     "key": "Public Contracts Scotland:rls-3-NOV568226",
@@ -6439,7 +6754,7 @@
       "integration"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568226",
-    "fetched_at": "2026-11-22T14:24:50.179241Z"
+    "fetched_at": "2026-11-23T00:08:03.916127Z"
   },
   {
     "key": "eTenders Ireland / TED:772936-2026",
@@ -7013,7 +7328,7 @@
       "hosting"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568283",
-    "fetched_at": "2026-11-22T14:25:00.651709Z"
+    "fetched_at": "2026-11-23T00:08:18.006955Z"
   },
   {
     "key": "Public Contracts Scotland:rls-1-NOV569081",
@@ -7148,7 +7463,7 @@
       "cloud"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV569081",
-    "fetched_at": "2026-11-22T14:25:00.648886Z"
+    "fetched_at": "2026-11-23T00:08:18.003289Z"
   },
   {
     "key": "Find a Tender:106518-2026",
@@ -7661,7 +7976,7 @@
       "software"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568429",
-    "fetched_at": "2026-11-22T14:24:50.178502Z"
+    "fetched_at": "2026-11-23T00:08:03.915106Z"
   },
   {
     "key": "eTenders Ireland / TED:789206-2026",
@@ -8338,7 +8653,7 @@
       "website support"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568116",
-    "fetched_at": "2026-11-22T14:25:00.652797Z"
+    "fetched_at": "2026-11-23T00:08:18.008340Z"
   },
   {
     "key": "Find a Tender:093955-2026",
@@ -9636,7 +9951,7 @@
       "CPV 32520000"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568480",
-    "fetched_at": "2026-11-22T14:24:50.178354Z"
+    "fetched_at": "2026-11-23T00:08:03.914910Z"
   },
   {
     "key": "Find a Tender:096433-2026",
@@ -10810,7 +11125,7 @@
       "website support"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV569186",
-    "fetched_at": "2026-11-22T14:24:50.174652Z"
+    "fetched_at": "2026-11-23T00:08:03.910012Z"
   },
   {
     "key": "eTenders Ireland / TED:773028-2026",
@@ -10971,6 +11286,107 @@
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/756046-2026",
     "fetched_at": "2026-11-05T14:26:43.815323Z"
+  },
+  {
+    "key": "eTenders Ireland / TED:812212-2026",
+    "id": "812212-2026",
+    "ocid": null,
+    "title": "Ireland – Application service providers – RFT for Ivanti MobileIron Licences and Support Services",
+    "buyer": "Office of the Government Chief Information Officer",
+    "description": "Active Irish public procurement notice published through TED/eTenders.",
+    "source": "eTenders Ireland / TED",
+    "country": "Ireland",
+    "published_at": "2026-11-23T01:00:00Z",
+    "deadline": "2026-12-10T12:00:00Z",
+    "value": null,
+    "currency": "EUR",
+    "cpv": [
+      "72416000",
+      "72416000"
+    ],
+    "status": "active",
+    "relevance": 30,
+    "matched": [
+      "CPV 72416000"
+    ],
+    "url": "https://ted.europa.eu/en/notice/-/detail/812212-2026",
+    "fetched_at": "2026-11-23T00:08:18.913013Z"
+  },
+  {
+    "key": "eTenders Ireland / TED:812579-2026",
+    "id": "812579-2026",
+    "ocid": null,
+    "title": "Ireland – Public road transport services – Galway City Council: Single Party Framework for Transport Planning and Modelling Services, of which the West Area Movement Study",
+    "buyer": "Galway City Council",
+    "description": "Active Irish public procurement notice published through TED/eTenders.",
+    "source": "eTenders Ireland / TED",
+    "country": "Ireland",
+    "published_at": "2026-11-23T01:00:00Z",
+    "deadline": "2026-12-11T12:00:00Z",
+    "value": null,
+    "currency": "EUR",
+    "cpv": [
+      "60112000",
+      "63712710",
+      "73210000",
+      "73200000",
+      "73220000",
+      "73000000",
+      "72222000",
+      "34970000",
+      "60112000",
+      "63712710",
+      "73210000",
+      "73200000",
+      "73220000",
+      "73000000",
+      "72222000",
+      "34970000"
+    ],
+    "status": "active",
+    "relevance": 30,
+    "matched": [
+      "CPV 72222000"
+    ],
+    "url": "https://ted.europa.eu/en/notice/-/detail/812579-2026",
+    "fetched_at": "2026-11-23T00:08:18.918265Z"
+  },
+  {
+    "key": "eTenders Ireland / TED:814200-2026",
+    "id": "814200-2026",
+    "ocid": null,
+    "title": "Ireland – Design support services – Overnight Charging resource service",
+    "buyer": "Dublin Bus / Bus Atha Cliath",
+    "description": "Active Irish public procurement notice published through TED/eTenders.",
+    "source": "eTenders Ireland / TED",
+    "country": "Ireland",
+    "published_at": "2026-11-23T01:00:00Z",
+    "deadline": "2026-12-21T12:00:00Z",
+    "value": null,
+    "currency": "EUR",
+    "cpv": [
+      "79933000",
+      "50111110",
+      "63712000",
+      "71311100",
+      "71356300",
+      "71336000",
+      "72253200",
+      "79933000",
+      "50111110",
+      "63712000",
+      "71311100",
+      "71356300",
+      "71336000",
+      "72253200"
+    ],
+    "status": "active",
+    "relevance": 30,
+    "matched": [
+      "CPV 72253200"
+    ],
+    "url": "https://ted.europa.eu/en/notice/-/detail/814200-2026",
+    "fetched_at": "2026-11-23T00:08:18.916237Z"
   },
   {
     "key": "Find a Tender:103846-2026",
@@ -11318,7 +11734,7 @@
       "CPV 72221000"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV569259",
-    "fetched_at": "2026-11-22T14:25:00.648509Z"
+    "fetched_at": "2026-11-23T00:08:18.002849Z"
   },
   {
     "key": "Public Contracts Scotland:rls-1-NOV567903",
@@ -11990,7 +12406,7 @@
       "CPV 72000000"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV567903",
-    "fetched_at": "2026-11-22T14:25:00.653298Z"
+    "fetched_at": "2026-11-23T00:08:18.009030Z"
   },
   {
     "key": "Find a Tender:109031-2026",
@@ -12182,32 +12598,7 @@
       "CPV 48000000"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV569002",
-    "fetched_at": "2026-11-22T14:24:50.175065Z"
-  },
-  {
-    "key": "Find a Tender:106268-2026",
-    "id": "106268-2026",
-    "ocid": "ocds-h6vhtk-07b7a8",
-    "title": "CP-401 - Aster Group External Decorations",
-    "buyer": "ASTER GROUP LIMITED",
-    "description": "Aster Group is a housing association which provides quality, affordable homes to thousands of people across the south of England and London. Its vision is that everyone has a home. See our website for more details www.aster.co.uk/corporate/about-us The not-for-dividend business was established in 1990 and has £2.5 billion worth of social housing assets. The Group reinvests profits from open market sale and shared ownership to support the development of affordable homes. It owns and maintains over 37,000 homes and employs over 2,000 people. Central and Cecil Housing Trust (C&C), East Boro Housing Trust (EBHT) and Enham Trust form part of the Aster Group. For further information visit: www.ccht.org.uk, www.ebht.org.uk and www.enhamtrust.org.uk. Aster Group Limited (\"Aster\") has a requirement for three contractors to provide External Decoration services, including but not limited to: • Redecoration of all previously painted external surfaces and internal common parts. • Minor external fabric repairs including: o Renewal of fascias and soffits where required (to match existing). o Renewal of timber canopies where required. o Repointing of brick work. • Minor prior to paint repairs. • Timber window repairs. • Renewal of communal floor finishes where required. Aster's requirement is across its full geographical coverage and will be split into the following lots with the corresponding approx. number of properties: • Lot 1 (East) o Berkshire - 205 o Hampshire - 8416 o Oxfordshire - 612 o Wiltshire (incl. Gloucestershire) - 8606 • Lot 2 (London and Outer Areas) o London - 1969 o Surrey - 441 o Sussex - 736 • Lot 3 (West) o Dorset - 803 o Somerset (incl. Bristol) - 5339 o Devon and Cornwall - 3208 NB: The property numbers are approximate and may make up multi dwelling properties. Suppliers may submit bids for multiple lots; however, only one supplier will be awarded each lot. Where a supplier achieves the highest ranking in more than one lot, Aster Group reserves the right to determine which lot will be awarded to that supplier. In such circumstances, the lot not awarded to the highest-ranked supplier will instead be awarded to the supplier ranked second for that lot. Aster's procurement for external decorations is anticipated to be a single stage tender process and will be undertaken via CHIC's All Under One Roof' DPS (Lot 20 - Decoration Services). The evaluation cr",
-    "source": "Find a Tender",
-    "country": "United Kingdom",
-    "published_at": "2026-11-09T14:05:13Z",
-    "deadline": "2026-11-23T00:00:00Z",
-    "value": 31500000.0,
-    "currency": "GBP",
-    "cpv": [
-      "45443000"
-    ],
-    "status": "active",
-    "relevance": 19,
-    "matched": [
-      "portal",
-      "website"
-    ],
-    "url": "https://www.find-tender.service.gov.uk/Notice/106268-2026",
-    "fetched_at": "2026-11-12T01:24:56.034558Z"
+    "fetched_at": "2026-11-23T00:08:03.910503Z"
   },
   {
     "key": "Find a Tender:106021-2026",
