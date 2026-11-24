@@ -39,6 +39,71 @@
     "fetched_at": "2026-10-25T21:35:54.530862Z"
   },
   {
+    "key": "Public Contracts Scotland:rls-33-NOV568997",
+    "id": "rls-33-NOV568997",
+    "ocid": "ocds-r6ebe6-0000838142",
+    "title": "Open Tender for Douglas Valley Outdoor Recreation and Adventure Tourism Market Research, Branding, Website Development & Wayfinding",
+    "buyer": "South Lanarkshire Council",
+    "description": "South Lanarkshire Council seeks a Creative Consultancy to deliver a Market Assessment, Branding Strategy, Website Development, Content Library and Wayfinding Strategy for the Douglas Valley Outdoor Recreation and Adventure Tourism initiative within the Hagshaw Energy Cluster. 1. Market Assessment Review existing project documentation and identify implications for branding, marketing and website development. Analyse visitor data, market trends and audience segmentation, including visitor case studies. Benchmark comparable projects and destinations. Provide recommendations to inform branding, website design, content and future marketing activity. 2. Branding Development Develop and consult on three branding concepts before producing a final identity. Create brand assets including logo, name, tagline, colours, fonts and digital/print applications. Produce brand guidelines covering signage, interpretation, promotional materials and integration with existing site branding. Include recommendations for social media and future marketing activity. 3. Website Design, Build and Launch Create a branded website promoting Douglas Valley as a destination to live, work, visit and enjoy, supporting ambitions to attract up to 100,000 annual visits by 2036. Develop a scalable, content-led website with a planned lifespan of ten years. Include six core pages: Home, About, Explore, See & Stay, News and Contact. The Explore section will feature an interactive map highlighting key recreational and active travel routes, points of interest and route information including distance, elevation, difficulty and duration. Build the site on an accessible CMS suitable for community and council users. Host on a secure UK-based platform with maintenance and support arrangements. Ensure accessibility compliance and provide flexible management of route information and temporary diversions. 4. Photography and Video Library Establish a copyright-cleared library of photography and short-form video content for web, social media and print use. Source content through community engagement, youth-focused workshops and professional photography where required. Content will reflect identified visitor segments and feature strong people-focused imagery. Coverage will include renewable energy, local communities, nature, heritage and identity, local economy and outdoor recreation. Key locations include Coalbur",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-17T00:00:00Z",
+    "deadline": "2026-12-15T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "72212224",
+      "72413000",
+      "79310000",
+      "79340000",
+      "79342000",
+      "79413000"
+    ],
+    "status": "active",
+    "relevance": 87,
+    "matched": [
+      "CPV 72212224",
+      "CPV 72413000",
+      "accessibility",
+      "cms",
+      "integration",
+      "website",
+      "website design",
+      "website development"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568997",
+    "fetched_at": "2026-11-24T17:23:32.151819Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-22-NOV568928",
+    "id": "rls-22-NOV568928",
+    "ocid": "ocds-r6ebe6-0000848549",
+    "title": "CeTPD Laboratory Information Management System",
+    "buyer": "University of Dundee",
+    "description": "The Centre for Targeted Protein Degradation (CeTPD) is an academic research center focused on translational chemical biology, currently housing ~60 researchers and technicians across disciplines and experience levels (undergraduate, post graduate students, post-docs, (senior) staff scientists, Principal Investigators). The requirement is a software solution, for all research staff, that provides Laboratory Information Management System (LIMs) capability. This broadly includes scientist electronic lab notebook (across disciplines), reagent inventory and management, compound inventory and management and ideally some capability for processed data databasing and rudimentary visualisation. We are seeking to procure a secure, cloud-based design and Laboratory Information Management System to support collaborative drug discovery workflows. The solution is expected to deliver; - An integrated platform for electronic lab notebooks, reagent inventory management, compound registration and management and ideally data visualisation. - The system must accommodate the needs of scientists in both chemical and biological sciences and their respective workflows. - The system must accommodate that Users may require access relevant to both chemical biological sciences workflows within the same user area. - Seamless integration with existing computational workflows - Seamless integration with third-party applications and/or databases - A secure, stable and scalable cloud deployment which Complies with the University and collaborator cybersecurity, information governance and GDPR requirements Meets with strict performance, reliability and governance standards Meets with the functional and non-functional requirements of the CeTPD (as outlined below) - Improved operational efficiency, regulatory compliance, and scalability to support future growth and evolving scientific needs",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-17T00:00:00Z",
+    "deadline": "2026-12-11T12:00:00Z",
+    "value": 250000.0,
+    "currency": "GBP",
+    "cpv": [
+      "72322000"
+    ],
+    "status": "active",
+    "relevance": 76,
+    "matched": [
+      "CPV 72322000",
+      "cloud",
+      "cybersecurity",
+      "database",
+      "integration",
+      "software"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568928",
+    "fetched_at": "2026-11-24T17:23:19.799063Z"
+  },
+  {
     "key": "Public Contracts Scotland:rls-29-NOV568997",
     "id": "rls-29-NOV568997",
     "ocid": "ocds-r6ebe6-0000838142",
@@ -73,35 +138,6 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568997",
     "fetched_at": "2026-11-24T04:15:10.515512Z"
-  },
-  {
-    "key": "Public Contracts Scotland:rls-20-NOV568928",
-    "id": "rls-20-NOV568928",
-    "ocid": "ocds-r6ebe6-0000848549",
-    "title": "CeTPD Laboratory Information Management System",
-    "buyer": "University of Dundee",
-    "description": "The Centre for Targeted Protein Degradation (CeTPD) is an academic research center focused on translational chemical biology, currently housing ~60 researchers and technicians across disciplines and experience levels (undergraduate, post graduate students, post-docs, (senior) staff scientists, Principal Investigators). The requirement is a software solution, for all research staff, that provides Laboratory Information Management System (LIMs) capability. This broadly includes scientist electronic lab notebook (across disciplines), reagent inventory and management, compound inventory and management and ideally some capability for processed data databasing and rudimentary visualisation. We are seeking to procure a secure, cloud-based design and Laboratory Information Management System to support collaborative drug discovery workflows. The solution is expected to deliver; - An integrated platform for electronic lab notebooks, reagent inventory management, compound registration and management and ideally data visualisation. - The system must accommodate the needs of scientists in both chemical and biological sciences and their respective workflows. - The system must accommodate that Users may require access relevant to both chemical biological sciences workflows within the same user area. - Seamless integration with existing computational workflows - Seamless integration with third-party applications and/or databases - A secure, stable and scalable cloud deployment which Complies with the University and collaborator cybersecurity, information governance and GDPR requirements Meets with strict performance, reliability and governance standards Meets with the functional and non-functional requirements of the CeTPD (as outlined below) - Improved operational efficiency, regulatory compliance, and scalability to support future growth and evolving scientific needs",
-    "source": "Public Contracts Scotland",
-    "country": "Scotland",
-    "published_at": "2026-11-17T00:00:00Z",
-    "deadline": "2026-12-11T12:00:00Z",
-    "value": 250000.0,
-    "currency": "GBP",
-    "cpv": [
-      "72322000"
-    ],
-    "status": "active",
-    "relevance": 76,
-    "matched": [
-      "CPV 72322000",
-      "cloud",
-      "cybersecurity",
-      "database",
-      "integration",
-      "software"
-    ],
-    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568928",
-    "fetched_at": "2026-11-24T04:14:56.577475Z"
   },
   {
     "key": "Public Contracts Scotland:rls-21-NOV568997",
@@ -318,6 +354,35 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568997",
     "fetched_at": "2026-11-18T01:33:42.148140Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-20-NOV568928",
+    "id": "rls-20-NOV568928",
+    "ocid": "ocds-r6ebe6-0000848549",
+    "title": "CeTPD Laboratory Information Management System",
+    "buyer": "University of Dundee",
+    "description": "The Centre for Targeted Protein Degradation (CeTPD) is an academic research center focused on translational chemical biology, currently housing ~60 researchers and technicians across disciplines and experience levels (undergraduate, post graduate students, post-docs, (senior) staff scientists, Principal Investigators). The requirement is a software solution, for all research staff, that provides Laboratory Information Management System (LIMs) capability. This broadly includes scientist electronic lab notebook (across disciplines), reagent inventory and management, compound inventory and management and ideally some capability for processed data databasing and rudimentary visualisation. We are seeking to procure a secure, cloud-based design and Laboratory Information Management System to support collaborative drug discovery workflows. The solution is expected to deliver; - An integrated platform for electronic lab notebooks, reagent inventory management, compound registration and management and ideally data visualisation. - The system must accommodate the needs of scientists in both chemical and biological sciences and their respective workflows. - The system must accommodate that Users may require access relevant to both chemical biological sciences workflows within the same user area. - Seamless integration with existing computational workflows - Seamless integration with third-party applications and/or databases - A secure, stable and scalable cloud deployment which Complies with the University and collaborator cybersecurity, information governance and GDPR requirements Meets with strict performance, reliability and governance standards Meets with the functional and non-functional requirements of the CeTPD (as outlined below) - Improved operational efficiency, regulatory compliance, and scalability to support future growth and evolving scientific needs",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-17T00:00:00Z",
+    "deadline": "2026-12-11T12:00:00Z",
+    "value": 250000.0,
+    "currency": "GBP",
+    "cpv": [
+      "72322000"
+    ],
+    "status": "active",
+    "relevance": 76,
+    "matched": [
+      "CPV 72322000",
+      "cloud",
+      "cybersecurity",
+      "database",
+      "integration",
+      "software"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568928",
+    "fetched_at": "2026-11-24T04:14:56.577475Z"
   },
   {
     "key": "Public Contracts Scotland:rls-18-NOV568928",
@@ -702,7 +767,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/816280-2026",
-    "fetched_at": "2026-11-24T04:15:11.689076Z"
+    "fetched_at": "2026-11-24T17:23:33.885901Z"
   },
   {
     "key": "Poland / TED:805578-2026",
@@ -732,7 +797,7 @@
       "ict"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/805578-2026",
-    "fetched_at": "2026-11-24T04:15:24.541371Z"
+    "fetched_at": "2026-11-24T17:23:46.766180Z"
   },
   {
     "key": "eTenders Ireland / TED:764456-2026",
@@ -771,8 +836,8 @@
     "fetched_at": "2026-11-10T14:40:49.571318Z"
   },
   {
-    "key": "Public Contracts Scotland:rls-64-NOV568059",
-    "id": "rls-64-NOV568059",
+    "key": "Public Contracts Scotland:rls-66-NOV568059",
+    "id": "rls-66-NOV568059",
     "ocid": "ocds-r6ebe6-0000846370",
     "title": "Digital Connectivity Programme - 1gb Broadband Install and Service Delivery",
     "buyer": "North Lanarkshire Council",
@@ -806,7 +871,7 @@
       "digital service"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568059",
-    "fetched_at": "2026-11-24T04:14:56.583556Z"
+    "fetched_at": "2026-11-24T17:23:19.804068Z"
   },
   {
     "key": "eTenders Ireland / TED:781832-2026",
@@ -947,8 +1012,8 @@
     "fetched_at": "2026-10-30T12:35:06.230113Z"
   },
   {
-    "key": "Public Contracts Scotland:rls-3-NOV569396",
-    "id": "rls-3-NOV569396",
+    "key": "Public Contracts Scotland:rls-7-NOV569396",
+    "id": "rls-7-NOV569396",
     "ocid": "ocds-r6ebe6-0000849183",
     "title": "Pioneer Catchments: Exploring Options for Climate-Resilient Land and Water Management",
     "buyer": "Cairngorms National Park Authority",
@@ -975,7 +1040,7 @@
       "integration"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV569396",
-    "fetched_at": "2026-11-24T04:15:10.513229Z"
+    "fetched_at": "2026-11-24T17:23:32.149899Z"
   },
   {
     "key": "eTenders Ireland / TED:791448-2026",
@@ -1079,7 +1144,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/803112-2026",
-    "fetched_at": "2026-11-24T04:15:11.707270Z"
+    "fetched_at": "2026-11-24T17:23:33.899359Z"
   },
   {
     "key": "eTenders Ireland / TED:766413-2026",
@@ -1267,7 +1332,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/810127-2026",
-    "fetched_at": "2026-11-24T04:15:11.698605Z"
+    "fetched_at": "2026-11-24T17:23:33.893193Z"
   },
   {
     "key": "eTenders Ireland / TED:802020-2026",
@@ -1303,7 +1368,7 @@
       "CPV 30213300"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/802020-2026",
-    "fetched_at": "2026-11-24T04:15:11.706455Z"
+    "fetched_at": "2026-11-24T17:23:33.899133Z"
   },
   {
     "key": "eTenders Ireland / TED:814242-2026",
@@ -1618,7 +1683,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/814242-2026",
-    "fetched_at": "2026-11-24T04:15:11.693464Z"
+    "fetched_at": "2026-11-24T17:23:33.889210Z"
   },
   {
     "key": "eTenders Ireland / TED:800169-2026",
@@ -1650,7 +1715,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/800169-2026",
-    "fetched_at": "2026-11-24T04:15:11.704365Z"
+    "fetched_at": "2026-11-24T17:23:33.897584Z"
   },
   {
     "key": "eTenders Ireland / TED:807168-2026",
@@ -1689,7 +1754,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/807168-2026",
-    "fetched_at": "2026-11-24T04:15:11.700299Z"
+    "fetched_at": "2026-11-24T17:23:33.894477Z"
   },
   {
     "key": "eTenders Ireland / TED:791282-2026",
@@ -2595,6 +2660,37 @@
     "fetched_at": "2026-11-24T04:14:56.583080Z"
   },
   {
+    "key": "Public Contracts Scotland:rls-62-NOV568180",
+    "id": "rls-62-NOV568180",
+    "ocid": "ocds-r6ebe6-0000847479",
+    "title": "Supply and Support of Integrated Workplace Management System",
+    "buyer": "North Ayrshire Council",
+    "description": "North Ayrshire Council (NAC) is seeking to procure a cloud-hosted Integrated Workplace Management System (IWMS) to replace its existing Computer Aided Facilities Management (CAFM) solution. The new solution will provide a single, integrated platform to support the management of the Council's operational property portfolio, encompassing asset management, maintenance management, statutory compliance, financial monitoring, reporting and governance.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-05T00:00:00Z",
+    "deadline": "2026-12-07T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "72250000",
+      "72263000",
+      "72267100",
+      "72268000"
+    ],
+    "status": "active",
+    "relevance": 53,
+    "matched": [
+      "CPV 72250000",
+      "CPV 72263000",
+      "CPV 72267100",
+      "CPV 72268000",
+      "cloud"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568180",
+    "fetched_at": "2026-11-24T17:23:19.803674Z"
+  },
+  {
     "key": "eTenders Ireland / TED:806273-2026",
     "id": "806273-2026",
     "ocid": null,
@@ -2624,7 +2720,7 @@
       "network"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/806273-2026",
-    "fetched_at": "2026-11-24T04:15:11.701706Z"
+    "fetched_at": "2026-11-24T17:23:33.895570Z"
   },
   {
     "key": "eTenders Ireland / TED:795944-2026",
@@ -2679,6 +2775,44 @@
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/795944-2026",
     "fetched_at": "2026-11-23T17:50:42.371688Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-64-NOV568059",
+    "id": "rls-64-NOV568059",
+    "ocid": "ocds-r6ebe6-0000846370",
+    "title": "Digital Connectivity Programme - 1gb Broadband Install and Service Delivery",
+    "buyer": "North Lanarkshire Council",
+    "description": "North Lanarkshire Council (the âCouncilâ) is undertaking a major digital transformation programme to deliver gigabit capable broadband connectivity to approximately 37,000 Council owned social housing properties across the authority area. The programme is a core component of the Councilâs Digital Connectivity Masterplan and supports wider strategic ambitions including but not limited to: -Inclusive growth, -Tackling digital exclusion, -Improving access to public and digital services, and -Enabling technology enabled living within Council homes The programme reinforces the Councilâs commitment to ensuring that tenants are not disadvantaged by a lack of access to high-quality full-fibre connectivity and recognises that reliable digital connectivity is now an essential utility, underpinning access to employment, education, healthcare, welfare services and community participation.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-04T00:00:00Z",
+    "deadline": "2026-12-08T12:00:00Z",
+    "value": 85450527.0,
+    "currency": "GBP",
+    "cpv": [
+      "32412100",
+      "32412110",
+      "32571000",
+      "45314000",
+      "45314320",
+      "50332000",
+      "64200000",
+      "64227000",
+      "72400000",
+      "72411000",
+      "72420000"
+    ],
+    "status": "active",
+    "relevance": 51,
+    "matched": [
+      "CPV 32412100",
+      "CPV 32412110",
+      "CPV 32571000",
+      "CPV 72400000",
+      "digital service"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568059",
+    "fetched_at": "2026-11-24T04:14:56.583556Z"
   },
   {
     "key": "Public Contracts Scotland:rls-62-NOV568059",
@@ -4209,6 +4343,51 @@
     "fetched_at": "2026-11-24T04:14:56.579619Z"
   },
   {
+    "key": "Public Contracts Scotland:rls-32-NOV568832",
+    "id": "rls-32-NOV568832",
+    "ocid": "ocds-r6ebe6-0000834532",
+    "title": "General Office Supplies 2027",
+    "buyer": "Scottish Government",
+    "description": "This Framework Agreement is for the provision of General Office Supplies, including Stationery, Office Paper, Electronic Office Supplies (EOS), Catering Goods and Consumables, Janitorial and Hygiene products to the Scottish public sector. The Framework Agreement will be available for use by the Scottish Ministers (including Agencies), Scottish Non-Departmental Public Bodies, offices in the Scottish Administration which are not ministerial offices, cross-border public authorities within the meaning of section 88(5) of the Scotland Act 1998, The Office for the Secretary of State for Scotland, the Scottish Parliamentary Corporate Body, councils constituted under section 2 of the Local Government etc. (Scotland) Act 1994, bodies registered as social landlords under the Housing (Scotland) Act 2001, Scottish health boards or special health boards, Student Loans Company Limited, the Commissioner of Northern Lighthouse operating as the Northern Lighthouse Board, Scottish Futures Trust, Equality and Human Rights Commission, Business Stream Ltd, the Business Gateway National Unit at the Convention of Scottish Local Authorities, further or higher education institutions being fundable bodies within the meaning of section 6 of the further and Higher Education (Scotland) Act 2005, any public body established by or under the Scotland Act 1998 or any Act of the Scottish Parliament, any association of or formed by one or more of the foregoing, bodies financed wholly or mainly by one or more of the foregoing, bodies subject to management supervision by one or more of the foregoing and bodies more than half of the board of directors or members of which, or, in the case of a group of individuals, more than half of those individuals, being appointed by one or more of the foregoing. In addition to the contracting authorities listed, the framework agreement will be available to charities entered on the Scottish Charity Register and voluntary organisations entered on the Membership Database of the Scottish Council for Voluntary Organisations. Information about agencies of the Scottish Ministers, Scottish Non-Departmental Public Bodies and offices in the Scottish Administration which are not ministerial offices are listed at https://www.gov.scot/publications/national-public-bodies-directory/ Overview of the governance structure of public procurement for Scotland, including the Publi",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-16T00:00:00Z",
+    "deadline": "2026-12-17T12:00:00Z",
+    "value": 38000000.0,
+    "currency": "GBP",
+    "cpv": [
+      "18114000",
+      "18142000",
+      "18143000",
+      "18424300",
+      "18830000",
+      "30100000",
+      "30124300",
+      "30125100",
+      "30192000",
+      "30192113",
+      "30192700",
+      "33711430",
+      "33735100",
+      "33771100",
+      "35113400",
+      "35113410",
+      "39222000",
+      "39830000"
+    ],
+    "status": "active",
+    "relevance": 51,
+    "matched": [
+      "CPV 30100000",
+      "CPV 30124300",
+      "CPV 30125100",
+      "CPV 30192000",
+      "database"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568832",
+    "fetched_at": "2026-11-24T17:23:19.800821Z"
+  },
+  {
     "key": "Poland / TED:796859-2026",
     "id": "796859-2026",
     "ocid": null,
@@ -4236,7 +4415,7 @@
       "CPV 72260000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/796859-2026",
-    "fetched_at": "2026-11-24T04:15:32.206346Z"
+    "fetched_at": "2026-11-24T17:23:54.666723Z"
   },
   {
     "key": "eTenders Ireland / TED:786333-2026",
@@ -4343,7 +4522,7 @@
       "CPV 48812000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/796775-2026",
-    "fetched_at": "2026-11-24T04:15:11.708726Z"
+    "fetched_at": "2026-11-24T17:23:33.900844Z"
   },
   {
     "key": "Find a Tender:106307-2026",
@@ -5791,6 +5970,70 @@
     "fetched_at": "2026-11-24T04:14:56.582152Z"
   },
   {
+    "key": "Public Contracts Scotland:rls-53-NOV568387",
+    "id": "rls-53-NOV568387",
+    "ocid": "ocds-r6ebe6-0000847959",
+    "title": "Computerised Maintenance Management System (CMMS) / Computer-Aided Facility Management System (CAFM)",
+    "buyer": "NHS Grampian",
+    "description": "The NHS Grampian Maintenance & Technical Services (MaTS) Department is responsible for the management and maintenance of a diverse estate throughout Aberdeen City, Aberdeenshire and Moray, ranging from small healthcare facilities to large acute hospital sites. The Authority requires a CMMS/CAFM Solution capable of supporting the effective administration and control of assets, maintenance activities, compliance activities, contractor activities, reporting requirements and associated operational, governance and assurance processes.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-09T00:00:00Z",
+    "deadline": "2026-12-09T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "48420000",
+      "48421000",
+      "72000000",
+      "72212420",
+      "72212421",
+      "72514000"
+    ],
+    "status": "active",
+    "relevance": 45,
+    "matched": [
+      "CPV 48420000",
+      "CPV 48421000",
+      "CPV 72000000",
+      "CPV 72212420"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568387",
+    "fetched_at": "2026-11-24T17:23:19.802825Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-54-NOV568379",
+    "id": "rls-54-NOV568379",
+    "ocid": "ocds-r6ebe6-0000847937",
+    "title": "Computerised Maintenance Management System (CMMS) / Computer-Aided Facility Management System (CAFM)",
+    "buyer": "NHS Grampian",
+    "description": "The NHS Grampian Maintenance & Technical Services (MaTS) Department is responsible for the management and maintenance of a diverse estate throughout Aberdeen City, Aberdeenshire and Moray, ranging from small healthcare facilities to large acute hospital sites. The Authority requires a CMMS/CAFM Solution capable of supporting the effective administration and control of assets, maintenance activities, compliance activities, contractor activities, reporting requirements and associated operational, governance and assurance processes.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-09T00:00:00Z",
+    "deadline": "2026-12-09T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "48420000",
+      "48421000",
+      "72000000",
+      "72212420",
+      "72212421",
+      "72514000"
+    ],
+    "status": "active",
+    "relevance": 45,
+    "matched": [
+      "CPV 48420000",
+      "CPV 48421000",
+      "CPV 72000000",
+      "CPV 72212420"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568379",
+    "fetched_at": "2026-11-24T17:23:19.802907Z"
+  },
+  {
     "key": "Find a Tender:108199-2026",
     "id": "108199-2026",
     "ocid": "ocds-h6vhtk-07bc24",
@@ -6493,6 +6736,60 @@
     "fetched_at": "2026-11-24T04:14:56.579969Z"
   },
   {
+    "key": "Public Contracts Scotland:rls-33-NOV568810",
+    "id": "rls-33-NOV568810",
+    "ocid": "ocds-r6ebe6-0000847553",
+    "title": "Glasgow Business Growth Framework - Phase 4",
+    "buyer": "Glasgow City Council",
+    "description": "Glasgow City Council (the Council) requires a framework of suppliers to deliver a range of business growth consultancy services to eligible organisations across the city to aide a sustainable growth agenda and improve business start-up and survival rates. As the organisations accessing support via this Framework have different needs, the services provided must be offered flexibly. This includes, but is not limited to, face to face, digitally, by phone and one to one at suitable times and locations. The Framework is made up of 10 Lots as detailed below and aligned to the specialist area of business support to be provided. Please note funding is currently confirmed for the first two years of the Framework. This therefore represents the estimated minimum total Framework value. Should funding equal to this initial value be subsequently secured this will be used to deliver years three and four respectively and aligns with the higher maximum value noted in II.1.5 Lot 1- Business Structuring, Business Governance, Legal & IP Lot 2 - Business Growth, Sustainable Growth and Productivity Lot 3 - Upskilling, Leadership & Resource Lot 4 - Financial readiness & Planning Lot 5 - Design & System Processing Lot 6 - Sales and Digital Marketing Lot 7 - Preparing for Global Growth Lot 8 - Digital Transformation Lot 9 - Sustainable & Net Zero Support Lot 10 - Business Acceleration",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-13T00:00:00Z",
+    "deadline": "2026-12-15T12:00:00Z",
+    "value": 3800000.0,
+    "currency": "GBP",
+    "cpv": [
+      "66170000",
+      "66171000",
+      "66519310",
+      "71314300",
+      "72212481",
+      "72220000",
+      "72221000",
+      "72224000",
+      "72242000",
+      "72413000",
+      "73000000",
+      "73220000",
+      "79340000",
+      "79342000",
+      "79400000",
+      "79410000",
+      "79411000",
+      "79411100",
+      "79412000",
+      "79413000",
+      "79414000",
+      "79415200",
+      "79418000",
+      "79421200",
+      "79822500",
+      "79930000",
+      "79933000",
+      "90713000"
+    ],
+    "status": "active",
+    "relevance": 45,
+    "matched": [
+      "CPV 72212481",
+      "CPV 72220000",
+      "CPV 72221000",
+      "CPV 72224000"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568810",
+    "fetched_at": "2026-11-24T17:23:19.801091Z"
+  },
+  {
     "key": "eTenders Ireland / TED:815636-2026",
     "id": "815636-2026",
     "ocid": null,
@@ -6528,7 +6825,7 @@
       "CPV 72910000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/815636-2026",
-    "fetched_at": "2026-11-24T04:15:11.689796Z"
+    "fetched_at": "2026-11-24T17:23:33.886591Z"
   },
   {
     "key": "eTenders Ireland / TED:772936-2026",
@@ -7132,6 +7429,33 @@
     "fetched_at": "2026-11-24T04:15:10.518356Z"
   },
   {
+    "key": "Public Contracts Scotland:rls-76-NOV568283",
+    "id": "rls-76-NOV568283",
+    "ocid": "ocds-r6ebe6-0000847844",
+    "title": "Computerised Maintenance Management System (CMMS) / Computer-Aided Facility Management System (CAFM)",
+    "buyer": "NHS Grampian",
+    "description": "NHS Grampian is undertaking this procurement for the provision, implementation, configuration, licensing, hosting, support, maintenance and ongoing enhancement of a Computerised Maintenance Management System (CMMS/CAFM) Solution. The NHS Grampian Maintenance & Technical Services (MaTS) Department is responsible for the management and maintenance of a diverse estate throughout Aberdeen City, Aberdeenshire and Moray, ranging from small healthcare facilities to large acute hospital sites. The Authority requires a CMMS/CAFM Solution capable of supporting the effective administration and control of assets, maintenance activities, compliance activities, contractor activities, reporting requirements and associated operational, governance and assurance processes. This procurement seeks to secure a suitably qualified and experienced Provider capable of delivering a configurable, scalable and sustainable CMMS/CAFM Solution that supports NHS Grampian's operational and strategic requirements. The Solution shall support the Authority in maintaining statutory and regulatory compliance whilst enabling the effective planning, scheduling, delivery, monitoring and recording of maintenance and compliance activities throughout the Estate.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-06T00:00:00Z",
+    "deadline": "2026-12-04T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "48000000",
+      "48421000"
+    ],
+    "status": "active",
+    "relevance": 43,
+    "matched": [
+      "CPV 48000000",
+      "CPV 48421000",
+      "hosting"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568283",
+    "fetched_at": "2026-11-24T17:23:32.154252Z"
+  },
+  {
     "key": "Public Contracts Scotland:rls-1-NOV569081",
     "id": "rls-1-NOV569081",
     "ocid": "ocds-r6ebe6-0000848831",
@@ -7292,6 +7616,33 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV569081",
     "fetched_at": "2026-11-24T04:15:10.514720Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-26-NOV569081",
+    "id": "rls-26-NOV569081",
+    "ocid": "ocds-r6ebe6-0000848831",
+    "title": "ABSENCE MANAGEMENT SYSTEM",
+    "buyer": "Caledonian Sleeper Limited",
+    "description": "seeking the provision of a cloud-based absence management system to manage absence across on-train and office-based colleagues",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-18T00:00:00Z",
+    "deadline": "2026-12-18T11:30:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "48781000",
+      "72212450"
+    ],
+    "status": "active",
+    "relevance": 43,
+    "matched": [
+      "CPV 48781000",
+      "CPV 72212450",
+      "cloud"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV569081",
+    "fetched_at": "2026-11-24T17:23:32.151136Z"
   },
   {
     "key": "Find a Tender:106518-2026",
@@ -7832,6 +8183,33 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568429",
     "fetched_at": "2026-11-24T04:14:56.581743Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-50-NOV568429",
+    "id": "rls-50-NOV568429",
+    "ocid": "ocds-r6ebe6-0000848003",
+    "title": "CE-215-25 - Supply, Implementation and Ongoing Support of a Leisure Management System",
+    "buyer": "South Ayrshire Council",
+    "description": "South Ayrshire Council (the Council) has a requirement for the supply, delivery and ongoing support of an integrated leisure management software system.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-10T00:00:00Z",
+    "deadline": "2026-12-18T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "48000000",
+      "72222300"
+    ],
+    "status": "active",
+    "relevance": 43,
+    "matched": [
+      "CPV 48000000",
+      "CPV 72222300",
+      "software"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568429",
+    "fetched_at": "2026-11-24T17:23:19.802575Z"
   },
   {
     "key": "eTenders Ireland / TED:789206-2026",
@@ -8538,6 +8916,33 @@
     "fetched_at": "2026-11-24T04:15:10.519714Z"
   },
   {
+    "key": "Public Contracts Scotland:rls-95-NOV568116",
+    "id": "rls-95-NOV568116",
+    "ocid": "ocds-r6ebe6-0000847619",
+    "title": "PURCH3035 Provision of Digital Two-Way Radio Communications System and Infrastructure",
+    "buyer": "University of Glasgow",
+    "description": "PURCH3035 Provision of Digital Two-Way Radio Communications System and Infrastructure Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the âContact Usâ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-04T00:00:00Z",
+    "deadline": "2026-11-25T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "32344210"
+    ],
+    "status": "active",
+    "relevance": 38,
+    "matched": [
+      "infrastructure",
+      "portal",
+      "website",
+      "website support"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568116",
+    "fetched_at": "2026-11-24T17:23:32.155408Z"
+  },
+  {
     "key": "Find a Tender:093955-2026",
     "id": "093955-2026",
     "ocid": "ocds-h6vhtk-068ba7",
@@ -9215,6 +9620,37 @@
     "fetched_at": "2026-10-30T22:53:52.772923Z"
   },
   {
+    "key": "Public Contracts Scotland:rls-3-NOV569396",
+    "id": "rls-3-NOV569396",
+    "ocid": "ocds-r6ebe6-0000849183",
+    "title": "Pioneer Catchments: Exploring Options for Climate-Resilient Land and Water Management",
+    "buyer": "Cairngorms National Park Authority",
+    "description": "The Cairngorms National Park Authority seeks a contractor or consortium to deliver this commission in joint collaboration with NatureScotâs Natural Capital Tool (NCT) team, Liverpool John Moores University (LJMU) and Pioneer Catchment Officers. The NCT is the core platform: the contractor will bring established hydrological/water quality tools and expertise to develop a compatible hydrological component for integration within the NCT, initially tested and applied in the Pioneer Catchments, with the intention that other users can subsequently apply the integrated component through the NCT in catchments across Scotland.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-23T00:00:00Z",
+    "deadline": "2026-12-11T10:00:00Z",
+    "value": 151700.0,
+    "currency": "GBP",
+    "cpv": [
+      "71351900",
+      "72212100",
+      "72262000",
+      "73110000",
+      "90700000",
+      "90713000"
+    ],
+    "status": "active",
+    "relevance": 36,
+    "matched": [
+      "CPV 72212100",
+      "CPV 72262000",
+      "integration"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV569396",
+    "fetched_at": "2026-11-24T04:15:10.513229Z"
+  },
+  {
     "key": "Find a Tender:105838-2026",
     "id": "105838-2026",
     "ocid": "ocds-h6vhtk-07b6cb",
@@ -9867,6 +10303,39 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568480",
     "fetched_at": "2026-11-24T04:14:56.581536Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-48-NOV568480",
+    "id": "rls-48-NOV568480",
+    "ocid": "ocds-r6ebe6-0000839985",
+    "title": "Mobile Voice and Data Services",
+    "buyer": "Scottish Government",
+    "description": "Mobile Voice and Data Services",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-10T00:00:00Z",
+    "deadline": "2026-12-17T12:00:00Z",
+    "value": 50000000.0,
+    "currency": "GBP",
+    "cpv": [
+      "31712112",
+      "32250000",
+      "32429000",
+      "32510000",
+      "32520000",
+      "64212000",
+      "64216110",
+      "64227000"
+    ],
+    "status": "active",
+    "relevance": 35,
+    "matched": [
+      "CPV 32429000",
+      "CPV 32510000",
+      "CPV 32520000"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568480",
+    "fetched_at": "2026-11-24T17:23:19.802417Z"
   },
   {
     "key": "Find a Tender:096433-2026",
@@ -10961,6 +11430,32 @@
     "fetched_at": "2026-11-24T04:15:10.513061Z"
   },
   {
+    "key": "Public Contracts Scotland:rls-6-NOV569404",
+    "id": "rls-6-NOV569404",
+    "ocid": "ocds-r6ebe6-0000849216",
+    "title": "PURCH3099 Contract Agreement for Multielectrode Array (MEA) System",
+    "buyer": "University of Glasgow",
+    "description": "PURCH3099 Contract Agreement for Multielectrode Array (MEA) System. Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the âContact Usâ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-23T00:00:00Z",
+    "deadline": "2026-12-11T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "31711140"
+    ],
+    "status": "active",
+    "relevance": 32,
+    "matched": [
+      "portal",
+      "website",
+      "website support"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV569404",
+    "fetched_at": "2026-11-24T17:23:32.149763Z"
+  },
+  {
     "key": "Find a Tender:109937-2026",
     "id": "109937-2026",
     "ocid": "ocds-h6vhtk-07bfe8",
@@ -11094,6 +11589,33 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV569186",
     "fetched_at": "2026-11-24T04:14:56.576639Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-14-NOV569186",
+    "id": "rls-14-NOV569186",
+    "ocid": "ocds-r6ebe6-0000848910",
+    "title": "PURCH3086 Provision of Cryogen-Free Dilution Refrigerator System and Associated Consumables & Services",
+    "buyer": "University of Glasgow",
+    "description": "PURCH3086 Provision of Cryogen-Free Dilution Refrigerator System and Associated Consumables & Services Tender documents available from Public Contracts Scotland. Tender returns should be submitted via Public Contracts Scotland, no paper copies will be accepted. Should paper tenders be submitted, they will be rejected. Further to this any questions or communications regarding individual tender exercises must be sent via the Public Contracts Scotland Portal. Tender queries received through any other channel will not be answered. Should users of Public Contracts Scotland have any problems with the web site they should contact website Support Desk, contact details can be found by following the âContact Usâ option on the left hand menu at http://www.publiccontractsscotland.gov.uk/default.aspx",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-19T00:00:00Z",
+    "deadline": "2026-12-21T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "38900000",
+      "38970000"
+    ],
+    "status": "active",
+    "relevance": 32,
+    "matched": [
+      "portal",
+      "website",
+      "website support"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV569186",
+    "fetched_at": "2026-11-24T17:23:19.798366Z"
   },
   {
     "key": "eTenders Ireland / TED:773028-2026",
@@ -11278,7 +11800,7 @@
       "CPV 72416000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/812212-2026",
-    "fetched_at": "2026-11-24T04:15:11.691703Z"
+    "fetched_at": "2026-11-24T17:23:33.887919Z"
   },
   {
     "key": "eTenders Ireland / TED:812579-2026",
@@ -11317,7 +11839,7 @@
       "CPV 72222000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/812579-2026",
-    "fetched_at": "2026-11-24T04:15:11.696872Z"
+    "fetched_at": "2026-11-24T17:23:33.891658Z"
   },
   {
     "key": "eTenders Ireland / TED:814200-2026",
@@ -11354,7 +11876,7 @@
       "CPV 72253200"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/814200-2026",
-    "fetched_at": "2026-11-24T04:15:11.695649Z"
+    "fetched_at": "2026-11-24T17:23:33.890876Z"
   },
   {
     "key": "Find a Tender:103846-2026",
@@ -11727,6 +12249,30 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV569259",
     "fetched_at": "2026-11-24T04:15:10.514275Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-19-NOV569259",
+    "id": "rls-19-NOV569259",
+    "ocid": "ocds-r6ebe6-0000849061",
+    "title": "Compulsory Purchase Compensation Research",
+    "buyer": "Scottish Government",
+    "description": "Compulsory Purchase Compensation Research",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-20T00:00:00Z",
+    "deadline": "2026-12-01T12:00:00Z",
+    "value": 36693.33,
+    "currency": "GBP",
+    "cpv": [
+      "72221000"
+    ],
+    "status": "active",
+    "relevance": 25,
+    "matched": [
+      "CPV 72221000"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV569259",
+    "fetched_at": "2026-11-24T17:23:32.150772Z"
   },
   {
     "key": "Public Contracts Scotland:rls-1-NOV567903",
@@ -12425,6 +12971,30 @@
     "fetched_at": "2026-11-24T04:15:10.520372Z"
   },
   {
+    "key": "Public Contracts Scotland:rls-102-NOV567903",
+    "id": "rls-102-NOV567903",
+    "ocid": "ocds-r6ebe6-0000847310",
+    "title": "Provision of IT Disaster Recovery plan",
+    "buyer": "Cairngorms National Park Authority",
+    "description": "The Park Authority is seeking specialist support to review and strengthen the alignment between Business Continuity (BC) and IT Disaster Recovery (ITDR) arrangements.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-02T00:00:00Z",
+    "deadline": "2026-12-04T10:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "72000000"
+    ],
+    "status": "active",
+    "relevance": 25,
+    "matched": [
+      "CPV 72000000"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV567903",
+    "fetched_at": "2026-11-24T17:23:32.155955Z"
+  },
+  {
     "key": "Find a Tender:109031-2026",
     "id": "109031-2026",
     "ocid": "ocds-h6vhtk-07bdfb",
@@ -12639,6 +13209,30 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV569002",
     "fetched_at": "2026-11-24T04:14:56.577145Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-20-NOV569002",
+    "id": "rls-20-NOV569002",
+    "ocid": "ocds-r6ebe6-0000848630",
+    "title": "TIMETABLING SYSTEM",
+    "buyer": "University of Aberdeen",
+    "description": "This is an invitation to tender for the provision, implementation and ongoing support of a platform solution for the University of Aberdeen to manage its operational services of teaching timetabling, examination scheduling, central teaching space management and room booking.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-17T00:00:00Z",
+    "deadline": "2026-12-18T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "48000000"
+    ],
+    "status": "active",
+    "relevance": 25,
+    "matched": [
+      "CPV 48000000"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV569002",
+    "fetched_at": "2026-11-24T17:23:19.798786Z"
   },
   {
     "key": "Find a Tender:106021-2026",
