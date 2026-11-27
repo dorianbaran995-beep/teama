@@ -33,7 +33,7 @@
       "website development"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568997",
-    "fetched_at": "2026-11-26T16:42:12.670734Z"
+    "fetched_at": "2026-11-27T02:06:11.896873Z"
   },
   {
     "key": "Public Contracts Scotland:rls-27-NOV568928",
@@ -62,7 +62,7 @@
       "software"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568928",
-    "fetched_at": "2026-11-26T16:41:52.197573Z"
+    "fetched_at": "2026-11-27T02:05:59.082045Z"
   },
   {
     "key": "Public Contracts Scotland:rls-35-NOV568997",
@@ -858,7 +858,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/816280-2026",
-    "fetched_at": "2026-11-26T16:42:13.435816Z"
+    "fetched_at": "2026-11-27T02:06:13.553359Z"
   },
   {
     "key": "eTenders Ireland / TED:764456-2026",
@@ -897,8 +897,8 @@
     "fetched_at": "2026-11-10T14:40:49.571318Z"
   },
   {
-    "key": "Public Contracts Scotland:rls-36-NOV568059",
-    "id": "rls-36-NOV568059",
+    "key": "Public Contracts Scotland:rls-71-NOV568059",
+    "id": "rls-71-NOV568059",
     "ocid": "ocds-r6ebe6-0000846370",
     "title": "Digital Connectivity Programme - 1gb Broadband Install and Service Delivery",
     "buyer": "North Lanarkshire Council",
@@ -932,7 +932,7 @@
       "digital service"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568059",
-    "fetched_at": "2026-11-26T16:41:52.203647Z"
+    "fetched_at": "2026-11-27T02:05:59.087060Z"
   },
   {
     "key": "eTenders Ireland / TED:781832-2026",
@@ -969,6 +969,42 @@
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/781832-2026",
     "fetched_at": "2026-11-16T15:27:19.403302Z"
+  },
+  {
+    "key": "eTenders Ireland / TED:824857-2026",
+    "id": "824857-2026",
+    "ocid": null,
+    "title": "Ireland – Document management software package – Online Digital Preservation System",
+    "buyer": "The Heritage Council",
+    "description": "Active Irish public procurement notice published through TED/eTenders.",
+    "source": "eTenders Ireland / TED",
+    "country": "Ireland",
+    "published_at": "2026-11-27T01:00:00Z",
+    "deadline": "2027-01-08T15:00:00Z",
+    "value": null,
+    "currency": "EUR",
+    "cpv": [
+      "48311000",
+      "48311100",
+      "72512000",
+      "72252000",
+      "48311000",
+      "48311100",
+      "72512000",
+      "72252000"
+    ],
+    "status": "active",
+    "relevance": 64,
+    "matched": [
+      "CPV 48311000",
+      "CPV 48311100",
+      "CPV 72252000",
+      "CPV 72512000",
+      "document management",
+      "software"
+    ],
+    "url": "https://ted.europa.eu/en/notice/-/detail/824857-2026",
+    "fetched_at": "2026-11-27T02:06:13.546552Z"
   },
   {
     "key": "Find a Tender:103079-2026",
@@ -1101,7 +1137,7 @@
       "integration"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV569396",
-    "fetched_at": "2026-11-26T16:42:12.668448Z"
+    "fetched_at": "2026-11-27T02:06:11.894972Z"
   },
   {
     "key": "eTenders Ireland / TED:803112-2026",
@@ -1321,7 +1357,39 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/810127-2026",
-    "fetched_at": "2026-11-26T16:42:13.445729Z"
+    "fetched_at": "2026-11-27T02:06:13.560809Z"
+  },
+  {
+    "key": "Poland / TED:825027-2026",
+    "id": "825027-2026",
+    "ocid": null,
+    "title": "Poland – Software-related services – Serwis oprogramowania",
+    "buyer": "Górnośląskie Centrum Medyczne im. prof. Leszka Gieca Śląskiego Uniwersytetu Medycznego w Katowicach",
+    "description": "Active Polish public procurement notice published through TED.",
+    "source": "Poland / TED",
+    "country": "Poland",
+    "published_at": "2026-11-27T01:00:00Z",
+    "deadline": "2026-12-07T22:59:00Z",
+    "value": null,
+    "currency": "PLN",
+    "cpv": [
+      "72260000",
+      "72262000",
+      "72250000",
+      "72260000",
+      "72262000",
+      "72250000"
+    ],
+    "status": "active",
+    "relevance": 58,
+    "matched": [
+      "CPV 72250000",
+      "CPV 72260000",
+      "CPV 72262000",
+      "software"
+    ],
+    "url": "https://ted.europa.eu/en/notice/-/detail/825027-2026",
+    "fetched_at": "2026-11-27T02:06:15.053023Z"
   },
   {
     "key": "eTenders Ireland / TED:814242-2026",
@@ -1636,7 +1704,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/814242-2026",
-    "fetched_at": "2026-11-26T16:42:13.439474Z"
+    "fetched_at": "2026-11-27T02:06:13.556862Z"
   },
   {
     "key": "eTenders Ireland / TED:800169-2026",
@@ -1708,6 +1776,45 @@
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/807168-2026",
     "fetched_at": "2026-11-26T16:42:13.448249Z"
+  },
+  {
+    "key": "eTenders Ireland / TED:825956-2026",
+    "id": "825956-2026",
+    "ocid": null,
+    "title": "Ireland – Modem software development services – Provision of IT Software Application and Development Support Services",
+    "buyer": "Food Safety Authority of Ireland",
+    "description": "Active Irish public procurement notice published through TED/eTenders.",
+    "source": "eTenders Ireland / TED",
+    "country": "Ireland",
+    "published_at": "2026-11-27T01:00:00Z",
+    "deadline": "2026-12-15T12:00:00Z",
+    "value": null,
+    "currency": "EUR",
+    "cpv": [
+      "72212513",
+      "72212670",
+      "72212217",
+      "72212517",
+      "72212983",
+      "72212900",
+      "72212513",
+      "72212670",
+      "72212217",
+      "72212517",
+      "72212983",
+      "72212900"
+    ],
+    "status": "active",
+    "relevance": 58,
+    "matched": [
+      "CPV 72212217",
+      "CPV 72212513",
+      "CPV 72212517",
+      "CPV 72212670",
+      "software"
+    ],
+    "url": "https://ted.europa.eu/en/notice/-/detail/825956-2026",
+    "fetched_at": "2026-11-27T02:06:13.545176Z"
   },
   {
     "key": "eTenders Ireland / TED:791282-2026",
@@ -1832,7 +1939,7 @@
       "software"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/819114-2026",
-    "fetched_at": "2026-11-26T16:42:13.433760Z"
+    "fetched_at": "2026-11-27T02:06:13.552949Z"
   },
   {
     "key": "eTenders Ireland / TED:790499-2026",
@@ -2734,6 +2841,37 @@
     "fetched_at": "2026-11-26T16:41:52.203170Z"
   },
   {
+    "key": "Public Contracts Scotland:rls-67-NOV568180",
+    "id": "rls-67-NOV568180",
+    "ocid": "ocds-r6ebe6-0000847479",
+    "title": "Supply and Support of Integrated Workplace Management System",
+    "buyer": "North Ayrshire Council",
+    "description": "North Ayrshire Council (NAC) is seeking to procure a cloud-hosted Integrated Workplace Management System (IWMS) to replace its existing Computer Aided Facilities Management (CAFM) solution. The new solution will provide a single, integrated platform to support the management of the Council's operational property portfolio, encompassing asset management, maintenance management, statutory compliance, financial monitoring, reporting and governance.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-05T00:00:00Z",
+    "deadline": "2026-12-07T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "72250000",
+      "72263000",
+      "72267100",
+      "72268000"
+    ],
+    "status": "active",
+    "relevance": 53,
+    "matched": [
+      "CPV 72250000",
+      "CPV 72263000",
+      "CPV 72267100",
+      "CPV 72268000",
+      "cloud"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568180",
+    "fetched_at": "2026-11-27T02:05:59.086663Z"
+  },
+  {
     "key": "eTenders Ireland / TED:806273-2026",
     "id": "806273-2026",
     "ocid": null,
@@ -2818,6 +2956,44 @@
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/795944-2026",
     "fetched_at": "2026-11-23T17:50:42.371688Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-36-NOV568059",
+    "id": "rls-36-NOV568059",
+    "ocid": "ocds-r6ebe6-0000846370",
+    "title": "Digital Connectivity Programme - 1gb Broadband Install and Service Delivery",
+    "buyer": "North Lanarkshire Council",
+    "description": "North Lanarkshire Council (the âCouncilâ) is undertaking a major digital transformation programme to deliver gigabit capable broadband connectivity to approximately 37,000 Council owned social housing properties across the authority area. The programme is a core component of the Councilâs Digital Connectivity Masterplan and supports wider strategic ambitions including but not limited to: -Inclusive growth, -Tackling digital exclusion, -Improving access to public and digital services, and -Enabling technology enabled living within Council homes The programme reinforces the Councilâs commitment to ensuring that tenants are not disadvantaged by a lack of access to high-quality full-fibre connectivity and recognises that reliable digital connectivity is now an essential utility, underpinning access to employment, education, healthcare, welfare services and community participation.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-04T00:00:00Z",
+    "deadline": "2026-12-08T12:00:00Z",
+    "value": 85450527.0,
+    "currency": "GBP",
+    "cpv": [
+      "32412100",
+      "32412110",
+      "32571000",
+      "45314000",
+      "45314320",
+      "50332000",
+      "64200000",
+      "64227000",
+      "72400000",
+      "72411000",
+      "72420000"
+    ],
+    "status": "active",
+    "relevance": 51,
+    "matched": [
+      "CPV 32412100",
+      "CPV 32412110",
+      "CPV 32571000",
+      "CPV 72400000",
+      "digital service"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568059",
+    "fetched_at": "2026-11-26T16:41:52.203647Z"
   },
   {
     "key": "Public Contracts Scotland:rls-68-NOV568059",
@@ -4597,34 +4773,49 @@
     "fetched_at": "2026-11-26T16:41:52.199693Z"
   },
   {
-    "key": "Poland / TED:796859-2026",
-    "id": "796859-2026",
-    "ocid": null,
-    "title": "Poland – System and support services – Serwis oprogramowania",
-    "buyer": "Górnośląskie Centrum Medyczne im. prof. Leszka Gieca Śląskiego Uniwersytetu Medycznego w Katowicach",
-    "description": "Active Polish public procurement notice published through TED.",
-    "source": "Poland / TED",
-    "country": "Poland",
-    "published_at": "2026-11-17T01:00:00Z",
-    "deadline": "2026-11-26T22:59:00Z",
-    "value": null,
-    "currency": "PLN",
+    "key": "Public Contracts Scotland:rls-37-NOV568832",
+    "id": "rls-37-NOV568832",
+    "ocid": "ocds-r6ebe6-0000834532",
+    "title": "General Office Supplies 2027",
+    "buyer": "Scottish Government",
+    "description": "This Framework Agreement is for the provision of General Office Supplies, including Stationery, Office Paper, Electronic Office Supplies (EOS), Catering Goods and Consumables, Janitorial and Hygiene products to the Scottish public sector. The Framework Agreement will be available for use by the Scottish Ministers (including Agencies), Scottish Non-Departmental Public Bodies, offices in the Scottish Administration which are not ministerial offices, cross-border public authorities within the meaning of section 88(5) of the Scotland Act 1998, The Office for the Secretary of State for Scotland, the Scottish Parliamentary Corporate Body, councils constituted under section 2 of the Local Government etc. (Scotland) Act 1994, bodies registered as social landlords under the Housing (Scotland) Act 2001, Scottish health boards or special health boards, Student Loans Company Limited, the Commissioner of Northern Lighthouse operating as the Northern Lighthouse Board, Scottish Futures Trust, Equality and Human Rights Commission, Business Stream Ltd, the Business Gateway National Unit at the Convention of Scottish Local Authorities, further or higher education institutions being fundable bodies within the meaning of section 6 of the further and Higher Education (Scotland) Act 2005, any public body established by or under the Scotland Act 1998 or any Act of the Scottish Parliament, any association of or formed by one or more of the foregoing, bodies financed wholly or mainly by one or more of the foregoing, bodies subject to management supervision by one or more of the foregoing and bodies more than half of the board of directors or members of which, or, in the case of a group of individuals, more than half of those individuals, being appointed by one or more of the foregoing. In addition to the contracting authorities listed, the framework agreement will be available to charities entered on the Scottish Charity Register and voluntary organisations entered on the Membership Database of the Scottish Council for Voluntary Organisations. Information about agencies of the Scottish Ministers, Scottish Non-Departmental Public Bodies and offices in the Scottish Administration which are not ministerial offices are listed at https://www.gov.scot/publications/national-public-bodies-directory/ Overview of the governance structure of public procurement for Scotland, including the Publi",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-16T00:00:00Z",
+    "deadline": "2026-12-17T12:00:00Z",
+    "value": 38000000.0,
+    "currency": "GBP",
     "cpv": [
-      "72250000",
-      "72260000",
-      "72250000",
-      "72250000",
-      "48000000",
-      "48000000"
+      "18114000",
+      "18142000",
+      "18143000",
+      "18424300",
+      "18830000",
+      "30100000",
+      "30124300",
+      "30125100",
+      "30192000",
+      "30192113",
+      "30192700",
+      "33711430",
+      "33735100",
+      "33771100",
+      "35113400",
+      "35113410",
+      "39222000",
+      "39830000"
     ],
     "status": "active",
-    "relevance": 45,
+    "relevance": 51,
     "matched": [
-      "CPV 72250000",
-      "CPV 72260000"
+      "CPV 30100000",
+      "CPV 30124300",
+      "CPV 30125100",
+      "CPV 30192000",
+      "database"
     ],
-    "url": "https://ted.europa.eu/en/notice/-/detail/796859-2026",
-    "fetched_at": "2026-11-24T17:23:54.666723Z"
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568832",
+    "fetched_at": "2026-11-27T02:05:59.083817Z"
   },
   {
     "key": "eTenders Ireland / TED:786333-2026",
@@ -6407,6 +6598,70 @@
     "fetched_at": "2026-11-26T16:41:52.202249Z"
   },
   {
+    "key": "Public Contracts Scotland:rls-58-NOV568387",
+    "id": "rls-58-NOV568387",
+    "ocid": "ocds-r6ebe6-0000847959",
+    "title": "Computerised Maintenance Management System (CMMS) / Computer-Aided Facility Management System (CAFM)",
+    "buyer": "NHS Grampian",
+    "description": "The NHS Grampian Maintenance & Technical Services (MaTS) Department is responsible for the management and maintenance of a diverse estate throughout Aberdeen City, Aberdeenshire and Moray, ranging from small healthcare facilities to large acute hospital sites. The Authority requires a CMMS/CAFM Solution capable of supporting the effective administration and control of assets, maintenance activities, compliance activities, contractor activities, reporting requirements and associated operational, governance and assurance processes.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-09T00:00:00Z",
+    "deadline": "2026-12-09T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "48420000",
+      "48421000",
+      "72000000",
+      "72212420",
+      "72212421",
+      "72514000"
+    ],
+    "status": "active",
+    "relevance": 45,
+    "matched": [
+      "CPV 48420000",
+      "CPV 48421000",
+      "CPV 72000000",
+      "CPV 72212420"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568387",
+    "fetched_at": "2026-11-27T02:05:59.085820Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-59-NOV568379",
+    "id": "rls-59-NOV568379",
+    "ocid": "ocds-r6ebe6-0000847937",
+    "title": "Computerised Maintenance Management System (CMMS) / Computer-Aided Facility Management System (CAFM)",
+    "buyer": "NHS Grampian",
+    "description": "The NHS Grampian Maintenance & Technical Services (MaTS) Department is responsible for the management and maintenance of a diverse estate throughout Aberdeen City, Aberdeenshire and Moray, ranging from small healthcare facilities to large acute hospital sites. The Authority requires a CMMS/CAFM Solution capable of supporting the effective administration and control of assets, maintenance activities, compliance activities, contractor activities, reporting requirements and associated operational, governance and assurance processes.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-09T00:00:00Z",
+    "deadline": "2026-12-09T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "48420000",
+      "48421000",
+      "72000000",
+      "72212420",
+      "72212421",
+      "72514000"
+    ],
+    "status": "active",
+    "relevance": 45,
+    "matched": [
+      "CPV 48420000",
+      "CPV 48421000",
+      "CPV 72000000",
+      "CPV 72212420"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568379",
+    "fetched_at": "2026-11-27T02:05:59.085913Z"
+  },
+  {
     "key": "Find a Tender:108199-2026",
     "id": "108199-2026",
     "ocid": "ocds-h6vhtk-07bc24",
@@ -7271,6 +7526,60 @@
     "fetched_at": "2026-11-26T16:41:52.200055Z"
   },
   {
+    "key": "Public Contracts Scotland:rls-38-NOV568810",
+    "id": "rls-38-NOV568810",
+    "ocid": "ocds-r6ebe6-0000847553",
+    "title": "Glasgow Business Growth Framework - Phase 4",
+    "buyer": "Glasgow City Council",
+    "description": "Glasgow City Council (the Council) requires a framework of suppliers to deliver a range of business growth consultancy services to eligible organisations across the city to aide a sustainable growth agenda and improve business start-up and survival rates. As the organisations accessing support via this Framework have different needs, the services provided must be offered flexibly. This includes, but is not limited to, face to face, digitally, by phone and one to one at suitable times and locations. The Framework is made up of 10 Lots as detailed below and aligned to the specialist area of business support to be provided. Please note funding is currently confirmed for the first two years of the Framework. This therefore represents the estimated minimum total Framework value. Should funding equal to this initial value be subsequently secured this will be used to deliver years three and four respectively and aligns with the higher maximum value noted in II.1.5 Lot 1- Business Structuring, Business Governance, Legal & IP Lot 2 - Business Growth, Sustainable Growth and Productivity Lot 3 - Upskilling, Leadership & Resource Lot 4 - Financial readiness & Planning Lot 5 - Design & System Processing Lot 6 - Sales and Digital Marketing Lot 7 - Preparing for Global Growth Lot 8 - Digital Transformation Lot 9 - Sustainable & Net Zero Support Lot 10 - Business Acceleration",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-13T00:00:00Z",
+    "deadline": "2026-12-15T12:00:00Z",
+    "value": 3800000.0,
+    "currency": "GBP",
+    "cpv": [
+      "66170000",
+      "66171000",
+      "66519310",
+      "71314300",
+      "72212481",
+      "72220000",
+      "72221000",
+      "72224000",
+      "72242000",
+      "72413000",
+      "73000000",
+      "73220000",
+      "79340000",
+      "79342000",
+      "79400000",
+      "79410000",
+      "79411000",
+      "79411100",
+      "79412000",
+      "79413000",
+      "79414000",
+      "79415200",
+      "79418000",
+      "79421200",
+      "79822500",
+      "79930000",
+      "79933000",
+      "90713000"
+    ],
+    "status": "active",
+    "relevance": 45,
+    "matched": [
+      "CPV 72212481",
+      "CPV 72220000",
+      "CPV 72221000",
+      "CPV 72224000"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568810",
+    "fetched_at": "2026-11-27T02:05:59.084095Z"
+  },
+  {
     "key": "eTenders Ireland / TED:815636-2026",
     "id": "815636-2026",
     "ocid": null,
@@ -7306,7 +7615,7 @@
       "CPV 72910000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/815636-2026",
-    "fetched_at": "2026-11-26T16:42:13.437116Z"
+    "fetched_at": "2026-11-27T02:06:13.554248Z"
   },
   {
     "key": "Public Contracts Scotland:rls-4-NOV568283",
@@ -7954,7 +8263,7 @@
       "hosting"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568283",
-    "fetched_at": "2026-11-26T16:42:12.673581Z"
+    "fetched_at": "2026-11-27T02:06:11.899260Z"
   },
   {
     "key": "Public Contracts Scotland:rls-1-NOV569081",
@@ -8197,7 +8506,7 @@
       "cloud"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV569081",
-    "fetched_at": "2026-11-26T16:42:12.669924Z"
+    "fetched_at": "2026-11-27T02:06:11.896202Z"
   },
   {
     "key": "Find a Tender:106518-2026",
@@ -8821,6 +9130,33 @@
     "fetched_at": "2026-11-26T16:41:52.201825Z"
   },
   {
+    "key": "Public Contracts Scotland:rls-55-NOV568429",
+    "id": "rls-55-NOV568429",
+    "ocid": "ocds-r6ebe6-0000848003",
+    "title": "CE-215-25 - Supply, Implementation and Ongoing Support of a Leisure Management System",
+    "buyer": "South Ayrshire Council",
+    "description": "South Ayrshire Council (the Council) has a requirement for the supply, delivery and ongoing support of an integrated leisure management software system.",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-10T00:00:00Z",
+    "deadline": "2026-12-18T12:00:00Z",
+    "value": null,
+    "currency": null,
+    "cpv": [
+      "48000000",
+      "72222300"
+    ],
+    "status": "active",
+    "relevance": 43,
+    "matched": [
+      "CPV 48000000",
+      "CPV 72222300",
+      "software"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568429",
+    "fetched_at": "2026-11-27T02:05:59.085585Z"
+  },
+  {
     "key": "eTenders Ireland / TED:789206-2026",
     "id": "789206-2026",
     "ocid": null,
@@ -8879,7 +9215,7 @@
       "CPV 48813000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/821497-2026",
-    "fetched_at": "2026-11-26T16:42:13.429383Z"
+    "fetched_at": "2026-11-27T02:06:13.548431Z"
   },
   {
     "key": "Find a Tender:101965-2026",
@@ -9753,6 +10089,39 @@
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568480",
     "fetched_at": "2026-11-26T16:41:52.201623Z"
+  },
+  {
+    "key": "Public Contracts Scotland:rls-53-NOV568480",
+    "id": "rls-53-NOV568480",
+    "ocid": "ocds-r6ebe6-0000839985",
+    "title": "Mobile Voice and Data Services",
+    "buyer": "Scottish Government",
+    "description": "Mobile Voice and Data Services",
+    "source": "Public Contracts Scotland",
+    "country": "Scotland",
+    "published_at": "2026-11-10T00:00:00Z",
+    "deadline": "2026-12-17T12:00:00Z",
+    "value": 50000000.0,
+    "currency": "GBP",
+    "cpv": [
+      "31712112",
+      "32250000",
+      "32429000",
+      "32510000",
+      "32520000",
+      "64212000",
+      "64216110",
+      "64227000"
+    ],
+    "status": "active",
+    "relevance": 35,
+    "matched": [
+      "CPV 32429000",
+      "CPV 32510000",
+      "CPV 32520000"
+    ],
+    "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV568480",
+    "fetched_at": "2026-11-27T02:05:59.085428Z"
   },
   {
     "key": "Find a Tender:096433-2026",
@@ -10688,7 +11057,7 @@
       "website support"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV569404",
-    "fetched_at": "2026-11-26T16:42:12.668285Z"
+    "fetched_at": "2026-11-27T02:06:11.894824Z"
   },
   {
     "key": "Find a Tender:109937-2026",
@@ -10904,7 +11273,7 @@
       "website support"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV569186",
-    "fetched_at": "2026-11-26T16:41:52.196752Z"
+    "fetched_at": "2026-11-27T02:05:59.081357Z"
   },
   {
     "key": "Poland / TED:778856-2026",
@@ -11086,7 +11455,7 @@
       "CPV 30200000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/824352-2026",
-    "fetched_at": "2026-11-26T16:42:13.428848Z"
+    "fetched_at": "2026-11-27T02:06:13.548142Z"
   },
   {
     "key": "eTenders Ireland / TED:812212-2026",
@@ -11111,7 +11480,7 @@
       "CPV 72416000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/812212-2026",
-    "fetched_at": "2026-11-26T16:42:13.440817Z"
+    "fetched_at": "2026-11-27T02:06:13.555552Z"
   },
   {
     "key": "eTenders Ireland / TED:812579-2026",
@@ -11150,7 +11519,42 @@
       "CPV 72222000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/812579-2026",
-    "fetched_at": "2026-11-26T16:42:13.444012Z"
+    "fetched_at": "2026-11-27T02:06:13.559286Z"
+  },
+  {
+    "key": "eTenders Ireland / TED:827186-2026",
+    "id": "827186-2026",
+    "ocid": null,
+    "title": "Ireland – Environmental protection – Education and Outreach Support Services for the LIFE on Machair Project 2027-2028",
+    "buyer": "Department of Housing Local Government and Heritage",
+    "description": "Active Irish public procurement notice published through TED/eTenders.",
+    "source": "eTenders Ireland / TED",
+    "country": "Ireland",
+    "published_at": "2026-11-27T01:00:00Z",
+    "deadline": "2026-12-15T15:00:00Z",
+    "value": null,
+    "currency": "EUR",
+    "cpv": [
+      "90720000",
+      "80540000",
+      "90714100",
+      "90700000",
+      "32412000",
+      "80000000",
+      "90720000",
+      "80540000",
+      "90714100",
+      "90700000",
+      "32412000",
+      "80000000"
+    ],
+    "status": "active",
+    "relevance": 30,
+    "matched": [
+      "CPV 32412000"
+    ],
+    "url": "https://ted.europa.eu/en/notice/-/detail/827186-2026",
+    "fetched_at": "2026-11-27T02:06:13.547089Z"
   },
   {
     "key": "eTenders Ireland / TED:818547-2026",
@@ -11181,7 +11585,7 @@
       "CPV 72242000"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/818547-2026",
-    "fetched_at": "2026-11-26T16:42:13.431554Z"
+    "fetched_at": "2026-11-27T02:06:13.550173Z"
   },
   {
     "key": "eTenders Ireland / TED:814200-2026",
@@ -11218,7 +11622,7 @@
       "CPV 72253200"
     ],
     "url": "https://ted.europa.eu/en/notice/-/detail/814200-2026",
-    "fetched_at": "2026-11-26T16:42:13.442781Z"
+    "fetched_at": "2026-11-27T02:06:13.558513Z"
   },
   {
     "key": "Find a Tender:103846-2026",
@@ -11387,7 +11791,7 @@
       "CPV 72221000"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV569259",
-    "fetched_at": "2026-11-26T16:42:12.669494Z"
+    "fetched_at": "2026-11-27T02:06:11.895832Z"
   },
   {
     "key": "Public Contracts Scotland:rls-1-NOV567903",
@@ -12155,7 +12559,7 @@
       "CPV 72000000"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV567903",
-    "fetched_at": "2026-11-26T16:42:12.675602Z"
+    "fetched_at": "2026-11-27T02:06:11.900955Z"
   },
   {
     "key": "Find a Tender:109031-2026",
@@ -12443,7 +12847,7 @@
       "CPV 48000000"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV569002",
-    "fetched_at": "2026-11-26T16:41:52.197247Z"
+    "fetched_at": "2026-11-27T02:05:59.081757Z"
   },
   {
     "key": "Find a Tender:111990-2026",
@@ -12470,7 +12874,7 @@
       "network"
     ],
     "url": "https://www.find-tender.service.gov.uk/Notice/111990-2026",
-    "fetched_at": "2026-11-26T16:41:27.374247Z"
+    "fetched_at": "2026-11-27T02:05:35.340243Z"
   },
   {
     "key": "Public Contracts Scotland:rls-2-NOV569612",
@@ -12497,7 +12901,7 @@
       "network"
     ],
     "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=NOV569612",
-    "fetched_at": "2026-11-26T16:41:52.194932Z"
+    "fetched_at": "2026-11-27T02:05:59.079811Z"
   },
   {
     "key": "Find a Tender:106021-2026",
